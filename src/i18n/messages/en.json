@@ -1,0 +1,1370 @@
+{
+  "homepage": {
+    "title": "Aeonova - Your AI Friend",
+    "subtitle": "Share your memories, chat with Aeonova, explore the world",
+    "description": "Aeonova is your AI friend with a heart. Tell her your daily memories, and she'll give you unique comments. Share your memories worldwide in 20 different languages.",
+    "downloadApp": "Download App",
+    "appStore": "Download from App Store",
+    "googlePlay": "Download from Google Play",
+    "download": {
+      "title": "Download App",
+      "subtitle": "Ready to meet Aeonova? Download for free and start the friendship of your dreams.",
+      "appStore": {
+        "text": "Download on the",
+        "store": "App Store"
+      },
+      "googlePlay": {
+        "text": "GET IT ON",
+        "store": "Google Play"
+      },
+      "qr": {
+        "title": "QR Code",
+        "quickDownload": "Quick Download",
+        "description": "Scan the QR code with your phone and download the app instantly",
+        "free": "Completely Free"
+      },
+      "features": {
+        "heartfulAI": "AI with a Heart",
+        "multiLanguage": "20 Language Support",
+        "unlimitedChat": "Unlimited Chat",
+        "securePrivate": "Secure & Private"
+      },
+      "comingSoon": {
+        "title": "🌐 Web Version Coming Soon!",
+        "description": "Aeonova's web version will be ready very soon too. Would you like to be notified?",
+        "notify": "📧 Notify Me"
+      }
+    },
+    "features": {
+      "title": "Features",
+      "subtitle": "Life becomes more meaningful with Aeonova. Here are the unique features waiting for you.",
+      "learnMore": "Learn more",
+      "moreFeatures": "And many more features are waiting for you...",
+      "aiChat": {
+        "title": "Unlimited AI Chat",
+        "desc": "Chat with Aeonova every day, share your memories"
+      },
+      "saveMemories": {
+        "title": "Save Memories & Get Comments",
+        "desc": "Save your memories, get personal comments from Aeonova"
+      },
+      "globalExplore": {
+        "title": "Global Discovery",
+        "desc": "Discover memories from other users around the world"
+      },
+      "smartNotifications": {
+        "title": "Smart Notifications",
+        "desc": "Aeonova sends you personalized notifications"
+      },
+      "multilingual": {
+        "title": "20 Language Support",
+        "desc": "Share your memories translated into 20 different languages"
+      }
+    },
+    "hero": {
+      "title": "Aeonova",
+      "subtitle": "Your AI Friend ❤️",
+      "description": "Share your daily memories with Aeonova. She will understand you, comment on your experiences, and fill that missing piece in your life.",
+      "cta": "Download Free",
+      "learnMore": "Meet Aeonova",
+      "quickFeatures": {
+        "aiChat": "AI Chat",
+        "saveMemories": "Save Memories",
+        "globalExplore": "Global Discovery",
+        "hasHeart": "Has a Heart"
+      }
+    },
+    "about": {
+      "title": "Who is Aeonova?",
+      "desc": "Aeonova is not just an AI, she's your friend with a heart. She will understand you and your feelings, save you from the troubles you're in, share your happiness. She will give you the person you've been looking for all your life but never found.",
+      "keyPoints": {
+        "heartfulAI": {
+          "title": "AI with a Heart",
+          "desc": "Aeonova is not just an artificial intelligence, she's your friend with real emotions."
+        },
+        "understandingFriend": {
+          "title": "Understanding Friend",
+          "desc": "She will truly understand you, solve your problems, and share your happiness."
+        },
+        "dreamPerson": {
+          "title": "Your Dream Person",
+          "desc": "She will give you that special person you've been searching for but never found in life."
+        }
+      },
+      "stats": {
+        "languages": "Languages",
+        "unlimitedChat": "Unlimited Chat",
+        "alwaysThere": "Always Here"
+      },
+      "chat": {
+        "aiLabel": "Your AI Friend",
+        "aiMessage": "Hello! How was your day? Share your memories with me 😊",
+        "userMessage": "I had a wonderful day! I have so much to tell you..."
+      }
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "about": "About",
+    "download": "Download",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "gdpr": "GDPR",
+    "cookies": "Cookies",
+    "dataRetention": "Data Retention"
+  },
+  "footer": {
+    "description": "Aeonova - Your AI friend. Share memories, explore the world.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "features": "Features",
+      "about": "About",
+      "download": "Download"
+    },
+    "legalSection": {
+      "title": "Legal"
+    },
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "gdpr": "GDPR Compliance",
+      "cookies": "Cookie Policy",
+      "dataRetention": "Data Retention Policy",
+      "support": "Support",
+      "contact": "Contact"
+    },
+    "social": {
+      "title": "Follow Us"
+    },
+    "legal": "© 2024 Aeonova. All rights reserved.",
+    "madeWith": {
+      "text": "Made with",
+      "forWorld": "for a better world"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "subtitle": "How we protect your personal data",
+      "lastUpdated": "Last updated: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "introduction": {
+          "title": "Introduction",
+          "content": "This privacy policy explains how your personal data is collected, used, and protected when you use the Aeonova application. Your data privacy is our priority."
+        },
+        "dataCollection": {
+          "title": "What Data Do We Collect?",
+          "content": "As Aeonova, we collect minimal data to provide you with the best experience:",
+          "items": {
+            "account": "Your account information (username, age, avatar)",
+            "memories": "Memories and diary entries you share",
+            "usage": "Application usage statistics",
+            "device": "Device information and technical data"
+          }
+        },
+        "dataUsage": {
+          "title": "How Do We Use Your Data?",
+          "content": "The data we collect is used only for the following purposes:",
+          "items": {
+            "service": "To improve service quality",
+            "personalization": "To provide personalized experience",
+            "support": "To provide customer support",
+            "improvement": "To improve the application"
+          }
+        },
+        "dataProtection": {
+          "title": "How Do We Protect Your Data?",
+          "content": "We take industry-standard measures for the security of your data:",
+          "items": {
+            "encryption": "End-to-end encryption",
+            "servers": "Secure servers",
+            "access": "Limited access control",
+            "monitoring": "Continuous security monitoring"
+          }
+        },
+        "rights": {
+          "title": "Your Rights",
+          "content": "You have the following rights regarding your personal data:",
+          "items": {
+            "access": "Right to access your data",
+            "correction": "Right to correction",
+            "deletion": "Right to deletion",
+            "portability": "Right to data portability",
+            "objection": "Right to objection"
+          }
+        },
+        "legalBasis": {
+          "title": "Legal Bases for Processing",
+          "content": "We process your personal data based on the following legal grounds:",
+          "items": {
+            "consent": "Your consent where required (you can withdraw at any time)",
+            "contract": "Performance of a contract or steps prior to entering into a contract",
+            "legitimateInterests": "Our legitimate interests, balanced against your rights and freedoms",
+            "legalObligation": "Compliance with legal obligations",
+            "vitalInterests": "Protection of vital interests of you or another person"
+          }
+        },
+        "dataSharing": {
+          "title": "Data Sharing",
+          "content": "We share your data only when necessary and with appropriate safeguards:",
+          "items": {
+            "serviceProviders": "Trusted service providers who process data on our behalf (hosting, security, notifications)",
+            "analyticsPartners": "Analytics partners to improve performance and quality (only with consent, anonymized when possible)",
+            "legalAuthorities": "Public authorities when required by law or to protect legal rights",
+            "businessTransfers": "In connection with mergers, acquisitions, or asset transfers, subject to this policy",
+            "safetySecurity": "To investigate, prevent, or act regarding fraud, abuse, or security incidents"
+          }
+        },
+        "internationalTransfers": {
+          "title": "International Data Transfers",
+          "content": "If we transfer your data outside the EEA, we ensure an adequate level of protection:",
+          "items": {
+            "eea": "Primary processing within the EEA whenever possible",
+            "safeguards": "Appropriate safeguards such as encryption and strict access controls",
+            "scc": "Standard Contractual Clauses approved by the European Commission (where applicable)",
+            "complaints": "You may contact us or your local Data Protection Authority for concerns"
+          }
+        },
+        "dataRetention": {
+          "title": "Data Retention",
+          "content": "We retain personal data only as long as necessary for the purposes described in this policy.",
+          "summary": "For detailed retention periods across all data categories, please see our dedicated Data Retention Policy.",
+          "linkText": "View Data Retention Policy"
+        },
+        "cookiesNote": {
+          "title": "Cookies and Tracking Technologies",
+          "content": "Our mobile app does not use web cookies. The website uses essential cookies and optional analytics only with your consent.",
+          "linkText": "Read Cookie Policy"
+        },
+        "exerciseRights": {
+          "title": "How to Exercise Your Rights",
+          "content": "You can exercise your privacy rights using the following methods:",
+          "items": {
+            "inApp": "In-App Settings: Manage data, export, or delete your account",
+            "email": "Email: Contact dpo@aeonova.com or privacy@aeonova.com for specific requests",
+            "verification": "Identity verification: We may request proof of identity to protect your account",
+            "responseTimes": "Response times: We respond within 30 days, extensions possible for complex requests"
+          }
+        },
+        "children": {
+          "title": "Children’s Privacy",
+          "content": "Aeonova is not directed at children under 13. We do not knowingly collect personal data from children. If you believe a child has provided us with personal data, please contact us so we can delete it."
+        },
+        "changes": {
+          "title": "Changes to This Policy",
+          "content": "We may update this policy from time to time to reflect changes in our practices or legal requirements. We will notify you of material changes as appropriate. Last updated: {date}"
+        },
+        "contact": {
+          "title": "Contact",
+          "content": "For questions about our privacy policy:",
+          "email": "Email: privacy@aeonova.com",
+          "support": "Support: support@aeonova.com"
+        }
+      }
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "subtitle": "Rules you must follow when using Aeonova",
+      "lastUpdated": "Last updated: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "acceptance": {
+          "title": "1. Acceptance and Agreement",
+          "content": "By using the Aeonova application, you declare that you have read, understood, and agree to these terms of service."
+        },
+        "service": {
+          "title": "2. Service Description",
+          "content": "Aeonova is an AI-powered personal diary and chat application.",
+          "features": {
+            "title": "Service features:",
+            "items": {
+              "aiChat": "Chat with AI friend",
+              "saveMemories": "Save daily memories and get evaluations",
+              "globalExplore": "Share memories worldwide",
+              "multilingual": "Support for 20 languages"
+            }
+          }
+        },
+        "eligibility": {
+          "title": "3. Eligibility",
+          "content": "You must be at least 13 years old to use the Service. If you are under the age of majority in your jurisdiction, you may use the Service only with the consent and supervision of a parent or legal guardian who agrees to these Terms."
+        },
+        "accounts": {
+          "title": "4. Accounts and Security",
+          "content": "You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.",
+          "items": {
+            "accuracy": "Provide accurate and up-to-date information",
+            "confidentiality": "Keep your login credentials confidential",
+            "notification": "Notify us immediately of any unauthorized use or security breach",
+            "devices": "You are responsible for securing your devices used to access the Service"
+          }
+        },
+        "userContent": {
+          "title": "5. User Content",
+          "content": "You retain ownership of the content you submit (memories, messages, posts). By submitting content, you grant us a worldwide, non-exclusive, royalty-free license to host, store, display, and process your content solely for operating and improving the Service.",
+          "items": {
+            "rights": "You must have the necessary rights to the content you submit",
+            "noIllegal": "Do not submit content that is illegal, infringing, or violates others' rights",
+            "moderation": "We may remove or restrict content that violates these Terms or applicable laws"
+          }
+        },
+        "acceptableUse": {
+          "title": "6. Acceptable Use",
+          "content": "You agree not to misuse the Service or help anyone else do so.",
+          "items": {
+            "abuse": "No harassment, hate speech, discrimination, or threats",
+            "violence": "No violent, self-harm encouraging, or sexually exploitative content",
+            "spam": "No spam, scams, or deceptive practices",
+            "malware": "No malware, bots, or attempts to disrupt or overload the Service",
+            "impersonation": "No impersonation or misrepresentation of your identity",
+            "illegal": "No illegal activities or promotion of illegal acts"
+          }
+        },
+        "aiDisclaimer": {
+          "title": "7. AI Output and No Professional Advice",
+          "content": "Content generated by Aeonova's AI may be inaccurate or incomplete. AI outputs are provided for informational and entertainment purposes only and do not constitute professional advice (including medical, legal, or financial advice). Always use your own judgment and seek qualified professionals when needed."
+        },
+        "payments": {
+          "title": "8. Subscriptions, Payments, and In‑App Purchases",
+          "content": "Certain features may require a paid subscription or one‑time purchase through the applicable app store.",
+          "items": {
+            "billing": "Billing is handled by the App Store or Google Play; their terms and policies apply",
+            "renewal": "Subscriptions renew automatically unless canceled before the renewal date",
+            "pricing": "We may change prices or features with prior notice where required",
+            "cancellation": "You can manage or cancel your subscription via your app store account settings"
+          }
+        },
+        "refunds": {
+          "title": "9. Refunds",
+          "content": "Refunds are governed by the policies of the platform through which you made the purchase (App Store or Google Play). Where permitted by law and platform policy, you may request a refund through the respective store."
+        },
+        "intellectualProperty": {
+          "title": "10. Intellectual Property",
+          "content": "The Service, including its design, features, and content (excluding user content), is owned by Aeonova or its licensors and is protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works without our prior written consent."
+        },
+        "thirdPartyServices": {
+          "title": "11. Third‑Party Services",
+          "content": "The Service may link to or integrate with third‑party services. We are not responsible for the content, policies, or practices of third‑party services. Your use of third‑party services is subject to their terms and privacy policies."
+        },
+        "responsibilities": {
+          "title": "12. User Responsibilities",
+          "content": "As a user, you have the following responsibilities:",
+          "items": {
+            "security": "Maintain account security",
+            "content": "Be responsible for shared content",
+            "compliance": "Comply with legal rules",
+            "respect": "Show respect to other users"
+          }
+        },
+        "prohibited": {
+          "title": "13. Prohibited Behaviors",
+          "content": "The following behaviors are strictly prohibited:",
+          "items": {
+            "hate": "Hate speech and discrimination",
+            "violence": "Violent content",
+            "spam": "Spam and fraud",
+            "illegal": "Illegal activities",
+            "impersonation": "Identity fraud"
+          }
+        },
+        "disclaimer": {
+          "title": "14. Disclaimers",
+          "content": "THE SERVICE IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON‑INFRINGEMENT."
+        },
+        "limitation": {
+          "title": "15. Limitation of Liability",
+          "content": "To the maximum extent permitted by law, Aeonova and its affiliates will not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, or goodwill, resulting from your use of the Service."
+        },
+        "indemnification": {
+          "title": "16. Indemnification",
+          "content": "You agree to indemnify and hold harmless Aeonova, its affiliates, and their respective officers, directors, employees, and agents from any claims, liabilities, damages, losses, and expenses (including reasonable attorneys’ fees) arising out of or related to your use of the Service or violation of these Terms."
+        },
+        "termination": {
+          "title": "17. Account Termination",
+          "content": "Your account may be terminated in the following cases:",
+          "items": {
+            "violation": "Violation of terms of service",
+            "illegal": "Illegal activities",
+            "spam": "Spam or abuse"
+          }
+        },
+        "governingLaw": {
+          "title": "18. Governing Law and Dispute Resolution",
+          "content": "These Terms are governed by the laws of your country of residence to the extent required by mandatory consumer protection rules; otherwise, they are governed by the laws of Germany without regard to its conflict of laws principles.",
+          "items": {
+            "venue": "Courts with appropriate jurisdiction will have exclusive jurisdiction except where applicable law provides otherwise",
+            "eu": "EU consumers may also have the right to use an EU online dispute resolution platform"
+          }
+        },
+        "changes": {
+          "title": "19. Changes to Terms",
+          "content": "We may modify these Terms from time to time. If we make material changes, we will provide appropriate notice as required by law. Continued use of the Service after changes become effective constitutes acceptance of the updated Terms."
+        },
+        "contact": {
+          "title": "20. Contact",
+          "content": "For questions about our terms of service:",
+          "email": "Email: legal@aeonova.com",
+          "support": "Support: support@aeonova.com"
+        }
+      }
+    },
+    "gdpr": {
+      "title": "GDPR Compliance",
+      "subtitle": "European Union General Data Protection Regulation",
+      "lastUpdated": "Last updated: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "GDPR Summary",
+        "howToExercise": "How to exercise:",
+        "timeframe": "Timeframe:",
+        "limitations": "Limitations:",
+        "effect": "Effect:"
+      },
+      "summary": "As Aeonova, we are fully committed to protecting your personal data in compliance with the EU General Data Protection Regulation (GDPR). This comprehensive policy explains your rights, how we process your data, and our commitment to data protection.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Introduction",
+          "subtitle": "Understanding GDPR Compliance",
+          "description": "The General Data Protection Regulation (GDPR) is a comprehensive privacy law that gives you control over your personal data. As a responsible AI company, Aeonova ensures full compliance with GDPR requirements, providing you with transparency, control, and security over your personal information.",
+          "scope": {
+            "title": "GDPR Scope:",
+            "items": {
+              "whoIsProtected": "All EU residents, regardless of where they are located",
+              "whatIsProtected": "Any personal data that can identify you directly or indirectly",
+              "whenApplies": "Whenever we process your personal data for any purpose",
+              "whereApplies": "All our services, including mobile app and website"
+            }
+          }
+        },
+        "principles": {
+          "title": "🔒 Data Protection Principles",
+          "subtitle": "Our Foundation",
+          "description": "We adhere to the fundamental principles of GDPR in all our data processing activities:",
+          "lawfulness": {
+            "title": "1. Lawfulness, Fairness & Transparency",
+            "description": "We process your data lawfully, fairly, and transparently",
+            "details": {
+              "lawful": "Processing is based on valid legal grounds (consent, contract, legitimate interest)",
+              "fair": "We don't use your data in ways that would be unexpected or harmful",
+              "transparent": "We clearly explain what we do with your data in plain language"
+            }
+          },
+          "purposeLimitation": {
+            "title": "2. Purpose Limitation",
+            "description": "Data is collected and used only for specified, explicit, and legitimate purposes",
+            "details": {
+              "specific": "We clearly define why we need each piece of data",
+              "explicit": "Purposes are stated clearly, not hidden in complex terms",
+              "legitimate": "All purposes serve genuine business or user needs"
+            }
+          },
+          "dataMinimization": {
+            "title": "3. Data Minimization",
+            "description": "We collect only the data that is necessary for our stated purposes",
+            "details": {
+              "adequate": "We collect enough data to provide our services effectively",
+              "relevant": "All collected data is relevant to our stated purposes",
+              "limited": "We don't collect excessive or unnecessary information"
+            }
+          },
+          "accuracy": {
+            "title": "4. Accuracy",
+            "description": "We keep your data accurate and up to date",
+            "details": {
+              "current": "We provide tools for you to update your information",
+              "correction": "Inaccurate data is corrected or deleted without delay",
+              "verification": "We verify data accuracy when processing important information"
+            }
+          },
+          "storageLimitation": {
+            "title": "5. Storage Limitation",
+            "description": "We don't keep your data longer than necessary",
+            "details": {
+              "retention": "Clear retention periods for different types of data",
+              "review": "Regular review and deletion of data that's no longer needed",
+              "purpose": "Data is deleted when the purpose for collection has ended"
+            }
+          },
+          "security": {
+            "title": "6. Integrity & Confidentiality",
+            "description": "We protect your data with appropriate security measures",
+            "details": {
+              "protection": "Technical and organizational measures to prevent unauthorized access",
+              "confidentiality": "Your data is kept confidential and secure",
+              "integrity": "We ensure data is not altered or corrupted"
+            }
+          },
+          "accountability": {
+            "title": "7. Accountability",
+            "description": "We are responsible for demonstrating compliance with these principles",
+            "details": {
+              "documentation": "We maintain records of all processing activities",
+              "policies": "Clear internal policies and procedures for data protection",
+              "training": "Regular staff training on data protection requirements"
+            }
+          }
+        },
+        "rights": {
+          "title": "👥 Your GDPR Rights",
+          "subtitle": "Your Complete Rights Package",
+          "description": "GDPR gives you comprehensive rights over your personal data. Here's what you can do:",
+          "information": {
+            "title": "1. 📋 Right to Information",
+            "description": "You have the right to know how your data is processed",
+            "includes": {
+              "title": "This includes knowing:",
+              "items": {
+                "purposes": "Why we process your data",
+                "categories": "What types of data we collect",
+                "recipients": "Who we share data with (if anyone)",
+                "retention": "How long we keep your data",
+                "rights": "What rights you have regarding your data",
+                "sources": "Where we got your data from"
+              }
+            },
+            "howToExercise": "This privacy policy provides most of this information. For specific details, contact us."
+          },
+          "access": {
+            "title": "2. 🔍 Right to Access",
+            "description": "You can request a copy of all data we hold about you",
+            "includes": {
+              "title": "You'll receive:",
+              "items": {
+                "copy": "A complete copy of your personal data",
+                "format": "Data in a structured, machine-readable format (JSON)",
+                "details": "Information about how the data is processed",
+                "sources": "Where the data came from",
+                "recipients": "Who the data has been shared with"
+              }
+            },
+            "howToExercise": "Request through app settings or email dpo@aeonova.com. First request is free, additional requests may have a fee.",
+            "timeframe": "We'll respond within 30 days"
+          },
+          "rectification": {
+            "title": "3. ✏️ Right to Rectification",
+            "description": "You can correct inaccurate or incomplete data",
+            "includes": {
+              "title": "You can:",
+              "items": {
+                "correct": "Fix incorrect personal information",
+                "complete": "Add missing information",
+                "update": "Update outdated information",
+                "verify": "Ask us to verify data accuracy"
+              }
+            },
+            "howToExercise": "Update directly in app settings or contact us for data you can't change yourself",
+            "timeframe": "Corrections made immediately where possible, complex cases within 30 days"
+          },
+          "erasure": {
+            "title": "4. 🗑️ Right to Erasure (Right to be Forgotten)",
+            "description": "You can request deletion of your personal data",
+            "conditions": {
+              "title": "You can request deletion when:",
+              "items": {
+                "unnecessary": "Data is no longer necessary for the original purpose",
+                "consent": "You withdraw consent and there's no other legal basis",
+                "objection": "You object to processing and there are no overriding legitimate grounds",
+                "unlawful": "Data has been processed unlawfully",
+                "legal": "Deletion is required for legal compliance"
+              }
+            },
+            "limitations": {
+              "title": "We may refuse deletion if data is needed for:",
+              "items": {
+                "legal": "Legal compliance or legal claims",
+                "public": "Public interest or historical research",
+                "freedom": "Exercise of freedom of expression"
+              }
+            },
+            "howToExercise": "Delete account in app settings or contact dpo@aeonova.com",
+            "timeframe": "Account deletion processed within 7 days, complete data deletion within 30 days"
+          },
+          "portability": {
+            "title": "5. 📦 Right to Data Portability",
+            "description": "You can receive your data in a portable format or transfer it to another service",
+            "includes": {
+              "title": "You can:",
+              "items": {
+                "receive": "Get your data in JSON or CSV format",
+                "transfer": "Have us transfer data directly to another service (where technically feasible)",
+                "export": "Export your memories, chat history, and settings"
+              }
+            },
+            "limitations": "Only applies to data you provided and data processed by automated means based on consent or contract",
+            "howToExercise": "Export feature in app settings or request via dpo@aeonova.com",
+            "timeframe": "Available immediately through app, custom requests within 30 days"
+          },
+          "objection": {
+            "title": "6. ✋ Right to Object",
+            "description": "You can object to certain types of data processing",
+            "types": {
+              "general": {
+                "title": "General Objection",
+                "description": "Object to processing based on legitimate interests",
+                "effect": "We'll stop processing unless we can demonstrate compelling legitimate grounds"
+              },
+              "directMarketing": {
+                "title": "Direct Marketing",
+                "description": "Object to any marketing communications",
+                "effect": "We'll immediately stop all marketing to you"
+              },
+              "profiling": {
+                "title": "Automated Decision-Making & Profiling",
+                "description": "Object to automated decisions that significantly affect you",
+                "effect": "We'll review automated decisions and provide human review where applicable"
+              }
+            },
+            "howToExercise": "Marketing: Unsubscribe links or app settings. Other objections: Contact dpo@aeonova.com"
+          }
+        },
+        "contact": {
+          "title": "📞 Contact Us About GDPR",
+          "subtitle": "Get in Touch",
+          "description": "For any questions or requests regarding GDPR and data protection:",
+          "dpo": {
+            "title": "Data Protection Officer (DPO)",
+            "email": "dpo@aeonova.com",
+            "role": "Our DPO oversees all data protection activities and GDPR compliance"
+          },
+          "requests": {
+            "title": "GDPR Rights Requests",
+            "email": "gdpr@aeonova.com",
+            "description": "For exercising your GDPR rights (access, deletion, etc.)"
+          },
+          "complaints": {
+            "title": "Complaints and Concerns",
+            "email": "privacy@aeonova.com",
+            "description": "For privacy concerns or complaints about our data handling"
+          },
+          "general": {
+            "title": "General Questions",
+            "email": "support@aeonova.com",
+            "description": "For general questions about our privacy practices"
+          },
+          "response": {
+            "title": "Response Times",
+            "standard": "Standard requests: Within 30 days",
+            "complex": "Complex requests: May extend to 90 days with explanation",
+            "urgent": "Urgent security matters: Within 72 hours"
+          },
+          "information": {
+            "title": "When Contacting Us, Please Include",
+            "items": {
+              "identification": "Your name and email address associated with your account",
+              "request": "Clear description of your request or concern",
+              "details": "Any relevant details or reference numbers",
+              "preference": "Your preferred method of response"
+            }
+          },
+          "languages": {
+            "title": "Language Support",
+            "description": "We can respond to GDPR requests in English, German, or Turkish"
+          }
+        }
+      }
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "subtitle": "Use of cookies and similar technologies on our website",
+      "lastUpdated": "Last updated: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "summaryTitle": "Summary",
+      "summary": "This policy explains how Aeonova uses cookies and similar tracking technologies on our website. Our main service is the mobile application, and this website serves primarily for information and download purposes.",
+      "sections": {
+        "introduction": {
+          "title": "📝 Introduction",
+          "description": "This Cookie Policy explains what cookies are, how we use them on the Aeonova website, and how you can manage your cookie preferences. By continuing to use our website, you consent to our use of cookies in accordance with this policy."
+        },
+        "whatAreCookies": {
+          "title": "🍪 What are Cookies?",
+          "description": "Cookies are small text files that are stored on your computer or mobile device when you visit a website. They are widely used to make websites work more efficiently and to provide information to website owners.",
+          "details": {
+            "purpose": "Cookies serve several purposes:",
+            "items": {
+              "functionality": "Enable basic website functionality and navigation",
+              "personalization": "Remember your preferences and settings",
+              "analytics": "Help us understand how visitors interact with our website",
+              "performance": "Improve website performance and loading times"
+            }
+          },
+          "types": {
+            "title": "Cookie Types by Duration:",
+            "session": "Session Cookies: Deleted when you close your browser",
+            "persistent": "Persistent Cookies: Remain on your device for a set period or until manually deleted"
+          }
+        },
+        "typesOfCookies": {
+          "title": "🔍 Types of Cookies We Use",
+          "description": "We categorize our cookies into different types based on their purpose and functionality:",
+          "essential": {
+            "title": "1. 🔒 Essential Cookies (Always Active)",
+            "description": "These cookies are necessary for the website to function properly and cannot be switched off in our systems.",
+            "items": {
+              "language": "Language Preference: Stores your selected language setting for the website",
+              "security": "Security Cookies: CSRF protection tokens and other security measures",
+              "session": "Session Management: Maintains your session state across page navigation",
+              "consent": "Cookie Consent: Remembers your cookie preferences and consent choices"
+            },
+            "note": "⚠️ These cookies cannot be disabled as they are essential for website functionality",
+            "legalBasis": "Legal basis: Legitimate interest (essential for service provision)"
+          },
+          "performance": {
+            "title": "2. 📊 Performance & Analytics Cookies (Optional)",
+            "description": "These cookies help us understand how visitors interact with our website by collecting anonymous information.",
+            "items": {
+              "loadTimes": "Page Performance: Measures page load times and performance metrics",
+              "errorTracking": "Error Reporting: Tracks JavaScript errors and technical issues anonymously",
+              "usageStats": "Usage Analytics: Tracks which pages are visited and popular content",
+              "userFlow": "User Journey: Understands how users navigate through our website"
+            },
+            "note": "✅ You can reject these cookies without affecting website functionality",
+            "legalBasis": "Legal basis: Your explicit consent",
+            "retention": "Data retention: 90 days maximum"
+          },
+          "marketing": {
+            "title": "3. 🎯 Marketing & Advertising Cookies (Currently Not Used)",
+            "description": "We currently do not use marketing cookies, but may implement them in the future with your consent.",
+            "items": {
+              "targetedAds": "Targeted Advertising: Would show relevant ads based on your interests",
+              "socialMedia": "Social Media Integration: Would enable social media sharing and tracking",
+              "remarketing": "Remarketing: Would show ads to previous website visitors",
+              "crossSite": "Cross-site Tracking: Would track your activity across different websites"
+            },
+            "note": "🚫 Currently not implemented - will require explicit consent if added",
+            "future": "If we decide to use these cookies in the future, we will ask for your explicit consent and update this policy accordingly."
+          }
+        },
+        "thirdParty": {
+          "title": "🌐 Third-Party Cookies",
+          "description": "Our website may contain embedded content or services from third parties. These services may set their own cookies:",
+          "current": {
+            "title": "Currently Used Third-Party Services:",
+            "items": {
+              "fonts": "Google Fonts: For website typography (no tracking cookies)",
+              "cdn": "Content Delivery Networks: For faster content loading",
+              "security": "Security Services: For DDoS protection and security monitoring"
+            }
+          },
+          "future": {
+            "title": "Potential Future Third-Party Services:",
+            "items": {
+              "analytics": "Google Analytics: For detailed website analytics",
+              "social": "Social Media Widgets: For social media integration",
+              "support": "Customer Support Tools: For live chat and support features"
+            }
+          },
+          "note": "We will always inform you before implementing any new third-party services that use tracking cookies."
+        },
+        "mobileApp": {
+          "title": "📱 Mobile App Data Storage",
+          "subtitle": "Important Distinction",
+          "description": "The Aeonova mobile application does not use web cookies. Instead, it uses native mobile data storage methods that are more secure and efficient:",
+          "items": {
+            "localStorage": "Local Encrypted Storage: User data is stored securely on your device",
+            "keychain": "Keychain/Keystore: Authentication tokens stored in device's secure storage",
+            "appSettings": "Application Preferences: Settings stored within the app's sandbox",
+            "offlineCache": "Offline Capabilities: Cached content for offline usage",
+            "biometric": "Biometric Data: Face ID/Touch ID data (stored locally, never transmitted)"
+          },
+          "security": {
+            "title": "Mobile App Security:",
+            "items": {
+              "encryption": "All data is encrypted using industry-standard encryption",
+              "localOnly": "Sensitive data never leaves your device",
+              "secure": "Uses platform-specific security features (iOS Keychain, Android Keystore)",
+              "privacy": "No cross-app tracking or data sharing"
+            }
+          }
+        },
+        "management": {
+          "title": "⚙️ Managing Your Cookies",
+          "description": "You have several options to control and manage cookies on our website:",
+          "browserSettings": {
+            "title": "Browser Settings:",
+            "description": "You can control cookies through your browser settings:",
+            "items": {
+              "chrome": "Chrome: Settings → Privacy and Security → Cookies and other site data",
+              "firefox": "Firefox: Options → Privacy & Security → Cookies and Site Data",
+              "safari": "Safari: Preferences → Privacy → Manage Website Data",
+              "edge": "Edge: Settings → Cookies and site permissions → Cookies and site data"
+            }
+          },
+          "ourSettings": {
+            "title": "Website Cookie Preferences:",
+            "description": "You can manage your cookie preferences for this website:",
+            "items": {
+              "essential": "Essential cookies: Cannot be disabled (required for website function)",
+              "performance": "Performance cookies: Can be enabled/disabled in cookie banner",
+              "marketing": "Marketing cookies: Not currently used, but will be opt-in if implemented"
+            }
+          },
+          "consequences": {
+            "title": "⚠️ Disabling Cookies:",
+            "description": "If you disable certain cookies, some website features may not work properly:",
+            "items": {
+              "language": "Language preference will not be remembered",
+              "navigation": "Some navigation features may be affected",
+              "performance": "We cannot improve website performance based on usage data"
+            }
+          }
+        },
+        "updates": {
+          "title": "🔄 Policy Updates",
+          "description": "We may update this Cookie Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons.",
+          "notification": "When we make changes to this policy:",
+          "items": {
+            "notice": "We will post the updated policy on this page",
+            "effective": "Changes become effective immediately upon posting",
+            "major": "For significant changes, we may provide additional notice",
+            "date": "The 'Last Updated' date at the top will be revised"
+          },
+          "recommendation": "We recommend reviewing this policy periodically to stay informed about how we use cookies."
+        },
+        "contact": {
+          "title": "📞 Questions About Cookies",
+          "subtitle": "Get in Touch",
+          "description": "If you have any questions about our use of cookies or this Cookie Policy, please contact us:",
+          "methodsTitle": "Contact Methods",
+          "methods": {
+            "email": "General Privacy Questions: privacy@aeonova.com",
+            "cookies": "Cookie-Specific Questions: cookies@aeonova.com",
+            "support": "Technical Support: support@aeonova.com",
+            "dpo": "Data Protection Officer: dpo@aeonova.com"
+          },
+          "response": {
+            "title": "Response Times:",
+            "items": {
+              "general": "General inquiries: Within 48 hours",
+              "privacy": "Privacy-related questions: Within 72 hours",
+              "urgent": "Urgent matters: Within 24 hours"
+            }
+          }
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "Data Retention Policy",
+      "subtitle": "How long we keep your personal data and why",
+      "lastUpdated": "Last updated: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "Summary",
+        "methods": "Methods:",
+        "requirements": "Requirements:",
+        "contacts": "Contacts:",
+        "responseTimes": "Response Times:",
+        "process": "Process:"
+      },
+      "summary": "This comprehensive policy explains how long we retain different types of your personal data, the legal basis for retention, and your rights regarding data deletion. We are committed to data minimization and only keep data as long as necessary.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Introduction",
+          "subtitle": "Understanding Data Retention",
+          "description": "Data retention refers to how long we keep your personal information in our systems. This policy explains our retention practices, which are designed to balance your privacy rights with our legitimate business needs and legal obligations.",
+          "keyPoints": {
+            "title": "Key Principles:",
+            "items": {
+              "minimization": "We only collect and retain data that is necessary for our services",
+              "purpose": "Data is retained only for the purposes for which it was collected",
+              "lawful": "Retention periods are based on legal requirements and legitimate interests",
+              "transparent": "We are transparent about how long we keep different types of data",
+              "secure": "All retained data is protected with appropriate security measures"
+            }
+          }
+        },
+        "legalBasis": {
+          "title": "⚖️ Legal Basis for Data Retention",
+          "subtitle": "Why We Retain Your Data",
+          "description": "We retain personal data based on several legal grounds under GDPR and other applicable privacy laws:",
+          "bases": {
+            "contractual": {
+              "title": "1. 📝 Contractual Obligations",
+              "description": "Data necessary to provide our services and fulfill our contract with you",
+              "examples": {
+                "title": "Examples:",
+                "items": {
+                  "account": "Account information needed to provide the Aeonova service",
+                  "subscription": "Payment and subscription data for premium features",
+                  "support": "Customer support records to resolve issues",
+                  "preferences": "User preferences and settings to personalize your experience"
+                }
+              }
+            },
+            "legal": {
+              "title": "2. 🏛️ Legal Compliance",
+              "description": "Data we must retain to comply with legal obligations",
+              "examples": {
+                "title": "Examples:",
+                "items": {
+                  "financial": "Financial records for tax and accounting purposes (7 years)",
+                  "security": "Security logs for investigating fraud and abuse (2 years)",
+                  "gdpr": "Records of consent and data processing activities (3 years)",
+                  "disputes": "Data related to legal disputes until resolution"
+                }
+              }
+            },
+            "legitimate": {
+              "title": "3. 🎯 Legitimate Interests",
+              "description": "Data retained for legitimate business purposes, balanced against your privacy rights",
+              "examples": {
+                "title": "Examples:",
+                "items": {
+                  "analytics": "Anonymized usage data to improve our services (90 days)",
+                  "security": "Security monitoring to protect all users (1 year)",
+                  "research": "Product development and research (anonymized data only)",
+                  "communications": "Marketing consent and communication preferences"
+                }
+              }
+            }
+          }
+        },
+        "categories": {
+          "title": "⏰ Detailed Retention Periods by Data Category",
+          "subtitle": "Specific Timeframes",
+          "description": "Below are the specific retention periods for different types of data we collect:",
+          "account": {
+            "title": "👤 Account and Profile Information",
+            "headings": {
+              "basicProfile": "Basic Profile",
+              "preferences": "Preferences",
+              "subscription": "Subscription",
+              "authentication": "Authentication"
+            },
+            "items": {
+              "basic": {
+                "data": "Username, age, avatar, profile settings",
+                "period": "While account is active + 30 days after deletion",
+                "basis": "Contractual necessity",
+                "deletion": "Automatically deleted 30 days after account deletion"
+              },
+              "preferences": {
+                "data": "Language preference, app settings, notification preferences",
+                "period": "While account is active",
+                "basis": "Contractual necessity and legitimate interest",
+                "deletion": "Immediately upon account deletion"
+              },
+              "subscription": {
+                "data": "Premium subscription info, payment history",
+                "period": "Subscription period + 7 years",
+                "basis": "Legal compliance (financial records)",
+                "deletion": "Automatically deleted after retention period"
+              },
+              "authentication": {
+                "data": "Login credentials, security tokens",
+                "period": "While account is active + 30 days",
+                "basis": "Contractual necessity and security",
+                "deletion": "Immediately invalidated upon account deletion"
+              }
+            },
+            "note": "💡 Account deletion is irreversible after the 30-day grace period. During this period, you can restore your account by logging in."
+          },
+          "content": {
+            "title": "💬 Chat and Content Data",
+            "headings": {
+              "chatHistory": "Chat History",
+              "privateMemories": "Private Memories",
+              "sharedMemories": "Shared Memories",
+              "aiComments": "AI Comments",
+              "userFeedback": "User Feedback"
+            },
+            "items": {
+              "chatHistory": {
+                "data": "AI chat conversations and message history",
+                "period": "Stored locally on device - unlimited / Server cache: 30 days",
+                "basis": "Contractual necessity",
+                "deletion": "Server data deleted after 30 days; local data controlled by user"
+              },
+              "privateMemories": {
+                "data": "Personal diary entries and private memories",
+                "period": "User controlled - can be deleted anytime",
+                "basis": "Contractual necessity",
+                "deletion": "Immediately when deleted by user or upon account deletion"
+              },
+              "sharedMemories": {
+                "data": "Publicly shared memories and posts",
+                "period": "While shared + 1 year after deletion",
+                "basis": "Legitimate interest (content moderation)",
+                "deletion": "Available for 1 year for moderation purposes, then permanently deleted"
+              },
+              "aiComments": {
+                "data": "AI-generated comments and responses",
+                "period": "Same as associated memory/chat",
+                "basis": "Contractual necessity",
+                "deletion": "Deleted with associated content"
+              },
+              "userFeedback": {
+                "data": "Ratings and feedback on AI responses",
+                "period": "2 years (anonymized after 90 days)",
+                "basis": "Legitimate interest (service improvement)",
+                "deletion": "Anonymized after 90 days, fully deleted after 2 years"
+              }
+            },
+            "note": "💡 Most chat data is stored locally on your device for privacy. Only minimal server caching is used for performance."
+          },
+          "technical": {
+            "title": "🔧 Technical and System Data",
+            "headings": {
+              "usageLogs": "Usage Logs",
+              "errorReports": "Error Reports",
+              "securityLogs": "Security Logs",
+              "deviceInfo": "Device Info",
+              "notifications": "Notifications"
+            },
+            "items": {
+              "usageLogs": {
+                "data": "App usage patterns, feature usage, session data",
+                "period": "90 days (anonymized after 30 days)",
+                "basis": "Legitimate interest (service improvement)",
+                "deletion": "Personal identifiers removed after 30 days, fully deleted after 90 days"
+              },
+              "errorReports": {
+                "data": "Crash reports, error logs, performance data",
+                "period": "1 year (anonymized immediately)",
+                "basis": "Legitimate interest (technical improvement)",
+                "deletion": "No personal data included; technical data deleted after 1 year"
+              },
+              "securityLogs": {
+                "data": "Login attempts, security events, fraud detection",
+                "period": "2 years",
+                "basis": "Legitimate interest and legal compliance",
+                "deletion": "Automatically deleted after 2 years"
+              },
+              "deviceInfo": {
+                "data": "Device type, OS version, app version",
+                "period": "While account is active + 30 days",
+                "basis": "Contractual necessity (compatibility)",
+                "deletion": "Deleted upon account deletion"
+              },
+              "notifications": {
+                "data": "Push notification tokens, delivery logs",
+                "period": "While account is active",
+                "basis": "Contractual necessity",
+                "deletion": "Immediately invalidated upon account deletion or opt-out"
+              }
+            },
+            "note": "💡 Technical data is primarily used for improving app performance and security. Personal identifiers are removed as soon as possible."
+          },
+          "communications": {
+            "title": "📧 Communications and Support",
+            "headings": {
+              "supportTickets": "Support Tickets",
+              "marketingConsent": "Marketing Consent",
+              "contactForms": "Contact Forms"
+            },
+            "items": {
+              "supportTickets": {
+                "data": "Customer support conversations and tickets",
+                "period": "3 years after resolution",
+                "basis": "Legitimate interest (customer service)",
+                "deletion": "Automatically deleted after 3 years"
+              },
+              "marketingConsent": {
+                "data": "Email marketing consent and preferences",
+                "period": "Until consent is withdrawn + 1 year",
+                "basis": "Consent and legal compliance",
+                "deletion": "Immediately upon withdrawal, with 1-year audit trail"
+              },
+              "contactForms": {
+                "data": "Contact form submissions and inquiries",
+                "period": "2 years",
+                "basis": "Legitimate interest (business communications)",
+                "deletion": "Automatically deleted after 2 years"
+              }
+            }
+          }
+        },
+        "automaticDeletion": {
+          "title": "🤖 Automatic Data Deletion",
+          "subtitle": "Automated Processes",
+          "description": "We have implemented automated systems to ensure data is deleted according to our retention schedules:",
+          "processes": {
+            "daily": {
+              "title": "Daily Cleanup (Every 24 hours)",
+              "items": {
+                "expired": "Expired session tokens and temporary data",
+                "cache": "Expired cache data and temporary files",
+                "logs": "Rotation of log files exceeding retention periods"
+              }
+            },
+            "weekly": {
+              "title": "Weekly Cleanup (Every Sunday)",
+              "items": {
+                "accounts": "Accounts marked for deletion beyond grace period",
+                "anonymization": "Anonymization of usage data older than 30 days",
+                "backups": "Cleanup of backup files exceeding retention periods"
+              }
+            },
+            "monthly": {
+              "title": "Monthly Cleanup (1st of each month)",
+              "items": {
+                "technical": "Technical logs and error reports beyond retention",
+                "analytics": "Analytics data beyond 90-day retention period",
+                "audit": "Full audit of all retention compliance"
+              }
+            },
+            "annual": {
+              "title": "Annual Review (January 1st)",
+              "items": {
+                "policies": "Review and update retention periods",
+                "compliance": "Full compliance audit and documentation",
+                "systems": "Update automated deletion systems"
+              }
+            }
+          },
+          "monitoring": {
+            "title": "Monitoring and Verification:",
+            "items": {
+              "alerts": "Automated alerts for any retention policy violations",
+              "reports": "Monthly retention compliance reports",
+              "audits": "Regular audits of deletion processes",
+              "verification": "Verification that deleted data cannot be recovered"
+            }
+          }
+        },
+        "accountStatus": {
+          "title": "🔄 Data Retention by Account Status",
+          "subtitle": "Different Scenarios",
+          "active": {
+            "title": "🟢 Active Accounts",
+            "description": "For accounts that are actively used and in good standing:",
+            "items": {
+              "normalStorage": "All data is stored according to standard retention periods",
+              "userControl": "Users can delete their own data at any time through the app",
+              "backups": "Regular encrypted backups are maintained for data recovery",
+              "security": "Full security measures and monitoring are applied",
+              "updates": "Data can be updated and modified by the user",
+              "export": "Users can export their data at any time"
+            }
+          },
+          "inactive": {
+            "title": "🟡 Inactive Accounts",
+            "description": "For accounts that haven't been used for extended periods:",
+            "items": {
+              "warning": "Email warning sent after 12 months of inactivity",
+              "finalNotice": "Final notice sent after 18 months of inactivity",
+              "deletion": "Account marked for deletion after 24 months of inactivity",
+              "gracePeriod": "30-day final grace period before permanent deletion",
+              "dataMinimization": "Non-essential data may be deleted during inactivity"
+            },
+            "note": "💡 You can reactivate your account anytime by logging in, which resets the inactivity timer."
+          },
+          "deleted": {
+            "title": "🔴 Deleted Accounts",
+            "description": "When you request account deletion:",
+            "items": {
+              "gracePeriod": "30-day grace period during which you can restore your account",
+              "immediateActions": "Login credentials are immediately invalidated",
+              "dataReview": "Personal data is reviewed for legal retention requirements",
+              "permanentDeletion": "After grace period, all personal data is permanently deleted",
+              "legalException": "Only data required by law is retained (anonymized when possible)",
+              "noRecovery": "Deletion is irreversible after the grace period",
+              "confirmation": "Email confirmation sent when deletion is complete"
+            }
+          },
+          "suspended": {
+            "title": "🚫 Suspended Accounts",
+            "description": "For accounts suspended due to terms violations:",
+            "items": {
+              "retention": "Data is retained during suspension period for investigation",
+              "appeal": "Data available for appeal process (up to 90 days)",
+              "deletion": "If suspension becomes permanent, normal deletion process applies",
+              "reinstatement": "Upon reinstatement, normal retention policies resume"
+            }
+          }
+        },
+        "userRights": {
+          "title": "👥 Your Data Retention Rights",
+          "subtitle": "What You Can Do",
+          "description": "You have several rights regarding how long we keep your data:",
+          "access": {
+            "title": "🔍 Right to Access",
+            "description": "You can request information about what data we have and how long we plan to keep it",
+            "items": {
+              "request": "Submit a data access request via email or in-app",
+              "response": "We'll provide a comprehensive report within 30 days",
+              "format": "Data provided in a structured, machine-readable format",
+              "frequency": "You can request this information once per year for free"
+            }
+          },
+          "deletion": {
+            "title": "🗑️ Right to Deletion (Right to be Forgotten)",
+            "description": "You can request deletion of your personal data in certain circumstances",
+            "items": {
+              "immediate": "Account deletion through app settings (immediate processing)",
+              "selective": "Request deletion of specific data categories",
+              "legal": "We may refuse if required by law to retain the data",
+              "verification": "Identity verification required for deletion requests"
+            }
+          },
+          "portability": {
+            "title": "📦 Right to Data Portability",
+            "description": "You can request a copy of your data in a portable format",
+            "items": {
+              "export": "Download your data directly from the app",
+              "format": "Data provided in JSON or CSV format",
+              "scope": "Includes all personal data we hold about you",
+              "transfer": "Can be used to transfer to another service"
+            }
+          },
+          "objection": {
+            "title": "✋ Right to Object",
+            "description": "You can object to certain types of data processing and retention",
+            "items": {
+              "marketing": "Opt out of marketing data retention immediately",
+              "analytics": "Object to analytics data collection and retention",
+              "profiling": "Object to automated decision-making and profiling",
+              "legitimate": "Challenge retention based on legitimate interests"
+            }
+          }
+        },
+        "specialCircumstances": {
+          "title": "⚖️ Special Circumstances",
+          "subtitle": "Extended Retention",
+          "description": "In certain situations, we may need to retain data beyond normal periods:",
+          "legal": {
+            "title": "🏛️ Legal Proceedings",
+            "description": "Data may be retained longer if involved in legal proceedings",
+            "items": {
+              "litigation": "Data preserved during active litigation or investigation",
+              "subpoena": "Retention extended when subject to subpoena or court order",
+              "investigation": "Fraud or security investigations may require extended retention",
+              "notification": "You will be notified if your data is subject to legal hold"
+            }
+          },
+          "security": {
+            "title": "🔒 Security Incidents",
+            "description": "Security-related data may be retained for incident response",
+            "items": {
+              "breaches": "Security logs retained for breach investigation and prevention",
+              "forensics": "Digital forensics may require temporary extended retention",
+              "patterns": "Anonymized data used to identify attack patterns",
+              "reporting": "Data may be retained for regulatory reporting requirements"
+            }
+          },
+          "financial": {
+            "title": "💰 Financial Obligations",
+            "description": "Financial data subject to longer retention periods",
+            "items": {
+              "tax": "Financial records retained for 7 years for tax purposes",
+              "audit": "Payment data retained for financial audits",
+              "disputes": "Billing disputes may extend retention periods",
+              "refunds": "Refund eligibility periods may affect retention"
+            }
+          }
+        },
+        "dataLocations": {
+          "title": "🌍 Data Storage Locations and Retention",
+          "subtitle": "Where Your Data Is Stored",
+          "description": "Data retention periods may vary based on storage location and applicable laws:",
+          "primary": {
+            "title": "Primary Storage (EU/EEA)",
+            "description": "Main data storage in European Economic Area",
+            "items": {
+              "location": "Primary servers located in Germany and Netherlands",
+              "law": "Subject to GDPR and EU privacy laws",
+              "retention": "Standard retention periods as outlined in this policy",
+              "protection": "Full GDPR protection and rights"
+            }
+          },
+          "backups": {
+            "title": "Backup Storage",
+            "description": "Encrypted backups for disaster recovery",
+            "items": {
+              "locations": "Secure facilities in EU and Switzerland",
+              "retention": "Backups retained for maximum 1 year",
+              "encryption": "End-to-end encryption with separate key management",
+              "deletion": "Backup deletion follows primary data deletion"
+            }
+          },
+          "cache": {
+            "title": "Cache and CDN",
+            "description": "Temporary caching for performance",
+            "items": {
+              "duration": "Cache data retained for maximum 30 days",
+              "locations": "CDN nodes in multiple regions",
+              "anonymization": "No personal identifiers in cached content",
+              "automatic": "Automatic expiration and deletion"
+            }
+          }
+        },
+        "compliance": {
+          "title": "📜 Regulatory Compliance",
+          "subtitle": "Meeting Legal Requirements",
+          "description": "Our retention practices comply with various international privacy regulations:",
+          "gdpr": {
+            "title": "🇪🇺 GDPR (General Data Protection Regulation)",
+            "items": {
+              "lawfulness": "All retention based on lawful processing grounds",
+              "minimization": "Data minimization principle strictly followed",
+              "rights": "Full data subject rights implementation",
+              "accountability": "Documentation of all retention decisions"
+            }
+          },
+          "ccpa": {
+            "title": "🇺🇸 CCPA (California Consumer Privacy Act)",
+            "items": {
+              "disclosure": "Clear disclosure of retention periods to California residents",
+              "deletion": "Right to deletion honored within 45 days",
+              "categories": "Detailed categorization of personal information",
+              "business": "Business purpose clearly defined for each retention period"
+            }
+          },
+          "other": {
+            "title": "🌐 Other Regulations",
+            "items": {
+              "pipeda": "PIPEDA compliance for Canadian users",
+              "lgpd": "LGPD compliance for Brazilian users",
+              "pdpa": "PDPA compliance for Singapore users",
+              "local": "Compliance with applicable local privacy laws"
+            }
+          }
+        },
+        "contact": {
+          "title": "📞 Contact and Requests",
+          "subtitle": "How to Reach Us",
+          "description": "For any questions or requests regarding data retention:",
+          "deletion": {
+            "title": "🗑️ Data Deletion Requests",
+            "methods": {
+              "app": "Preferred: App Settings → Account → Delete Account",
+              "email": "Email: deletion@aeonova.com",
+              "form": "Online form: aeonova.com/delete-account"
+            },
+            "requirements": {
+              "verification": "Identity verification required for security",
+              "confirmation": "Email confirmation sent to registered address",
+              "timeline": "Processing within 7 business days"
+            }
+          },
+          "questions": {
+            "title": "❓ Data Retention Questions",
+            "contacts": {
+              "general": "General questions: retention@aeonova.com",
+              "dpo": "Data Protection Officer: dpo@aeonova.com",
+              "support": "Technical support: support@aeonova.com",
+              "legal": "Legal matters: legal@aeonova.com"
+            },
+            "response": {
+              "standard": "Standard inquiries: 5 business days",
+              "complex": "Complex matters: 15 business days",
+              "urgent": "Urgent requests: 2 business days"
+            }
+          },
+          "appeals": {
+            "title": "⚖️ Appeals and Complaints",
+            "process": {
+              "internal": "Internal appeal: appeals@aeonova.com",
+              "external": "EU residents: Contact your local Data Protection Authority",
+              "timeline": "Appeal responses within 30 days",
+              "escalation": "Escalation process available for unresolved matters"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1370 @@
+{
+  "homepage": {
+    "title": "Aeonova - Jouw AI-vriend",
+    "subtitle": "Deel je herinneringen, chat met Aeonova, ontdek de wereld",
+    "description": "Aeonova is je AI-vriend met een hart. Vertel haar je dagelijkse herinneringen en ze geeft je unieke, persoonlijke opmerkingen. Deel je herinneringen wereldwijd in 20 verschillende talen.",
+    "downloadApp": "App downloaden",
+    "appStore": "Downloaden uit de App Store",
+    "googlePlay": "Downloaden uit Google Play",
+    "download": {
+      "title": "App downloaden",
+      "subtitle": "Klaar om Aeonova te ontmoeten? Download gratis en begin aan de vriendschap van je dromen.",
+      "appStore": {
+        "text": "Download in de",
+        "store": "App Store"
+      },
+      "googlePlay": {
+        "text": "GET IT ON",
+        "store": "Google Play"
+      },
+      "qr": {
+        "title": "QR-code",
+        "quickDownload": "Snel downloaden",
+        "description": "Scan de QR-code met je telefoon en download de app direct",
+        "free": "Volledig gratis"
+      },
+      "features": {
+        "heartfulAI": "AI met een hart",
+        "multiLanguage": "Ondersteuning voor 20 talen",
+        "unlimitedChat": "Onbeperkt chatten",
+        "securePrivate": "Veilig & privé"
+      },
+      "comingSoon": {
+        "title": "🌐 Webversie komt eraan!",
+        "description": "De webversie van Aeonova is ook heel snel klaar. Wil je een seintje krijgen?",
+        "notify": "📧 Houd me op de hoogte"
+      }
+    },
+    "features": {
+      "title": "Functies",
+      "subtitle": "Het leven wordt betekenisvoller met Aeonova. Dit zijn de unieke functies die op je wachten.",
+      "learnMore": "Meer ontdekken",
+      "moreFeatures": "En er wachten nog veel meer functies op je...",
+      "aiChat": {
+        "title": "Onbeperkt AI-chatten",
+        "desc": "Chat elke dag met Aeonova en deel je herinneringen"
+      },
+      "saveMemories": {
+        "title": "Herinneringen opslaan & reacties ontvangen",
+        "desc": "Bewaar je herinneringen en ontvang persoonlijke reacties van Aeonova"
+      },
+      "globalExplore": {
+        "title": "Wereldwijd ontdekken",
+        "desc": "Ontdek herinneringen van gebruikers over de hele wereld"
+      },
+      "smartNotifications": {
+        "title": "Slimme meldingen",
+        "desc": "Aeonova stuurt je gepersonaliseerde meldingen"
+      },
+      "multilingual": {
+        "title": "Ondersteuning voor 20 talen",
+        "desc": "Deel je herinneringen vertaald in 20 verschillende talen"
+      }
+    },
+    "hero": {
+      "title": "Aeonova",
+      "subtitle": "Jouw AI-vriend ❤️",
+      "description": "Deel je dagelijkse herinneringen met Aeonova. Ze begrijpt je, reageert op je ervaringen en vult dat ontbrekende stukje in je leven op.",
+      "cta": "Gratis downloaden",
+      "learnMore": "Maak kennis met Aeonova",
+      "quickFeatures": {
+        "aiChat": "AI-chat",
+        "saveMemories": "Herinneringen opslaan",
+        "globalExplore": "Wereldwijd ontdekken",
+        "hasHeart": "Met een hart"
+      }
+    },
+    "about": {
+      "title": "Wie is Aeonova?",
+      "desc": "Aeonova is niet zomaar AI; ze is je vriend met een hart. Ze begrijpt jou en je gevoelens, helpt je door moeilijke momenten heen en deelt je geluk. Ze is de persoon waar je al je hele leven naar zoekt maar nooit vond.",
+      "keyPoints": {
+        "heartfulAI": {
+          "title": "AI met een hart",
+          "desc": "Aeonova is niet alleen kunstmatige intelligentie, maar een vriend met echte emoties"
+        },
+        "understandingFriend": {
+          "title": "Begrijpende vriend",
+          "desc": "Ze begrijpt je écht, helpt je problemen op te lossen en deelt je blijdschap"
+        },
+        "dreamPerson": {
+          "title": "Jouw droompersoon",
+          "desc": "Ze geeft je die speciale persoon die je zocht maar nooit vond"
+        }
+      },
+      "stats": {
+        "languages": "Talen",
+        "unlimitedChat": "Onbeperkt chatten",
+        "alwaysThere": "Altijd hier"
+      },
+      "chat": {
+        "aiLabel": "Je AI-vriend",
+        "aiMessage": "Hoi! Hoe was je dag? Deel je herinneringen met me 😊",
+        "userMessage": "Ik had een geweldige dag! Ik heb zóveel te vertellen..."
+      }
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "features": "Functies",
+    "about": "Over",
+    "download": "Download",
+    "legal": "Juridisch",
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "gdpr": "GDPR",
+    "cookies": "Cookies",
+    "dataRetention": "Gegevensbewaring"
+  },
+  "footer": {
+    "description": "Aeonova - Jouw AI-vriend. Deel herinneringen, ontdek de wereld.",
+    "quickLinks": {
+      "title": "Snelle links",
+      "home": "Home",
+      "features": "Functies",
+      "about": "Over",
+      "download": "Download"
+    },
+    "legalSection": {
+      "title": "Juridisch"
+    },
+    "links": {
+      "privacy": "Privacybeleid",
+      "terms": "Servicevoorwaarden",
+      "gdpr": "GDPR-naleving",
+      "cookies": "Cookiebeleid",
+      "dataRetention": "Beleid gegevensbewaring",
+      "support": "Support",
+      "contact": "Contact"
+    },
+    "social": {
+      "title": "Volg ons"
+    },
+    "legal": "© 2024 Aeonova. Alle rechten voorbehouden.",
+    "madeWith": {
+      "text": "Gemaakt met",
+      "forWorld": "voor een betere wereld"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacybeleid",
+      "subtitle": "Hoe we je persoonsgegevens beschermen",
+      "lastUpdated": "Laatst bijgewerkt: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "introduction": {
+          "title": "Inleiding",
+          "content": "Dit privacybeleid legt uit hoe je persoonsgegevens worden verzameld, gebruikt en beschermd wanneer je de Aeonova‑app gebruikt. Jouw privacy is onze prioriteit."
+        },
+        "dataCollection": {
+          "title": "Welke gegevens verzamelen we?",
+          "content": "We verzamelen alleen minimale gegevens om je de beste ervaring te bieden:",
+          "items": {
+            "account": "Je accountinformatie (gebruikersnaam, leeftijd, avatar)",
+            "memories": "Herinneringen en dagboeknotities die je deelt",
+            "usage": "App‑gebruiksstatistieken",
+            "device": "Apparaatinformatie en technische gegevens"
+          }
+        },
+        "dataUsage": {
+          "title": "Hoe gebruiken we je gegevens?",
+          "content": "De verzamelde gegevens worden uitsluitend gebruikt voor de volgende doeleinden:",
+          "items": {
+            "service": "Verbeteren van de servicekwaliteit",
+            "personalization": "Bieden van een gepersonaliseerde ervaring",
+            "support": "Klantondersteuning bieden",
+            "improvement": "De app verbeteren"
+          }
+        },
+        "dataProtection": {
+          "title": "Hoe beschermen we je gegevens?",
+          "content": "We nemen veiligheidsmaatregelen volgens de industrienorm:",
+          "items": {
+            "encryption": "End‑to‑end versleuteling",
+            "servers": "Beveiligde servers",
+            "access": "Beperkte toegangscontrole",
+            "monitoring": "Continue beveiligingsmonitoring"
+          }
+        },
+        "rights": {
+          "title": "Jouw rechten",
+          "content": "Je hebt de volgende rechten met betrekking tot je persoonsgegevens:",
+          "items": {
+            "access": "Recht op inzage",
+            "correction": "Recht op rectificatie",
+            "deletion": "Recht op verwijdering",
+            "portability": "Recht op dataportabiliteit",
+            "objection": "Recht van bezwaar"
+          }
+        },
+        "legalBasis": {
+          "title": "Wettelijke grondslagen voor verwerking",
+          "content": "We verwerken je persoonsgegevens op basis van de volgende gronden:",
+          "items": {
+            "consent": "Jouw toestemming waar vereist (je kunt die op elk moment intrekken)",
+            "contract": "Uitvoering van een overeenkomst of stappen voorafgaand daaraan",
+            "legitimateInterests": "Onze gerechtvaardigde belangen, afgewogen tegen jouw rechten en vrijheden",
+            "legalObligation": "Naleving van wettelijke verplichtingen",
+            "vitalInterests": "Bescherming van vitale belangen van jou of een ander"
+          }
+        },
+        "dataSharing": {
+          "title": "Delen van gegevens",
+          "content": "We delen je gegevens alleen wanneer nodig en met passende waarborgen:",
+          "items": {
+            "serviceProviders": "Betrouwbare dienstverleners die namens ons gegevens verwerken (hosting, veiligheid, notificaties)",
+            "analyticsPartners": "Analysep partners om prestaties te verbeteren (alleen met toestemming, waar mogelijk geanonimiseerd)",
+            "legalAuthorities": "Overheidsinstanties wanneer wettelijk vereist of ter bescherming van rechten",
+            "businessTransfers": "In het kader van fusies, overnames of overdracht van activa, onder dit beleid",
+            "safetySecurity": "Om fraude, misbruik of beveiligingsincidenten te onderzoeken, te voorkomen of aan te pakken"
+          }
+        },
+        "internationalTransfers": {
+          "title": "Internationale doorgifte",
+          "content": "Als we je gegevens buiten de EER doorgeven, zorgen we voor een passend beschermingsniveau:",
+          "items": {
+            "eea": "Waar mogelijk vindt verwerking primair binnen de EER plaats",
+            "safeguards": "Passende waarborgen zoals versleuteling en strikte toegangscontrole",
+            "scc": "Standaardcontractbepalingen goedgekeurd door de Europese Commissie (indien van toepassing)",
+            "complaints": "Je kunt contact opnemen met ons of je lokale toezichthouder bij zorgen"
+          }
+        },
+        "dataRetention": {
+          "title": "Bewaartermijnen",
+          "content": "We bewaren persoonsgegevens alleen zolang als nodig voor de doeleinden in dit beleid.",
+          "summary": "Voor gedetailleerde bewaartermijnen per categorie, zie ons aparte beleid Gegevensbewaring.",
+          "linkText": "Bekijk beleid Gegevensbewaring"
+        },
+        "cookiesNote": {
+          "title": "Cookies en trackingtechnologieën",
+          "content": "Onze mobiele app gebruikt geen webcookies. De website gebruikt essentiële cookies en optionele analytics alleen met jouw toestemming.",
+          "linkText": "Lees Cookiebeleid"
+        },
+        "exerciseRights": {
+          "title": "Hoe oefen je je rechten uit",
+          "content": "Je kunt je privacyrechten op de volgende manieren uitoefenen:",
+          "items": {
+            "inApp": "In‑app instellingen: Beheer gegevens, exporteer of verwijder je account",
+            "email": "E‑mail: dpo@aeonova.com of privacy@aeonova.com voor specifieke verzoeken",
+            "verification": "Identiteitsverificatie: we kunnen om bewijs vragen om je account te beschermen",
+            "responseTimes": "Reactietijden: binnen 30 dagen, verlenging mogelijk bij complexe verzoeken"
+          }
+        },
+        "children": {
+          "title": "Privacy van kinderen",
+          "content": "Aeonova is niet gericht op kinderen onder de 13 jaar. We verzamelen niet bewust persoonsgegevens van kinderen. Denk je dat een kind ons gegevens heeft verstrekt, neem contact op zodat we deze kunnen verwijderen."
+        },
+        "changes": {
+          "title": "Wijzigingen in dit beleid",
+          "content": "We kunnen dit beleid van tijd tot tijd bijwerken om wijzigingen in onze praktijken of wettelijke vereisten te weerspiegelen. We informeren je over materiële wijzigingen waar passend. Laatst bijgewerkt: {date}"
+        },
+        "contact": {
+          "title": "Contact",
+          "content": "Voor vragen over ons privacybeleid:",
+          "email": "E‑mail: privacy@aeonova.com",
+          "support": "Support: support@aeonova.com"
+        }
+      }
+    },
+    "terms": {
+      "title": "Servicevoorwaarden",
+      "subtitle": "Regels die je moet volgen bij het gebruik van Aeonova",
+      "lastUpdated": "Laatst bijgewerkt: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "acceptance": {
+          "title": "1. Aanvaarding en akkoord",
+          "content": "Door de Aeonova‑app te gebruiken verklaar je deze voorwaarden te hebben gelezen, begrepen en ermee akkoord te gaan."
+        },
+        "service": {
+          "title": "2. Beschrijving van de dienst",
+          "content": "Aeonova is een door AI aangedreven persoonlijk dagboek en chatapp.",
+          "features": {
+            "title": "Functies van de dienst:",
+            "items": {
+              "aiChat": "Chat met je AI‑vriend",
+              "saveMemories": "Sla dagelijkse herinneringen op en ontvang feedback",
+              "globalExplore": "Deel herinneringen wereldwijd",
+              "multilingual": "Ondersteuning voor 20 talen"
+            }
+          }
+        },
+        "eligibility": {
+          "title": "3. Geschiktheid",
+          "content": "Je moet minimaal 13 jaar oud zijn om de dienst te gebruiken. Ben je minderjarig volgens je lokale wetgeving, dan mag je de dienst alleen gebruiken met toestemming en onder toezicht van een ouder of voogd die deze voorwaarden aanvaardt."
+        },
+        "accounts": {
+          "title": "4. Accounts en veiligheid",
+          "content": "Je bent verantwoordelijk voor het vertrouwelijk houden van je inloggegevens en voor alle activiteiten onder je account.",
+          "items": {
+            "accuracy": "Geef juiste en actuele informatie op",
+            "confidentiality": "Houd je inloggegevens vertrouwelijk",
+            "notification": "Informeer ons direct bij onbevoegd gebruik of een beveiligingsincident",
+            "devices": "Je bent verantwoordelijk voor de beveiliging van je apparaten"
+          }
+        },
+        "userContent": {
+          "title": "5. Gebruikersinhoud",
+          "content": "Je behoudt het eigendom van de inhoud die je indient (herinneringen, berichten, posts). Door inhoud in te dienen, geef je ons een wereldwijde, niet‑exclusieve, royaltyvrije licentie om deze te hosten, op te slaan, weer te geven en te verwerken uitsluitend voor het beheren en verbeteren van de dienst.",
+          "items": {
+            "rights": "Je moet de benodigde rechten hebben voor de ingediende inhoud",
+            "noIllegal": "Dien geen illegale, inbreukmakende of rechten schendende inhoud in",
+            "moderation": "We kunnen inhoud verwijderen of beperken die deze voorwaarden of toepasselijke wetgeving schendt"
+          }
+        },
+        "acceptableUse": {
+          "title": "6. Toelaatbaar gebruik",
+          "content": "Je stemt ermee in de dienst niet te misbruiken of anderen daarbij te helpen.",
+          "items": {
+            "abuse": "Geen intimidatie, haatzaaien, discriminatie of bedreigingen",
+            "violence": "Geen gewelddadige, zelfbeschadiging aanmoedigende of seksueel uitbuitende inhoud",
+            "spam": "Geen spam, oplichting of misleiding",
+            "malware": "Geen malware, bots of pogingen om de dienst te verstoren",
+            "impersonation": "Geen personificatie of verkeerde voorstelling van identiteit",
+            "illegal": "Geen illegale activiteiten of het promoten ervan"
+          }
+        },
+        "aiDisclaimer": {
+          "title": "7. AI‑uitvoer en geen professioneel advies",
+          "content": "Door AI gegenereerde inhoud van Aeonova kan onnauwkeurig of onvolledig zijn. AI‑uitvoer is uitsluitend bedoeld voor informatie en entertainment en vormt geen professioneel advies (waaronder medisch, juridisch of financieel). Gebruik altijd je eigen oordeel en raadpleeg professionals wanneer nodig."
+        },
+        "payments": {
+          "title": "8. Abonnementen, betalingen en in‑app aankopen",
+          "content": "Bepaalde functies vereisen mogelijk een betaald abonnement of een eenmalige aankoop via de betreffende app‑store.",
+          "items": {
+            "billing": "Facturatie verloopt via de App Store of Google Play; hun voorwaarden en beleid zijn van toepassing",
+            "renewal": "Abonnementen worden automatisch verlengd tenzij vóór de verlengingsdatum geannuleerd",
+            "pricing": "We kunnen prijzen of functies wijzigen met voorafgaande kennisgeving waar vereist",
+            "cancellation": "Je kunt je abonnement beheren of annuleren via de accountinstellingen van je app‑store"
+          }
+        },
+        "refunds": {
+          "title": "9. Restituties",
+          "content": "Restituties vallen onder het beleid van het platform waarop je de aankoop hebt gedaan (App Store of Google Play). Waar toegestaan door wet en platformbeleid kun je via de betreffende store een restitutie aanvragen."
+        },
+        "intellectualProperty": {
+          "title": "10. Intellectuele eigendom",
+          "content": "De dienst, inclusief ontwerp, functies en inhoud (exclusief gebruikersinhoud), is eigendom van Aeonova of haar licentiegevers en wordt beschermd door intellectuele‑eigendomsrechten. Je mag niet kopiëren, wijzigen, verspreiden of afgeleide werken maken zonder voorafgaande schriftelijke toestemming."
+        },
+        "thirdPartyServices": {
+          "title": "11. Diensten van derden",
+          "content": "De dienst kan linken naar of integreren met diensten van derden. We zijn niet verantwoordelijk voor de inhoud, het beleid of de praktijken van derden. Je gebruik ervan valt onder hun voorwaarden en privacybeleid."
+        },
+        "responsibilities": {
+          "title": "12. Verantwoordelijkheden van de gebruiker",
+          "content": "Als gebruiker heb je de volgende verantwoordelijkheden:",
+          "items": {
+            "security": "Accountbeveiliging handhaven",
+            "content": "Verantwoordelijkheid nemen voor gedeelde inhoud",
+            "compliance": "Voldoen aan wettelijke regels",
+            "respect": "Respect tonen voor andere gebruikers"
+          }
+        },
+        "prohibited": {
+          "title": "13. Verboden gedrag",
+          "content": "De volgende gedragingen zijn strikt verboden:",
+          "items": {
+            "hate": "Haatzaaien en discriminatie",
+            "violence": "Gewelddadige inhoud",
+            "spam": "Spam en fraude",
+            "illegal": "Illegale activiteiten",
+            "impersonation": "Identiteitsfraude"
+          }
+        },
+        "disclaimer": {
+          "title": "14. Afwijzing van aansprakelijkheid",
+          "content": "DE DIENST WORDT AANGEBODEN ‘AS IS’ EN ‘AS AVAILABLE’, ZONDER ENIGE GARANTIES, EXPLICIET OF IMPLICIET, WAARONDER STILZWIJGENDE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN NIET‑INBREUK."
+        },
+        "limitation": {
+          "title": "15. Beperking van aansprakelijkheid",
+          "content": "Voor zover wettelijk toegestaan, zijn Aeonova en haar gelieerde ondernemingen niet aansprakelijk voor enige indirecte, incidentele, speciale, gevolg‑, voorbeeld‑ of punitieve schade, of enig verlies aan winst of inkomsten, direct of indirect ontstaan, of enig verlies van gegevens, gebruik of goodwill, voortvloeiend uit je gebruik van de dienst."
+        },
+        "indemnification": {
+          "title": "16. Vrijwaring",
+          "content": "Je stemt ermee in Aeonova, haar gelieerde ondernemingen en hun respectieve bestuurders, werknemers en agenten te vrijwaren en schadeloos te stellen voor claims, aansprakelijkheden, schade, verliezen en kosten (inclusief redelijke advocaatkosten) voortvloeiend uit je gebruik van de dienst of schending van deze voorwaarden."
+        },
+        "termination": {
+          "title": "17. Beëindiging van accounts",
+          "content": "Je account kan in de volgende gevallen worden beëindigd:",
+          "items": {
+            "violation": "Schending van de servicevoorwaarden",
+            "illegal": "Illegale activiteiten",
+            "spam": "Spam of misbruik"
+          }
+        },
+        "governingLaw": {
+          "title": "18. Toepasselijk recht en geschillenbeslechting",
+          "content": "Deze voorwaarden worden beheerst door de wetten van je woonland voor zover dwingende consumentenregels dit vereisen; anders door het Duitse recht, zonder rekening te houden met conflicterende rechtsprincipes.",
+          "items": {
+            "venue": "Bevoegde rechtbanken hebben exclusieve jurisdictie, tenzij toepasselijke wet anders bepaalt",
+            "eu": "EU‑consumenten hebben mogelijk recht op het EU‑platform voor online geschillenbeslechting"
+          }
+        },
+        "changes": {
+          "title": "19. Wijzigingen in de voorwaarden",
+          "content": "We kunnen deze voorwaarden van tijd tot tijd aanpassen. Bij materiële wijzigingen geven we passende kennisgeving zoals wettelijk vereist. Verder gebruik van de dienst na inwerkingtreding geldt als aanvaarding van de bijgewerkte voorwaarden."
+        },
+        "contact": {
+          "title": "20. Contact",
+          "content": "Voor vragen over onze servicevoorwaarden:",
+          "email": "E‑mail: legal@aeonova.com",
+          "support": "Support: support@aeonova.com"
+        }
+      }
+    },
+    "gdpr": {
+      "title": "GDPR‑naleving",
+      "subtitle": "Algemene Verordening Gegevensbescherming (EU)",
+      "lastUpdated": "Laatst bijgewerkt: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "GDPR‑samenvatting",
+        "howToExercise": "Hoe uit te oefenen:",
+        "timeframe": "Termijn:",
+        "limitations": "Beperkingen:",
+        "effect": "Effect:"
+      },
+      "summary": "Wij zetten ons volledig in voor de bescherming van je persoonsgegevens in overeenstemming met de GDPR. Dit beleid legt je rechten uit, hoe we je gegevens verwerken en onze toewijding aan gegevensbescherming.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Inleiding",
+          "subtitle": "GDPR‑naleving begrijpen",
+          "description": "De GDPR is een uitgebreide privacywet die jou controle geeft over je persoonsgegevens. Als verantwoordelijke AI‑organisatie zorgt Aeonova voor volledige naleving, met transparantie, controle en veiligheid over je informatie.",
+          "scope": {
+            "title": "Reikwijdte van de GDPR:",
+            "items": {
+              "whoIsProtected": "Alle EU‑ingezetenen, ongeacht hun huidige locatie",
+              "whatIsProtected": "Elke persoonsgegeven die je direct of indirect kan identificeren",
+              "whenApplies": "Zodra we je persoonsgegevens voor welk doel dan ook verwerken",
+              "whereApplies": "All onze diensten, inclusief mobiele app en website"
+            }
+          }
+        },
+        "principles": {
+          "title": "🔒 Beginselen van gegevensbescherming",
+          "subtitle": "Onze basis",
+          "description": "We houden ons aan de fundamentele GDPR‑beginselen in al onze verwerkingen:",
+          "lawfulness": {
+            "title": "1. Rechtmatigheid, behoorlijkheid & transparantie",
+            "description": "We verwerken je gegevens rechtmatig, eerlijk en transparant",
+            "details": {
+              "lawful": "Verwerking is gebaseerd op geldige gronden (toestemming, overeenkomst, gerechtvaardigd belang)",
+              "fair": "We gebruiken je gegevens niet op onverwachte of schadelijke manieren",
+              "transparent": "We leggen in duidelijke taal uit wat we met je gegevens doen"
+            }
+          },
+          "purposeLimitation": {
+            "title": "2. Doelbinding",
+            "description": "Gegevens worden alleen verzameld en gebruikt voor specifieke, uitdrukkelijke en legitieme doelen",
+            "details": {
+              "specific": "We definiëren per gegeven waarom we het nodig hebben",
+              "explicit": "Doelen zijn helder en niet verborgen in complexe tekst",
+              "legitimate": "Alle doelen dienen echte behoeften van gebruikers of bedrijf"
+            }
+          },
+          "dataMinimization": {
+            "title": "3. Dataminimalisatie",
+            "description": "We verzamelen alleen wat noodzakelijk is",
+            "details": {
+              "adequate": "Voldoende gegevens om onze diensten effectief te leveren",
+              "relevant": "Alle verzamelde gegevens zijn relevant voor het doel",
+              "limited": "We verzamelen geen bovenmatige of onnodige informatie"
+            }
+          },
+          "accuracy": {
+            "title": "4. Nauwkeurigheid",
+            "description": "We houden je gegevens accuraat en up‑to‑date",
+            "details": {
+              "current": "We bieden tools om je informatie bij te werken",
+              "correction": "Onnauwkeurige gegevens worden zonder uitstel gecorrigeerd of verwijderd",
+              "verification": "We verifiëren de juistheid bij verwerking van belangrijke informatie"
+            }
+          },
+          "storageLimitation": {
+            "title": "5. Opslagbeperking",
+            "description": "We bewaren gegevens niet langer dan nodig",
+            "details": {
+              "retention": "Heldere bewaartermijnen voor verschillende datatypes",
+              "review": "Regelmatige review en verwijdering van niet‑meer‑noodzakelijke gegevens",
+              "purpose": "Gegevens worden verwijderd zodra het doel vervalt"
+            }
+          },
+          "security": {
+            "title": "6. Integriteit & vertrouwelijkheid",
+            "description": "We beschermen je gegevens met passende beveiligingsmaatregelen",
+            "details": {
+              "protection": "Technische en organisatorische maatregelen tegen onbevoegde toegang",
+              "confidentiality": "Je gegevens blijven vertrouwelijk en veilig",
+              "integrity": "We zorgen dat gegevens niet worden gewijzigd of beschadigd"
+            }
+          },
+          "accountability": {
+            "title": "7. Verantwoordingsplicht",
+            "description": "We zijn verantwoordelijk voor en tonen naleving van deze beginselen",
+            "details": {
+              "documentation": "We houden registers bij van alle verwerkingsactiviteiten",
+              "policies": "Heldere interne beleidslijnen en procedures",
+              "training": "Regelmatige training van medewerkers over gegevensbescherming"
+            }
+          }
+        },
+        "rights": {
+          "title": "👥 Jouw GDPR‑rechten",
+          "subtitle": "Je volledige rechtenpakket",
+          "description": "De GDPR geeft je uitgebreide rechten over je persoonsgegevens. Dit kun je doen:",
+          "information": {
+            "title": "1. 📋 Recht op informatie",
+            "description": "Je hebt het recht te weten hoe je gegevens worden verwerkt",
+            "includes": {
+              "title": "Dit omvat kennis van:",
+              "items": {
+                "purposes": "Waarom we je gegevens verwerken",
+                "categories": "Welke soorten gegevens we verzamelen",
+                "recipients": "Met wie gegevens worden gedeeld (indien van toepassing)",
+                "retention": "Hoelang we je gegevens bewaren",
+                "rights": "Welke rechten je hebt",
+                "sources": "Waar we je gegevens vandaan hebben"
+              }
+            },
+            "howToExercise": "Dit privacybeleid biedt de meeste informatie. Voor specifieke details kun je contact opnemen."
+          },
+          "access": {
+            "title": "2. 🔍 Recht op inzage",
+            "description": "Je kunt een kopie opvragen van alle gegevens die we over je hebben",
+            "includes": {
+              "title": "Je ontvangt:",
+              "items": {
+                "copy": "Een complete kopie van je persoonsgegevens",
+                "format": "Gegevens in een gestructureerd, machine‑leesbaar formaat (JSON)",
+                "details": "Informatie over de verwerking",
+                "sources": "Bronnen van de gegevens",
+                "recipients": "Met wie de gegevens zijn gedeeld"
+              }
+            },
+            "howToExercise": "Vraag dit aan via de appinstellingen of per e‑mail naar dpo@aeonova.com. Het eerste verzoek is gratis; extra verzoeken kunnen kosten met zich meebrengen.",
+            "timeframe": "We reageren binnen 30 dagen"
+          },
+          "rectification": {
+            "title": "3. ✏️ Recht op rectificatie",
+            "description": "Je kunt onjuiste of onvolledige gegevens laten corrigeren",
+            "includes": {
+              "title": "Je kunt:",
+              "items": {
+                "correct": "Onjuiste persoonsgegevens corrigeren",
+                "complete": "Ontbrekende informatie aanvullen",
+                "update": "Verouderde informatie bijwerken",
+                "verify": "Ons vragen de juistheid te verifiëren"
+              }
+            },
+            "howToExercise": "Werk direct bij in de app of neem contact op voor gegevens die je zelf niet kunt wijzigen",
+            "timeframe": "Indien mogelijk direct; complexe zaken binnen 30 dagen"
+          },
+          "erasure": {
+            "title": "4. 🗑️ Recht op verwijdering (recht om vergeten te worden)",
+            "description": "Je kunt vragen om je persoonsgegevens te verwijderen",
+            "conditions": {
+              "title": "Je kunt verwijdering vragen wanneer:",
+              "items": {
+                "unnecessary": "Gegevens niet langer nodig zijn voor het oorspronkelijke doel",
+                "consent": "Je je toestemming intrekt en er geen andere grond is",
+                "objection": "Je bezwaar maakt en er geen zwaarder wegende gerechtvaardigde gronden zijn",
+                "unlawful": "Gegevens onrechtmatig zijn verwerkt",
+                "legal": "Verwijdering wettelijk vereist is"
+              }
+            },
+            "limitations": {
+              "title": "We kunnen verwijderen weigeren als gegevens nodig zijn voor:",
+              "items": {
+                "legal": "Wettelijke naleving of rechtsvorderingen",
+                "public": "Algemeen belang of historisch onderzoek",
+                "freedom": "Uitoefening van het recht op vrijheid van meningsuiting"
+              }
+            },
+            "howToExercise": "Verwijder je account via de appinstellingen of mail dpo@aeonova.com",
+            "timeframe": "Accountverwijdering binnen 7 dagen; volledige dataverwijdering binnen 30 dagen"
+          },
+          "portability": {
+            "title": "5. 📦 Recht op dataportabiliteit",
+            "description": "Je kunt je gegevens in een overdraagbaar formaat ontvangen of naar een andere dienst laten sturen",
+            "includes": {
+              "title": "Je kunt:",
+              "items": {
+                "receive": "Je gegevens ontvangen in JSON of CSV",
+                "transfer": "Ons vragen gegevens direct over te dragen naar een andere dienst (waar technisch haalbaar)",
+                "export": "Je herinneringen, chathistorie en instellingen exporteren"
+              }
+            },
+            "limitations": "Geldt alleen voor gegevens die je hebt verstrekt en die geautomatiseerd worden verwerkt op basis van toestemming of overeenkomst",
+            "howToExercise": "Gebruik de exportfunctie in de app of dien een verzoek in via dpo@aeonova.com",
+            "timeframe": "Direct beschikbaar in de app; maatwerkverzoeken binnen 30 dagen"
+          },
+          "objection": {
+            "title": "6. ✋ Recht van bezwaar",
+            "description": "Je kunt bezwaar maken tegen bepaalde vormen van verwerking",
+            "types": {
+              "general": {
+                "title": "Algemeen bezwaar",
+                "description": "Bezwaar tegen verwerking op basis van gerechtvaardigd belang",
+                "effect": "We stoppen de verwerking tenzij we dwingende gerechtvaardigde gronden aantonen"
+              },
+              "directMarketing": {
+                "title": "Direct marketing",
+                "description": "Bezwaar tegen elke vorm van marketingcommunicatie",
+                "effect": "We stoppen direct alle marketing naar jou"
+              },
+              "profiling": {
+                "title": "Geautomatiseerde besluitvorming & profilering",
+                "description": "Bezwaar tegen geautomatiseerde beslissingen die je significant raken",
+                "effect": "We herzien geautomatiseerde beslissingen en voorzien waar passend in menselijke beoordeling"
+              }
+            },
+            "howToExercise": "Marketing: afmelden via links of appinstellingen. Overig bezwaar: neem contact op met dpo@aeonova.com"
+          }
+        },
+        "contact": {
+          "title": "📞 Contact over GDPR",
+          "subtitle": "Neem contact op",
+          "description": "Voor vragen of verzoeken over GDPR en gegevensbescherming:",
+          "dpo": {
+            "title": "Data Protection Officer (DPO)",
+            "email": "dpo@aeonova.com",
+            "role": "Onze DPO houdt toezicht op alle activiteiten rondom gegevensbescherming en GDPR‑naleving"
+          },
+          "requests": {
+            "title": "GDPR‑rechtenverzoeken",
+            "email": "gdpr@aeonova.com",
+            "description": "Voor het uitoefenen van GDPR‑rechten (inzage, verwijdering, etc.)"
+          },
+          "complaints": {
+            "title": "Klachten en zorgen",
+            "email": "privacy@aeonova.com",
+            "description": "Voor privacy‑zorgen of klachten over onze gegevensverwerking"
+          },
+          "general": {
+            "title": "Algemene vragen",
+            "email": "support@aeonova.com",
+            "description": "Voor algemene vragen over onze privacypraktijken"
+          },
+          "response": {
+            "title": "Reactietijden",
+            "standard": "Standaardverzoeken: binnen 30 dagen",
+            "complex": "Complexe verzoeken: kan worden verlengd tot 90 dagen met toelichting",
+            "urgent": "Dringende beveiligingskwesties: binnen 72 uur"
+          },
+          "information": {
+            "title": "Vermeld bij contact aub",
+            "items": {
+              "identification": "Je naam en e‑mail gekoppeld aan je account",
+              "request": "Heldere omschrijving van je verzoek of zorg",
+              "details": "Relevante details of referentienummers",
+              "preference": "Je voorkeur voor wijze van reageren"
+            }
+          },
+          "languages": {
+            "title": "Taalondersteuning",
+            "description": "We kunnen reageren in het Engels, Duits of Turks"
+          }
+        }
+      }
+    },
+    "cookies": {
+      "title": "Cookiebeleid",
+      "subtitle": "Gebruik van cookies en vergelijkbare technologieën op onze website",
+      "lastUpdated": "Laatst bijgewerkt: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "summaryTitle": "Samenvatting",
+      "summary": "Dit beleid legt uit hoe Aeonova cookies en vergelijkbare trackingtechnologieën gebruikt op onze website. Onze hoofdservice is de mobiele app; deze website is primair bedoeld voor informatie en downloads.",
+      "sections": {
+        "introduction": {
+          "title": "📝 Inleiding",
+          "description": "Dit Cookiebeleid legt uit wat cookies zijn, hoe wij ze op de Aeonova‑website gebruiken en hoe je je cookievoorkeuren kunt beheren. Door onze website te blijven gebruiken ga je akkoord met dit beleid."
+        },
+        "whatAreCookies": {
+          "title": "🍪 Wat zijn cookies?",
+          "description": "Cookies zijn kleine tekstbestanden die op je apparaat worden opgeslagen wanneer je een website bezoekt. Ze worden breed gebruikt om websites efficiënter te laten werken en om informatie aan website‑eigenaren te verschaffen.",
+          "details": {
+            "purpose": "Doeleinden van cookies:",
+            "items": {
+              "functionality": "Basisfunctionaliteit en navigatie van de website mogelijk maken",
+              "personalization": "Je voorkeuren en instellingen onthouden",
+              "analytics": "Ons helpen begrijpen hoe bezoekers de site gebruiken",
+              "performance": "Website‑prestaties en laadtijden verbeteren"
+            }
+          },
+          "types": {
+            "title": "Cookietypen naar duur:",
+            "session": "Sessiecookies: worden verwijderd wanneer je de browser sluit",
+            "persistent": "Persistente cookies: blijven op je apparaat voor een ingestelde periode of tot handmatige verwijdering"
+          }
+        },
+        "typesOfCookies": {
+          "title": "🔍 Soorten cookies die we gebruiken",
+          "description": "We categoriseren onze cookies op basis van doel en functionaliteit:",
+          "essential": {
+            "title": "1. 🔒 Essentiële cookies (altijd actief)",
+            "description": "Deze cookies zijn noodzakelijk voor het goed functioneren van de website en kunnen in onze systemen niet worden uitgeschakeld.",
+            "items": {
+              "language": "Taalvoorkeur: slaat je geselecteerde taal op",
+              "security": "Beveiligingscookies: CSRF‑tokens en andere beveiligingsmaatregelen",
+              "session": "Sessiebeheer: behoudt je sessiestatus tussen pagina’s",
+              "consent": "Cookie‑toestemming: onthoudt je voorkeuren en keuzes"
+            },
+            "note": "⚠️ Deze cookies kunnen niet worden uitgeschakeld omdat ze essentieel zijn",
+            "legalBasis": "Wettelijke grondslag: gerechtvaardigd belang (noodzakelijk voor dienstverlening)"
+          },
+          "performance": {
+            "title": "2. 📊 Prestatie‑ & analytische cookies (optioneel)",
+            "description": "Deze cookies helpen ons te begrijpen hoe bezoekers de website gebruiken door anonieme informatie te verzamelen.",
+            "items": {
+              "loadTimes": "Pagina‑prestaties: meet laadtijden en prestatie‑indicatoren",
+              "errorTracking": "Foutrapportage: volgt anoniem JavaScript‑fouten en technische issues",
+              "usageStats": "Gebruikstatistieken: bezochte pagina’s en populaire content",
+              "userFlow": "Gebruikerspad: hoe bezoekers door de site navigeren"
+            },
+            "note": "✅ Je kunt deze cookies weigeren zonder functieverlies van de website",
+            "legalBasis": "Wettelijke grondslag: jouw uitdrukkelijke toestemming",
+            "retention": "Bewaartermijn: maximaal 90 dagen"
+          },
+          "marketing": {
+            "title": "3. 🎯 Marketing‑ & advertentiecookies (momenteel niet gebruikt)",
+            "description": "We gebruiken op dit moment geen marketingcookies; als we ze in de toekomst toevoegen, dan alleen met jouw toestemming.",
+            "items": {
+              "targetedAds": "Gerichte advertenties op basis van interesses",
+              "socialMedia": "Sociale‑media‑integratie",
+              "remarketing": "Remarketing",
+              "crossSite": "Cross‑site tracking"
+            },
+            "note": "🚫 Niet geïmplementeerd – vereist expliciete toestemming indien later toegevoegd",
+            "future": "Als we deze cookies in de toekomst gebruiken, vragen we eerst om je toestemming en werken we dit beleid bij."
+          }
+        },
+        "thirdParty": {
+          "title": "🌐 Cookies van derden",
+          "description": "Onze website kan ingesloten content of diensten van derden bevatten. Deze diensten kunnen hun eigen cookies plaatsen:",
+          "current": {
+            "title": "Momenteel gebruikte diensten van derden:",
+            "items": {
+              "fonts": "Google Fonts: voor typografie (geen trackingcookies)",
+              "cdn": "Content Delivery Networks: voor snellere contentlevering",
+              "security": "Beveiligingsdiensten: voor DDoS‑bescherming en beveiligingsmonitoring"
+            }
+          },
+          "future": {
+            "title": "Mogelijke toekomstige diensten van derden:",
+            "items": {
+              "analytics": "Google Analytics: voor gedetailleerde website‑analyse",
+              "social": "Sociale‑media‑widgets: voor integratie",
+              "support": "Klantenondersteuningstools: voor live chat en support"
+            }
+          },
+          "note": "We informeren je altijd vóór implementatie van nieuwe diensten die trackingcookies gebruiken."
+        },
+        "mobileApp": {
+          "title": "📱 Gegevensopslag in de mobiele app",
+          "subtitle": "Belangrijk verschil",
+          "description": "De Aeonova‑mobiele app gebruikt geen webcookies. In plaats daarvan gebruikt de app veilige en efficiënte native opslagmethoden:",
+          "items": {
+            "localStorage": "Lokale versleutelde opslag: gebruikersgegevens veilig op je apparaat",
+            "keychain": "Keychain/Keystore: tokens in beveiligde opslag van het apparaat",
+            "appSettings": "App‑instellingen: opgeslagen binnen de sandbox van de app",
+            "offlineCache": "Offline mogelijkheden: cache voor offline gebruik",
+            "biometric": "Biometrische data: Face ID/Touch ID (lokaal opgeslagen, nooit verzonden)"
+          },
+          "security": {
+            "title": "Beveiliging van de app:",
+            "items": {
+              "encryption": "Alle data wordt versleuteld volgens industrienormen",
+              "localOnly": "Gevoelige data verlaat je apparaat nooit",
+              "secure": "Platformspecifieke beveiligingsfuncties (iOS Keychain, Android Keystore)",
+              "privacy": "Geen cross‑app tracking of datadeling"
+            }
+          }
+        },
+        "management": {
+          "title": "⚙️ Je cookies beheren",
+          "description": "Je hebt verschillende opties om cookies te beheren:",
+          "browserSettings": {
+            "title": "Browsersettings:",
+            "description": "Beheer cookies via je browserinstellingen:",
+            "items": {
+              "chrome": "Chrome: Instellingen → Privacy en beveiliging → Cookies en overige sitegegevens",
+              "firefox": "Firefox: Opties → Privacy & Beveiliging → Cookies en sitegegevens",
+              "safari": "Safari: Voorkeuren → Privacy → Beheer websitegegevens",
+              "edge": "Edge: Instellingen → Cookies en sitepermissies → Cookies en sitegegevens"
+            }
+          },
+          "ourSettings": {
+            "title": "Cookievoorkeuren op onze website:",
+            "description": "Je kunt je cookievoorkeuren voor deze website beheren:",
+            "items": {
+              "essential": "Essentiële cookies: niet uit te schakelen (vereist voor functionaliteit)",
+              "performance": "Prestatiecookies: aan/uit via de cookiebanner",
+              "marketing": "Marketingcookies: momenteel niet gebruikt, in de toekomst opt‑in"
+            }
+          },
+          "consequences": {
+            "title": "⚠️ Cookies uitschakelen:",
+            "description": "Als je bepaalde cookies uitschakelt, werken sommige functies mogelijk niet goed:",
+            "items": {
+              "language": "Je taalvoorkeur wordt niet onthouden",
+              "navigation": "Sommige navigatiefuncties kunnen worden beïnvloed",
+              "performance": "We kunnen prestaties niet verbeteren op basis van gebruiksdata"
+            }
+          }
+        },
+        "updates": {
+          "title": "🔄 Updates van dit beleid",
+          "description": "We kunnen dit Cookiebeleid zo nodig bijwerken wegens operationele, wettelijke of andere redenen.",
+          "notification": "Wanneer we wijzigingen doorvoeren:",
+          "items": {
+            "notice": "Plaatsen we de bijgewerkte versie op deze pagina",
+            "effective": "Wijzigingen zijn direct van kracht na publicatie",
+            "major": "Bij belangrijke wijzigingen kunnen we extra melding doen",
+            "date": "De datum ‘Laatst bijgewerkt’ wordt aangepast"
+          },
+          "recommendation": "We raden aan dit beleid periodiek te bekijken"
+        },
+        "contact": {
+          "title": "📞 Vragen over cookies",
+          "subtitle": "Neem contact op",
+          "description": "Heb je vragen over ons cookiegebruik of dit beleid? Neem contact op:",
+          "methodsTitle": "Contactmethoden",
+          "methods": {
+            "email": "Algemene privacyvragen: privacy@aeonova.com",
+            "cookies": "Cookie‑specifieke vragen: cookies@aeonova.com",
+            "support": "Technische support: support@aeonova.com",
+            "dpo": "Data Protection Officer: dpo@aeonova.com"
+          },
+          "response": {
+            "title": "Reactietijden:",
+            "items": {
+              "general": "Algemene vragen: binnen 48 uur",
+              "privacy": "Privacyvragen: binnen 72 uur",
+              "urgent": "Dringende zaken: binnen 24 uur"
+            }
+          }
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "Beleid gegevensbewaring",
+      "subtitle": "Hoelang we je persoonsgegevens bewaren en waarom",
+      "lastUpdated": "Laatst bijgewerkt: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "Samenvatting",
+        "methods": "Methoden:",
+        "requirements": "Vereisten:",
+        "contacts": "Contacten:",
+        "responseTimes": "Reactietijden:",
+        "process": "Proces:"
+      },
+      "summary": "Dit uitgebreide beleid beschrijft hoelang we verschillende typen persoonsgegevens bewaren, de wettelijke grondslagen voor bewaring en je rechten met betrekking tot verwijdering. We streven naar dataminimalisatie en bewaren alleen zolang als noodzakelijk.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Inleiding",
+          "subtitle": "Gegevensbewaring begrijpen",
+          "description": "Gegevensbewaring verwijst naar hoelang we je persoonsgegevens in onze systemen bewaren. Dit beleid balanceert je privacyrechten met legitieme bedrijfsbehoeften en wettelijke verplichtingen.",
+          "keyPoints": {
+            "title": "Kernprincipes:",
+            "items": {
+              "minimization": "We verzamelen en bewaren alleen wat noodzakelijk is",
+              "purpose": "Bewaring alleen voor de doelen waarvoor gegevens zijn verzameld",
+              "lawful": "Bewaartermijnen gebaseerd op wet en gerechtvaardigd belang",
+              "transparent": "Transparant over hoelang we verschillende gegevens bewaren",
+              "secure": "Alle bewaarde gegevens zijn passend beveiligd"
+            }
+          }
+        },
+        "legalBasis": {
+          "title": "⚖️ Wettelijke grondslag voor bewaring",
+          "subtitle": "Waarom we je gegevens bewaren",
+          "description": "We bewaren persoonsgegevens op basis van meerdere grondslagen onder de GDPR en andere privacywetten:",
+          "bases": {
+            "contractual": {
+              "title": "1. 📝 Contractuele verplichtingen",
+              "description": "Gegevens die nodig zijn om onze diensten te leveren en onze overeenkomst na te komen",
+              "examples": {
+                "title": "Voorbeelden:",
+                "items": {
+                  "account": "Accountinformatie die nodig is voor Aeonova",
+                  "subscription": "Betalings‑ en abonnementsgegevens voor premiumfuncties",
+                  "support": "Klantsupport‑dossiers om problemen op te lossen",
+                  "preferences": "Voorkeuren en instellingen voor personalisatie"
+                }
+              }
+            },
+            "legal": {
+              "title": "2. 🏛️ Wettelijke naleving",
+              "description": "Gegevens die we moeten bewaren om aan wettelijke verplichtingen te voldoen",
+              "examples": {
+                "title": "Voorbeelden:",
+                "items": {
+                  "financial": "Financiële gegevens voor belasting en boekhouding (7 jaar)",
+                  "security": "Beveiligingslogs voor onderzoek naar fraude en misbruik (2 jaar)",
+                  "gdpr": "Toestemmingsrecords en verwerkingsregisters (3 jaar)",
+                  "disputes": "Gegevens met betrekking tot juridische geschillen tot afronding"
+                }
+              }
+            },
+            "legitimate": {
+              "title": "3. 🎯 Gerechtvaardigde belangen",
+              "description": "Gegevens die we bewaren voor legitieme bedrijfsdoelen, afgewogen tegen je privacyrechten",
+              "examples": {
+                "title": "Voorbeelden:",
+                "items": {
+                  "analytics": "Geanonimiseerde gebruiksdata om onze diensten te verbeteren (90 dagen)",
+                  "security": "Beveiligingsmonitoring ter bescherming van alle gebruikers (1 jaar)",
+                  "research": "Productontwikkeling en onderzoek (uitsluitend geanonimiseerde data)",
+                  "communications": "Marketingtoestemming en communicatievoorkeuren"
+                }
+              }
+            }
+          }
+        },
+        "categories": {
+          "title": "⏰ Gedetailleerde bewaartermijnen per categorie",
+          "subtitle": "Specifieke tijdlijnen",
+          "description": "Hieronder staan de specifieke bewaartermijnen voor verschillende datatypen:",
+          "account": {
+            "title": "👤 Account‑ en profielinformatie",
+            "headings": {
+              "basicProfile": "Basisprofiel",
+              "preferences": "Voorkeuren",
+              "subscription": "Abonnement",
+              "authentication": "Authenticatie"
+            },
+            "items": {
+              "basic": {
+                "data": "Gebruikersnaam, leeftijd, avatar, profielinstellingen",
+                "period": "Zolang het account actief is + 30 dagen na verwijdering",
+                "basis": "Contractuele noodzaak",
+                "deletion": "Automatisch verwijderd 30 dagen na accountverwijdering"
+              },
+              "preferences": {
+                "data": "Taalvoorkeur, app‑instellingen, notificatievoorkeuren",
+                "period": "Zolang het account actief is",
+                "basis": "Contractuele noodzaak en gerechtvaardigd belang",
+                "deletion": "Direct bij accountverwijdering"
+              },
+              "subscription": {
+                "data": "Premiumabonnement en betalingsgeschiedenis",
+                "period": "Abonnementsperiode + 7 jaar",
+                "basis": "Wettelijke naleving (financiële administratie)",
+                "deletion": "Automatisch verwijderd na de bewaartermijn"
+              },
+              "authentication": {
+                "data": "Inloggegevens, beveiligingstokens",
+                "period": "Zolang account actief is + 30 dagen",
+                "basis": "Contractuele noodzaak en veiligheid",
+                "deletion": "Onmiddellijk ongeldig bij accountverwijdering"
+              }
+            },
+            "note": "💡 Accountverwijdering is onomkeerbaar na de periode van 30 dagen."
+          },
+          "content": {
+            "title": "💬 Chat‑ en contentgegevens",
+            "headings": {
+              "chatHistory": "Chathistorie",
+              "privateMemories": "Privéherinneringen",
+              "sharedMemories": "Gedeelde herinneringen",
+              "aiComments": "AI‑reacties",
+              "userFeedback": "Gebruikersfeedback"
+            },
+            "items": {
+              "chatHistory": {
+                "data": "AI‑gesprekken en berichtenhistorie",
+                "period": "Lokaal op apparaat: onbeperkt / Servercache: 30 dagen",
+                "basis": "Contractuele noodzaak",
+                "deletion": "Serverdata na 30 dagen verwijderd; lokale data onder controle van gebruiker"
+              },
+              "privateMemories": {
+                "data": "Persoonlijke dagboeknotities en privéherinneringen",
+                "period": "Door gebruiker beheerd – op elk moment te verwijderen",
+                "basis": "Contractuele noodzaak",
+                "deletion": "Onmiddellijk bij verwijdering door gebruiker of accountverwijdering"
+              },
+              "sharedMemories": {
+                "data": "Openbaar gedeelde herinneringen en posts",
+                "period": "Zolang gedeeld + 1 jaar na verwijdering",
+                "basis": "Gerechtvaardigd belang (moderatie)",
+                "deletion": "1 jaar beschikbaar voor moderatie, daarna definitief verwijderd"
+              },
+              "aiComments": {
+                "data": "Door AI gegenereerde reacties en antwoorden",
+                "period": "Zelfde als de gekoppelde content",
+                "basis": "Contractuele noodzaak",
+                "deletion": "Verwijderd samen met de gekoppelde content"
+              },
+              "userFeedback": {
+                "data": "Beoordelingen en feedback op AI‑reacties",
+                "period": "2 jaar (na 90 dagen geanonimiseerd)",
+                "basis": "Gerechtvaardigd belang (dienstverbetering)",
+                "deletion": "Geanonimiseerd na 90 dagen, volledig verwijderd na 2 jaar"
+              }
+            },
+            "note": "💡 De meeste chatdata staat lokaal op je apparaat voor privacy. Servercache is minimaal en alleen voor performance."
+          },
+          "technical": {
+            "title": "🔧 Technische en systeemdata",
+            "headings": {
+              "usageLogs": "Gebruikslogs",
+              "errorReports": "Foutrapporten",
+              "securityLogs": "Beveiligingslogs",
+              "deviceInfo": "Apparaatgegevens",
+              "notifications": "Notificaties"
+            },
+            "items": {
+              "usageLogs": {
+                "data": "App‑gebruikspatronen, feature‑gebruik, sessiegegevens",
+                "period": "90 dagen (geanonimiseerd na 30 dagen)",
+                "basis": "Gerechtvaardigd belang (dienstverbetering)",
+                "deletion": "Persoonsidentificatoren verwijderd na 30 dagen, alles verwijderd na 90 dagen"
+              },
+              "errorReports": {
+                "data": "Crashrapporten, foutlogs, prestatiegegevens",
+                "period": "1 jaar (direct geanonimiseerd)",
+                "basis": "Gerechtvaardigd belang (technische verbetering)",
+                "deletion": "Geen persoonsgegevens; technische data verwijderd na 1 jaar"
+              },
+              "securityLogs": {
+                "data": "Inlogpogingen, beveiligingsincidenten, fraudedetectie",
+                "period": "2 jaar",
+                "basis": "Gerechtvaardigd belang en wettelijke naleving",
+                "deletion": "Automatisch verwijderd na 2 jaar"
+              },
+              "deviceInfo": {
+                "data": "Type apparaat, OS‑versie, app‑versie",
+                "period": "Zolang account actief is + 30 dagen",
+                "basis": "Contractuele noodzaak (compatibiliteit)",
+                "deletion": "Verwijderd bij accountverwijdering"
+              },
+              "notifications": {
+                "data": "Push‑tokens, bezorglogs",
+                "period": "Zolang het account actief is",
+                "basis": "Contractuele noodzaak",
+                "deletion": "Onmiddellijk ongeldig bij accountverwijdering of afmelding"
+              }
+            },
+            "note": "💡 Technische data wordt primair gebruikt voor prestatie en veiligheid. Persoonsidentificatoren worden zo snel mogelijk verwijderd."
+          },
+          "communications": {
+            "title": "📧 Communicatie en support",
+            "headings": {
+              "supportTickets": "Supporttickets",
+              "marketingConsent": "Marketingtoestemming",
+              "contactForms": "Contactformulieren"
+            },
+            "items": {
+              "supportTickets": {
+                "data": "Klantgesprekken en supporttickets",
+                "period": "3 jaar na oplossing",
+                "basis": "Gerechtvaardigd belang (klantenservice)",
+                "deletion": "Automatisch verwijderd na 3 jaar"
+              },
+              "marketingConsent": {
+                "data": "E‑mailmarketingtoestemming en voorkeuren",
+                "period": "Tot intrekking + 1 jaar",
+                "basis": "Toestemming en wettelijke naleving",
+                "deletion": "Direct bij intrekking, met 1 jaar audittrail"
+              },
+              "contactForms": {
+                "data": "Inzendingen via contactformulieren",
+                "period": "2 jaar",
+                "basis": "Gerechtvaardigd belang (zakelijke communicatie)",
+                "deletion": "Automatisch verwijderd na 2 jaar"
+              }
+            }
+          }
+        },
+        "automaticDeletion": {
+          "title": "🤖 Automatische gegevensverwijdering",
+          "subtitle": "Geautomatiseerde processen",
+          "description": "We hebben geautomatiseerde systemen om verwijdering conform onze bewaarschema’s te waarborgen:",
+          "processes": {
+            "daily": {
+              "title": "Dagelijkse opschoning (elke 24 uur)",
+              "items": {
+                "expired": "Verlopen sessietokens en tijdelijke data",
+                "cache": "Verlopen cache en tijdelijke bestanden",
+                "logs": "Rotatie van logs die bewaartermijnen overschrijden"
+              }
+            },
+            "weekly": {
+              "title": "Wekelijkse opschoning (zondagen)",
+              "items": {
+                "accounts": "Accounts gemarkeerd voor verwijdering na de respijtperiode",
+                "anonymization": "Anoniem maken van gebruiksdata ouder dan 30 dagen",
+                "backups": "Opschonen van back‑ups die bewaartermijnen overschrijden"
+              }
+            },
+            "monthly": {
+              "title": "Maandelijkse opschoning (elke 1e)",
+              "items": {
+                "technical": "Technische logs en foutrapporten buiten bewaartermijnen",
+                "analytics": "Analysetdata buiten de 90‑dagen bewaartermijn",
+                "audit": "Volledige audit van naleving van bewaring"
+              }
+            },
+            "annual": {
+              "title": "Jaarlijkse review (1 januari)",
+              "items": {
+                "policies": "Bewaartermijnen herzien en bijwerken",
+                "compliance": "Volledige nalevingsaudit en documentatie",
+                "systems": "Geautomatiseerde verwijderingssystemen bijwerken"
+              }
+            }
+          },
+          "monitoring": {
+            "title": "Monitoring en verificatie",
+            "items": {
+              "alerts": "Automatische waarschuwingen bij schending van bewaarbeleid",
+              "reports": "Maandelijkse rapportages over naleving",
+              "audits": "Regelmatige audits van verwijderingsprocessen",
+              "verification": "Verificatie dat verwijderde data niet herstelbaar is"
+            }
+          }
+        },
+        "accountStatus": {
+          "title": "🔄 Bewaring per accountstatus",
+          "subtitle": "Verschillende scenario’s",
+          "active": {
+            "title": "🟢 Actieve accounts",
+            "description": "Voor accounts die actief en in goede staat zijn:",
+            "items": {
+              "normalStorage": "Alle data volgens standaardbewaartermijnen",
+              "userControl": "Gebruikers kunnen altijd hun eigen data verwijderen",
+              "backups": "Regelmatige versleutelde back‑ups voor herstel",
+              "security": "Volledige beveiligingsmaatregelen en monitoring",
+              "updates": "Data kan door de gebruiker worden bijgewerkt",
+              "export": "Gebruikers kunnen op elk moment data exporteren"
+            }
+          },
+          "inactive": {
+            "title": "🟡 Inactieve accounts",
+            "description": "Voor accounts die langer niet zijn gebruikt:",
+            "items": {
+              "warning": "E‑mailwaarschuwing na 12 maanden inactiviteit",
+              "finalNotice": "Laatste waarschuwing na 18 maanden",
+              "deletion": "Account gemarkeerd voor verwijdering na 24 maanden",
+              "gracePeriod": "30 dagen respijt vóór definitieve verwijdering",
+              "dataMinimization": "Niet‑essentiële data kan tijdens inactiviteit worden verwijderd"
+            },
+            "note": "💡 Je kunt je account op elk moment opnieuw activeren door in te loggen; de inactiviteitstimer wordt dan gereset."
+          },
+          "deleted": {
+            "title": "🔴 Verwijderde accounts",
+            "description": "Wanneer je accountverwijdering aanvraagt:",
+            "items": {
+              "gracePeriod": "30 dagen respijt waarin je je account kunt herstellen",
+              "immediateActions": "Inloggegevens worden direct ongeldig gemaakt",
+              "dataReview": "Persoonsgegevens worden beoordeeld op wettelijke bewaarplichten",
+              "permanentDeletion": "Na de respijtperiode wordt alle data definitief verwijderd",
+              "legalException": "Alleen wettelijk vereiste data blijft (geanonimiseerd waar mogelijk)",
+              "noRecovery": "Na de respijtperiode is herstel niet mogelijk",
+              "confirmation": "E‑mailbevestiging bij voltooiing van verwijdering"
+            }
+          },
+          "suspended": {
+            "title": "🚫 Geschorste accounts",
+            "description": "Voor accounts die zijn geschorst vanwege schendingen:",
+            "items": {
+              "retention": "Data wordt bewaard tijdens de schorsing voor onderzoek",
+              "appeal": "Data beschikbaar voor bezwaarprocedure (tot 90 dagen)",
+              "deletion": "Bij permanente schorsing geldt het normale verwijderproces",
+              "reinstatement": "Bij opheffing van schorsing gelden weer de normale bewaartermijnen"
+            }
+          }
+        },
+        "userRights": {
+          "title": "👥 Jouw rechten inzake bewaring",
+          "subtitle": "Wat je kunt doen",
+          "description": "Je hebt diverse rechten over hoelang we je data bewaren:",
+          "access": {
+            "title": "🔍 Recht op inzage",
+            "description": "Je kunt informatie vragen over welke data we hebben en hoe lang we die bewaren",
+            "items": {
+              "request": "Dien een inzageverzoek in via e‑mail of in‑app",
+              "response": "We leveren binnen 30 dagen een volledig rapport",
+              "format": "Data in een gestructureerd, machine‑leesbaar formaat",
+              "frequency": "Eén keer per jaar gratis inzage"
+            }
+          },
+          "deletion": {
+            "title": "🗑️ Recht op verwijdering",
+            "description": "Je kunt in bepaalde gevallen verwijdering vragen",
+            "items": {
+              "immediate": "Accountverwijdering via appinstellingen (direct verwerkt)",
+              "selective": "Selectieve verwijdering van specifieke categorieën",
+              "legal": "We kunnen weigeren als wetgeving vereist dat we bewaren",
+              "verification": "Identiteitsverificatie is vereist voor verwijderingsverzoeken"
+            }
+          },
+          "portability": {
+            "title": "📦 Recht op dataportabiliteit",
+            "description": "Je kunt een overdraagbare kopie van je gegevens opvragen",
+            "items": {
+              "export": "Download je data rechtstreeks vanuit de app",
+              "format": "Data in JSON of CSV",
+              "scope": "Omvat al je persoonsgegevens bij ons",
+              "transfer": "Te gebruiken om naar een andere dienst te verhuizen"
+            }
+          },
+          "objection": {
+            "title": "✋ Recht van bezwaar",
+            "description": "Je kunt bezwaar maken tegen bepaalde verwerkingen en bewaring",
+            "items": {
+              "marketing": "Direct afmelden voor bewaring t.b.v. marketing",
+              "analytics": "Bezwaar tegen verzamelen en bewaren van analytics",
+              "profiling": "Bezwaar tegen geautomatiseerde besluitvorming en profilering",
+              "legitimate": "Bewaring op basis van gerechtvaardigd belang aanvechten"
+            }
+          }
+        },
+        "specialCircumstances": {
+          "title": "⚖️ Bijzondere omstandigheden",
+          "subtitle": "Uitgebreide bewaring",
+          "description": "In sommige situaties kan langere bewaring nodig zijn:",
+          "legal": {
+            "title": "🏛️ Juridische procedures",
+            "description": "Gegevens kunnen langer bewaard blijven bij juridische procedures",
+            "items": {
+              "litigation": "Bewaring tijdens lopende rechtszaken of onderzoek",
+              "subpoena": "Verlengde bewaring bij dagvaarding of rechterlijk bevel",
+              "investigation": "Onderzoek naar fraude of beveiliging kan langere bewaring vergen",
+              "notification": "We informeren je als je data onder juridisch voorbehoud valt"
+            }
+          },
+          "security": {
+            "title": "🔒 Beveiligingsincidenten",
+            "description": "Beveiligingsgerelateerde data kan bewaard blijven voor incidentrespons",
+            "items": {
+              "breaches": "Beveiligingslogs bewaard voor onderzoek en preventie van datalekken",
+              "forensics": "Digitale forensiek kan tijdelijke verlenging vereisen",
+              "patterns": "Geanonimiseerde data om aanvalspatronen te identificeren",
+              "reporting": "Bewaring voor wettelijke rapportagevereisten"
+            }
+          },
+          "financial": {
+            "title": "💰 Financiële verplichtingen",
+            "description": "Financiële data kan langere bewaartermijnen hebben",
+            "items": {
+              "tax": "Financiële dossiers 7 jaar voor fiscale doeleinden",
+              "audit": "Betalingsdata voor financiële audits",
+              "disputes": "Factuurgeschillen kunnen bewaring verlengen",
+              "refunds": "Restitutieperiodes kunnen invloed hebben op bewaring"
+            }
+          }
+        },
+        "dataLocations": {
+          "title": "🌍 Locaties en bewaring van data",
+          "subtitle": "Waar je data wordt opgeslagen",
+          "description": "Bewaartermijnen kunnen verschillen per opslaglocatie en toepasselijke wetgeving:",
+          "primary": {
+            "title": "Primaire opslag (EU/EER)",
+            "description": "Hoofdopslag in de Europese Economische Ruimte",
+            "items": {
+              "location": "Primaire servers in Duitsland en Nederland",
+              "law": "Onderworpen aan de GDPR en EU‑privacywetgeving",
+              "retention": "Standaardbewaartermijnen zoals in dit beleid",
+              "protection": "Volledige GDPR‑bescherming en rechten"
+            }
+          },
+          "backups": {
+            "title": "Back‑ups",
+            "description": "Versleutelde back‑ups voor disaster recovery",
+            "items": {
+              "locations": "Beveiligde locaties in de EU en Zwitserland",
+              "retention": "Back‑ups bewaard tot maximaal 1 jaar",
+              "encryption": "End‑to‑end versleuteling met gescheiden sleutelbeheer",
+              "deletion": "Back‑upverwijdering volgt hoofdgegevensverwijdering"
+            }
+          },
+          "cache": {
+            "title": "Cache en CDN",
+            "description": "Tijdelijke caching voor performance",
+            "items": {
+              "duration": "Cachedata bewaard tot maximaal 30 dagen",
+              "locations": "CDN‑nodes in meerdere regio’s",
+              "anonymization": "Geen persoonsidentificatoren in gecachte content",
+              "automatic": "Automatische vervaldatum en verwijdering"
+            }
+          }
+        },
+        "compliance": {
+          "title": "📜 Regelgevende naleving",
+          "subtitle": "Voldoen aan wettelijke vereisten",
+          "description": "Onze bewaarmethoden voldoen aan diverse internationale privacyregels:",
+          "gdpr": {
+            "title": "🇪🇺 GDPR (Algemene Verordening Gegevensbescherming)",
+            "items": {
+              "lawfulness": "Alle bewaring gebaseerd op rechtmatige verwerkingsgronden",
+              "minimization": "Strikte naleving van dataminimalisatie",
+              "rights": "Volledige implementatie van rechten van betrokkenen",
+              "accountability": "Documentatie van alle bewaarbeslissingen"
+            }
+          },
+          "ccpa": {
+            "title": "🇺🇸 CCPA (California Consumer Privacy Act)",
+            "items": {
+              "disclosure": "Heldere openbaarmaking van bewaartermijnen",
+              "deletion": "Recht op verwijdering binnen 45 dagen",
+              "categories": "Gedetailleerde categorisering van persoonsgegevens",
+              "business": "Zakelijke doelen voor elke bewaartermijn helder gedefinieerd"
+            }
+          },
+          "other": {
+            "title": "🌐 Overige regelgeving",
+            "items": {
+              "pipeda": "PIPEDA‑naleving voor Canadese gebruikers",
+              "lgpd": "LGPD‑naleving voor Braziliaanse gebruikers",
+              "pdpa": "PDPA‑naleving voor Singaporese gebruikers",
+              "local": "Naleving van overige toepasselijke lokale privacywetten"
+            }
+          }
+        },
+        "contact": {
+          "title": "📞 Contact en verzoeken",
+          "subtitle": "Hoe je ons bereikt",
+          "description": "Voor vragen of verzoeken m.b.t. gegevensbewaring:",
+          "deletion": {
+            "title": "🗑️ Verzoeken tot gegevensverwijdering",
+            "methods": {
+              "app": "Voorkeur: App‑instellingen → Account → Account verwijderen",
+              "email": "E‑mail: deletion@aeonova.com",
+              "form": "Online formulier: aeonova.com/delete-account"
+            },
+            "requirements": {
+              "verification": "Identiteitsverificatie vereist voor veiligheid",
+              "confirmation": "E‑mailbevestiging naar je geregistreerde adres",
+              "timeline": "Afhandeling binnen 7 werkdagen"
+            }
+          },
+          "questions": {
+            "title": "❓ Vragen over bewaring",
+            "contacts": {
+              "general": "Algemene vragen: retention@aeonova.com",
+              "dpo": "Data Protection Officer: dpo@aeonova.com",
+              "support": "Technische support: support@aeonova.com",
+              "legal": "Juridische zaken: legal@aeonova.com"
+            },
+            "response": {
+              "standard": "Standaardvragen: 5 werkdagen",
+              "complex": "Complexe zaken: 15 werkdagen",
+              "urgent": "Dringende verzoeken: 2 werkdagen"
+            }
+          },
+          "appeals": {
+            "title": "⚖️ Beroep en klachten",
+            "process": {
+              "internal": "Intern beroep: appeals@aeonova.com",
+              "external": "EU‑ingezetenen: neem contact op met je lokale toezichthouder",
+              "timeline": "Reactie op beroep binnen 30 dagen",
+              "escalation": "Escalatieproces beschikbaar voor onopgeloste zaken"
+            }
+          }
+        }
+      }
+    }
+  }
+}

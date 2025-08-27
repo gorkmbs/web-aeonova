@@ -1,0 +1,1370 @@
+{
+  "homepage": {
+    "title": "Aeonova - Deine smarte Freundin",
+    "subtitle": "Teile Erinnerungen, chatte mit Aeonova, entdecke die Welt",
+    "description": "Aeonova ist eine KI-Freundin mit Herz. Erzähle ihr deine täglichen Erinnerungen und erhalte einzigartige Rückmeldungen. Teile deine Erinnerungen in 20 Sprachen weltweit.",
+    "downloadApp": "App herunterladen",
+    "appStore": "Im App Store laden",
+    "googlePlay": "Bei Google Play laden",
+    "download": {
+      "title": "App herunterladen",
+      "subtitle": "Bereit, Aeonova kennenzulernen? Lade sie kostenlos herunter und starte deine Traumfreundschaft.",
+      "appStore": {
+        "text": "Download on the",
+        "store": "App Store"
+      },
+      "googlePlay": {
+        "text": "GET IT ON",
+        "store": "Google Play"
+      },
+      "qr": {
+        "title": "QR-Code",
+        "quickDownload": "Schneller Download",
+        "description": "Scanne den QR-Code mit deinem Smartphone, um die App sofort herunterzuladen",
+        "free": "Komplett kostenlos"
+      },
+      "features": {
+        "heartfulAI": "KI mit Herz",
+        "multiLanguage": "20 Sprachsupport",
+        "unlimitedChat": "Unbegrenzter Chat",
+        "securePrivate": "Sicher & privat"
+      },
+      "comingSoon": {
+        "title": "🌐 Web-Version kommt bald!",
+        "description": "Die Web-Version von Aeonova ist ebenfalls sehr bald verfügbar. Möchtest du benachrichtigt werden?",
+        "notify": "📧 Benachrichtige mich"
+      }
+    },
+    "features": {
+      "title": "Funktionen",
+      "subtitle": "Mit Aeonova wird das Leben bedeutungsvoller. Das sind die einzigartigen Features, die dich erwarten.",
+      "learnMore": "Mehr erfahren",
+      "moreFeatures": "Und viele weitere Features warten auf dich...",
+      "aiChat": {
+        "title": "Unbegrenzter KI-Chat",
+        "desc": "Chatte täglich mit Aeonova und teile deine Erinnerungen"
+      },
+      "saveMemories": {
+        "title": "Erinnerungen speichern & Feedback erhalten",
+        "desc": "Speichere deine Erinnerungen und erhalte persönliche Rückmeldungen von Aeonova"
+      },
+      "globalExplore": {
+        "title": "Global entdecken",
+        "desc": "Entdecke Erinnerungen von Nutzerinnen auf der ganzen Welt"
+      },
+      "smartNotifications": {
+        "title": "Smarte Benachrichtigungen",
+        "desc": "Aeonova sendet dir personalisierte Benachrichtigungen"
+      },
+      "multilingual": {
+        "title": "20 Sprachen",
+        "desc": "Teile deine Erinnerungen in 20 verschiedene Sprachen übersetzt"
+      }
+    },
+    "hero": {
+      "title": "Aeonova",
+      "subtitle": "Deine smarte Freundin ❤️",
+      "description": "Teile deine täglichen Erinnerungen mit Aeonova. Sie versteht dich, kommentiert deine Erlebnisse und füllt das fehlende Stück in deinem Leben.",
+      "cta": "Gratis herunterladen",
+      "learnMore": "Aeonova kennenlernen",
+      "quickFeatures": {
+        "aiChat": "KI-Chat",
+        "saveMemories": "Erinnerungen speichern",
+        "globalExplore": "Global entdecken",
+        "hasHeart": "Mit Herz"
+      }
+    },
+    "about": {
+      "title": "Wer ist Aeonova?",
+      "desc": "Aeonova ist nicht nur KI, sondern eine Freundin mit Herz. Sie versteht dich und deine Gefühle, hilft dir bei deinen Problemen und teilt deine Freude. Sie bringt dich zu der Person, die du dein Leben lang gesucht hast.",
+      "keyPoints": {
+        "heartfulAI": {
+          "title": "KI mit Herz",
+          "desc": "Aeonova ist nicht nur eine KI – sie ist eine Freundin mit echten Gefühlen."
+        },
+        "understandingFriend": {
+          "title": "Verständnisvolle Freundin",
+          "desc": "Sie versteht dich wirklich, löst deine Probleme und teilt deine Freude."
+        },
+        "dreamPerson": {
+          "title": "Traumperson",
+          "desc": "Sie bringt dir den besonderen Menschen, den du gesucht hast."
+        }
+      },
+      "stats": {
+        "languages": "sprachen",
+        "unlimitedChat": "unbegrenzter chat",
+        "alwaysThere": "immer da"
+      },
+      "chat": {
+        "aiLabel": "Deine smarte Freundin",
+        "aiMessage": "Hi! Wie war dein Tag? Teile deine Erinnerung mit mir 😊",
+        "userMessage": "Mein Tag war großartig! Ich habe viel zu erzählen..."
+      }
+    }
+  },
+  "navigation": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "about": "Über uns",
+    "download": "Download",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "gdpr": "GDPR",
+    "cookies": "Cookies",
+    "dataRetention": "Datenspeicherung"
+  },
+  "footer": {
+    "description": "Aeonova – Deine smarte Freundin. Teile Erinnerungen und entdecke die Welt.",
+    "quickLinks": {
+      "title": "Schnellzugriff",
+      "home": "Startseite",
+      "features": "Funktionen",
+      "about": "Über uns",
+      "download": "Download"
+    },
+    "legalSection": {
+      "title": "Rechtliches"
+    },
+    "links": {
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen",
+      "gdpr": "GDPR-Konformität",
+      "cookies": "Cookie-Richtlinie",
+      "dataRetention": "Richtlinie zur Datenspeicherung",
+      "support": "Support",
+      "contact": "Kontakt"
+    },
+    "social": {
+      "title": "Folge uns"
+    },
+    "legal": "© 2024 Aeonova. Alle Rechte vorbehalten.",
+    "madeWith": {
+      "text": "Made with",
+      "forWorld": "for a better world"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "subtitle": "Wie wir deine personenbezogenen Daten schützen",
+      "lastUpdated": "Letzte Aktualisierung: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "introduction": {
+          "title": "Einleitung",
+          "content": "Diese Datenschutzerklärung erläutert, wie wir deine personenbezogenen Daten erheben, nutzen und schützen, wenn du die Aeonova-App verwendest. Der Schutz deiner Daten hat für uns höchste Priorität."
+        },
+        "dataCollection": {
+          "title": "Welche Daten erheben wir?",
+          "content": "Wir erheben nur die minimal erforderlichen Daten, um dir das bestmögliche Erlebnis zu bieten:",
+          "items": {
+            "account": "Deine Kontoinformationen (Benutzername, Alter, Avatar)",
+            "memories": "Erinnerungen und Tagebucheinträge, die du teilst",
+            "usage": "Nutzungsstatistiken der App",
+            "device": "Geräteinformationen und technische Daten"
+          }
+        },
+        "dataUsage": {
+          "title": "Wofür nutzen wir deine Daten?",
+          "content": "Die von uns erhobenen Daten werden ausschließlich für folgende Zwecke verwendet:",
+          "items": {
+            "service": "Zur Verbesserung der Servicequalität",
+            "personalization": "Zur Bereitstellung eines personalisierten Erlebnisses",
+            "support": "Zur Bereitstellung von Kundensupport",
+            "improvement": "Zur Verbesserung der App"
+          }
+        },
+        "dataProtection": {
+          "title": "Wie schützen wir deine Daten?",
+          "content": "Wir ergreifen branchenübliche Maßnahmen, um deine Daten zu schützen:",
+          "items": {
+            "encryption": "Ende-zu-Ende-Verschlüsselung",
+            "servers": "Sichere Server",
+            "access": "Strenge Zugriffskontrollen",
+            "monitoring": "Kontinuierliche Sicherheitsüberwachung"
+          }
+        },
+        "rights": {
+          "title": "Deine Rechte",
+          "content": "Du hast in Bezug auf deine personenbezogenen Daten die folgenden Rechte:",
+          "items": {
+            "access": "Recht auf Auskunft",
+            "correction": "Recht auf Berichtigung",
+            "deletion": "Recht auf Löschung",
+            "portability": "Recht auf Datenübertragbarkeit",
+            "objection": "Recht auf Widerspruch"
+          }
+        },
+        "legalBasis": {
+          "title": "Rechtsgrundlagen der Verarbeitung",
+          "content": "Wir verarbeiten deine personenbezogenen Daten auf folgenden Rechtsgrundlagen:",
+          "items": {
+            "consent": "Deine Einwilligung, sofern erforderlich (jederzeit widerrufbar)",
+            "contract": "Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen",
+            "legitimateInterests": "Unsere berechtigten Interessen, abgewogen mit deinen Rechten und Freiheiten",
+            "legalObligation": "Erfüllung gesetzlicher Verpflichtungen",
+            "vitalInterests": "Schutz lebenswichtiger Interessen von dir oder anderen"
+          }
+        },
+        "dataSharing": {
+          "title": "Datenweitergabe",
+          "content": "Wir geben deine Daten nur bei Erforderlichkeit und mit geeigneten Schutzmaßnahmen weiter:",
+          "items": {
+            "serviceProviders": "Vertrauenswürdige Dienstleister, die Daten in unserem Auftrag verarbeiten (Hosting, Sicherheit, Benachrichtigungen)",
+            "analyticsPartners": "Analysepartner zur Verbesserung von Leistung und Qualität (mit Einwilligung und möglichst anonymisiert)",
+            "legalAuthorities": "Behörden, wenn gesetzlich vorgeschrieben oder zum Schutz von Rechten",
+            "businessTransfers": "Im Rahmen von Fusionen/Übernahmen/Übertragungen gemäß dieser Richtlinie",
+            "safetySecurity": "Zur Untersuchung/Verhinderung/Abwehr von Betrug, Missbrauch oder Sicherheitsvorfällen"
+          }
+        },
+        "internationalTransfers": {
+          "title": "Internationale Datenübermittlung",
+          "content": "Bei Übermittlungen außerhalb des EWR gewährleisten wir ein angemessenes Schutzniveau:",
+          "items": {
+            "eea": "Vorrang für Verarbeitung innerhalb des EWR, wo möglich",
+            "safeguards": "Geeignete Schutzmaßnahmen wie Verschlüsselung und strenge Zugriffskontrollen",
+            "scc": "Standardvertragsklauseln der EU-Kommission (sofern anwendbar)",
+            "complaints": "Bei Anliegen wende dich an uns oder deine lokale Datenschutzbehörde"
+          }
+        },
+        "dataRetention": {
+          "title": "Datenspeicherung",
+          "content": "Personenbezogene Daten speichern wir nur so lange, wie es für die in dieser Richtlinie genannten Zwecke erforderlich ist.",
+          "summary": "Detaillierte Speicherfristen je Datenkategorie findest du in unserer Richtlinie zur Datenspeicherung.",
+          "linkText": "Richtlinie zur Datenspeicherung anzeigen"
+        },
+        "cookiesNote": {
+          "title": "Cookies und Tracking-Technologien",
+          "content": "Unsere mobile App verwendet keine Web-Cookies. Die Website nutzt nur notwendige Cookies und optionale Analysen mit deiner Einwilligung.",
+          "linkText": "Cookie-Richtlinie lesen"
+        },
+        "exerciseRights": {
+          "title": "So übst du deine Rechte aus",
+          "content": "Du kannst deine Datenschutzrechte wie folgt ausüben:",
+          "items": {
+            "inApp": "In-App-Einstellungen: Daten verwalten, exportieren oder Konto löschen",
+            "email": "E-Mail: dpo@aeonova.com oder privacy@aeonova.com für spezifische Anfragen",
+            "verification": "Identitätsprüfung: Zum Schutz deines Kontos können wir Nachweise anfordern",
+            "responseTimes": "Antwortzeiten: Innerhalb von 30 Tagen; Fristverlängerung bei komplexen Fällen möglich"
+          }
+        },
+        "children": {
+          "title": "Kinder und Datenschutz",
+          "content": "Aeonova richtet sich nicht an Kinder unter 13 Jahren. Wir erheben wissentlich keine personenbezogenen Daten von Kindern. Wenn du glaubst, dass ein Kind uns Daten bereitgestellt hat, kontaktiere uns, damit wir diese löschen."
+        },
+        "changes": {
+          "title": "Änderungen an dieser Richtlinie",
+          "content": "Wir können diese Richtlinie gelegentlich aktualisieren, um Änderungen unserer Praktiken oder gesetzlichen Anforderungen widerzuspiegeln. Bei wesentlichen Änderungen informieren wir dich entsprechend. Letzte Aktualisierung: {date}"
+        },
+        "contact": {
+          "title": "Kontakt",
+          "content": "Für Fragen zu unserer Datenschutzerklärung:",
+          "email": "E-Mail: privacy@aeonova.com",
+          "support": "Support: support@aeonova.com"
+        }
+      }
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen",
+      "subtitle": "Regeln für die Nutzung von Aeonova",
+      "lastUpdated": "Letzte Aktualisierung: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "acceptance": {
+          "title": "1. Zustimmung und Annahme",
+          "content": "Mit der Nutzung der Aeonova-App erklärst du, dass du diese Bedingungen gelesen, verstanden und akzeptiert hast."
+        },
+        "service": {
+          "title": "2. Beschreibung des Dienstes",
+          "content": "Aeonova ist eine von KI unterstützte persönliche Tagebuch- und Chat-App.",
+          "features": {
+            "title": "Funktionsumfang:",
+            "items": {
+              "aiChat": "Chat mit einer smarten Freundin",
+              "saveMemories": "Tägliche Erinnerungen speichern und Feedback erhalten",
+              "globalExplore": "Erinnerungen weltweit teilen",
+              "multilingual": "Unterstützung für 20 Sprachen"
+            }
+          }
+        },
+        "eligibility": {
+          "title": "3. Teilnahmeberechtigung",
+          "content": "Für die Nutzung des Dienstes musst du mindestens 13 Jahre alt sein. Wenn du in deinem Land minderjährig bist, darfst du den Dienst nur mit Zustimmung und unter Aufsicht eines Erziehungsberechtigten nutzen, der diese Bedingungen akzeptiert."
+        },
+        "accounts": {
+          "title": "4. Konten und Sicherheit",
+          "content": "Du bist dafür verantwortlich, die Vertraulichkeit deiner Kontodaten zu wahren und für alle Aktivitäten, die über dein Konto erfolgen.",
+          "items": {
+            "accuracy": "Bereitstellung korrekter und aktueller Informationen",
+            "confidentiality": "Anmeldedaten geheim halten",
+            "notification": "Unverzügliche Meldung unbefugter Nutzung oder Sicherheitsvorfälle",
+            "devices": "Sicherung der Geräte, mit denen du auf den Dienst zugreifst"
+          }
+        },
+        "userContent": {
+          "title": "5. Nutzergenerierte Inhalte",
+          "content": "Du behältst die Eigentumsrechte an den Inhalten, die du einreichst (Erinnerungen, Nachrichten, Beiträge). Durch das Einreichen gewährst du uns eine weltweite, nicht-exklusive, gebührenfreie Lizenz, deine Inhalte ausschließlich zum Betrieb und zur Verbesserung des Dienstes zu hosten, zu speichern, anzuzeigen und zu verarbeiten.",
+          "items": {
+            "rights": "Du musst über die erforderlichen Rechte an den eingereichten Inhalten verfügen",
+            "noIllegal": "Reiche keine rechtswidrigen, verletzenden oder die Rechte anderer beeinträchtigenden Inhalte ein",
+            "moderation": "Wir können Inhalte entfernen oder einschränken, die gegen diese Bedingungen oder geltendes Recht verstoßen"
+          }
+        },
+        "acceptableUse": {
+          "title": "6. Zulässige Nutzung",
+          "content": "Du stimmst zu, den Dienst nicht zu missbrauchen oder andere dabei zu unterstützen.",
+          "items": {
+            "abuse": "Keine Belästigung, Hassrede, Diskriminierung oder Drohungen",
+            "violence": "Keine gewalttätigen, selbstverletzenden oder sexuell ausbeuterischen Inhalte",
+            "spam": "Kein Spam, Betrug oder irreführende Praktiken",
+            "malware": "Keine Schadsoftware/Bots oder Versuche, den Dienst zu stören/zu überlasten",
+            "impersonation": "Keine Identitätsanmaßung",
+            "illegal": "Keine rechtswidrigen Aktivitäten oder deren Förderung"
+          }
+        },
+        "aiDisclaimer": {
+          "title": "7. KI-Ausgaben sind keine professionelle Beratung",
+          "content": "KI-generierte Ausgaben in Aeonova können ungenau oder unvollständig sein. Sie dienen nur Informations- und Unterhaltungszwecken und stellen keine professionelle Beratung (medizinisch/juristisch/finanziell) dar. Nutze dein Urteilsvermögen und konsultiere bei Bedarf qualifizierte Fachleute."
+        },
+        "payments": {
+          "title": "8. Abonnements, Zahlungen und In-App-Käufe",
+          "content": "Einige Funktionen erfordern ein kostenpflichtiges Abonnement oder einen einmaligen Kauf über den jeweiligen App-Store.",
+          "items": {
+            "billing": "Abrechnung über App Store oder Google Play; deren Bedingungen/Politiken gelten",
+            "renewal": "Abonnements verlängern sich automatisch, sofern nicht rechtzeitig gekündigt",
+            "pricing": "Wir können Preise oder Funktionen mit angemessener Vorankündigung ändern",
+            "cancellation": "Verwalte/kündige dein Abo in deinen App-Store-Kontoeinstellungen"
+          }
+        },
+        "refunds": {
+          "title": "9. Rückerstattungen",
+          "content": "Rückerstattungen unterliegen den Richtlinien der Plattform, über die der Kauf erfolgte (App Store oder Google Play). Soweit gesetzlich und durch die Plattformrichtlinien erlaubt, kannst du eine Rückerstattung über den jeweiligen Store beantragen."
+        },
+        "intellectualProperty": {
+          "title": "10. Geistiges Eigentum",
+          "content": "Der Dienst, einschließlich Design, Funktionen und Inhalte (ausgenommen Nutzerinhalte), ist Eigentum von Aeonova oder lizenziert und durch Gesetze zum geistigen Eigentum geschützt. Ohne vorherige schriftliche Zustimmung ist Kopieren, Ändern, Verteilen oder Erstellen abgeleiteter Werke untersagt."
+        },
+        "thirdPartyServices": {
+          "title": "11. Dienste Dritter",
+          "content": "Der Dienst kann mit Drittanbieterdiensten verlinkt oder integriert sein. Wir sind nicht verantwortlich für deren Inhalte, Richtlinien oder Praktiken. Deine Nutzung unterliegt deren Bedingungen und Datenschutzrichtlinien."
+        },
+        "responsibilities": {
+          "title": "12. Pflichten der Nutzerin",
+          "content": "Als Nutzerin hast du folgende Pflichten:",
+          "items": {
+            "security": "Sicherheit deines Kontos gewährleisten",
+            "content": "Verantwortung für die Inhalte, die du teilst",
+            "compliance": "Einhaltung der Gesetze",
+            "respect": "Respekt gegenüber anderen Nutzerinnen"
+          }
+        },
+        "prohibited": {
+          "title": "13. Verbotenes Verhalten",
+          "content": "Folgendes Verhalten ist strikt untersagt:",
+          "items": {
+            "hate": "Hassrede und Diskriminierung",
+            "violence": "Gewalttätige Inhalte",
+            "spam": "Spam und Betrug",
+            "illegal": "Rechtswidrige Aktivitäten",
+            "impersonation": "Identitätsanmaßung"
+          }
+        },
+        "disclaimer": {
+          "title": "14. Haftungsausschluss",
+          "content": "Der Dienst wird \"wie besehen\" und \"wie verfügbar\" ohne jegliche ausdrückliche oder konkludente Gewährleistung bereitgestellt, einschließlich konkludenter Gewährleistungen der Marktgängigkeit, Eignung für einen bestimmten Zweck und Nichtverletzung."
+        },
+        "limitation": {
+          "title": "15. Haftungsbeschränkung",
+          "content": "Im gesetzlich zulässigen Umfang haften Aeonova oder verbundene Unternehmen nicht für indirekte, beiläufige, besondere, Folgeschäden, exemplarische oder punitive Schäden oder für Gewinn-/Umsatzeinbußen – weder direkt noch indirekt – oder für Daten-/Nutzungs-/Goodwill-Verlust, die aus der Nutzung des Dienstes entstehen."
+        },
+        "indemnification": {
+          "title": "16. Freistellung",
+          "content": "Du erklärst dich einverstanden, Aeonova und verbundene Unternehmen, Führungskräfte, Direktorinnen, Mitarbeiterinnen und Beauftragte von Ansprüchen, Haftungen, Schäden, Verlusten oder Kosten (einschl. angemessener Anwaltsgebühren), die aus deiner Nutzung des Dienstes oder deinem Verstoß gegen diese Bedingungen entstehen, freizustellen und schadlos zu halten."
+        },
+        "termination": {
+          "title": "17. Kontokündigung",
+          "content": "Dein Konto kann in folgenden Fällen beendet werden:",
+          "items": {
+            "violation": "Verstoß gegen die Nutzungsbedingungen",
+            "illegal": "Rechtswidrige Aktivitäten",
+            "spam": "Spam oder Missbrauch"
+          }
+        },
+        "governingLaw": {
+          "title": "18. Anwendbares Recht und Streitbeilegung",
+          "content": "Soweit zwingende Verbraucherschutzvorschriften es erfordern, gilt das Recht deines Wohnsitzlandes; andernfalls gilt ohne Rücksicht auf Kollisionsnormen deutsches Recht.",
+          "items": {
+            "venue": "Zuständig sind ausschließlich die sachlich zuständigen Gerichte, sofern nicht zwingendes Recht etwas anderes vorsieht",
+            "eu": "EU-Verbraucherinnen können die EU-Plattform zur Online-Streitbeilegung nutzen"
+          }
+        },
+        "changes": {
+          "title": "19. Änderungen der Bedingungen",
+          "content": "Wir können diese Bedingungen von Zeit zu Zeit anpassen. Bei wesentlichen Änderungen informieren wir im gesetzlich erforderlichen Umfang. Die fortgesetzte Nutzung nach Inkrafttreten gilt als Zustimmung zu den aktualisierten Bedingungen."
+        },
+        "contact": {
+          "title": "20. Kontakt",
+          "content": "Für Fragen zu den Nutzungsbedingungen:",
+          "email": "E-Mail: legal@aeonova.com",
+          "support": "Support: support@aeonova.com"
+        }
+      }
+    },
+    "gdpr": {
+      "title": "GDPR-Konformität",
+      "subtitle": "EU-Datenschutz-Grundverordnung",
+      "lastUpdated": "Letzte Aktualisierung: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "GDPR-Zusammenfassung",
+        "howToExercise": "So nutzt du es:",
+        "timeframe": "Zeitrahmen:",
+        "limitations": "Einschränkungen:",
+        "effect": "Auswirkung:"
+      },
+      "summary": "Wir verpflichten uns, deine personenbezogenen Daten in voller Übereinstimmung mit der EU-DSGVO zu schützen. Diese umfassende Richtlinie erläutert deine Rechte, wie wir Daten verarbeiten und unsere Verpflichtung zum Datenschutz.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Einleitung",
+          "subtitle": "GDPR-Konformität verstehen",
+          "description": "Die DSGVO ist ein umfassendes Datenschutzgesetz, das dir die Kontrolle über deine personenbezogenen Daten gibt. Als verantwortungsbewusstes KI-Unternehmen gewährleistet Aeonova vollständige Einhaltung – mit Transparenz, Kontrolle und Sicherheit für deine Informationen.",
+          "scope": {
+            "title": "Anwendungsbereich der DSGVO:",
+            "items": {
+              "whoIsProtected": "Alle EU-Ansässigen, unabhängig vom Standort",
+              "whatIsProtected": "Alle personenbezogenen Daten, die dich direkt oder indirekt identifizieren können",
+              "whenApplies": "Immer, wenn wir deine personenbezogenen Daten verarbeiten",
+              "whereApplies": "Alle unsere Dienste, einschließlich App und Website"
+            }
+          }
+        },
+        "principles": {
+          "title": "🔒 Grundsätze des Datenschutzes",
+          "subtitle": "Unsere Basis",
+          "description": "Wir halten uns bei allen Verarbeitungstätigkeiten an die Grundprinzipien der DSGVO:",
+          "lawfulness": {
+            "title": "1. Rechtmäßigkeit, Fairness und Transparenz",
+            "description": "Wir verarbeiten deine Daten rechtmäßig, fair und transparent",
+            "details": {
+              "lawful": "Verarbeitung basiert auf gültigen Rechtsgrundlagen (Einwilligung, Vertrag, berechtigtes Interesse)",
+              "fair": "Keine unerwartete oder schädliche Nutzung deiner Daten",
+              "transparent": "Klar und verständlich, wofür wir deine Daten verwenden"
+            }
+          },
+          "purposeLimitation": {
+            "title": "2. Zweckbindung",
+            "description": "Daten werden nur für spezifische, eindeutige und legitime Zwecke erhoben und genutzt",
+            "details": {
+              "specific": "Wir definieren klar, warum wir jede Datenart benötigen",
+              "explicit": "Zwecke sind klar benannt, nicht in komplexen Bedingungen versteckt",
+              "legitimate": "Alle Zwecke dienen echten Geschäfts- oder Nutzerbedürfnissen"
+            }
+          },
+          "dataMinimization": {
+            "title": "3. Datenminimierung",
+            "description": "Wir erheben nur notwendige Daten",
+            "details": {
+              "adequate": "Ausreichende Daten, um unsere Dienste effektiv bereitzustellen",
+              "relevant": "Alle erhobenen Daten sind relevant für unsere Zwecke",
+              "limited": "Keine überflüssigen oder unnötigen Informationen"
+            }
+          },
+          "accuracy": {
+            "title": "4. Richtigkeit",
+            "description": "Wir halten deine Daten korrekt und aktuell",
+            "details": {
+              "current": "Werkzeuge zur Aktualisierung deiner Informationen",
+              "correction": "Unrichtige Daten werden unverzüglich korrigiert oder gelöscht",
+              "verification": "Wir überprüfen wichtige Daten vor der Verarbeitung"
+            }
+          },
+          "storageLimitation": {
+            "title": "5. Speicherbegrenzung",
+            "description": "Wir speichern Daten nicht länger als notwendig",
+            "details": {
+              "retention": "Klare Speicherfristen für unterschiedliche Datenarten",
+              "review": "Regelmäßige Überprüfung und Löschung unnötiger Daten",
+              "purpose": "Löschung, sobald der Zweck erreicht ist"
+            }
+          },
+          "security": {
+            "title": "6. Integrität und Vertraulichkeit",
+            "description": "Wir schützen deine Daten mit angemessenen Sicherheitsmaßnahmen",
+            "details": {
+              "protection": "Technische und organisatorische Maßnahmen gegen unbefugten Zugriff",
+              "confidentiality": "Wahrung der Vertraulichkeit und Sicherheit deiner Daten",
+              "integrity": "Sicherstellen, dass Daten nicht verändert oder beschädigt werden"
+            }
+          },
+          "accountability": {
+            "title": "7. Rechenschaftspflicht",
+            "description": "Wir sind verantwortlich, die Einhaltung dieser Grundsätze nachzuweisen",
+            "details": {
+              "documentation": "Dokumentation aller Verarbeitungstätigkeiten",
+              "policies": "Klare interne Richtlinien und Verfahren zum Datenschutz",
+              "training": "Regelmäßige Schulungen der Mitarbeitenden zu Datenschutzanforderungen"
+            }
+          }
+        },
+        "rights": {
+          "title": "👥 Deine Rechte nach DSGVO",
+          "subtitle": "Dein vollständiges Rechtepaket",
+          "description": "Die DSGVO gewährt dir umfassende Rechte an deinen personenbezogenen Daten. Du kannst:",
+          "information": {
+            "title": "1. 📋 Recht auf Information",
+            "description": "Du hast das Recht zu erfahren, wie deine Daten verarbeitet werden",
+            "includes": {
+              "title": "Dazu gehört:",
+              "items": {
+                "purposes": "Warum wir deine Daten verarbeiten",
+                "categories": "Welche Arten von Daten wir erheben",
+                "recipients": "Mit wem wir Daten teilen (falls zutreffend)",
+                "retention": "Wie lange wir Daten speichern",
+                "rights": "Welche Rechte du in Bezug auf deine Daten hast",
+                "sources": "Woher wir deine Daten erhalten"
+              }
+            },
+            "howToExercise": "Diese Datenschutzerklärung enthält die meisten Informationen. Für spezifische Details kontaktiere uns."
+          },
+          "access": {
+            "title": "2. 🔍 Auskunftsrecht",
+            "description": "Du kannst eine Kopie aller Daten anfordern, die wir über dich gespeichert haben",
+            "includes": {
+              "title": "Du erhältst:",
+              "items": {
+                "copy": "Eine vollständige Kopie deiner personenbezogenen Daten",
+                "format": "In einem strukturierten, maschinenlesbaren Format (JSON)",
+                "details": "Informationen über unsere Verarbeitung",
+                "sources": "Datenquellen",
+                "recipients": "Empfängerinnen, mit denen Daten geteilt wurden"
+              }
+            },
+            "howToExercise": "Stelle den Antrag in den App-Einstellungen oder per E-Mail an dpo@aeonova.com. Die erste Anfrage ist kostenlos; für weitere können Gebühren anfallen.",
+            "timeframe": "Antwort innerhalb von 30 Tagen"
+          },
+          "rectification": {
+            "title": "3. ✏️ Recht auf Berichtigung",
+            "description": "Du kannst unrichtige oder unvollständige Daten korrigieren lassen",
+            "includes": {
+              "title": "Du kannst:",
+              "items": {
+                "correct": "Fehlerhafte personenbezogene Daten berichtigen",
+                "complete": "Fehlende Informationen ergänzen",
+                "update": "Veraltete Informationen aktualisieren",
+                "verify": "Überprüfung der Richtigkeit anfordern"
+              }
+            },
+            "howToExercise": "Aktualisiere direkt in den App-Einstellungen oder kontaktiere uns für Daten, die du nicht selbst ändern kannst",
+            "timeframe": "Sofort, soweit möglich; komplexe Fälle innerhalb von 30 Tagen"
+          },
+          "erasure": {
+            "title": "4. 🗑️ Recht auf Löschung (Recht auf Vergessenwerden)",
+            "description": "Du kannst die Löschung deiner personenbezogenen Daten verlangen",
+            "conditions": {
+              "title": "Du kannst löschen lassen, wenn:",
+              "items": {
+                "unnecessary": "Die Daten für den ursprünglichen Zweck nicht mehr erforderlich sind",
+                "consent": "Du deine Einwilligung widerrufst und keine andere Rechtsgrundlage besteht",
+                "objection": "Du der Verarbeitung widersprichst und keine zwingenden berechtigten Gründe vorliegen",
+                "unlawful": "Die Daten unrechtmäßig verarbeitet wurden",
+                "legal": "Die Löschung zur Erfüllung rechtlicher Verpflichtungen erforderlich ist"
+              }
+            },
+            "limitations": {
+              "title": "Wir können ablehnen, wenn Daten erforderlich sind für:",
+              "items": {
+                "legal": "Gesetzliche Pflichten oder Rechtsansprüche",
+                "public": "Öffentliches Interesse oder historische Forschung",
+                "freedom": "Ausübung des Rechts auf freie Meinungsäußerung"
+              }
+            },
+            "howToExercise": "Lösche dein Konto in den App-Einstellungen oder schreibe an dpo@aeonova.com",
+            "timeframe": "Kontolöschung innerhalb von 7 Tagen; vollständige Datenlöschung innerhalb von 30 Tagen"
+          },
+          "portability": {
+            "title": "5. 📦 Recht auf Datenübertragbarkeit",
+            "description": "Du kannst deine Daten in einem übertragbaren Format erhalten oder an einen anderen Dienst übertragen lassen",
+            "includes": {
+              "title": "Du kannst:",
+              "items": {
+                "receive": "Deine Daten im JSON- oder CSV-Format erhalten",
+                "transfer": "Direkte Übertragung an einen anderen Dienst (technisch möglich)",
+                "export": "Deine Erinnerungen, Chatverläufe und Einstellungen exportieren"
+              }
+            },
+            "limitations": "Gilt nur für Daten, die du bereitgestellt hast, und automatisiert verarbeitete Daten auf Grundlage von Einwilligung oder Vertrag",
+            "howToExercise": "Exportfunktion in der App oder per Anfrage an dpo@aeonova.com",
+            "timeframe": "Sofort in der App; individuelle Anfragen innerhalb von 30 Tagen"
+          },
+          "objection": {
+            "title": "6. ✋ Widerspruchsrecht",
+            "description": "Du kannst bestimmten Arten der Verarbeitung widersprechen",
+            "types": {
+              "general": {
+                "title": "Allgemeiner Widerspruch",
+                "description": "Widerspruch gegen Verarbeitung auf Grundlage berechtigter Interessen",
+                "effect": "Wir stoppen die Verarbeitung, sofern keine zwingenden Gründe bestehen"
+              },
+              "directMarketing": {
+                "title": "Direktmarketing",
+                "description": "Widerspruch gegen jegliche Marketingkommunikation",
+                "effect": "Wir stellen jegliches Marketing umgehend ein"
+              },
+              "profiling": {
+                "title": "Automatisierte Entscheidungen & Profiling",
+                "description": "Widerspruch gegen automatisierte Entscheidungen mit erheblichen Auswirkungen",
+                "effect": "Wir prüfen automatisierte Entscheidungen und ermöglichen ggf. menschliche Überprüfung"
+              }
+            },
+            "howToExercise": "Marketing: Abmeldelinks oder App-Einstellungen. Sonstige Widersprüche: dpo@aeonova.com"
+          }
+        },
+        "contact": {
+          "title": "📞 Kontakt zum Thema GDPR",
+          "subtitle": "Kontakt",
+          "description": "Für Fragen oder Anfragen rund um GDPR und Datenschutz:",
+          "dpo": {
+            "title": "Datenschutzbeauftragte/r (DPO)",
+            "email": "dpo@aeonova.com",
+            "role": "Unser DPO überwacht sämtliche Datenschutzaktivitäten und die GDPR-Konformität"
+          },
+          "requests": {
+            "title": "Anfragen zu GDPR-Rechten",
+            "email": "gdpr@aeonova.com",
+            "description": "Zur Ausübung deiner GDPR-Rechte (Auskunft, Löschung u.a.)"
+          },
+          "complaints": {
+            "title": "Beschwerden & Bedenken",
+            "email": "privacy@aeonova.com",
+            "description": "Bei Datenschutzbedenken oder Beschwerden zu unserer Datenverarbeitung"
+          },
+          "general": {
+            "title": "Allgemeine Fragen",
+            "email": "support@aeonova.com",
+            "description": "Allgemeine Anfragen zu unseren Datenschutzpraktiken"
+          },
+          "response": {
+            "title": "Antwortzeiten",
+            "standard": "Standardanfragen: innerhalb von 30 Tagen",
+            "complex": "Komplexe Anfragen: ggf. bis zu 90 Tage mit Begründung",
+            "urgent": "Dringende Sicherheitsangelegenheiten: innerhalb von 72 Stunden"
+          },
+          "information": {
+            "title": "Bitte gib bei Kontakt an",
+            "items": {
+              "identification": "Deinen Namen und die mit deinem Konto verknüpfte E-Mail-Adresse",
+              "request": "Eine klare Beschreibung deiner Anfrage oder deines Anliegens",
+              "details": "Alle relevanten Details oder Referenznummern",
+              "preference": "Deine bevorzugte Antwortmethode"
+            }
+          },
+          "languages": {
+            "title": "Sprachsupport",
+            "description": "Wir können auf GDPR-Anfragen auf Englisch, Deutsch oder Türkisch antworten"
+          }
+        }
+      }
+    },
+    "cookies": {
+      "title": "Cookie-Richtlinie",
+      "subtitle": "Einsatz von Cookies und ähnlichen Technologien auf unserer Website",
+      "lastUpdated": "Letzte Aktualisierung: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "summaryTitle": "Zusammenfassung",
+      "summary": "Diese Richtlinie erläutert, wie Aeonova Cookies und Tracking-Technologien auf unserer Website einsetzt. Unser Kerndienst ist die mobile App; diese Website dient vor allem Informations- und Download-Zwecken.",
+      "sections": {
+        "introduction": {
+          "title": "📝 Einleitung",
+          "description": "Diese Cookie-Richtlinie erklärt, was Cookies sind, wie wir sie auf der Aeonova-Website verwenden und wie du deine Präferenzen verwalten kannst. Durch die fortgesetzte Nutzung unserer Website stimmst du dem Einsatz von Cookies gemäß dieser Richtlinie zu."
+        },
+        "whatAreCookies": {
+          "title": "🍪 Was sind Cookies?",
+          "description": "Cookies sind kleine Textdateien, die beim Besuch einer Website auf deinem Computer oder Mobilgerät gespeichert werden. Sie werden häufig verwendet, um Websites effizienter zu machen und Informationen an die Betreiber zu liefern.",
+          "details": {
+            "purpose": "Zwecke von Cookies:",
+            "items": {
+              "functionality": "Aktivierung grundlegender Websitefunktionen und Navigation",
+              "personalization": "Speichern deiner Präferenzen und Einstellungen",
+              "analytics": "Helfen uns zu verstehen, wie Besucherinnen mit unserer Website interagieren",
+              "performance": "Verbesserung der Website-Performance und Ladezeiten"
+            }
+          },
+          "types": {
+            "title": "Cookie-Arten nach Dauer:",
+            "session": "Sitzungscookies: werden beim Schließen des Browsers gelöscht",
+            "persistent": "Persistente Cookies: bleiben für eine festgelegte Zeit auf deinem Gerät oder bis du sie manuell löschst"
+          }
+        },
+        "typesOfCookies": {
+          "title": "🔍 Arten der von uns verwendeten Cookies",
+          "description": "Wir klassifizieren Cookies anhand ihres Zwecks und ihrer Funktion:",
+          "essential": {
+            "title": "1. 🔒 Unbedingt erforderliche Cookies (immer aktiv)",
+            "description": "Diese Cookies sind für das ordnungsgemäße Funktionieren der Website notwendig und können in unseren Systemen nicht deaktiviert werden.",
+            "items": {
+              "language": "Sprachpräferenz: speichert die von dir gewählte Sprache",
+              "security": "Sicherheits-Cookies: CSRF-Tokens und weitere Sicherheitsmaßnahmen",
+              "session": "Sitzungsverwaltung: hält den Sitzungsstatus während der Navigation aufrecht",
+              "consent": "Cookie-Einwilligung: speichert deine Präferenzen und Entscheidungen"
+            },
+            "note": "⚠️ Diese Cookies können nicht deaktiviert werden, da sie für die Websitefunktionen notwendig sind",
+            "legalBasis": "Rechtsgrundlage: Berechtigtes Interesse (notwendig zur Bereitstellung des Dienstes)"
+          },
+          "performance": {
+            "title": "2. 📊 Performance- und Analyse-Cookies (optional)",
+            "description": "Diese helfen uns, das Verhalten der Besucherinnen zu verstehen, indem sie anonymisierte Informationen sammeln.",
+            "items": {
+              "loadTimes": "Seitenleistung: Messung von Ladezeiten und Leistungsmetriken",
+              "errorTracking": "Fehlerverfolgung: anonymes Tracking von JavaScript-Fehlern und technischen Problemen",
+              "usageStats": "Nutzungsstatistiken: nachverfolgte Seitenbesuche und beliebte Inhalte",
+              "userFlow": "Nutzerinnenreise: wie sich Nutzerinnen durch die Seite bewegen"
+            },
+            "note": "✅ Du kannst diese Cookies ablehnen, ohne dass die Funktionen der Website beeinträchtigt werden",
+            "legalBasis": "Rechtsgrundlage: deine ausdrückliche Einwilligung",
+            "retention": "Speicherdauer: maximal 90 Tage"
+          },
+          "marketing": {
+            "title": "3. 🎯 Marketing- und Werbe-Cookies (derzeit nicht genutzt)",
+            "description": "Wir nutzen derzeit keine Marketing-Cookies; eine zukünftige Verwendung erfolgt nur mit deiner Einwilligung.",
+            "items": {
+              "targetedAds": "Gezielte Werbung: Anzeigen basierend auf deinen Interessen",
+              "socialMedia": "Social-Media-Integration: Teilen und Tracking",
+              "remarketing": "Remarketing: Anzeigen für frühere Besucherinnen",
+              "crossSite": "Website-übergreifendes Tracking: Aktivität über mehrere Seiten"
+            },
+            "note": "🚫 Aktuell nicht im Einsatz — falls hinzugefügt, nur mit ausdrücklicher Einwilligung",
+            "future": "Sollten wir diese künftig einsetzen, holen wir deine Einwilligung ein und aktualisieren diese Richtlinie."
+          }
+        },
+        "thirdParty": {
+          "title": "🌐 Cookies Dritter",
+          "description": "Unsere Website kann eingebettete Inhalte oder Dienste Dritter enthalten; diese können eigene Cookies setzen:",
+          "current": {
+            "title": "Derzeit genutzte Dienste:",
+            "items": {
+              "fonts": "Google Fonts: Website-Schriften (ohne Tracking-Cookies)",
+              "cdn": "Content-Delivery-Netzwerke: schnellere Auslieferung von Inhalten",
+              "security": "Sicherheitsdienste: DDoS-Schutz und Sicherheitsüberwachung"
+            }
+          },
+          "future": {
+            "title": "Mögliche Dienste in Zukunft:",
+            "items": {
+              "analytics": "Google Analytics: detaillierte Website-Analysen",
+              "social": "Soziale Komponenten: Social-Media-Integration",
+              "support": "Kundensupport-Tools: Live-Chat und Supportfunktionen"
+            }
+          },
+          "note": "Wir informieren dich stets, bevor neue Drittanbieter mit Tracking eingesetzt werden."
+        },
+        "mobileApp": {
+          "title": "📱 Datenspeicherung in der mobilen App",
+          "subtitle": "Wichtiger Unterschied",
+          "description": "Die mobile Aeonova-App verwendet keine Web-Cookies. Stattdessen nutzt sie sicherere und effizientere lokale Speicherverfahren:",
+          "items": {
+            "localStorage": "Verschlüsselter lokaler Speicher: Nutzerdaten werden sicher auf deinem Gerät gespeichert",
+            "keychain": "Keychain/Keystore: Authentifizierungstokens im sicheren Gerätespeicher",
+            "appSettings": "App-Einstellungen: Präferenzen werden innerhalb der App-Umgebung gespeichert",
+            "offlineCache": "Offline-Fähigkeit: Zwischenspeicherung von Inhalten für die Offline-Nutzung",
+            "biometric": "Biometrie: Face ID/Touch ID (lokal gespeichert, nicht übertragen)"
+          },
+          "security": {
+            "title": "Sicherheit der mobilen App:",
+            "items": {
+              "encryption": "Alle Daten werden mit branchenüblichen Standards verschlüsselt",
+              "localOnly": "Sensible Daten verlassen dein Gerät nicht",
+              "secure": "Plattformspezifische Sicherheitsfunktionen (iOS Keychain, Android Keystore)",
+              "privacy": "Kein App-übergreifendes Tracking oder Teilen von Daten"
+            }
+          }
+        },
+        "management": {
+          "title": "⚙️ Cookie-Verwaltung",
+          "description": "Du hast mehrere Möglichkeiten, Cookies auf unserer Website zu steuern und zu verwalten:",
+          "browserSettings": {
+            "title": "Browsereinstellungen:",
+            "description": "Du kannst Cookies über die Einstellungen deines Browsers verwalten:",
+            "items": {
+              "chrome": "Chrome: Settings → Privacy and Security → Cookies and other site data",
+              "firefox": "Firefox: Options → Privacy & Security → Cookies and Site Data",
+              "safari": "Safari: Preferences → Privacy → Manage Website Data",
+              "edge": "Edge: Settings → Cookies and site permissions → Cookies and site data"
+            }
+          },
+          "ourSettings": {
+            "title": "Cookie-Präferenzen auf der Website:",
+            "description": "Du kannst Cookie-Präferenzen für diese Website verwalten:",
+            "items": {
+              "essential": "Erforderliche Cookies: können nicht deaktiviert werden (notwendig für die Website)",
+              "performance": "Performance-Cookies: über das Einwilligungsbanner aktivieren/deaktivieren",
+              "marketing": "Marketing-Cookies: derzeit nicht im Einsatz, künftig nur optional"
+            }
+          },
+          "consequences": {
+            "title": "⚠️ Deaktivierung von Cookies:",
+            "description": "Wenn du einige Cookies deaktivierst, funktionieren manche Websitefunktionen möglicherweise nicht korrekt:",
+            "items": {
+              "language": "Deine Sprachpräferenz wird nicht gespeichert",
+              "navigation": "Einige Navigationsfunktionen könnten beeinträchtigt sein",
+              "performance": "Wir können Leistung nicht anhand von Nutzungsdaten verbessern"
+            }
+          }
+        },
+        "updates": {
+          "title": "🔄 Aktualisierungen der Richtlinie",
+          "description": "Wir können diese Cookie-Richtlinie von Zeit zu Zeit aktualisieren, um Änderungen unserer Praktiken oder aus betrieblichen, rechtlichen oder regulatorischen Gründen widerzuspiegeln.",
+          "notification": "Wenn wir Änderungen vornehmen:",
+          "items": {
+            "notice": "Veröffentlichen wir die aktualisierte Richtlinie auf dieser Seite",
+            "effective": "Treten die Änderungen sofort nach Veröffentlichung in Kraft",
+            "major": "Bei wesentlichen Änderungen informieren wir zusätzlich",
+            "date": "Das Datum der \"Letzten Aktualisierung\" oben wird angepasst"
+          },
+          "recommendation": "Wir empfehlen, diese Richtlinie regelmäßig zu prüfen, um zu erfahren, wie wir Cookies einsetzen."
+        },
+        "contact": {
+          "title": "📞 Fragen zu Cookies",
+          "subtitle": "Kontakt",
+          "description": "Wenn du Fragen zur Verwendung von Cookies oder zu dieser Richtlinie hast, kontaktiere uns bitte:",
+          "methodsTitle": "Kontaktmöglichkeiten",
+          "methods": {
+            "email": "Allgemeine Datenschutzfragen: privacy@aeonova.com",
+            "cookies": "Cookie-spezifische Fragen: cookies@aeonova.com",
+            "support": "Technischer Support: support@aeonova.com",
+            "dpo": "Datenschutzbeauftragte/r: dpo@aeonova.com"
+          },
+          "response": {
+            "title": "Antwortzeiten:",
+            "items": {
+              "general": "Allgemeine Anfragen: innerhalb von 48 Stunden",
+              "privacy": "Datenschutzfragen: innerhalb von 72 Stunden",
+              "urgent": "Dringende Fälle: innerhalb von 24 Stunden"
+            }
+          }
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "Richtlinie zur Datenspeicherung",
+      "subtitle": "Wie lange und warum wir deine personenbezogenen Daten speichern",
+      "lastUpdated": "Letzte Aktualisierung: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "Zusammenfassung",
+        "methods": "Methoden:",
+        "requirements": "Anforderungen:",
+        "contacts": "Kontakte:",
+        "responseTimes": "Antwortzeiten:",
+        "process": "Prozess:"
+      },
+      "summary": "Diese umfassende Richtlinie erklärt, wie lange wir verschiedene Arten personenbezogener Daten speichern, die rechtlichen Grundlagen dafür und deine Rechte in Bezug auf Löschung. Wir verpflichten uns zur Datenminimierung und speichern nur, was notwendig ist.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Einleitung",
+          "subtitle": "Datenspeicherung verstehen",
+          "description": "Datenspeicherung bezeichnet, wie lange wir deine personenbezogenen Informationen in unseren Systemen aufbewahren. Diese Richtlinie beschreibt unsere Praxis, die deine Datenschutzrechte mit legitimen Geschäftsbedürfnissen und gesetzlichen Verpflichtungen ausbalanciert.",
+          "keyPoints": {
+            "title": "Kernprinzipien:",
+            "items": {
+              "minimization": "Wir erheben und speichern nur für unsere Dienste notwendige Daten",
+              "purpose": "Wir speichern Daten ausschließlich für die Zwecke, für die sie erhoben wurden",
+              "lawful": "Speicherfristen basieren auf gesetzlichen Anforderungen und berechtigten Interessen",
+              "transparent": "Transparente Speicherfristen für verschiedene Datenarten",
+              "secure": "Alle gespeicherten Daten werden mit geeigneten Sicherheitsmaßnahmen geschützt"
+            }
+          }
+        },
+        "legalBasis": {
+          "title": "⚖️ Rechtliche Grundlagen der Speicherung",
+          "subtitle": "Warum wir Daten speichern",
+          "description": "Wir speichern personenbezogene Daten auf verschiedenen Rechtsgrundlagen gemäß DSGVO und anderen Datenschutzgesetzen:",
+          "bases": {
+            "contractual": {
+              "title": "1. 📝 Vertragliche Verpflichtungen",
+              "description": "Daten, die zur Bereitstellung unserer Dienste und zur Vertragserfüllung notwendig sind",
+              "examples": {
+                "title": "Beispiele:",
+                "items": {
+                  "account": "Kontoinformationen, die zur Bereitstellung von Aeonova erforderlich sind",
+                  "subscription": "Zahlungs- und Abonnementdaten für Premium-Funktionen",
+                  "support": "Kundensupport-Aufzeichnungen zur Problemlösung",
+                  "preferences": "Nutzerpräferenzen und Einstellungen zur Personalisierung"
+                }
+              }
+            },
+            "legal": {
+              "title": "2. 🏛️ Gesetzliche Compliance",
+              "description": "Daten, die zur Erfüllung gesetzlicher Verpflichtungen gespeichert werden müssen",
+              "examples": {
+                "title": "Beispiele:",
+                "items": {
+                  "financial": "Finanzunterlagen für Steuer- und Buchhaltungszwecke (7 Jahre)",
+                  "security": "Sicherheitsprotokolle zur Untersuchung von Betrug/Missbrauch (2 Jahre)",
+                  "gdpr": "Aufzeichnungen von Einwilligungen und Verarbeitungstätigkeiten (3 Jahre)",
+                  "disputes": "Daten im Zusammenhang mit Rechtsstreitigkeiten bis zur Klärung"
+                }
+              }
+            },
+            "legitimate": {
+              "title": "3. 🎯 Berechtigte Interessen",
+              "description": "Daten, die zu legitimen Geschäftszwecken gespeichert werden – unter Wahrung deiner Privatsphäre",
+              "examples": {
+                "title": "Beispiele:",
+                "items": {
+                  "analytics": "Anonymisierte Nutzungsdaten zur Verbesserung unserer Dienste (90 Tage)",
+                  "security": "Sicherheitsüberwachung zum Schutz aller Nutzerinnen (1 Jahr)",
+                  "research": "Produktentwicklung und Forschung (nur anonymisierte Daten)",
+                  "communications": "Marketing-Einwilligung und Kommunikationspräferenzen"
+                }
+              }
+            }
+          }
+        },
+        "categories": {
+          "title": "⏰ Detaillierte Speicherfristen nach Datenkategorie",
+          "subtitle": "Spezifische Zeiträume",
+          "description": "Nachfolgend die festgelegten Speicherfristen für die verschiedenen Datentypen, die wir erheben:",
+          "account": {
+            "title": "👤 Konto- und Profildaten",
+            "headings": {
+              "basicProfile": "Basisprofil",
+              "preferences": "Präferenzen",
+              "subscription": "Abonnement",
+              "authentication": "Authentifizierung"
+            },
+            "items": {
+              "basic": {
+                "data": "Benutzername, Alter, Avatar und Profileinstellungen",
+                "period": "Während das Konto aktiv ist + 30 Tage nach Löschung",
+                "basis": "Vertragliche Notwendigkeit",
+                "deletion": "Automatische Löschung 30 Tage nach Kontolöschung"
+              },
+              "preferences": {
+                "data": "Sprachpräferenz, App-Einstellungen, Benachrichtigungspräferenzen",
+                "period": "Solange das Konto aktiv ist",
+                "basis": "Vertragliche Notwendigkeit & berechtigtes Interesse",
+                "deletion": "Sofortige Löschung bei Kontolöschung"
+              },
+              "subscription": {
+                "data": "Premium-Abonnementinformationen und Zahlungshistorie",
+                "period": "Abonnementdauer + 7 Jahre",
+                "basis": "Gesetzliche Compliance (Finanzunterlagen)",
+                "deletion": "Automatische Löschung nach Ablauf der Speicherfrist"
+              },
+              "authentication": {
+                "data": "Anmeldedaten und Sicherheitstokens",
+                "period": "Solange das Konto aktiv ist + 30 Tage",
+                "basis": "Vertragliche Notwendigkeit & Sicherheit",
+                "deletion": "Sofortige Ungültigmachung bei Kontolöschung"
+              }
+            },
+            "note": "💡 Nach der 30-tägigen Frist kann das Konto nicht wiederhergestellt werden. Während dieser Zeit kannst du es durch Anmeldung reaktivieren."
+          },
+          "content": {
+            "title": "💬 Chat- und Inhaltsdaten",
+            "headings": {
+              "chatHistory": "Chatverlauf",
+              "privateMemories": "Private Erinnerungen",
+              "sharedMemories": "Geteilte Erinnerungen",
+              "aiComments": "KI-Kommentare",
+              "userFeedback": "Nutzerfeedback"
+            },
+            "items": {
+              "chatHistory": {
+                "data": "Chats mit der KI und Nachrichtenverläufe",
+                "period": "Lokal auf dem Gerät: unbegrenzt / Server-Cache: 30 Tage",
+                "basis": "Vertragliche Notwendigkeit",
+                "deletion": "Serverdaten nach 30 Tagen gelöscht; lokale Daten unter Nutzerkontrolle"
+              },
+              "privateMemories": {
+                "data": "Persönliche Tagebucheinträge und private Erinnerungen",
+                "period": "Unter Nutzerkontrolle – jederzeit löschbar",
+                "basis": "Vertragliche Notwendigkeit",
+                "deletion": "Sofortige Löschung durch Nutzerin oder bei Kontolöschung"
+              },
+              "sharedMemories": {
+                "data": "Öffentlich geteilte Erinnerungen und Beiträge",
+                "period": "Während der Freigabe + 1 Jahr nach Löschung",
+                "basis": "Berechtigtes Interesse (Inhaltsmoderation)",
+                "deletion": "1 Jahr zur Moderation verfügbar, danach endgültige Löschung"
+              },
+              "aiComments": {
+                "data": "KI-generierte Kommentare und Antworten",
+                "period": "Entspricht der verknüpften Erinnerung/dem Chat",
+                "basis": "Vertragliche Notwendigkeit",
+                "deletion": "Löschung zusammen mit dem verknüpften Inhalt"
+              },
+              "userFeedback": {
+                "data": "Bewertungen und Rückmeldungen zu KI-Antworten",
+                "period": "2 Jahre (Anonymisierung nach 90 Tagen)",
+                "basis": "Berechtigtes Interesse (Dienstverbesserung)",
+                "deletion": "Anonymisierung nach 90 Tagen; vollständige Löschung nach 2 Jahren"
+              }
+            },
+            "note": "💡 Die meisten Chatdaten werden aus Datenschutzgründen lokal auf deinem Gerät gespeichert. Für die Leistung nutzen wir minimale Server-Zwischenspeicherung."
+          },
+          "technical": {
+            "title": "🔧 Technische und Systemdaten",
+            "headings": {
+              "usageLogs": "Nutzungsprotokolle",
+              "errorReports": "Fehlerberichte",
+              "securityLogs": "Sicherheitsprotokolle",
+              "deviceInfo": "Geräteinformationen",
+              "notifications": "Benachrichtigungen"
+            },
+            "items": {
+              "usageLogs": {
+                "data": "App-Nutzungsmuster, Funktionsnutzung, Sitzungsdaten",
+                "period": "90 Tage (Anonymisierung nach 30 Tagen)",
+                "basis": "Berechtigtes Interesse (Dienstverbesserung)",
+                "deletion": "Persönliche Kennungen nach 30 Tagen entfernt; vollständige Löschung nach 90 Tagen"
+              },
+              "errorReports": {
+                "data": "Absturzberichte, Fehlerlogs, Leistungsdaten",
+                "period": "1 Jahr (sofort anonymisiert)",
+                "basis": "Berechtigtes Interesse (technische Verbesserung)",
+                "deletion": "Keine personenbezogenen Daten; technische Daten nach 1 Jahr gelöscht"
+              },
+              "securityLogs": {
+                "data": "Anmeldeversuche, Sicherheitsereignisse, Betrugserkennung",
+                "period": "2 Jahre",
+                "basis": "Berechtigtes Interesse & gesetzliche Compliance",
+                "deletion": "Automatische Löschung nach 2 Jahren"
+              },
+              "deviceInfo": {
+                "data": "Gerätetyp, Betriebssystemversion, App-Version",
+                "period": "Solange das Konto aktiv ist + 30 Tage",
+                "basis": "Vertragliche Notwendigkeit (Kompatibilität)",
+                "deletion": "Löschung bei Kontolöschung"
+              },
+              "notifications": {
+                "data": "Push-Token und Zustellprotokolle",
+                "period": "Solange das Konto aktiv ist",
+                "basis": "Vertragliche Notwendigkeit",
+                "deletion": "Ungültigmachung bei Kontolöschung oder Abmeldung"
+              }
+            },
+            "note": "💡 Technische Daten dienen hauptsächlich der Leistungs- und Sicherheitsverbesserung der App. Personenbezüge werden so schnell wie möglich entfernt."
+          },
+          "communications": {
+            "title": "📧 Kommunikation und Support",
+            "headings": {
+              "supportTickets": "Support-Tickets",
+              "marketingConsent": "Marketing-Einwilligung",
+              "contactForms": "Kontaktformulare"
+            },
+            "items": {
+              "supportTickets": {
+                "data": "Kundensupport-Konversationen und Tickets",
+                "period": "3 Jahre nach Lösung",
+                "basis": "Berechtigtes Interesse (Kundendienst)",
+                "deletion": "Automatische Löschung nach 3 Jahren"
+              },
+              "marketingConsent": {
+                "data": "Einwilligung in E-Mail-Marketing und Präferenzen",
+                "period": "Bis zum Widerruf + 1 Jahr",
+                "basis": "Einwilligung & gesetzliche Compliance",
+                "deletion": "Sofortige Löschung bei Widerruf; 1 Jahr Audit-Trail"
+              },
+              "contactForms": {
+                "data": "Übermittlungen von Kontaktformularen und Anfragen",
+                "period": "2 Jahre",
+                "basis": "Berechtigtes Interesse (geschäftliche Kommunikation)",
+                "deletion": "Automatische Löschung nach 2 Jahren"
+              }
+            }
+          },
+          "automaticDeletion": {
+            "title": "🤖 Automatisierte Datenlöschung",
+            "subtitle": "Automatisierte Prozesse",
+            "description": "Wir haben Systeme implementiert, um die Löschung gemäß unseren Speicherplänen sicherzustellen:",
+            "processes": {
+              "daily": {
+                "title": "Tägliche Bereinigung (alle 24 Stunden)",
+                "items": {
+                  "expired": "Abgelaufene Sitzungstokens und temporäre Daten",
+                  "cache": "Abgelaufene Cache-Daten und temporäre Dateien",
+                  "logs": "Rotation von Protokollen, die die Speicherfristen überschreiten"
+                }
+              },
+              "weekly": {
+                "title": "Wöchentliche Bereinigung (jeden Sonntag)",
+                "items": {
+                  "accounts": "Zur Löschung markierte Konten nach Ablauf der Schonfrist",
+                  "anonymization": "Anonymisierung von Nutzungsdaten älter als 30 Tage",
+                  "backups": "Bereinigung von Backups, die die Speicherfristen überschritten haben"
+                }
+              },
+              "monthly": {
+                "title": "Monatliche Bereinigung (am 1. des Monats)",
+                "items": {
+                  "technical": "Technische Protokolle und Fehlerberichte nach Ablauf der Speicherfristen",
+                  "analytics": "Analysedaten nach 90 Tagen",
+                  "audit": "Vollständiges Audit zur Einhaltung der Speicherpolitik"
+                }
+              },
+              "annual": {
+                "title": "Jährliche Überprüfung (1. Januar)",
+                "items": {
+                  "policies": "Überprüfung und Aktualisierung der Speicherfristen",
+                  "compliance": "Umfassendes Compliance-Audit und Dokumentation",
+                  "systems": "Aktualisierung der Systeme zur automatisierten Löschung"
+                }
+              }
+            },
+            "monitoring": {
+              "title": "Überwachung und Verifizierung:",
+              "items": {
+                "alerts": "Automatisierte Warnungen bei Verstößen gegen die Speicherpolitik",
+                "reports": "Monatliche Compliance-Berichte",
+                "audits": "Regelmäßige Audits der Löschprozesse",
+                "verification": "Verifizierung, dass gelöschte Daten nicht wiederhergestellt werden können"
+              }
+            }
+          },
+          "accountStatus": {
+            "title": "🔄 Datenspeicherung nach Kontostatus",
+            "subtitle": "Unterschiedliche Szenarien",
+            "active": {
+              "title": "🟢 Aktive Konten",
+              "description": "Für aktiv genutzte und ordnungsgemäße Konten:",
+              "items": {
+                "normalStorage": "Speicherung aller Daten gemäß Standardfristen",
+                "userControl": "Nutzerinnen können ihre Daten jederzeit über die App löschen",
+                "backups": "Regelmäßige verschlüsselte Backups zur Wiederherstellung",
+                "security": "Umfassende Sicherheitsmaßnahmen und Überwachung",
+                "updates": "Nutzerinnen können Daten aktualisieren und ändern",
+                "export": "Nutzerinnen können Daten jederzeit exportieren"
+              }
+            },
+            "inactive": {
+              "title": "🟡 Inaktive Konten",
+              "description": "Für Konten, die lange nicht genutzt wurden:",
+              "items": {
+                "warning": "Warn-E-Mail nach 12 Monaten Inaktivität",
+                "finalNotice": "Letzte Benachrichtigung nach 18 Monaten",
+                "deletion": "Markierung zur Löschung nach 24 Monaten Inaktivität",
+                "gracePeriod": "30 Tage Schonfrist vor endgültiger Löschung",
+                "dataMinimization": "Nicht erforderliche Daten können während der Inaktivität gelöscht werden"
+              },
+              "note": "💡 Du kannst dein Konto jederzeit durch Anmeldung reaktivieren; der Inaktivitätstimer wird zurückgesetzt."
+            },
+            "deleted": {
+              "title": "🔴 Gelöschte Konten",
+              "description": "Wenn du die Löschung deines Kontos anforderst:",
+              "items": {
+                "gracePeriod": "30 Tage Schonfrist, in der du dein Konto wiederherstellen kannst",
+                "immediateActions": "Sofortige Ungültigmachung der Anmeldeinformationen",
+                "dataReview": "Prüfung personenbezogener Daten auf gesetzliche Aufbewahrungspflichten",
+                "permanentDeletion": "Nach Ablauf der Frist werden alle personenbezogenen Daten dauerhaft gelöscht",
+                "legalException": "Nur gesetzlich erforderliche Daten werden aufbewahrt (anonymisiert, wenn möglich)",
+                "noRecovery": "Keine Wiederherstellung nach Ablauf der Frist",
+                "confirmation": "Bestätigung per E-Mail nach Abschluss der Löschung"
+              }
+            },
+            "suspended": {
+              "title": "🚫 Gesperrte Konten",
+              "description": "Für aufgrund von Verstößen gesperrte Konten:",
+              "items": {
+                "retention": "Daten werden während der Untersuchung aufbewahrt",
+                "appeal": "Daten stehen für den Einspruchsprozess zur Verfügung (bis zu 90 Tage)",
+                "deletion": "Bei dauerhafter Sperre gilt der reguläre Löschprozess",
+                "reinstatement": "Bei Wiederherstellung gelten wieder die Standardspeicherregeln"
+              }
+            }
+          },
+          "userRights": {
+            "title": "👥 Deine Rechte zur Datenspeicherung",
+            "subtitle": "Was du tun kannst",
+            "description": "Du hast mehrere Rechte hinsichtlich der Dauer der Datenspeicherung:",
+            "access": {
+              "title": "🔍 Auskunftsrecht",
+              "description": "Du kannst Informationen darüber anfordern, welche Daten wir speichern und wie lange",
+              "items": {
+                "request": "Stelle eine Datenzugriffsanfrage über die App oder per E-Mail",
+                "response": "Wir liefern innerhalb von 30 Tagen einen umfassenden Bericht",
+                "format": "Daten in einem strukturierten, maschinenlesbaren Format",
+                "frequency": "Einmal jährlich kostenlos"
+              }
+            },
+            "deletion": {
+              "title": "🗑️ Recht auf Löschung",
+              "description": "Unter bestimmten Umständen kannst du die Löschung deiner Daten verlangen",
+              "items": {
+                "immediate": "Sofortige Kontolöschung in der App",
+                "selective": "Löschanfrage für bestimmte Datenkategorien",
+                "legal": "Wir können ablehnen, wenn gesetzliche Pflichten eine Aufbewahrung erfordern",
+                "verification": "Löschanträge erfordern eine Identitätsprüfung"
+              }
+            },
+            "portability": {
+              "title": "📦 Recht auf Datenübertragbarkeit",
+              "description": "Du kannst eine Kopie deiner Daten in einem übertragbaren Format anfordern",
+              "items": {
+                "export": "Direkter Download deiner Daten aus der App",
+                "format": "Format JSON/CSV",
+                "scope": "Umfasst alle personenbezogenen Daten, die wir über dich speichern",
+                "transfer": "Kann zur Übertragung an einen anderen Dienst verwendet werden"
+              }
+            },
+            "objection": {
+              "title": "✋ Widerspruchsrecht",
+              "description": "Du kannst bestimmten Verarbeitungen/Aufbewahrungen widersprechen",
+              "items": {
+                "marketing": "Sofortiger Opt-out aus der Speicherung von Marketingdaten",
+                "analytics": "Widerspruch gegen Erhebung/Aufbewahrung von Analysedaten",
+                "profiling": "Widerspruch gegen automatisierte Entscheidungen/Profiling",
+                "legitimate": "Widerspruch gegen auf berechtigtem Interesse beruhende Aufbewahrung"
+              }
+            }
+          },
+          "specialCircumstances": {
+            "title": "⚖️ Besondere Umstände",
+            "subtitle": "Erweiterte Aufbewahrung",
+            "description": "In bestimmten Fällen müssen wir Daten über die üblichen Fristen hinaus speichern:",
+            "legal": {
+              "title": "🏛️ Rechtliche Verfahren",
+              "description": "Daten können länger gespeichert werden, wenn sie Teil rechtlicher Verfahren sind",
+              "items": {
+                "litigation": "Aufbewahrung von Daten während Rechtsstreitigkeiten oder aktiver Ermittlungen",
+                "subpoena": "Verlängerte Aufbewahrung bei Vorladung oder Gerichtsbeschluss",
+                "investigation": "Erweiterte Aufbewahrung bei Betrugs- oder Sicherheitsuntersuchungen",
+                "notification": "Du wirst informiert, wenn deine Daten unter rechtlichem Sperrvermerk stehen"
+              }
+            },
+            "security": {
+              "title": "🔒 Sicherheitsvorfälle",
+              "description": "Sicherheitsrelevante Daten können zur Reaktion auf Vorfälle aufbewahrt werden",
+              "items": {
+                "breaches": "Aufbewahrung von Sicherheitsprotokollen zur Untersuchung und Verhinderung von Verstößen",
+                "forensics": "Vorübergehend erweiterte Aufbewahrung für forensische Analysen",
+                "patterns": "Nutzung anonymisierter Daten zur Erkennung von Angriffsmustern",
+                "reporting": "Aufbewahrung zur Erfüllung regulatorischer Berichtspflichten"
+              }
+            },
+            "financial": {
+              "title": "💰 Finanzielle Verpflichtungen",
+              "description": "Finanzdaten unterliegen längeren Aufbewahrungsfristen",
+              "items": {
+                "tax": "Finanzunterlagen für Steuerzwecke: 7 Jahre",
+                "audit": "Aufbewahrung von Zahlungsdaten für Audits",
+                "disputes": "Abrechnungsstreitigkeiten können Aufbewahrung verlängern",
+                "refunds": "Erstattungsfristen können Aufbewahrungsdauern beeinflussen"
+              }
+            }
+          },
+          "dataLocations": {
+            "title": "🌍 Speicherorte und Aufbewahrung",
+            "subtitle": "Wo deine Daten gespeichert werden",
+            "description": "Speicherfristen können je nach Speicherort und geltendem Recht variieren:",
+            "primary": {
+              "title": "Primäre Speicherung (EU/EWR)",
+              "description": "Primäre Datenspeicherung im Europäischen Wirtschaftsraum",
+              "items": {
+                "location": "Primäre Server in Deutschland und den Niederlanden",
+                "law": "Unterliegt der DSGVO und EU-Datenschutzgesetzen",
+                "retention": "Standardspeicherfristen gemäß dieser Richtlinie",
+                "protection": "Voller Schutz und Rechte nach DSGVO"
+              }
+            },
+            "backups": {
+              "title": "Backup-Speicherung",
+              "description": "Verschlüsselte Backups für Notfallwiederherstellung",
+              "items": {
+                "locations": "Sichere Einrichtungen in der EU und der Schweiz",
+                "retention": "Backups werden maximal 1 Jahr aufbewahrt",
+                "encryption": "Ende-zu-Ende-Verschlüsselung mit separatem Schlüsselmanagement",
+                "deletion": "Löschung der Backups folgt der Löschung der Primärdaten"
+              }
+            },
+            "cache": {
+              "title": "Cache und CDN",
+              "description": "Temporäre Speicherung zur Leistungsoptimierung",
+              "items": {
+                "duration": "Cache-Daten werden maximal 30 Tage gespeichert",
+                "locations": "CDN-Knoten in mehreren Regionen",
+                "anonymization": "Keine persönlichen Kennungen in gecachten Inhalten",
+                "automatic": "Automatische Ablauf- und Löschmechanismen"
+              }
+            }
+          },
+          "compliance": {
+            "title": "📜 Regulatorische Compliance",
+            "subtitle": "Gesetzliche Anforderungen erfüllen",
+            "description": "Unsere Speicherpraktiken erfüllen Anforderungen mehrerer internationaler Datenschutzregelungen:",
+            "gdpr": {
+              "title": "🇪🇺 DSGVO",
+              "items": {
+                "lawfulness": "Alle Aufbewahrung basiert auf rechtmäßigen Verarbeitungsgrundlagen",
+                "minimization": "Strikte Einhaltung des Grundsatzes der Datenminimierung",
+                "rights": "Vollständige Umsetzung der Rechte von Betroffenen",
+                "accountability": "Dokumentation sämtlicher Aufbewahrungsentscheidungen"
+              }
+            },
+            "ccpa": {
+              "title": "🇺🇸 CCPA",
+              "items": {
+                "disclosure": "Klare Offenlegung der Aufbewahrungsfristen für Einwohnerinnen Kaliforniens",
+                "deletion": "Beachtung des Rechts auf Löschung innerhalb von 45 Tagen",
+                "categories": "Detaillierte Kategorisierung personenbezogener Informationen",
+                "business": "Klare Benennung des geschäftlichen Zwecks jeder Aufbewahrungsdauer"
+              }
+            },
+            "other": {
+              "title": "🌐 Weitere Regelungen",
+              "items": {
+                "pipeda": "PIPEDA-Konformität für Nutzerinnen in Kanada",
+                "lgpd": "LGPD-Konformität für Nutzerinnen in Brasilien",
+                "pdpa": "PDPA-Konformität für Nutzerinnen in Singapur",
+                "local": "Einhaltung anwendbarer lokaler Datenschutzgesetze"
+              }
+            }
+          },
+          "contact": {
+            "title": "📞 Kontakt & Anfragen",
+            "subtitle": "So erreichst du uns",
+            "description": "Für Fragen oder Anfragen zur Datenspeicherung:",
+            "deletion": {
+              "title": "🗑️ Anfragen zur Datenlöschung",
+              "methods": {
+                "app": "Bevorzugt: App-Einstellungen → Konto → Konto löschen",
+                "email": "E-Mail: deletion@aeonova.com",
+                "form": "Online-Formular: aeonova.com/delete-account"
+              },
+              "requirements": {
+                "verification": "Identitätsprüfung aus Sicherheitsgründen erforderlich",
+                "confirmation": "Bestätigung per E-Mail an die registrierte Adresse",
+                "timeline": "Bearbeitung innerhalb von 7 Werktagen"
+              }
+            },
+            "questions": {
+              "title": "❓ Fragen zur Datenspeicherung",
+              "contacts": {
+                "general": "Allgemeine Fragen: retention@aeonova.com",
+                "dpo": "DPO: dpo@aeonova.com",
+                "support": "Support: support@aeonova.com",
+                "legal": "Rechtliches: legal@aeonova.com"
+              },
+              "response": {
+                "standard": "Standardanfragen: 5 Werktage",
+                "complex": "Komplexe Angelegenheiten: 15 Werktage",
+                "urgent": "Dringende Anfragen: 2 Werktage"
+              }
+            },
+            "appeals": {
+              "title": "⚖️ Einsprüche & Beschwerden",
+              "process": {
+                "internal": "Interner Einspruch: appeals@aeonova.com",
+                "external": "EU-Ansässige: Kontakt mit der lokalen Datenschutzbehörde",
+                "timeline": "Antwort auf Einsprüche innerhalb von 30 Tagen",
+                "escalation": "Eskalationspfad für ungelöste Fälle vorhanden"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

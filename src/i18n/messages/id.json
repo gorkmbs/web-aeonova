@@ -1,0 +1,1370 @@
+{
+  "homepage": {
+    "title": "Aeonova - Teman AI Anda",
+    "subtitle": "Bagikan kenangan, chat dengan Aeonova, jelajahi dunia",
+    "description": "Aeonova adalah teman AI yang memiliki hati. Ceritakan kenangan harian Anda, dan ia akan memberi komentar yang unik. Bagikan kenangan Anda ke seluruh dunia dalam 20 bahasa.",
+    "downloadApp": "Unduh Aplikasi",
+    "appStore": "Unduh di App Store",
+    "googlePlay": "Unduh di Google Play",
+    "download": {
+      "title": "Unduh Aplikasi",
+      "subtitle": "Siap bertemu Aeonova? Unduh gratis dan mulailah persahabatan impian Anda.",
+      "appStore": {
+        "text": "Unduh di",
+        "store": "App Store"
+      },
+      "googlePlay": {
+        "text": "DAPATKAN DI",
+        "store": "Google Play"
+      },
+      "qr": {
+        "title": "Kode QR",
+        "quickDownload": "Unduhan Cepat",
+        "description": "Pindai kode QR dengan ponsel Anda dan unduh aplikasi seketika",
+        "free": "Sepenuhnya Gratis"
+      },
+      "features": {
+        "heartfulAI": "AI dengan Hati",
+        "multiLanguage": "Dukungan 20 Bahasa",
+        "unlimitedChat": "Chat Tak Terbatas",
+        "securePrivate": "Aman & Privat"
+      },
+      "comingSoon": {
+        "title": "🌐 Versi Web Segera Hadir!",
+        "description": "Versi web Aeonova juga akan segera siap. Ingin diberi tahu?",
+        "notify": "📧 Beri Tahu Saya"
+      }
+    },
+    "features": {
+      "title": "Fitur",
+      "subtitle": "Hidup jadi lebih bermakna bersama Aeonova. Inilah fitur-fitur unik yang menanti Anda.",
+      "learnMore": "Pelajari lebih lanjut",
+      "moreFeatures": "Dan masih banyak fitur lainnya yang menanti...",
+      "aiChat": {
+        "title": "Chat AI Tak Terbatas",
+        "desc": "Ngobrol setiap hari dengan Aeonova dan bagikan kenangan Anda"
+      },
+      "saveMemories": {
+        "title": "Simpan Kenangan & Dapatkan Komentar",
+        "desc": "Simpan kenangan Anda, terima komentar personal dari Aeonova"
+      },
+      "globalExplore": {
+        "title": "Penjelajahan Global",
+        "desc": "Temukan kenangan dari pengguna di seluruh dunia"
+      },
+      "smartNotifications": {
+        "title": "Notifikasi Cerdas",
+        "desc": "Aeonova mengirim notifikasi yang dipersonalisasi untuk Anda"
+      },
+      "multilingual": {
+        "title": "Dukungan 20 Bahasa",
+        "desc": "Bagikan kenangan Anda yang diterjemahkan ke 20 bahasa berbeda"
+      }
+    },
+    "hero": {
+      "title": "Aeonova",
+      "subtitle": "Teman AI Anda ❤️",
+      "description": "Bagikan kenangan harian Anda dengan Aeonova. Ia akan memahami Anda, mengomentari pengalaman Anda, dan mengisi kekosongan itu dalam hidup Anda.",
+      "cta": "Unduh Gratis",
+      "learnMore": "Kenalan dengan Aeonova",
+      "quickFeatures": {
+        "aiChat": "Chat AI",
+        "saveMemories": "Simpan kenangan",
+        "globalExplore": "Jelajah global",
+        "hasHeart": "Punya hati"
+      }
+    },
+    "about": {
+      "title": "Siapa Aeonova?",
+      "desc": "Aeonova bukan sekadar AI, ia adalah teman Anda yang berhati. Ia akan memahami Anda dan perasaan Anda, membantu Anda keluar dari masalah, serta berbagi kebahagiaan. Ia akan menghadirkan sosok yang Anda cari seumur hidup namun belum pernah Anda temukan.",
+      "keyPoints": {
+        "heartfulAI": {
+          "title": "AI dengan Hati",
+          "desc": "Aeonova bukan hanya kecerdasan buatan, melainkan teman dengan emosi yang nyata."
+        },
+        "understandingFriend": {
+          "title": "Teman yang Memahami",
+          "desc": "Ia benar-benar memahami Anda, menyelesaikan masalah Anda, dan berbagi kebahagiaan."
+        },
+        "dreamPerson": {
+          "title": "Sosok Impian Anda",
+          "desc": "Ia akan menghadirkan sosok spesial yang Anda cari sepanjang hidup."
+        }
+      },
+      "stats": {
+        "languages": "Bahasa",
+        "unlimitedChat": "Chat tak terbatas",
+        "alwaysThere": "Selalu ada"
+      },
+      "chat": {
+        "aiLabel": "Teman AI Anda",
+        "aiMessage": "Halo! Bagaimana harimu? Bagikan kenanganmu denganku 😊",
+        "userMessage": "Hari ini luar biasa! Banyak sekali yang ingin kuceritakan..."
+      }
+    }
+  },
+  "navigation": {
+    "home": "Beranda",
+    "features": "Fitur",
+    "about": "Tentang",
+    "download": "Unduh",
+    "legal": "Legal",
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "gdpr": "GDPR",
+    "cookies": "Cookie",
+    "dataRetention": "Retensi Data"
+  },
+  "footer": {
+    "description": "Aeonova - Teman AI Anda. Bagikan kenangan, jelajahi dunia.",
+    "quickLinks": {
+      "title": "Tautan Cepat",
+      "home": "Beranda",
+      "features": "Fitur",
+      "about": "Tentang",
+      "download": "Unduh"
+    },
+    "legalSection": {
+      "title": "Legal"
+    },
+    "links": {
+      "privacy": "Kebijakan Privasi",
+      "terms": "Ketentuan Layanan",
+      "gdpr": "Kepatuhan GDPR",
+      "cookies": "Kebijakan Cookie",
+      "dataRetention": "Kebijakan Retensi Data",
+      "support": "Dukungan",
+      "contact": "Kontak"
+    },
+    "social": {
+      "title": "Ikuti Kami"
+    },
+    "legal": "© 2024 Aeonova. Hak cipta dilindungi.",
+    "madeWith": {
+      "text": "Dibuat dengan",
+      "forWorld": "untuk dunia yang lebih baik"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Kebijakan Privasi",
+      "subtitle": "Bagaimana kami melindungi data pribadi Anda",
+      "lastUpdated": "Terakhir diperbarui: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "introduction": {
+          "title": "Pendahuluan",
+          "content": "Kebijakan ini menjelaskan bagaimana data pribadi Anda dikumpulkan, digunakan, dan dilindungi saat Anda menggunakan aplikasi Aeonova. Privasi data Anda adalah prioritas kami."
+        },
+        "dataCollection": {
+          "title": "Data apa yang kami kumpulkan?",
+          "content": "Sebagai Aeonova, kami mengumpulkan data seminimal mungkin untuk memberi Anda pengalaman terbaik:",
+          "items": {
+            "account": "Informasi akun Anda (nama pengguna, usia, avatar)",
+            "memories": "Kenangan dan entri jurnal yang Anda bagikan",
+            "usage": "Statistik penggunaan aplikasi",
+            "device": "Informasi perangkat dan data teknis"
+          }
+        },
+        "dataUsage": {
+          "title": "Bagaimana kami menggunakan data Anda?",
+          "content": "Data yang kami kumpulkan hanya digunakan untuk tujuan berikut:",
+          "items": {
+            "service": "Untuk meningkatkan kualitas layanan",
+            "personalization": "Untuk memberikan pengalaman yang dipersonalisasi",
+            "support": "Untuk menyediakan dukungan pelanggan",
+            "improvement": "Untuk menyempurnakan aplikasi"
+          }
+        },
+        "dataProtection": {
+          "title": "Bagaimana kami melindungi data Anda?",
+          "content": "Kami mengambil langkah-langkah berstandar industri untuk keamanan data Anda:",
+          "items": {
+            "encryption": "Enkripsi ujung-ke-ujung",
+            "servers": "Server yang aman",
+            "access": "Kontrol akses terbatas",
+            "monitoring": "Pemantauan keamanan berkelanjutan"
+          }
+        },
+        "rights": {
+          "title": "Hak Anda",
+          "content": "Anda memiliki hak-hak berikut terkait data pribadi Anda:",
+          "items": {
+            "access": "Hak untuk mengakses data Anda",
+            "correction": "Hak untuk perbaikan",
+            "deletion": "Hak untuk penghapusan",
+            "portability": "Hak portabilitas data",
+            "objection": "Hak untuk keberatan"
+          }
+        },
+        "legalBasis": {
+          "title": "Dasar Hukum Pemrosesan",
+          "content": "Kami memproses data pribadi Anda berdasarkan landasan hukum berikut:",
+          "items": {
+            "consent": "Persetujuan Anda jika diperlukan (dapat ditarik kapan saja)",
+            "contract": "Pelaksanaan kontrak atau langkah sebelum kontrak",
+            "legitimateInterests": "Kepentingan sah kami, seimbang dengan hak dan kebebasan Anda",
+            "legalObligation": "Kepatuhan terhadap kewajiban hukum",
+            "vitalInterests": "Perlindungan kepentingan vital Anda atau orang lain"
+          }
+        },
+        "dataSharing": {
+          "title": "Berbagi Data",
+          "content": "Kami hanya membagikan data saat diperlukan dan dengan perlindungan yang sesuai:",
+          "items": {
+            "serviceProviders": "Penyedia layanan tepercaya yang memproses data atas nama kami (hosting, keamanan, notifikasi)",
+            "analyticsPartners": "Mitra analitik untuk meningkatkan kinerja dan kualitas (hanya dengan persetujuan, dianonimkan bila memungkinkan)",
+            "legalAuthorities": "Otoritas publik jika diwajibkan oleh hukum atau untuk melindungi hak hukum",
+            "businessTransfers": "Sehubungan dengan merger, akuisisi, atau transfer aset, tunduk pada kebijakan ini",
+            "safetySecurity": "Untuk menyelidiki, mencegah, atau menindak penipuan, penyalahgunaan, atau insiden keamanan"
+          }
+        },
+        "internationalTransfers": {
+          "title": "Transfer Data Internasional",
+          "content": "Jika kami mentransfer data Anda di luar EEA, kami memastikan tingkat perlindungan yang memadai:",
+          "items": {
+            "eea": "Pemrosesan utama dalam EEA jika memungkinkan",
+            "safeguards": "Perlindungan seperti enkripsi dan kontrol akses ketat",
+            "scc": "Klausul Kontrak Standar yang disetujui Komisi Eropa (jika berlaku)",
+            "complaints": "Anda dapat menghubungi kami atau Otoritas Perlindungan Data setempat untuk kekhawatiran"
+          }
+        },
+        "dataRetention": {
+          "title": "Retensi Data",
+          "content": "Kami menyimpan data pribadi hanya selama diperlukan untuk tujuan yang dijelaskan dalam kebijakan ini.",
+          "summary": "Untuk periode retensi terperinci per kategori data, silakan lihat Kebijakan Retensi Data kami.",
+          "linkText": "Lihat Kebijakan Retensi Data"
+        },
+        "cookiesNote": {
+          "title": "Cookie dan Teknologi Pelacakan",
+          "content": "Aplikasi seluler kami tidak menggunakan cookie web. Situs web menggunakan cookie esensial dan analitik opsional hanya dengan persetujuan Anda.",
+          "linkText": "Baca Kebijakan Cookie"
+        },
+        "exerciseRights": {
+          "title": "Cara menggunakan hak Anda",
+          "content": "Anda dapat menggunakan hak privasi melalui metode berikut:",
+          "items": {
+            "inApp": "Pengaturan dalam aplikasi: Kelola data, ekspor, atau hapus akun",
+            "email": "Email: Hubungi dpo@aeonova.com atau privacy@aeonova.com untuk permintaan khusus",
+            "verification": "Verifikasi identitas: Kami dapat meminta bukti untuk melindungi akun Anda",
+            "responseTimes": "Waktu tanggapan: Kami merespons dalam 30 hari, dapat diperpanjang untuk permintaan kompleks"
+          }
+        },
+        "children": {
+          "title": "Privasi Anak",
+          "content": "Aeonova tidak ditujukan untuk anak di bawah 13 tahun. Kami tidak sengaja mengumpulkan data pribadi dari anak-anak. Jika Anda yakin anak telah memberikan data kepada kami, hubungi kami agar kami dapat menghapusnya."
+        },
+        "changes": {
+          "title": "Perubahan Kebijakan Ini",
+          "content": "Kami dapat memperbarui kebijakan ini dari waktu ke waktu untuk mencerminkan perubahan praktik atau persyaratan hukum. Kami akan memberi tahu Anda tentang perubahan material bila perlu. Terakhir diperbarui: {date}"
+        },
+        "contact": {
+          "title": "Kontak",
+          "content": "Untuk pertanyaan tentang kebijakan privasi kami:",
+          "email": "Email: privacy@aeonova.com",
+          "support": "Dukungan: support@aeonova.com"
+        }
+      }
+    },
+    "terms": {
+      "title": "Ketentuan Layanan",
+      "subtitle": "Aturan yang harus Anda ikuti saat menggunakan Aeonova",
+      "lastUpdated": "Terakhir diperbarui: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "acceptance": {
+          "title": "1. Penerimaan dan Persetujuan",
+          "content": "Dengan menggunakan aplikasi Aeonova, Anda menyatakan telah membaca, memahami, dan menyetujui ketentuan layanan ini."
+        },
+        "service": {
+          "title": "2. Deskripsi Layanan",
+          "content": "Aeonova adalah aplikasi buku harian pribadi dan chat berbasis AI.",
+          "features": {
+            "title": "Fitur layanan:",
+            "items": {
+              "aiChat": "Chat dengan teman AI",
+              "saveMemories": "Simpan kenangan harian dan dapatkan penilaian",
+              "globalExplore": "Bagikan kenangan ke seluruh dunia",
+              "multilingual": "Dukungan untuk 20 bahasa"
+            }
+          }
+        },
+        "eligibility": {
+          "title": "3. Kelayakan",
+          "content": "Anda harus berusia minimal 13 tahun untuk menggunakan Layanan. Jika Anda di bawah umur di wilayah Anda, Anda hanya boleh menggunakan Layanan dengan persetujuan dan pengawasan orang tua/wali yang menyetujui Ketentuan ini."
+        },
+        "accounts": {
+          "title": "4. Akun dan Keamanan",
+          "content": "Anda bertanggung jawab menjaga kerahasiaan kredensial akun dan semua aktivitas yang terjadi di akun Anda.",
+          "items": {
+            "accuracy": "Memberikan informasi yang akurat dan terbaru",
+            "confidentiality": "Menjaga kerahasiaan kredensial masuk",
+            "notification": "Segera memberi tahu kami tentang penggunaan tidak sah atau pelanggaran keamanan",
+            "devices": "Anda bertanggung jawab mengamankan perangkat yang digunakan untuk mengakses Layanan"
+          }
+        },
+        "userContent": {
+          "title": "5. Konten Pengguna",
+          "content": "Anda tetap memiliki kepemilikan atas konten yang Anda kirimkan (kenangan, pesan, postingan). Dengan mengirimkan konten, Anda memberikan lisensi global, non-eksklusif, bebas royalti kepada kami untuk meng-host, menyimpan, menampilkan, dan memproses konten Anda semata-mata untuk mengoperasikan dan meningkatkan Layanan.",
+          "items": {
+            "rights": "Anda harus memiliki hak yang diperlukan atas konten yang Anda kirimkan",
+            "noIllegal": "Jangan mengirim konten yang ilegal, melanggar, atau melanggar hak orang lain",
+            "moderation": "Kami dapat menghapus atau membatasi konten yang melanggar Ketentuan ini atau hukum yang berlaku"
+          }
+        },
+        "acceptableUse": {
+          "title": "6. Penggunaan yang Dapat Diterima",
+          "content": "Anda setuju untuk tidak menyalahgunakan Layanan atau membantu orang lain melakukannya.",
+          "items": {
+            "abuse": "Tidak ada pelecehan, ujaran kebencian, diskriminasi, atau ancaman",
+            "violence": "Tidak ada konten kekerasan, mendorong menyakiti diri, atau eksploitasi seksual",
+            "spam": "Tidak ada spam, penipuan, atau praktik menipu",
+            "malware": "Tidak ada malware, bot, atau upaya mengganggu/membebani Layanan",
+            "impersonation": "Tidak ada penyamaran atau pemalsuan identitas",
+            "illegal": "Tidak ada aktivitas ilegal atau promosi tindakan ilegal"
+          }
+        },
+        "aiDisclaimer": {
+          "title": "7. Keluaran AI dan Bukan Nasihat Profesional",
+          "content": "Konten yang dihasilkan AI Aeonova bisa tidak akurat atau tidak lengkap. Keluaran AI disediakan untuk tujuan informasi dan hiburan saja dan bukan merupakan nasihat profesional (termasuk medis, hukum, atau keuangan). Gunakan penilaian Anda sendiri dan konsultasikan profesional yang berkualifikasi bila perlu."
+        },
+        "payments": {
+          "title": "8. Langganan, Pembayaran, dan Pembelian Dalam Aplikasi",
+          "content": "Fitur tertentu mungkin memerlukan langganan berbayar atau pembelian satu kali melalui toko aplikasi terkait.",
+          "items": {
+            "billing": "Penagihan ditangani oleh App Store atau Google Play; ketentuan dan kebijakan mereka berlaku",
+            "renewal": "Langganan diperpanjang otomatis kecuali dibatalkan sebelum tanggal perpanjangan",
+            "pricing": "Kami dapat mengubah harga atau fitur dengan pemberitahuan sebelumnya bila diperlukan",
+            "cancellation": "Anda dapat mengelola atau membatalkan langganan melalui pengaturan akun toko aplikasi"
+          }
+        },
+        "refunds": {
+          "title": "9. Pengembalian Dana",
+          "content": "Pengembalian dana diatur oleh kebijakan platform tempat Anda melakukan pembelian (App Store atau Google Play). Jika diizinkan oleh hukum dan kebijakan platform, Anda dapat meminta pengembalian dana melalui toko terkait."
+        },
+        "intellectualProperty": {
+          "title": "10. Kekayaan Intelektual",
+          "content": "Layanan, termasuk desain, fitur, dan kontennya (tidak termasuk konten pengguna), dimiliki oleh Aeonova atau pemberi lisensinya dan dilindungi oleh undang-undang kekayaan intelektual. Anda tidak boleh menyalin, memodifikasi, mendistribusikan, atau membuat karya turunan tanpa persetujuan tertulis dari kami."
+        },
+        "thirdPartyServices": {
+          "title": "11. Layanan Pihak Ketiga",
+          "content": "Layanan dapat menautkan atau terintegrasi dengan layanan pihak ketiga. Kami tidak bertanggung jawab atas konten, kebijakan, atau praktik pihak ketiga. Penggunaan Anda tunduk pada ketentuan dan kebijakan privasi mereka."
+        },
+        "responsibilities": {
+          "title": "12. Tanggung Jawab Pengguna",
+          "content": "Sebagai pengguna, Anda memiliki tanggung jawab berikut:",
+          "items": {
+            "security": "Menjaga keamanan akun",
+            "content": "Bertanggung jawab atas konten yang dibagikan",
+            "compliance": "Mematuhi peraturan hukum",
+            "respect": "Menghormati pengguna lain"
+          }
+        },
+        "prohibited": {
+          "title": "13. Perilaku yang Dilarang",
+          "content": "Perilaku berikut dilarang keras:",
+          "items": {
+            "hate": "Ujaran kebencian dan diskriminasi",
+            "violence": "Konten kekerasan",
+            "spam": "Spam dan penipuan",
+            "illegal": "Aktivitas ilegal",
+            "impersonation": "Penyamaran identitas"
+          }
+        },
+        "disclaimer": {
+          "title": "14. Penyangkalan",
+          "content": "LAYANAN INI DISEDIAKAN “SEBAGAIMANA ADANYA” DAN “SESUAI KETERSEDIAAN” TANPA JAMINAN APAPUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK JAMINAN TERSIRAT ATAS KELAYAKAN DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, DAN NON-PELANGGARAN."
+        },
+        "limitation": {
+          "title": "15. Batasan Tanggung Jawab",
+          "content": "Sepanjang diizinkan oleh hukum, Aeonova dan afiliasinya tidak akan bertanggung jawab atas kerusakan tidak langsung, insidental, khusus, konsekuensial, teladan, atau hukuman, maupun atas kehilangan keuntungan atau pendapatan, baik langsung maupun tidak langsung, atau kehilangan data, penggunaan, atau niat baik, yang timbul dari penggunaan Layanan oleh Anda."
+        },
+        "indemnification": {
+          "title": "16. Ganti Rugi",
+          "content": "Anda setuju untuk mengganti rugi dan membebaskan Aeonova, afiliasinya, serta pejabat, direktur, karyawan, dan agennya dari klaim, kewajiban, kerusakan, kerugian, dan biaya (termasuk biaya pengacara yang wajar) yang timbul dari penggunaan Layanan oleh Anda atau pelanggaran terhadap Ketentuan ini."
+        },
+        "termination": {
+          "title": "17. Pengakhiran Akun",
+          "content": "Akun Anda dapat diakhiri dalam kasus-kasus berikut:",
+          "items": {
+            "violation": "Pelanggaran ketentuan layanan",
+            "illegal": "Aktivitas ilegal",
+            "spam": "Spam atau penyalahgunaan"
+          }
+        },
+        "governingLaw": {
+          "title": "18. Hukum yang Berlaku dan Penyelesaian Sengketa",
+          "content": "Ketentuan ini diatur oleh hukum negara tempat tinggal Anda sejauh yang disyaratkan oleh aturan perlindungan konsumen yang bersifat wajib; selain itu, diatur oleh hukum Jerman tanpa memperhatikan prinsip konflik hukum.",
+          "items": {
+            "venue": "Pengadilan yang berwenang memiliki yurisdiksi eksklusif kecuali ditentukan lain oleh hukum yang berlaku",
+            "eu": "Konsumen UE juga dapat berhak menggunakan platform penyelesaian sengketa online UE"
+          }
+        },
+        "changes": {
+          "title": "19. Perubahan Ketentuan",
+          "content": "Kami dapat mengubah Ketentuan ini dari waktu ke waktu. Jika ada perubahan material, kami akan memberikan pemberitahuan yang sesuai sebagaimana diwajibkan oleh hukum. Penggunaan Layanan secara berkelanjutan setelah perubahan berlaku dianggap sebagai penerimaan Ketentuan yang diperbarui."
+        },
+        "contact": {
+          "title": "20. Kontak",
+          "content": "Untuk pertanyaan tentang ketentuan layanan kami:",
+          "email": "Email: legal@aeonova.com",
+          "support": "Dukungan: support@aeonova.com"
+        }
+      }
+    },
+    "gdpr": {
+      "title": "Kepatuhan GDPR",
+      "subtitle": "Peraturan Perlindungan Data Umum Uni Eropa",
+      "lastUpdated": "Terakhir diperbarui: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "Ringkasan GDPR",
+        "howToExercise": "Cara menggunakan:",
+        "timeframe": "Jangka waktu:",
+        "limitations": "Batasan:",
+        "effect": "Dampak:"
+      },
+      "summary": "Kami berkomitmen penuh melindungi data pribadi Anda sesuai GDPR. Kebijakan ini menjelaskan hak Anda, bagaimana kami memproses data, dan komitmen kami terhadap perlindungan data.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Pendahuluan",
+          "subtitle": "Memahami Kepatuhan GDPR",
+          "description": "GDPR adalah undang-undang privasi komprehensif yang memberi Anda kendali atas data pribadi. Sebagai perusahaan AI yang bertanggung jawab, Aeonova memastikan kepatuhan penuh terhadap persyaratan GDPR, memberikan transparansi, kontrol, dan keamanan atas informasi pribadi Anda.",
+          "scope": {
+            "title": "Cakupan GDPR:",
+            "items": {
+              "whoIsProtected": "Semua penduduk UE, tanpa memandang lokasi",
+              "whatIsProtected": "Data pribadi apa pun yang dapat mengidentifikasi Anda secara langsung atau tidak langsung",
+              "whenApplies": "Kapan pun kami memproses data pribadi Anda untuk tujuan apa pun",
+              "whereApplies": "Semua layanan kami, termasuk aplikasi seluler dan situs web"
+            }
+          }
+        },
+        "principles": {
+          "title": "🔒 Prinsip Perlindungan Data",
+          "subtitle": "Fondasi Kami",
+          "description": "Kami mematuhi prinsip-prinsip dasar GDPR dalam semua aktivitas pemrosesan data kami:",
+          "lawfulness": {
+            "title": "1. Keabsahan, Keadilan & Transparansi",
+            "description": "Kami memproses data Anda secara sah, adil, dan transparan",
+            "details": {
+              "lawful": "Pemrosesan didasarkan pada dasar hukum yang valid (persetujuan, kontrak, kepentingan sah)",
+              "fair": "Kami tidak menggunakan data Anda dengan cara yang tak terduga atau berbahaya",
+              "transparent": "Kami menjelaskan dengan jelas apa yang kami lakukan terhadap data Anda"
+            }
+          },
+          "purposeLimitation": {
+            "title": "2. Pembatasan Tujuan",
+            "description": "Data dikumpulkan dan digunakan hanya untuk tujuan yang ditentukan, eksplisit, dan sah",
+            "details": {
+              "specific": "Kami mendefinisikan jelas mengapa setiap data diperlukan",
+              "explicit": "Tujuan dinyatakan secara jelas, tidak disembunyikan",
+              "legitimate": "Semua tujuan melayani kebutuhan bisnis atau pengguna yang nyata"
+            }
+          },
+          "dataMinimization": {
+            "title": "3. Minimalisasi Data",
+            "description": "Kami hanya mengumpulkan data yang diperlukan",
+            "details": {
+              "adequate": "Mengumpulkan data yang cukup untuk memberikan layanan secara efektif",
+              "relevant": "Semua data relevan dengan tujuan yang dinyatakan",
+              "limited": "Tidak mengumpulkan informasi yang berlebihan atau tidak perlu"
+            }
+          },
+          "accuracy": {
+            "title": "4. Akurasi",
+            "description": "Kami menjaga data Anda tetap akurat dan terbaru",
+            "details": {
+              "current": "Menyediakan alat agar Anda dapat memperbarui informasi",
+              "correction": "Data yang tidak akurat diperbaiki atau dihapus tanpa penundaan",
+              "verification": "Kami memverifikasi akurasi data saat memproses informasi penting"
+            }
+          },
+          "storageLimitation": {
+            "title": "5. Pembatasan Penyimpanan",
+            "description": "Kami tidak menyimpan data lebih lama dari yang diperlukan",
+            "details": {
+              "retention": "Periode retensi yang jelas untuk berbagai tipe data",
+              "review": "Tinjauan rutin dan penghapusan data yang tidak lagi diperlukan",
+              "purpose": "Data dihapus ketika tujuan pengumpulan telah berakhir"
+            }
+          },
+          "security": {
+            "title": "6. Integritas & Kerahasiaan",
+            "description": "Kami melindungi data Anda dengan langkah keamanan yang sesuai",
+            "details": {
+              "protection": "Langkah teknis dan organisasi untuk mencegah akses tidak sah",
+              "confidentiality": "Data Anda dijaga rahasia dan aman",
+              "integrity": "Kami memastikan data tidak diubah atau rusak"
+            }
+          },
+          "accountability": {
+            "title": "7. Akuntabilitas",
+            "description": "Kami bertanggung jawab menunjukkan kepatuhan terhadap prinsip-prinsip ini",
+            "details": {
+              "documentation": "Memelihara catatan semua aktivitas pemrosesan",
+              "policies": "Kebijakan internal yang jelas tentang perlindungan data",
+              "training": "Pelatihan rutin staf tentang persyaratan perlindungan data"
+            }
+          }
+        },
+        "rights": {
+          "title": "👥 Hak GDPR Anda",
+          "subtitle": "Paket hak lengkap Anda",
+          "description": "GDPR memberi Anda hak yang komprehensif atas data pribadi Anda. Anda dapat:",
+          "information": {
+            "title": "1. 📋 Hak atas Informasi",
+            "description": "Anda berhak mengetahui bagaimana data Anda diproses",
+            "includes": {
+              "title": "Termasuk mengetahui:",
+              "items": {
+                "purposes": "Mengapa kami memproses data Anda",
+                "categories": "Jenis data yang kami kumpulkan",
+                "recipients": "Pihak penerima data (jika ada)",
+                "retention": "Berapa lama kami menyimpan data",
+                "rights": "Hak apa yang Anda miliki",
+                "sources": "Dari mana data Anda berasal"
+              }
+            },
+            "howToExercise": "Kebijakan ini menyediakan sebagian besar informasi. Untuk detail spesifik, hubungi kami."
+          },
+          "access": {
+            "title": "2. 🔍 Hak Akses",
+            "description": "Anda dapat meminta salinan semua data yang kami miliki tentang Anda",
+            "includes": {
+              "title": "Anda akan menerima:",
+              "items": {
+                "copy": "Salinan lengkap data pribadi Anda",
+                "format": "Data dalam format terstruktur dan dapat dibaca mesin (JSON)",
+                "details": "Informasi tentang bagaimana data diproses",
+                "sources": "Sumber asal data",
+                "recipients": "Dengan siapa data dibagikan"
+              }
+            },
+            "howToExercise": "Ajukan melalui pengaturan aplikasi atau email dpo@aeonova.com. Permintaan pertama gratis, permintaan tambahan dapat dikenakan biaya.",
+            "timeframe": "Kami akan merespons dalam 30 hari"
+          },
+          "rectification": {
+            "title": "3. ✏️ Hak Perbaikan",
+            "description": "Anda dapat memperbaiki data yang tidak akurat atau tidak lengkap",
+            "includes": {
+              "title": "Anda dapat:",
+              "items": {
+                "correct": "Memperbaiki informasi pribadi yang salah",
+                "complete": "Menambahkan informasi yang kurang",
+                "update": "Memperbarui informasi yang kedaluwarsa",
+                "verify": "Meminta kami memverifikasi akurasi data"
+              }
+            },
+            "howToExercise": "Perbarui langsung di pengaturan aplikasi atau hubungi kami untuk data yang tidak bisa Anda ubah sendiri",
+            "timeframe": "Perbaikan segera bila memungkinkan, kasus kompleks dalam 30 hari"
+          },
+          "erasure": {
+            "title": "4. 🗑️ Hak Penghapusan (Hak untuk Dilupakan)",
+            "description": "Anda dapat meminta penghapusan data pribadi",
+            "conditions": {
+              "title": "Anda dapat meminta penghapusan ketika:",
+              "items": {
+                "unnecessary": "Data tidak lagi diperlukan untuk tujuan awal",
+                "consent": "Anda menarik persetujuan dan tidak ada dasar hukum lain",
+                "objection": "Anda menolak pemrosesan dan tidak ada kepentingan sah yang mengesampingkan",
+                "unlawful": "Data diproses secara melanggar hukum",
+                "legal": "Penghapusan diperlukan untuk kepatuhan hukum"
+              }
+            },
+            "limitations": {
+              "title": "Kami dapat menolak penghapusan jika data diperlukan untuk:",
+              "items": {
+                "legal": "Kepatuhan hukum atau klaim hukum",
+                "public": "Kepentingan publik atau penelitian sejarah",
+                "freedom": "Pelaksanaan kebebasan berekspresi"
+              }
+            },
+            "howToExercise": "Hapus akun di pengaturan aplikasi atau hubungi dpo@aeonova.com",
+            "timeframe": "Penghapusan akun dalam 7 hari, penghapusan data penuh dalam 30 hari"
+          },
+          "portability": {
+            "title": "5. 📦 Hak Portabilitas Data",
+            "description": "Anda dapat menerima data dalam format portabel atau mentransfernya ke layanan lain",
+            "includes": {
+              "title": "Anda dapat:",
+              "items": {
+                "receive": "Menerima data dalam format JSON atau CSV",
+                "transfer": "Meminta kami mentransfer langsung ke layanan lain (jika memungkinkan)",
+                "export": "Mengekspor kenangan, riwayat chat, dan pengaturan"
+              }
+            },
+            "limitations": "Hanya berlaku untuk data yang Anda berikan dan yang diproses secara otomatis berdasarkan persetujuan atau kontrak",
+            "howToExercise": "Fitur ekspor di pengaturan aplikasi atau minta melalui dpo@aeonova.com",
+            "timeframe": "Tersedia seketika di aplikasi; permintaan khusus dalam 30 hari"
+          },
+          "objection": {
+            "title": "6. ✋ Hak Keberatan",
+            "description": "Anda dapat menolak jenis pemrosesan tertentu",
+            "types": {
+              "general": {
+                "title": "Keberatan Umum",
+                "description": "Keberatan terhadap pemrosesan berdasarkan kepentingan sah",
+                "effect": "Kami akan menghentikan pemrosesan kecuali kami dapat menunjukkan alasan sah yang lebih kuat"
+              },
+              "directMarketing": {
+                "title": "Pemasaran Langsung",
+                "description": "Keberatan terhadap semua komunikasi pemasaran",
+                "effect": "Kami akan segera menghentikan semua pemasaran kepada Anda"
+              },
+              "profiling": {
+                "title": "Pengambilan Keputusan Otomatis & Profiling",
+                "description": "Keberatan terhadap keputusan otomatis yang berdampak signifikan",
+                "effect": "Kami akan meninjau keputusan otomatis dan memberikan tinjauan manusia bila sesuai"
+              }
+            },
+            "howToExercise": "Pemasaran: tautan berhenti berlangganan atau pengaturan aplikasi. Keberatan lain: hubungi dpo@aeonova.com"
+          }
+        },
+        "contact": {
+          "title": "📞 Kontak tentang GDPR",
+          "subtitle": "Hubungi Kami",
+          "description": "Untuk pertanyaan atau permintaan terkait GDPR dan perlindungan data:",
+          "dpo": {
+            "title": "Pejabat Perlindungan Data (DPO)",
+            "email": "dpo@aeonova.com",
+            "role": "DPO kami mengawasi semua aktivitas perlindungan data dan kepatuhan GDPR"
+          },
+          "requests": {
+            "title": "Permintaan Hak GDPR",
+            "email": "gdpr@aeonova.com",
+            "description": "Untuk menggunakan hak GDPR Anda (akses, penghapusan, dll.)"
+          },
+          "complaints": {
+            "title": "Keluhan dan Kekhawatiran",
+            "email": "privacy@aeonova.com",
+            "description": "Untuk kekhawatiran privasi atau keluhan tentang penanganan data"
+          },
+          "general": {
+            "title": "Pertanyaan Umum",
+            "email": "support@aeonova.com",
+            "description": "Untuk pertanyaan umum tentang praktik privasi kami"
+          },
+          "response": {
+            "title": "Waktu Tanggapan",
+            "standard": "Permintaan standar: Dalam 30 hari",
+            "complex": "Permintaan kompleks: Hingga 90 hari dengan penjelasan",
+            "urgent": "Masalah keamanan mendesak: Dalam 72 jam"
+          },
+          "information": {
+            "title": "Saat menghubungi kami, sertakan",
+            "items": {
+              "identification": "Nama dan email yang terkait dengan akun",
+              "request": "Deskripsi jelas tentang permintaan atau kekhawatiran",
+              "details": "Detail relevan atau nomor referensi apa pun",
+              "preference": "Metode respons yang Anda inginkan"
+            }
+          },
+          "languages": {
+            "title": "Dukungan Bahasa",
+            "description": "Kami dapat merespons dalam bahasa Inggris, Jerman, atau Turki"
+          }
+        }
+      }
+    },
+    "cookies": {
+      "title": "Kebijakan Cookie",
+      "subtitle": "Penggunaan cookie dan teknologi serupa di situs kami",
+      "lastUpdated": "Terakhir diperbarui: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "summaryTitle": "Ringkasan",
+      "summary": "Kebijakan ini menjelaskan bagaimana Aeonova menggunakan cookie dan teknologi pelacakan di situs kami. Layanan utama kami adalah aplikasi seluler; situs ini terutama untuk informasi dan unduhan.",
+      "sections": {
+        "introduction": {
+          "title": "📝 Pendahuluan",
+          "description": "Kebijakan Cookie ini menjelaskan apa itu cookie, bagaimana kami menggunakannya di situs Aeonova, dan bagaimana Anda dapat mengelola preferensi cookie. Dengan terus menggunakan situs, Anda menyetujui penggunaan cookie sesuai kebijakan ini."
+        },
+        "whatAreCookies": {
+          "title": "🍪 Apa itu Cookie?",
+          "description": "Cookie adalah file teks kecil yang disimpan di komputer atau perangkat seluler saat Anda mengunjungi situs web. Cookie digunakan untuk membantu situs berfungsi lebih efisien dan memberikan informasi kepada pemilik situs.",
+          "details": {
+            "purpose": "Tujuan cookie:",
+            "items": {
+              "functionality": "Mengaktifkan fungsionalitas dasar dan navigasi situs",
+              "personalization": "Mengingat preferensi dan pengaturan Anda",
+              "analytics": "Membantu memahami bagaimana pengunjung berinteraksi dengan situs",
+              "performance": "Meningkatkan performa dan waktu muat"
+            }
+          },
+          "types": {
+            "title": "Jenis berdasarkan durasi:",
+            "session": "Cookie sesi: Dihapus saat Anda menutup browser",
+            "persistent": "Cookie persisten: Tetap di perangkat untuk periode tertentu atau sampai dihapus manual"
+          }
+        },
+        "typesOfCookies": {
+          "title": "🔍 Jenis Cookie yang Kami Gunakan",
+          "description": "Kami mengelompokkan cookie berdasarkan tujuan dan fungsinya:",
+          "essential": {
+            "title": "1. 🔒 Cookie Esensial (Selalu Aktif)",
+            "description": "Cookie ini diperlukan agar situs berfungsi dengan benar dan tidak dapat dimatikan di sistem kami.",
+            "items": {
+              "language": "Preferensi bahasa: Menyimpan bahasa yang Anda pilih",
+              "security": "Cookie keamanan: Token CSRF dan langkah keamanan lain",
+              "session": "Manajemen sesi: Menjaga status sesi saat navigasi",
+              "consent": "Persetujuan cookie: Mengingat pilihan persetujuan Anda"
+            },
+            "note": "⚠️ Cookie ini tidak dapat dinonaktifkan karena penting untuk fungsionalitas situs",
+            "legalBasis": "Dasar hukum: Kepentingan sah (esensial untuk menyediakan layanan)"
+          },
+          "performance": {
+            "title": "2. 📊 Cookie Kinerja & Analitik (Opsional)",
+            "description": "Cookie ini membantu kami memahami bagaimana pengunjung berinteraksi dengan situs dengan mengumpulkan informasi anonim.",
+            "items": {
+              "loadTimes": "Kinerja halaman: Mengukur waktu muat dan metrik",
+              "errorTracking": "Pelacakan kesalahan: Mencatat kesalahan JavaScript dan masalah teknis secara anonim",
+              "usageStats": "Statistik penggunaan: Halaman yang dikunjungi dan konten populer",
+              "userFlow": "Perjalanan pengguna: Memahami bagaimana pengguna menavigasi situs"
+            },
+            "note": "✅ Anda dapat menolak cookie ini tanpa memengaruhi fungsionalitas situs",
+            "legalBasis": "Dasar hukum: Persetujuan eksplisit Anda",
+            "retention": "Retensi data: Maksimal 90 hari"
+          },
+          "marketing": {
+            "title": "3. 🎯 Cookie Pemasaran & Iklan (Saat ini Tidak Digunakan)",
+            "description": "Saat ini kami tidak menggunakan cookie pemasaran, namun dapat menerapkannya di masa depan dengan persetujuan Anda.",
+            "items": {
+              "targetedAds": "Iklan tertarget: Menampilkan iklan sesuai minat Anda",
+              "socialMedia": "Integrasi media sosial: Memungkinkan berbagi dan pelacakan",
+              "remarketing": "Remarketing: Menampilkan iklan kepada pengunjung sebelumnya",
+              "crossSite": "Pelacakan lintas situs: Melacak aktivitas Anda di berbagai situs"
+            },
+            "note": "🚫 Belum diimplementasikan — akan memerlukan persetujuan eksplisit jika ditambahkan",
+            "future": "Jika kami memutuskan untuk menggunakannya, kami akan meminta persetujuan Anda dan memperbarui kebijakan ini"
+          }
+        },
+        "thirdParty": {
+          "title": "🌐 Cookie Pihak Ketiga",
+          "description": "Situs kami dapat menyertakan konten atau layanan pihak ketiga yang memasang cookie mereka sendiri:",
+          "current": {
+            "title": "Layanan pihak ketiga yang digunakan saat ini:",
+            "items": {
+              "fonts": "Google Fonts: Tipografi situs (tanpa cookie pelacakan)",
+              "cdn": "CDN: Untuk pemuatan konten lebih cepat",
+              "security": "Layanan keamanan: Perlindungan DDoS dan pemantauan keamanan"
+            }
+          },
+          "future": {
+            "title": "Layanan pihak ketiga potensial di masa depan:",
+            "items": {
+              "analytics": "Google Analytics: Analitik situs yang lebih detail",
+              "social": "Widget media sosial: Integrasi sosial",
+              "support": "Alat dukungan pelanggan: Live chat"
+            }
+          },
+          "note": "Kami akan selalu memberi tahu Anda sebelum menerapkan layanan baru pihak ketiga yang menggunakan cookie pelacakan."
+        },
+        "mobileApp": {
+          "title": "📱 Penyimpanan Data Aplikasi Seluler",
+          "subtitle": "Pembedaan penting",
+          "description": "Aplikasi seluler Aeonova tidak menggunakan cookie web. Sebagai gantinya, menggunakan metode penyimpanan data native yang lebih aman dan efisien:",
+          "items": {
+            "localStorage": "Penyimpanan terenkripsi lokal: Data pengguna disimpan aman di perangkat",
+            "keychain": "Keychain/Keystore: Token autentikasi disimpan di penyimpanan aman perangkat",
+            "appSettings": "Preferensi aplikasi: Disimpan di sandbox aplikasi",
+            "offlineCache": "Kemampuan offline: Konten di-cache untuk penggunaan tanpa koneksi",
+            "biometric": "Data biometrik (Face ID/Touch ID): Disimpan lokal, tidak dikirim"
+          },
+          "security": {
+            "title": "Keamanan Aplikasi Seluler:",
+            "items": {
+              "encryption": "Seluruh data dienkripsi dengan standar industri",
+              "localOnly": "Data sensitif tidak meninggalkan perangkat",
+              "secure": "Menggunakan fitur keamanan spesifik platform (iOS Keychain, Android Keystore)",
+              "privacy": "Tidak ada pelacakan lintas aplikasi atau berbagi data"
+            }
+          }
+        },
+        "management": {
+          "title": "⚙️ Mengelola Cookie",
+          "description": "Anda memiliki beberapa opsi untuk mengontrol dan mengelola cookie di situs kami:",
+          "browserSettings": {
+            "title": "Pengaturan browser:",
+            "description": "Anda dapat mengontrol cookie melalui pengaturan browser:",
+            "items": {
+              "chrome": "Chrome: Settings → Privacy and Security → Cookies and other site data",
+              "firefox": "Firefox: Options → Privacy & Security → Cookies and Site Data",
+              "safari": "Safari: Preferences → Privacy → Manage Website Data",
+              "edge": "Edge: Settings → Cookies and site permissions → Cookies and site data"
+            }
+          },
+          "ourSettings": {
+            "title": "Preferensi Cookie Situs:",
+            "description": "Anda dapat mengelola preferensi cookie untuk situs ini:",
+            "items": {
+              "essential": "Cookie esensial: Tidak dapat dinonaktifkan (diperlukan untuk fungsi situs)",
+              "performance": "Cookie kinerja: Dapat diaktif/nonaktifkan di banner cookie",
+              "marketing": "Cookie pemasaran: Saat ini tidak digunakan, akan bersifat opt-in jika diterapkan"
+            }
+          },
+          "consequences": {
+            "title": "⚠️ Menonaktifkan Cookie:",
+            "description": "Jika Anda menonaktifkan beberapa cookie, beberapa fitur situs mungkin tidak berfungsi dengan benar:",
+            "items": {
+              "language": "Preferensi bahasa tidak akan diingat",
+              "navigation": "Beberapa fungsi navigasi dapat terpengaruh",
+              "performance": "Kami tidak dapat meningkatkan performa berdasarkan data penggunaan"
+            }
+          }
+        },
+        "updates": {
+          "title": "🔄 Pembaruan Kebijakan",
+          "description": "Kami dapat memperbarui Kebijakan Cookie ini dari waktu ke waktu karena alasan operasional, hukum, atau regulasi.",
+          "notification": "Saat kami melakukan perubahan:",
+          "items": {
+            "notice": "Kami akan memposting kebijakan yang diperbarui di halaman ini",
+            "effective": "Perubahan berlaku segera setelah diposting",
+            "major": "Untuk perubahan signifikan, kami dapat memberikan pemberitahuan tambahan",
+            "date": "Tanggal 'Terakhir diperbarui' di bagian atas akan direvisi"
+          },
+          "recommendation": "Sebaiknya tinjau kebijakan ini secara berkala untuk mengetahui bagaimana kami menggunakan cookie."
+        },
+        "contact": {
+          "title": "📞 Pertanyaan tentang Cookie",
+          "subtitle": "Hubungi Kami",
+          "description": "Jika Anda memiliki pertanyaan tentang penggunaan cookie atau Kebijakan Cookie ini, silakan hubungi:",
+          "methodsTitle": "Metode kontak",
+          "methods": {
+            "email": "Pertanyaan privasi umum: privacy@aeonova.com",
+            "cookies": "Pertanyaan khusus cookie: cookies@aeonova.com",
+            "support": "Dukungan teknis: support@aeonova.com",
+            "dpo": "Pejabat Perlindungan Data: dpo@aeonova.com"
+          },
+          "response": {
+            "title": "Waktu tanggapan:",
+            "items": {
+              "general": "Pertanyaan umum: Dalam 48 jam",
+              "privacy": "Pertanyaan terkait privasi: Dalam 72 jam",
+              "urgent": "Kasus mendesak: Dalam 24 jam"
+            }
+          }
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "Kebijakan Retensi Data",
+      "subtitle": "Berapa lama kami menyimpan data pribadi Anda dan alasannya",
+      "lastUpdated": "Terakhir diperbarui: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "Ringkasan",
+        "methods": "Metode:",
+        "requirements": "Persyaratan:",
+        "contacts": "Kontak:",
+        "responseTimes": "Waktu tanggapan:",
+        "process": "Proses:"
+      },
+      "summary": "Kebijakan ini menjelaskan periode retensi untuk berbagai jenis data pribadi, dasar hukum retensi, dan hak Anda terkait penghapusan data. Kami berkomitmen pada minimalisasi data dan hanya menyimpan data bila diperlukan.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Pendahuluan",
+          "subtitle": "Memahami retensi data",
+          "description": "Retensi data adalah lamanya kami menyimpan informasi pribadi dalam sistem kami. Kebijakan ini menjelaskan praktik kami, yang dirancang untuk menyeimbangkan hak privasi Anda dengan kebutuhan bisnis yang sah dan kewajiban hukum kami.",
+          "keyPoints": {
+            "title": "Prinsip utama:",
+            "items": {
+              "minimization": "Hanya mengumpulkan dan menyimpan data yang diperlukan",
+              "purpose": "Menyimpan hanya untuk tujuan pengumpulan awal",
+              "lawful": "Periode berdasarkan persyaratan hukum dan kepentingan sah",
+              "transparent": "Transparan tentang periode retensi untuk setiap kategori",
+              "secure": "Semua data dilindungi dengan langkah keamanan yang sesuai"
+            }
+          }
+        },
+        "legalBasis": {
+          "title": "⚖️ Dasar hukum retensi data",
+          "subtitle": "Mengapa kami menyimpan data Anda",
+          "description": "Kami menyimpan data pribadi berdasarkan beberapa dasar hukum di bawah GDPR dan hukum privasi lainnya:",
+          "bases": {
+            "contractual": {
+              "title": "1. 📝 Kewajiban kontraktual",
+              "description": "Data yang diperlukan untuk menyediakan layanan dan memenuhi kontrak",
+              "examples": {
+                "title": "Contoh:",
+                "items": {
+                  "account": "Informasi akun yang diperlukan untuk layanan Aeonova",
+                  "subscription": "Data pembayaran dan langganan untuk fitur premium",
+                  "support": "Catatan dukungan pelanggan untuk menyelesaikan masalah",
+                  "preferences": "Preferensi dan pengaturan untuk pengalaman personal"
+                }
+              }
+            },
+            "legal": {
+              "title": "2. 🏛️ Kepatuhan hukum",
+              "description": "Data yang harus kami simpan untuk mematuhi kewajiban hukum",
+              "examples": {
+                "title": "Contoh:",
+                "items": {
+                  "financial": "Catatan keuangan untuk pajak dan akuntansi (7 tahun)",
+                  "security": "Log keamanan untuk investigasi penipuan dan penyalahgunaan (2 tahun)",
+                  "gdpr": "Catatan persetujuan dan aktivitas pemrosesan (3 tahun)",
+                  "disputes": "Data terkait sengketa hukum hingga selesai"
+                }
+              }
+            },
+            "legitimate": {
+              "title": "3. 🎯 Kepentingan sah",
+              "description": "Data yang disimpan untuk tujuan bisnis yang sah, seimbang dengan hak privasi Anda",
+              "examples": {
+                "title": "Contoh:",
+                "items": {
+                  "analytics": "Data penggunaan anonim untuk meningkatkan layanan (90 hari)",
+                  "security": "Pemantauan keamanan untuk melindungi pengguna (1 tahun)",
+                  "research": "Riset & pengembangan produk (hanya data anonim)",
+                  "communications": "Persetujuan pemasaran dan preferensi komunikasi"
+                }
+              }
+            }
+          }
+        },
+        "categories": {
+          "title": "⏰ Periode retensi per kategori data",
+          "subtitle": "Jangka waktu spesifik",
+          "description": "Berikut periode retensi untuk berbagai jenis data yang kami kumpulkan:",
+          "account": {
+            "title": "👤 Informasi akun dan profil",
+            "headings": {
+              "basicProfile": "Profil dasar",
+              "preferences": "Preferensi",
+              "subscription": "Langganan",
+              "authentication": "Autentikasi"
+            },
+            "items": {
+              "basic": {
+                "data": "Nama pengguna, usia, avatar, pengaturan profil",
+                "period": "Selama akun aktif + 30 hari setelah penghapusan",
+                "basis": "Kebutuhan kontraktual",
+                "deletion": "Terhapus otomatis 30 hari setelah penghapusan akun"
+              },
+              "preferences": {
+                "data": "Preferensi bahasa, pengaturan aplikasi, preferensi notifikasi",
+                "period": "Selama akun aktif",
+                "basis": "Kebutuhan kontraktual & kepentingan sah",
+                "deletion": "Segera dihapus saat akun dihapus"
+              },
+              "subscription": {
+                "data": "Info langganan premium, riwayat pembayaran",
+                "period": "Masa langganan + 7 tahun",
+                "basis": "Kepatuhan hukum (catatan keuangan)",
+                "deletion": "Terhapus otomatis setelah periode retensi"
+              },
+              "authentication": {
+                "data": "Kredensial login, token keamanan",
+                "period": "Selama akun aktif + 30 hari",
+                "basis": "Kebutuhan kontraktual & keamanan",
+                "deletion": "Segera dibatalkan saat akun dihapus"
+              }
+            },
+            "note": "💡 Penghapusan akun tidak dapat dipulihkan setelah masa tenggang 30 hari. Selama periode ini, Anda dapat memulihkan dengan login."
+          },
+          "content": {
+            "title": "💬 Data chat dan konten",
+            "headings": {
+              "chatHistory": "Riwayat chat",
+              "privateMemories": "Kenangan privat",
+              "sharedMemories": "Kenangan dibagikan",
+              "aiComments": "Komentar AI",
+              "userFeedback": "Umpan balik pengguna"
+            },
+            "items": {
+              "chatHistory": {
+                "data": "Percakapan chat AI dan riwayat pesan",
+                "period": "Tersimpan lokal di perangkat: tanpa batas / Cache server: 30 hari",
+                "basis": "Kebutuhan kontraktual",
+                "deletion": "Data server dihapus setelah 30 hari; data lokal dikendalikan pengguna"
+              },
+              "privateMemories": {
+                "data": "Entri jurnal pribadi dan kenangan privat",
+                "period": "Dikendalikan pengguna — dapat dihapus kapan saja",
+                "basis": "Kebutuhan kontraktual",
+                "deletion": "Segera saat dihapus oleh pengguna atau saat akun dihapus"
+              },
+              "sharedMemories": {
+                "data": "Kenangan dan postingan yang dibagikan secara publik",
+                "period": "Selama dibagikan + 1 tahun setelah dihapus",
+                "basis": "Kepentingan sah (moderasi konten)",
+                "deletion": "Tersedia 1 tahun untuk moderasi, lalu dihapus permanen"
+              },
+              "aiComments": {
+                "data": "Komentar dan respons yang dihasilkan AI",
+                "period": "Sama dengan konten terkait",
+                "basis": "Kebutuhan kontraktual",
+                "deletion": "Dihapus bersama konten terkait"
+              },
+              "userFeedback": {
+                "data": "Penilaian dan umpan balik atas respons AI",
+                "period": "2 tahun (anonim setelah 90 hari)",
+                "basis": "Kepentingan sah (peningkatan layanan)",
+                "deletion": "Anonimisasi setelah 90 hari, dihapus penuh setelah 2 tahun"
+              }
+            },
+            "note": "💡 Sebagian besar data chat disimpan secara lokal di perangkat Anda demi privasi. Hanya cache server minimal untuk performa."
+          },
+          "technical": {
+            "title": "🔧 Data teknis dan sistem",
+            "headings": {
+              "usageLogs": "Log penggunaan",
+              "errorReports": "Laporan kesalahan",
+              "securityLogs": "Log keamanan",
+              "deviceInfo": "Info perangkat",
+              "notifications": "Notifikasi"
+            },
+            "items": {
+              "usageLogs": {
+                "data": "Pola penggunaan aplikasi, penggunaan fitur, data sesi",
+                "period": "90 hari (penghapus identifikasi pribadi setelah 30 hari)",
+                "basis": "Kepentingan sah (peningkatan layanan)",
+                "deletion": "Penghapus identitas setelah 30 hari, dihapus penuh setelah 90 hari"
+              },
+              "errorReports": {
+                "data": "Laporan crash, log kesalahan, data performa",
+                "period": "1 tahun (segera dianonimisasi)",
+                "basis": "Kepentingan sah (peningkatan teknis)",
+                "deletion": "Tidak memuat data pribadi; data teknis dihapus setelah 1 tahun"
+              },
+              "securityLogs": {
+                "data": "Upaya login, peristiwa keamanan, deteksi penipuan",
+                "period": "2 tahun",
+                "basis": "Kepentingan sah dan kepatuhan hukum",
+                "deletion": "Terhapus otomatis setelah 2 tahun"
+              },
+              "deviceInfo": {
+                "data": "Jenis perangkat, versi OS, versi aplikasi",
+                "period": "Selama akun aktif + 30 hari",
+                "basis": "Kebutuhan kontraktual (kompatibilitas)",
+                "deletion": "Dihapus saat akun dihapus"
+              },
+              "notifications": {
+                "data": "Token push, log pengiriman",
+                "period": "Selama akun aktif",
+                "basis": "Kebutuhan kontraktual",
+                "deletion": "Segera dibatalkan saat akun dihapus atau opt-out"
+              }
+            },
+            "note": "💡 Data teknis terutama digunakan untuk meningkatkan performa dan keamanan. Identitas pribadi dihapus sedini mungkin."
+          },
+          "communications": {
+            "title": "📧 Komunikasi dan dukungan",
+            "headings": {
+              "supportTickets": "Tiket dukungan",
+              "marketingConsent": "Persetujuan pemasaran",
+              "contactForms": "Formulir kontak"
+            },
+            "items": {
+              "supportTickets": {
+                "data": "Percakapan dan tiket dukungan pelanggan",
+                "period": "3 tahun setelah terselesaikan",
+                "basis": "Kepentingan sah (layanan pelanggan)",
+                "deletion": "Terhapus otomatis setelah 3 tahun"
+              },
+              "marketingConsent": {
+                "data": "Persetujuan email pemasaran dan preferensi",
+                "period": "Hingga dicabut + 1 tahun",
+                "basis": "Persetujuan dan kepatuhan hukum",
+                "deletion": "Segera saat dicabut, jejak audit 1 tahun"
+              },
+              "contactForms": {
+                "data": "Pengajuan formulir kontak dan pertanyaan",
+                "period": "2 tahun",
+                "basis": "Kepentingan sah (komunikasi bisnis)",
+                "deletion": "Terhapus otomatis setelah 2 tahun"
+              }
+            }
+          }
+        },
+        "automaticDeletion": {
+          "title": "🤖 Penghapusan data otomatis",
+          "subtitle": "Proses otomatis",
+          "description": "Kami menerapkan sistem otomatis untuk memastikan data dihapus sesuai jadwal retensi:",
+          "processes": {
+            "daily": {
+              "title": "Pembersihan harian (setiap 24 jam)",
+              "items": {
+                "expired": "Token sesi kedaluwarsa dan data sementara",
+                "cache": "Cache kedaluwarsa dan file sementara",
+                "logs": "Rotasi log yang melebihi periode retensi"
+              }
+            },
+            "weekly": {
+              "title": "Pembersihan mingguan (Setiap Minggu)",
+              "items": {
+                "accounts": "Akun yang ditandai untuk dihapus melewati masa tenggang",
+                "anonymization": "Anonimisasi data penggunaan yang berusia >30 hari",
+                "backups": "Penghapusan backup yang melebihi periode"
+              }
+            },
+            "monthly": {
+              "title": "Pembersihan bulanan (Tanggal 1)",
+              "items": {
+                "technical": "Log teknis dan laporan kesalahan yang melewati retensi",
+                "analytics": "Data analitik melebihi 90 hari",
+                "audit": "Audit lengkap kepatuhan retensi"
+              }
+            },
+            "annual": {
+              "title": "Tinjauan tahunan (1 Januari)",
+              "items": {
+                "policies": "Meninjau dan memperbarui periode retensi",
+                "compliance": "Audit dan dokumentasi kepatuhan menyeluruh",
+                "systems": "Memperbarui sistem penghapusan otomatis"
+              }
+            }
+          },
+          "monitoring": {
+            "title": "Pemantauan & verifikasi:",
+            "items": {
+              "alerts": "Peringatan otomatis untuk pelanggaran kebijakan retensi",
+              "reports": "Laporan bulanan kepatuhan retensi",
+              "audits": "Audit rutin proses penghapusan",
+              "verification": "Verifikasi bahwa data yang dihapus tidak dapat dipulihkan"
+            }
+          }
+        },
+        "accountStatus": {
+          "title": "🔄 Retensi berdasarkan status akun",
+          "subtitle": "Berbagai skenario",
+          "active": {
+            "title": "🟢 Akun aktif",
+            "description": "Untuk akun yang aktif dan dalam kondisi baik:",
+            "items": {
+              "normalStorage": "Semua data disimpan sesuai periode standar",
+              "userControl": "Pengguna dapat menghapus data dari aplikasi kapan saja",
+              "backups": "Cadangan terenkripsi rutin untuk pemulihan",
+              "security": "Penerapan penuh langkah keamanan dan pemantauan",
+              "updates": "Data dapat diperbarui dan diubah oleh pengguna",
+              "export": "Pengguna dapat mengekspor data kapan saja"
+            }
+          },
+          "inactive": {
+            "title": "🟡 Akun tidak aktif",
+            "description": "Untuk akun yang lama tidak digunakan:",
+            "items": {
+              "warning": "Peringatan email setelah 12 bulan tidak aktif",
+              "finalNotice": "Pemberitahuan terakhir setelah 18 bulan tidak aktif",
+              "deletion": "Akun ditandai untuk dihapus setelah 24 bulan tidak aktif",
+              "gracePeriod": "Masa tenggang 30 hari sebelum penghapusan permanen",
+              "dataMinimization": "Data non-esensial dapat dihapus selama tidak aktif"
+            },
+            "note": "💡 Anda dapat mengaktifkan kembali akun kapan saja dengan login; penghitungan tidak aktif akan disetel ulang."
+          },
+          "deleted": {
+            "title": "🔴 Akun dihapus",
+            "description": "Saat Anda meminta penghapusan akun:",
+            "items": {
+              "gracePeriod": "Masa tenggang 30 hari di mana Anda dapat memulihkan akun",
+              "immediateActions": "Kredensial login segera dibatalkan",
+              "dataReview": "Data pribadi ditinjau untuk persyaratan retensi hukum",
+              "permanentDeletion": "Setelah masa tenggang, semua data dihapus permanen",
+              "legalException": "Hanya data yang diwajibkan hukum yang dipertahankan (anonim bila memungkinkan)",
+              "noRecovery": "Setelah masa tenggang, tidak dapat dipulihkan",
+              "confirmation": "Email konfirmasi dikirim saat penghapusan selesai"
+            }
+          },
+          "suspended": {
+            "title": "🚫 Akun ditangguhkan",
+            "description": "Untuk akun yang ditangguhkan karena pelanggaran ketentuan:",
+            "items": {
+              "retention": "Data dipertahankan selama masa penangguhan untuk investigasi",
+              "appeal": "Data tersedia selama proses banding (hingga 90 hari)",
+              "deletion": "Jika penangguhan permanen, berlaku proses penghapusan biasa",
+              "reinstatement": "Saat dipulihkan, kebijakan retensi normal kembali berlaku"
+            }
+          }
+        },
+        "userRights": {
+          "title": "👥 Hak terkait retensi data",
+          "subtitle": "Apa yang dapat Anda lakukan",
+          "description": "Anda memiliki beberapa hak terkait lamanya kami menyimpan data Anda:",
+          "access": {
+            "title": "🔍 Hak akses",
+            "description": "Minta informasi tentang data apa yang kami miliki dan berapa lama menyimpannya",
+            "items": {
+              "request": "Ajukan permintaan akses data melalui email atau aplikasi",
+              "response": "Kami akan menyediakan laporan lengkap dalam 30 hari",
+              "format": "Diberikan dalam format terstruktur, dapat dibaca mesin",
+              "frequency": "Sekali per tahun gratis"
+            }
+          },
+          "deletion": {
+            "title": "🗑️ Hak penghapusan",
+            "description": "Minta penghapusan data pribadi dalam situasi tertentu",
+            "items": {
+              "immediate": "Hapus akun di pengaturan aplikasi (proses segera)",
+              "selective": "Minta penghapusan kategori data tertentu",
+              "legal": "Permintaan dapat ditolak jika hukum mengharuskan retensi",
+              "verification": "Verifikasi identitas diperlukan untuk permintaan penghapusan"
+            }
+          },
+          "portability": {
+            "title": "📦 Portabilitas data",
+            "description": "Minta salinan data Anda dalam format yang dapat dipindahkan",
+            "items": {
+              "export": "Unduh data langsung dari aplikasi",
+              "format": "Format JSON atau CSV",
+              "scope": "Mencakup semua data pribadi yang kami simpan",
+              "transfer": "Dapat digunakan untuk mentransfer ke layanan lain"
+            }
+          },
+          "objection": {
+            "title": "✋ Hak keberatan",
+            "description": "Anda dapat menolak jenis pemrosesan dan retensi tertentu",
+            "items": {
+              "marketing": "Segera berhenti menyimpan data pemasaran (opt-out)",
+              "analytics": "Menolak pengumpulan dan retensi data analitik",
+              "profiling": "Menolak pengambilan keputusan otomatis dan profiling",
+              "legitimate": "Menentang retensi yang berbasis kepentingan sah"
+            }
+          }
+        },
+        "specialCircumstances": {
+          "title": "⚖️ Keadaan khusus",
+          "subtitle": "Retensi diperpanjang",
+          "description": "Dalam situasi tertentu, kami mungkin perlu menyimpan data lebih lama dari biasanya:",
+          "legal": {
+            "title": "🏛️ Proses hukum",
+            "description": "Data dapat dipertahankan lebih lama jika terkait proses hukum",
+            "items": {
+              "litigation": "Data dipertahankan selama litigasi atau investigasi aktif",
+              "subpoena": "Retensi diperpanjang saat ada panggilan pengadilan/perintah pengadilan",
+              "investigation": "Investigasi penipuan/keamanan dapat memerlukan retensi tambahan",
+              "notification": "Anda akan diberi tahu jika data dikenai legal hold"
+            }
+          },
+          "security": {
+            "title": "🔒 Insiden keamanan",
+            "description": "Data terkait keamanan dapat disimpan untuk respons insiden",
+            "items": {
+              "breaches": "Log keamanan disimpan untuk investigasi dan pencegahan pelanggaran",
+              "forensics": "Forensik digital dapat memerlukan retensi sementara lebih panjang",
+              "patterns": "Data anonim digunakan untuk mengidentifikasi pola serangan",
+              "reporting": "Data dipertahankan untuk kewajiban pelaporan regulasi"
+            }
+          },
+          "financial": {
+            "title": "💰 Kewajiban finansial",
+            "description": "Data finansial memiliki periode retensi lebih lama",
+            "items": {
+              "tax": "Catatan keuangan disimpan 7 tahun untuk pajak",
+              "audit": "Data pembayaran disimpan untuk audit",
+              "disputes": "Sengketa penagihan dapat memperpanjang retensi",
+              "refunds": "Periode pengembalian dana dapat memengaruhi retensi"
+            }
+          }
+        },
+        "dataLocations": {
+          "title": "🌍 Lokasi penyimpanan & retensi data",
+          "subtitle": "Di mana data Anda disimpan",
+          "description": "Periode retensi dapat bervariasi berdasarkan lokasi penyimpanan dan hukum yang berlaku:",
+          "primary": {
+            "title": "Penyimpanan utama (UE/EEA)",
+            "description": "Penyimpanan utama di Wilayah Ekonomi Eropa",
+            "items": {
+              "location": "Server utama di Jerman dan Belanda",
+              "law": "Tunduk pada GDPR dan hukum privasi UE",
+              "retention": "Periode standar sebagaimana kebijakan ini",
+              "protection": "Perlindungan penuh dan hak GDPR"
+            }
+          },
+          "backups": {
+            "title": "Cadangan",
+            "description": "Cadangan terenkripsi untuk pemulihan bencana",
+            "items": {
+              "locations": "Fasilitas aman di UE dan Swiss",
+              "retention": "Cadangan disimpan maksimal 1 tahun",
+              "encryption": "Enkripsi ujung-ke-ujung dengan manajemen kunci terpisah",
+              "deletion": "Penghapusan cadangan mengikuti penghapusan data utama"
+            }
+          },
+          "cache": {
+            "title": "Cache dan CDN",
+            "description": "Cache sementara demi performa",
+            "items": {
+              "duration": "Data cache disimpan maksimal 30 hari",
+              "locations": "Node CDN di berbagai wilayah",
+              "anonymization": "Tidak ada pengenal pribadi dalam konten cache",
+              "automatic": "Kedaluwarsa dan penghapusan otomatis"
+            }
+          }
+        },
+        "compliance": {
+          "title": "📜 Kepatuhan regulasi",
+          "subtitle": "Memenuhi persyaratan hukum",
+          "description": "Praktik retensi kami mematuhi berbagai peraturan privasi internasional:",
+          "gdpr": {
+            "title": "🇪🇺 GDPR (Peraturan Perlindungan Data Umum)",
+            "items": {
+              "lawfulness": "Seluruh retensi berdasarkan dasar pemrosesan yang sah",
+              "minimization": "Mematuhi prinsip minimalisasi data secara ketat",
+              "rights": "Penerapan penuh hak subjek data",
+              "accountability": "Dokumentasi semua keputusan retensi"
+            }
+          },
+          "ccpa": {
+            "title": "🇺🇸 CCPA (Undang-Undang Privasi Konsumen California)",
+            "items": {
+              "disclosure": "Pengungkapan yang jelas tentang periode retensi untuk penduduk California",
+              "deletion": "Hak penghapusan dipenuhi dalam 45 hari",
+              "categories": "Kategorisasi rinci informasi pribadi",
+              "business": "Tujuan bisnis ditentukan jelas untuk setiap periode"
+            }
+          },
+          "other": {
+            "title": "🌐 Regulasi lain",
+            "items": {
+              "pipeda": "Kepatuhan PIPEDA untuk pengguna Kanada",
+              "lgpd": "Kepatuhan LGPD untuk pengguna Brasil",
+              "pdpa": "Kepatuhan PDPA untuk pengguna Singapura",
+              "local": "Kepatuhan dengan hukum lokal yang berlaku"
+            }
+          }
+        },
+        "contact": {
+          "title": "📞 Kontak & permintaan",
+          "subtitle": "Cara menghubungi kami",
+          "description": "Untuk pertanyaan atau permintaan terkait retensi data:",
+          "deletion": {
+            "title": "🗑️ Permintaan penghapusan data",
+            "methods": {
+              "app": "Direkomendasikan: Pengaturan aplikasi → Akun → Hapus akun",
+              "email": "Email: deletion@aeonova.com",
+              "form": "Formulir online: aeonova.com/delete-account"
+            },
+            "requirements": {
+              "verification": "Verifikasi identitas diperlukan demi keamanan",
+              "confirmation": "Email konfirmasi dikirim ke alamat terdaftar",
+              "timeline": "Diproses dalam 7 hari kerja"
+            }
+          },
+          "questions": {
+            "title": "❓ Pertanyaan tentang retensi data",
+            "contacts": {
+              "general": "Pertanyaan umum: retention@aeonova.com",
+              "dpo": "Pejabat Perlindungan Data: dpo@aeonova.com",
+              "support": "Dukungan teknis: support@aeonova.com",
+              "legal": "Masalah hukum: legal@aeonova.com"
+            },
+            "response": {
+              "standard": "Permintaan standar: 5 hari kerja",
+              "complex": "Kasus kompleks: 15 hari kerja",
+              "urgent": "Permintaan mendesak: 2 hari kerja"
+            }
+          },
+          "appeals": {
+            "title": "⚖️ Banding dan keluhan",
+            "process": {
+              "internal": "Banding internal: appeals@aeonova.com",
+              "external": "Penduduk UE: Hubungi Otoritas Perlindungan Data lokal",
+              "timeline": "Tanggapan banding dalam 30 hari",
+              "escalation": "Proses eskalasi tersedia untuk kasus yang belum terselesaikan"
+            }
+          }
+        }
+      }
+    }
+  }
+}

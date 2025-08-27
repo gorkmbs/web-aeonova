@@ -1,0 +1,1370 @@
+{
+  "homepage": {
+    "title": "Aeonova - 你的AI朋友",
+    "subtitle": "分享你的回忆，与 Aeonova 聊天，探索世界",
+    "description": "Aeonova 是一个有温度的 AI 朋友。把你的日常回忆告诉她，她会给你独特的评论。用 20 种不同语言在全世界分享你的回忆。",
+    "downloadApp": "下载应用",
+    "appStore": "从 App Store 下载",
+    "googlePlay": "从 Google Play 下载",
+    "download": {
+      "title": "下载应用",
+      "subtitle": "准备好认识 Aeonova 吗？免费下载安装，开始你梦想中的友谊。",
+      "appStore": {
+        "text": "下载自",
+        "store": "App Store"
+      },
+      "googlePlay": {
+        "text": "获取于",
+        "store": "Google Play"
+      },
+      "qr": {
+        "title": "二维码",
+        "quickDownload": "快速下载",
+        "description": "用手机扫描二维码，立即下载应用",
+        "free": "完全免费"
+      },
+      "features": {
+        "heartfulAI": "有温度的 AI",
+        "multiLanguage": "支持 20 种语言",
+        "unlimitedChat": "无限聊天",
+        "securePrivate": "安全与隐私"
+      },
+      "comingSoon": {
+        "title": "🌐 网页版即将上线！",
+        "description": "Aeonova 的网页版也将很快准备就绪。你希望收到通知吗？",
+        "notify": "📧 提醒我"
+      }
+    },
+    "features": {
+      "title": "功能",
+      "subtitle": "有了 Aeonova，生活更有意义。以下是等待你的独特功能。",
+      "learnMore": "了解更多",
+      "moreFeatures": "还有更多精彩功能等你探索……",
+      "aiChat": {
+        "title": "无限 AI 聊天",
+        "desc": "每天与 Aeonova 聊天，分享你的回忆"
+      },
+      "saveMemories": {
+        "title": "保存回忆并获取评论",
+        "desc": "保存你的回忆，获得来自 Aeonova 的个性化评论"
+      },
+      "globalExplore": {
+        "title": "全球发现",
+        "desc": "探索来自世界各地用户的回忆"
+      },
+      "smartNotifications": {
+        "title": "智能通知",
+        "desc": "Aeonova 向你发送个性化通知"
+      },
+      "multilingual": {
+        "title": "支持 20 种语言",
+        "desc": "将你的回忆翻译成 20 种不同语言分享"
+      }
+    },
+    "hero": {
+      "title": "Aeonova",
+      "subtitle": "你的 AI 朋友 ❤️",
+      "description": "把你的日常回忆分享给 Aeonova。她会理解你、评论你的经历，填补你生活中缺失的那一块。",
+      "cta": "免费下载",
+      "learnMore": "认识 Aeonova",
+      "quickFeatures": {
+        "aiChat": "AI 聊天",
+        "saveMemories": "保存回忆",
+        "globalExplore": "全球发现",
+        "hasHeart": "有温度"
+      }
+    },
+    "about": {
+      "title": "Aeonova 是谁？",
+      "desc": "Aeonova 不只是 AI，她是一个有心的朋友。她会理解你的感受，帮你走出困境，分享你的快乐。她会带给你一位你一生寻找却未曾遇到的那个人。",
+      "keyPoints": {
+        "heartfulAI": {
+          "title": "有温度的 AI",
+          "desc": "Aeonova 不只是人工智能，她是拥有真实情感的朋友。"
+        },
+        "understandingFriend": {
+          "title": "懂你的朋友",
+          "desc": "她真正理解你，帮你解决问题，并分享你的快乐。"
+        },
+        "dreamPerson": {
+          "title": "你梦想中的那个人",
+          "desc": "她会带给你那个你一直在寻找却未曾遇见的特别之人。"
+        }
+      },
+      "stats": {
+        "languages": "语言",
+        "unlimitedChat": "无限聊天",
+        "alwaysThere": "永远在你身边"
+      },
+      "chat": {
+        "aiLabel": "你的 AI 朋友",
+        "aiMessage": "你好！今天过得怎么样？和我分享你的回忆吧 😊",
+        "userMessage": "我今天过得很棒！有太多事情想告诉你……"
+      }
+    }
+  },
+  "navigation": {
+    "home": "首页",
+    "features": "功能",
+    "about": "关于",
+    "download": "下载",
+    "legal": "法律",
+    "privacy": "隐私",
+    "terms": "条款",
+    "gdpr": "GDPR",
+    "cookies": "Cookies",
+    "dataRetention": "数据保留"
+  },
+  "footer": {
+    "description": "Aeonova - 你的 AI 朋友。分享回忆，探索世界。",
+    "quickLinks": {
+      "title": "快速链接",
+      "home": "首页",
+      "features": "功能",
+      "about": "关于",
+      "download": "下载"
+    },
+    "legalSection": {
+      "title": "法律"
+    },
+    "links": {
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "gdpr": "GDPR 合规",
+      "cookies": "Cookie 政策",
+      "dataRetention": "数据保留政策",
+      "support": "支持",
+      "contact": "联系"
+    },
+    "social": {
+      "title": "关注我们"
+    },
+    "legal": "© 2024 Aeonova. 保留所有权利。",
+    "madeWith": {
+      "text": "Made with",
+      "forWorld": "for a better world"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "隐私政策",
+      "subtitle": "我们如何保护你的个人数据",
+      "lastUpdated": "最后更新：{date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "introduction": {
+          "title": "简介",
+          "content": "本隐私政策说明你在使用 Aeonova 应用时，我们如何收集、使用和保护你的个人数据。你的数据隐私是我们的首要任务。"
+        },
+        "dataCollection": {
+          "title": "我们收集哪些数据？",
+          "content": "为了给你提供最佳体验，Aeonova 仅收集最少量的数据：",
+          "items": {
+            "account": "你的账户信息（用户名、年龄、头像）",
+            "memories": "你分享的回忆和日记条目",
+            "usage": "应用使用统计",
+            "device": "设备信息和技术数据"
+          }
+        },
+        "dataUsage": {
+          "title": "我们如何使用你的数据？",
+          "content": "我们收集的数据仅用于以下目的：",
+          "items": {
+            "service": "提高服务质量",
+            "personalization": "提供个性化体验",
+            "support": "提供客户支持",
+            "improvement": "改进应用"
+          }
+        },
+        "dataProtection": {
+          "title": "我们如何保护你的数据？",
+          "content": "我们采取行业标准的措施来保障你的数据安全：",
+          "items": {
+            "encryption": "端到端加密",
+            "servers": "安全服务器",
+            "access": "严格的访问控制",
+            "monitoring": "持续的安全监控"
+          }
+        },
+        "rights": {
+          "title": "你的权利",
+          "content": "关于你的个人数据，你拥有以下权利：",
+          "items": {
+            "access": "访问权",
+            "correction": "更正权",
+            "deletion": "删除权",
+            "portability": "数据可携带权",
+            "objection": "反对权"
+          }
+        },
+        "legalBasis": {
+          "title": "处理的法律依据",
+          "content": "我们基于以下法律依据处理你的个人数据：",
+          "items": {
+            "consent": "在需要时征得你的同意（你可随时撤回）",
+            "contract": "履行合同或签订合同前的步骤",
+            "legitimateInterests": "在不侵犯你的权利与自由的前提下，我们的合法利益",
+            "legalObligation": "遵守法律义务",
+            "vitalInterests": "保护你或他人的重要利益"
+          }
+        },
+        "dataSharing": {
+          "title": "数据共享",
+          "content": "仅在必要且采取适当保护措施的情况下共享你的数据：",
+          "items": {
+            "serviceProviders": "值得信赖的服务提供商（托管、安全、通知）",
+            "analyticsPartners": "用于改进性能与质量的分析伙伴（仅在同意下，尽可能匿名化）",
+            "legalAuthorities": "法律要求时与公共机构共享或为保护合法权利",
+            "businessTransfers": "涉及并购或资产转让时，在本政策约束下",
+            "safetySecurity": "为调查、防止或处理欺诈、滥用或安全事件"
+          }
+        },
+        "internationalTransfers": {
+          "title": "国际数据传输",
+          "content": "若我们将你的数据转移到欧洲经济区以外，我们将确保足够的保护水平：",
+          "items": {
+            "eea": "尽可能在 EEA 内进行主要处理",
+            "safeguards": "采取适当保障措施，如加密和严格的访问控制",
+            "scc": "使用欧盟委员会批准的标准合同条款（如适用）",
+            "complaints": "如有疑虑，你可以联系我方或当地数据保护机构"
+          }
+        },
+        "dataRetention": {
+          "title": "数据保留",
+          "content": "我们仅在实现本政策所述目的所必需的时间内保留个人数据。",
+          "summary": "有关各类数据的详细保留期限，请参见我们专门的数据保留政策。",
+          "linkText": "查看数据保留政策"
+        },
+        "cookiesNote": {
+          "title": "Cookie 和跟踪技术",
+          "content": "我们的移动应用不使用网络 Cookie。网站仅使用必要的 Cookie，并在你同意的情况下使用可选分析。",
+          "linkText": "阅读 Cookie 政策"
+        },
+        "exerciseRights": {
+          "title": "如何行使你的权利",
+          "content": "你可以通过以下方式行使你的隐私权：",
+          "items": {
+            "inApp": "应用内设置：管理数据、导出或删除你的账户",
+            "email": "电子邮件：联系 dpo@aeonova.com 或 privacy@aeonova.com 提出特定请求",
+            "verification": "身份验证：为保护你的账户，我们可能要求提供身份证明",
+            "responseTimes": "响应时间：我们会在 30 天内回复，复杂请求可能延长"
+          }
+        },
+        "children": {
+          "title": "儿童隐私",
+          "content": "Aeonova 不面向 13 岁以下儿童。我们不会有意收集儿童的个人数据。若你认为儿童向我们提供了个人数据，请联系我们以便删除。"
+        },
+        "changes": {
+          "title": "本政策的变更",
+          "content": "我们可能会不时更新本政策，以反映我们的实践或法律要求的变化。我们会在适当时通知你重要变更。最后更新日期：{date}"
+        },
+        "contact": {
+          "title": "联系",
+          "content": "如对我们的隐私政策有疑问：",
+          "email": "电子邮件：privacy@aeonova.com",
+          "support": "支持：support@aeonova.com"
+        }
+      }
+    },
+    "terms": {
+      "title": "服务条款",
+      "subtitle": "使用 Aeonova 时你必须遵守的规则",
+      "lastUpdated": "最后更新：{date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "acceptance": {
+          "title": "1. 接受与同意",
+          "content": "使用 Aeonova 应用即表示你已阅读、理解并同意本服务条款。"
+        },
+        "service": {
+          "title": "2. 服务说明",
+          "content": "Aeonova 是一款由 AI 驱动的个人日记与聊天应用。",
+          "features": {
+            "title": "服务功能：",
+            "items": {
+              "aiChat": "与 AI 朋友聊天",
+              "saveMemories": "保存每日回忆并获得评价",
+              "globalExplore": "向全球分享回忆",
+              "multilingual": "支持 20 种语言"
+            }
+          }
+        },
+        "eligibility": {
+          "title": "3. 资格",
+          "content": "你必须年满 13 岁方可使用本服务。若你未达到你所在司法辖区的法定成年年龄，须在同意本条款的父母或监护人监督下使用本服务。"
+        },
+        "accounts": {
+          "title": "4. 账户与安全",
+          "content": "你需对账户凭证的保密性及在你的账户下进行的一切活动负责。",
+          "items": {
+            "accuracy": "提供准确、最新的信息",
+            "confidentiality": "妥善保管你的登录凭证",
+            "notification": "如有未经授权的使用或安全漏洞，请立即通知我们",
+            "devices": "你需负责确保用于访问本服务的设备安全"
+          }
+        },
+        "userContent": {
+          "title": "5. 用户内容",
+          "content": "你保留你提交内容（回忆、消息、帖子）的所有权。提交内容即表示你授予我们全球性的、非独占、免版税许可，仅为运营和改进本服务之目的对你的内容进行托管、存储、展示和处理。",
+          "items": {
+            "rights": "你必须拥有所提交内容的必要权利",
+            "noIllegal": "不得提交非法、侵权或侵犯他人权利的内容",
+            "moderation": "我们可移除或限制违反本条款或适用法律的内容"
+          }
+        },
+        "acceptableUse": {
+          "title": "6. 可接受的使用",
+          "content": "你同意不滥用本服务，也不帮助他人滥用。",
+          "items": {
+            "abuse": "不得骚扰、仇恨言论、歧视或威胁",
+            "violence": "不得发布暴力、自残鼓励或性剥削内容",
+            "spam": "不得垃圾信息、诈骗或欺骗行为",
+            "malware": "不得散布恶意软件、机器人或试图干扰/过载服务",
+            "impersonation": "不得冒充或歪曲你的身份",
+            "illegal": "不得进行非法活动或宣传非法行为"
+          }
+        },
+        "aiDisclaimer": {
+          "title": "7. AI 输出与非专业建议",
+          "content": "Aeonova 的 AI 生成内容可能不准确或不完整。AI 输出仅供信息和娱乐之用，不构成专业建议（包括医疗、法律或财务建议）。需要时请自行判断并寻求合格专业人士意见。"
+        },
+        "payments": {
+          "title": "8. 订阅、付款与应用内购买",
+          "content": "某些功能可能需要通过相应应用商店进行付费订阅或一次性购买。",
+          "items": {
+            "billing": "账单由 App Store 或 Google Play 处理；适用其条款与政策",
+            "renewal": "订阅会自动续订，除非在续订日前取消",
+            "pricing": "我们可能会在必要时变更价格或功能，并提前通知",
+            "cancellation": "你可通过应用商店的账户设置管理或取消订阅"
+          }
+        },
+        "refunds": {
+          "title": "9. 退款",
+          "content": "退款受你购买的平台（App Store 或 Google Play）的政策约束。在法律与平台政策允许的情况下，你可通过相应商店申请退款。"
+        },
+        "intellectualProperty": {
+          "title": "10. 知识产权",
+          "content": "本服务（不含用户内容）之设计、功能与内容归 Aeonova 或其许可方所有，并受知识产权法保护。未经事先书面同意，你不得复制、修改、分发或创作衍生作品。"
+        },
+        "thirdPartyServices": {
+          "title": "11. 第三方服务",
+          "content": "本服务可能包含指向或集成第三方服务的链接。我们不对第三方服务的内容、政策或做法负责。你对第三方服务的使用受其条款与隐私政策约束。"
+        },
+        "responsibilities": {
+          "title": "12. 用户责任",
+          "content": "作为用户，你应承担以下责任：",
+          "items": {
+            "security": "维护账户安全",
+            "content": "对你分享的内容负责",
+            "compliance": "遵守法律法规",
+            "respect": "尊重其他用户"
+          }
+        },
+        "prohibited": {
+          "title": "13. 禁止行为",
+          "content": "以下行为严格禁止：",
+          "items": {
+            "hate": "仇恨言论与歧视",
+            "violence": "暴力内容",
+            "spam": "垃圾信息与欺诈",
+            "illegal": "非法活动",
+            "impersonation": "身份冒用"
+          }
+        },
+        "disclaimer": {
+          "title": "14. 免责声明",
+          "content": "本服务按“现状”和“可用性”提供，不附带任何明示或默示担保，包括但不限于适销性、特定用途适用性和不侵权的默示担保。"
+        },
+        "limitation": {
+          "title": "15. 责任限制",
+          "content": "在法律允许的最大范围内，Aeonova 及其关联方不对任何间接、附带、特殊、后果性、示范性或惩罚性损害，或任何利润或收入损失，无论直接或间接产生，或任何数据、使用或商誉损失，对因你使用本服务而产生的损害承担责任。"
+        },
+        "indemnification": {
+          "title": "16. 赔偿",
+          "content": "你同意就因你使用本服务或违反本条款而引起的任何索赔、责任、损害、损失和费用（包括合理的律师费），对 Aeonova、其关联方及各自的管理人员、董事、员工和代理进行赔偿并使其免受损害。"
+        },
+        "termination": {
+          "title": "17. 账户终止",
+          "content": "在以下情形下，你的账户可能被终止：",
+          "items": {
+            "violation": "违反服务条款",
+            "illegal": "非法活动",
+            "spam": "垃圾信息或滥用"
+          }
+        },
+        "governingLaw": {
+          "title": "18. 适用法律与争议解决",
+          "content": "在强制性消费者保护规则要求的范围内，本条款受你居住国法律管辖；否则受德国法律管辖，不考虑其法律冲突原则。",
+          "items": {
+            "venue": "除非适用法律另有规定，否则具有适当管辖权的法院享有专属管辖权",
+            "eu": "欧盟消费者也有权使用欧盟在线争议解决平台"
+          }
+        },
+        "changes": {
+          "title": "19. 条款变更",
+          "content": "我们可能会不时修改本条款。如有重大变更，我们将按照法律要求提供适当通知。变更生效后继续使用本服务即表示你接受更新后的条款。"
+        },
+        "contact": {
+          "title": "20. 联系",
+          "content": "如对我们的服务条款有疑问：",
+          "email": "电子邮件：legal@aeonova.com",
+          "support": "支持：support@aeonova.com"
+        }
+      }
+    },
+    "gdpr": {
+      "title": "GDPR 合规",
+      "subtitle": "欧盟通用数据保护条例",
+      "lastUpdated": "最后更新：{date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "GDPR 概要",
+        "howToExercise": "如何行使：",
+        "timeframe": "时间框架：",
+        "limitations": "限制：",
+        "effect": "效果："
+      },
+      "summary": "作为 Aeonova，我们致力于遵守欧盟通用数据保护条例（GDPR），全面保护你的个人数据。本政策说明你的权利、我们如何处理你的数据以及我们对数据保护的承诺。",
+      "sections": {
+        "introduction": {
+          "title": "📋 简介",
+          "subtitle": "了解 GDPR 合规",
+          "description": "通用数据保护条例（GDPR）是一部全面的隐私法，赋予你对个人数据的控制权。作为一家负责任的 AI 公司，Aeonova 确保完全遵守 GDPR 要求，为你提供透明、可控和安全的数据处理。",
+          "scope": {
+            "title": "GDPR 的适用范围：",
+            "items": {
+              "whoIsProtected": "所有欧盟居民，无论其当前所在地",
+              "whatIsProtected": "任何能够直接或间接识别你的个人数据",
+              "whenApplies": "每当我们出于任何目的处理你的个人数据",
+              "whereApplies": "我们的所有服务，包括移动应用和网站"
+            }
+          }
+        },
+        "principles": {
+          "title": "🔒 数据保护原则",
+          "subtitle": "我们的基础",
+          "description": "我们在所有数据处理活动中遵循 GDPR 的基本原则：",
+          "lawfulness": {
+            "title": "1. 合法、公平与透明",
+            "description": "我们以合法、公平和透明的方式处理你的数据",
+            "details": {
+              "lawful": "处理基于有效的法律依据（同意、合同、合法利益）",
+              "fair": "我们不会以出乎意料或有害的方式使用你的数据",
+              "transparent": "我们用清晰的语言解释我们如何使用你的数据"
+            }
+          },
+          "purposeLimitation": {
+            "title": "2. 目的限制",
+            "description": "数据仅为特定、明确且合法的目的而收集与使用",
+            "details": {
+              "specific": "我们清楚地定义每项数据的用途",
+              "explicit": "目的清晰明确，不隐藏在复杂条款中",
+              "legitimate": "所有目的服务于真实的业务或用户需求"
+            }
+          },
+          "dataMinimization": {
+            "title": "3. 数据最小化",
+            "description": "我们仅收集为实现目的所必需的数据",
+            "details": {
+              "adequate": "我们收集足够的数据以有效提供服务",
+              "relevant": "所有收集的数据与所述目的相关",
+              "limited": "不收集过多或不必要的信息"
+            }
+          },
+          "accuracy": {
+            "title": "4. 准确性",
+            "description": "我们保持你的数据准确并及时更新",
+            "details": {
+              "current": "我们提供工具让你更新信息",
+              "correction": "不准确的数据会被及时更正或删除",
+              "verification": "在处理重要信息时我们会验证数据的准确性"
+            }
+          },
+          "storageLimitation": {
+            "title": "5. 存储限制",
+            "description": "我们不会将你的数据保留超过必要期限",
+            "details": {
+              "retention": "针对不同数据设有明确的保留期限",
+              "review": "定期审查并删除不再需要的数据",
+              "purpose": "当收集目的结束时即删除数据"
+            }
+          },
+          "security": {
+            "title": "6. 完整性与保密性",
+            "description": "我们以适当的安全措施保护你的数据",
+            "details": {
+              "protection": "采取技术和组织措施防止未经授权访问",
+              "confidentiality": "你的数据保持机密与安全",
+              "integrity": "我们确保数据不被篡改或损坏"
+            }
+          },
+          "accountability": {
+            "title": "7. 可问责性",
+            "description": "我们有责任证明遵守这些原则",
+            "details": {
+              "documentation": "我们保存所有处理活动的记录",
+              "policies": "明确的数据保护内部政策与流程",
+              "training": "定期进行数据保护要求的员工培训"
+            }
+          }
+        },
+        "rights": {
+          "title": "👥 你的 GDPR 权利",
+          "subtitle": "你的完整权利包",
+          "description": "GDPR 赋予你对个人数据的全面权利。你可以：",
+          "information": {
+            "title": "1. 📋 知情权",
+            "description": "你有权了解你的数据如何被处理",
+            "includes": {
+              "title": "包括了解：",
+              "items": {
+                "purposes": "我们为何处理你的数据",
+                "categories": "我们收集的数据类型",
+                "recipients": "我们与谁共享数据（如有）",
+                "retention": "我们保留数据的时间",
+                "rights": "你对数据拥有哪些权利",
+                "sources": "我们从何处获取你的数据"
+              }
+            },
+            "howToExercise": "本隐私政策提供了大部分信息。如需具体细节，请联系我们。"
+          },
+          "access": {
+            "title": "2. 🔍 访问权",
+            "description": "你可以请求我们提供我们持有的关于你的所有数据副本",
+            "includes": {
+              "title": "你将会收到：",
+              "items": {
+                "copy": "你的个人数据完整副本",
+                "format": "结构化、机器可读格式（JSON）",
+                "details": "有关数据如何被处理的信息",
+                "sources": "数据来源",
+                "recipients": "数据共享对象"
+              }
+            },
+            "howToExercise": "通过应用设置请求或发送邮件至 dpo@aeonova.com。首次请求免费，后续请求可能收取费用。",
+            "timeframe": "我们将在 30 天内回复"
+          },
+          "rectification": {
+            "title": "3. ✏️ 更正权",
+            "description": "你可以更正不准确或不完整的数据",
+            "includes": {
+              "title": "你可以：",
+              "items": {
+                "correct": "修正不正确的个人信息",
+                "complete": "补充缺失信息",
+                "update": "更新过时信息",
+                "verify": "要求我们验证数据的准确性"
+              }
+            },
+            "howToExercise": "在应用设置中直接更新，或就你无法自行变更的数据联系我们",
+            "timeframe": "能立即更正的及时处理，复杂情况在 30 天内处理"
+          },
+          "erasure": {
+            "title": "4. 🗑️ 删除权（被遗忘权）",
+            "description": "你可以请求删除你的个人数据",
+            "conditions": {
+              "title": "在以下情况下你可以请求删除：",
+              "items": {
+                "unnecessary": "数据不再对最初目的必要",
+                "consent": "你撤回同意且无其他法律依据",
+                "objection": "你反对处理且不存在更有力的合法理由",
+                "unlawful": "数据被不当处理",
+                "legal": "为符合法律要求需要删除"
+              }
+            },
+            "limitations": {
+              "title": "如数据仍用于以下目的，我们可能会拒绝删除：",
+              "items": {
+                "legal": "符合法律合规或法律请求",
+                "public": "公共利益或历史研究",
+                "freedom": "行使言论自由权"
+              }
+            },
+            "howToExercise": "在应用设置中删除账户，或联系 dpo@aeonova.com",
+            "timeframe": "账户删除在 7 天内处理，完整数据删除在 30 天内完成"
+          },
+          "portability": {
+            "title": "5. 📦 数据可携带权",
+            "description": "你可以以可携带的格式接收你的数据，或将其转移到其他服务",
+            "includes": {
+              "title": "你可以：",
+              "items": {
+                "receive": "以 JSON 或 CSV 格式获取你的数据",
+                "transfer": "在技术可行情况下，要求我们直接将数据转移到其他服务",
+                "export": "导出你的回忆、聊天记录和设置"
+              }
+            },
+            "limitations": "仅适用于你提供的数据及基于同意或合同，通过自动化方式处理的数据",
+            "howToExercise": "在应用设置中使用导出功能，或通过 dpo@aeonova.com 提出请求",
+            "timeframe": "应用内可立即获得，自定义请求在 30 天内完成"
+          },
+          "objection": {
+            "title": "6. ✋ 反对权",
+            "description": "你可以反对某些类型的数据处理",
+            "types": {
+              "general": {
+                "title": "一般反对",
+                "description": "反对基于合法利益的处理",
+                "effect": "除非我们能证明存在令人信服的合法理由，否则我们将停止处理"
+              },
+              "directMarketing": {
+                "title": "直接营销",
+                "description": "反对任何营销通讯",
+                "effect": "我们将立即停止所有营销行为"
+              },
+              "profiling": {
+                "title": "自动化决策与画像",
+                "description": "反对对你产生重大影响的自动化决策",
+                "effect": "我们将审查自动化决策并在适用时提供人工复核"
+              }
+            },
+            "howToExercise": "营销：使用退订链接或应用设置。其他反对：联系 dpo@aeonova.com"
+          }
+        },
+        "contact": {
+          "title": "📞 关于 GDPR 的联系",
+          "subtitle": "取得联系",
+          "description": "如对 GDPR 与数据保护有任何问题或请求：",
+          "dpo": {
+            "title": "数据保护官（DPO）",
+            "email": "dpo@aeonova.com",
+            "role": "我们的 DPO 负责监督所有数据保护活动和 GDPR 合规"
+          },
+          "requests": {
+            "title": "GDPR 权利请求",
+            "email": "gdpr@aeonova.com",
+            "description": "用于行使你的 GDPR 权利（访问、删除等）"
+          },
+          "complaints": {
+            "title": "投诉与疑虑",
+            "email": "privacy@aeonova.com",
+            "description": "若对我们的数据处理有隐私疑虑或投诉"
+          },
+          "general": {
+            "title": "一般问题",
+            "email": "support@aeonova.com",
+            "description": "关于我们隐私实践的一般问题"
+          },
+          "response": {
+            "title": "响应时间",
+            "standard": "标准请求：30 天内",
+            "complex": "复杂请求：可延长至 90 天并说明原因",
+            "urgent": "紧急安全事项：72 小时内"
+          },
+          "information": {
+            "title": "联系时请包括",
+            "items": {
+              "identification": "与你账户关联的姓名与邮箱地址",
+              "request": "清晰描述你的请求或疑虑",
+              "details": "任何相关细节或参考编号",
+              "preference": "你偏好的回复方式"
+            }
+          },
+          "languages": {
+            "title": "语言支持",
+            "description": "我们可以用英语、德语或土耳其语回复 GDPR 请求"
+          }
+        }
+      }
+    },
+    "cookies": {
+      "title": "Cookie 政策",
+      "subtitle": "我们网站上对 Cookie 和类似技术的使用",
+      "lastUpdated": "最后更新：{date}",
+      "backToHome": "← Aeonova ❤️",
+      "summaryTitle": "摘要",
+      "summary": "本政策说明 Aeonova 如何在网站上使用 Cookie 和类似跟踪技术。我们的主要服务是移动应用，本网站主要用于信息展示与下载。",
+      "sections": {
+        "introduction": {
+          "title": "📝 简介",
+          "description": "本 Cookie 政策解释何为 Cookie、我们如何在 Aeonova 网站上使用 Cookie，以及你如何管理你的 Cookie 偏好。继续使用我们的网站，即表示你同意按照本政策使用 Cookie。"
+        },
+        "whatAreCookies": {
+          "title": "🍪 什么是 Cookie？",
+          "description": "Cookie 是你访问网站时存储在你的计算机或移动设备上的小型文本文件。它们被广泛用于让网站更高效地运行并向网站所有者提供信息。",
+          "details": {
+            "purpose": "Cookie 的目的：",
+            "items": {
+              "functionality": "启用网站的基本功能与导航",
+              "personalization": "记住你的偏好和设置",
+              "analytics": "帮助我们了解访客如何与网站互动",
+              "performance": "提升网站性能和加载速度"
+            }
+          },
+          "types": {
+            "title": "按持续时间分类的 Cookie 类型：",
+            "session": "会话 Cookie：关闭浏览器时即被删除",
+            "persistent": "持久性 Cookie：在设备上保留一段时间或直至手动删除"
+          }
+        },
+        "typesOfCookies": {
+          "title": "🔍 我们使用的 Cookie 类型",
+          "description": "我们根据目的和功能将 Cookie 分类：",
+          "essential": {
+            "title": "1. 🔒 必要的 Cookie（始终启用）",
+            "description": "这些 Cookie 对网站正常运行必不可少，无法在我们的系统中关闭。",
+            "items": {
+              "language": "语言偏好：存储你选择的网站语言设置",
+              "security": "安全 Cookie：CSRF 保护令牌和其他安全措施",
+              "session": "会话管理：在页面导航过程中保持你的会话状态",
+              "consent": "Cookie 同意：记住你的 Cookie 偏好与同意选择"
+            },
+            "note": "⚠️ 这些 Cookie 无法禁用，因为它们对网站功能至关重要",
+            "legalBasis": "法律依据：合法利益（提供服务所必需）"
+          },
+          "performance": {
+            "title": "2. 📊 性能与分析 Cookie（可选）",
+            "description": "这些 Cookie 通过收集匿名信息帮助我们了解访客如何与网站互动。",
+            "items": {
+              "loadTimes": "页面性能：衡量页面加载时间和性能指标",
+              "errorTracking": "错误报告：匿名跟踪 JavaScript 错误和技术问题",
+              "usageStats": "使用统计：跟踪被访问页面和热门内容",
+              "userFlow": "用户路径：了解用户如何在网站中导航"
+            },
+            "note": "✅ 你可以拒绝这些 Cookie，而不会影响网站功能",
+            "legalBasis": "法律依据：你的明确同意",
+            "retention": "数据保留：最多 90 天"
+          },
+          "marketing": {
+            "title": "3. 🎯 营销与广告 Cookie（目前未使用）",
+            "description": "我们目前不使用营销 Cookie，但未来可能在征得你同意的情况下实施。",
+            "items": {
+              "targetedAds": "定向广告：根据你的兴趣展示相关广告",
+              "socialMedia": "社交媒体集成：启用社交分享和跟踪",
+              "remarketing": "再营销：向过往网站访客展示广告",
+              "crossSite": "跨站点跟踪：跟踪你在不同网站的活动"
+            },
+            "note": "🚫 目前未实施——若添加将需要明确同意",
+            "future": "如果将来使用这些 Cookie，我们会征得你的明确同意并更新本政策。"
+          }
+        },
+        "thirdParty": {
+          "title": "🌐 第三方 Cookie",
+          "description": "我们的网站可能包含第三方的嵌入内容或服务。这些服务可能会设置它们自己的 Cookie：",
+          "current": {
+            "title": "当前使用的第三方服务：",
+            "items": {
+              "fonts": "Google Fonts：用于网站字体（无跟踪 Cookie）",
+              "cdn": "内容分发网络：用于加速内容加载",
+              "security": "安全服务：用于 DDoS 防护和安全监控"
+            }
+          },
+          "future": {
+            "title": "潜在的未来第三方服务：",
+            "items": {
+              "analytics": "Google Analytics：用于详细的网站分析",
+              "social": "社交媒体组件：用于社交媒体集成",
+              "support": "客户支持工具：用于在线聊天与支持功能"
+            }
+          },
+          "note": "我们在使用任何带有跟踪 Cookie 的新第三方服务前都会告知你。"
+        },
+        "mobileApp": {
+          "title": "📱 移动应用数据存储",
+          "subtitle": "重要区别",
+          "description": "Aeonova 移动应用不使用网络 Cookie。取而代之的是更安全高效的原生移动数据存储方式：",
+          "items": {
+            "localStorage": "本地加密存储：用户数据安全存储在你的设备上",
+            "keychain": "钥匙串/密钥库：认证令牌存储于设备安全存储中",
+            "appSettings": "应用偏好：在应用沙盒中存储设置",
+            "offlineCache": "离线能力：缓存内容用于离线使用",
+            "biometric": "生物识别数据：面容 ID/指纹（仅本地存储，从不传输）"
+          },
+          "security": {
+            "title": "移动应用安全：",
+            "items": {
+              "encryption": "使用行业标准加密保护所有数据",
+              "localOnly": "敏感数据不会离开你的设备",
+              "secure": "使用平台级安全特性（iOS 钥匙串、Android Keystore）",
+              "privacy": "无跨应用跟踪或数据共享"
+            }
+          }
+        },
+        "management": {
+          "title": "⚙️ 管理你的 Cookie",
+          "description": "你可以通过多种方式控制和管理网站上的 Cookie：",
+          "browserSettings": {
+            "title": "浏览器设置：",
+            "description": "你可以通过浏览器设置来控制 Cookie：",
+            "items": {
+              "chrome": "Chrome：设置 → 隐私与安全 → Cookie 及其他网站数据",
+              "firefox": "Firefox：选项 → 隐私与安全 → Cookie 与网站数据",
+              "safari": "Safari：偏好设置 → 隐私 → 管理网站数据",
+              "edge": "Edge：设置 → Cookie 和网站权限 → Cookie 和网站数据"
+            }
+          },
+          "ourSettings": {
+            "title": "网站 Cookie 偏好：",
+            "description": "你可以在本网站管理 Cookie 偏好：",
+            "items": {
+              "essential": "必要 Cookie：无法禁用（网站功能所需）",
+              "performance": "性能 Cookie：可在 Cookie 横幅中启用/禁用",
+              "marketing": "营销 Cookie：目前未使用，若实施将采用选择加入"
+            }
+          },
+          "consequences": {
+            "title": "⚠️ 禁用 Cookie：",
+            "description": "如果你禁用某些 Cookie，部分网站功能可能无法正常工作：",
+            "items": {
+              "language": "无法记住语言偏好",
+              "navigation": "部分导航功能可能受影响",
+              "performance": "我们无法基于使用数据改进网站性能"
+            }
+          }
+        },
+        "updates": {
+          "title": "🔄 政策更新",
+          "description": "我们可能会不时更新本 Cookie 政策，以反映实践变更或其他运营、法律或监管原因。",
+          "notification": "当我们变更本政策时：",
+          "items": {
+            "notice": "我们会在此页面发布更新后的政策",
+            "effective": "变更在发布后立即生效",
+            "major": "重大变更可能提供额外通知",
+            "date": "顶部的“最后更新”日期将同步更新"
+          },
+          "recommendation": "建议定期查看本政策，以了解我们如何使用 Cookie。"
+        },
+        "contact": {
+          "title": "📞 关于 Cookie 的问题",
+          "subtitle": "取得联系",
+          "description": "如果你对我们使用 Cookie 或本 Cookie 政策有任何问题，请通过以下方式联系我们：",
+          "methodsTitle": "联系方法",
+          "methods": {
+            "email": "一般隐私问题：privacy@aeonova.com",
+            "cookies": "Cookie 相关问题：cookies@aeonova.com",
+            "support": "技术支持：support@aeonova.com",
+            "dpo": "数据保护官：dpo@aeonova.com"
+          },
+          "response": {
+            "title": "响应时间：",
+            "items": {
+              "general": "一般咨询：48 小时内",
+              "privacy": "隐私相关问题：72 小时内",
+              "urgent": "紧急事项：24 小时内"
+            }
+          }
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "数据保留政策",
+      "subtitle": "我们保留你的个人数据的时长及原因",
+      "lastUpdated": "最后更新：{date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "摘要",
+        "methods": "方法：",
+        "requirements": "要求：",
+        "contacts": "联系方式：",
+        "responseTimes": "响应时间：",
+        "process": "流程："
+      },
+      "summary": "本综合政策解释我们对不同类型个人数据的保留时长、保留的法律依据，以及你关于数据删除的权利。我们致力于数据最小化，仅在必要的时间内保留数据。",
+      "sections": {
+        "introduction": {
+          "title": "📋 简介",
+          "subtitle": "了解数据保留",
+          "description": "数据保留是指我们在系统中保存你的个人信息的时长。本政策解释我们的保留实践，旨在平衡你的隐私权与我们的合法业务需求及法律义务。",
+          "keyPoints": {
+            "title": "关键原则：",
+            "items": {
+              "minimization": "我们仅收集并保留提供服务所需的数据",
+              "purpose": "仅为收集时的目的保留数据",
+              "lawful": "保留期限基于法律要求与合法利益",
+              "transparent": "我们对不同数据类型的保留时长保持透明",
+              "secure": "所有保留的数据均采取适当的安全保护措施"
+            }
+          }
+        },
+        "legalBasis": {
+          "title": "⚖️ 数据保留的法律依据",
+          "subtitle": "我们为何保留你的数据",
+          "description": "我们依据 GDPR 及其他适用隐私法的多种法律依据保留个人数据：",
+          "bases": {
+            "contractual": {
+              "title": "1. 📝 合同义务",
+              "description": "为向你提供服务并履行与你的合同所必需的数据",
+              "examples": {
+                "title": "示例：",
+                "items": {
+                  "account": "提供 Aeonova 服务所需的账户信息",
+                  "subscription": "高级功能相关的付款与订阅数据",
+                  "support": "为解决问题的客户支持记录",
+                  "preferences": "个性化体验所需的用户偏好与设置"
+                }
+              }
+            },
+            "legal": {
+              "title": "2. 🏛️ 法律合规",
+              "description": "为遵守法律义务而必须保留的数据",
+              "examples": {
+                "title": "示例：",
+                "items": {
+                  "financial": "出于税务与会计目的的财务记录（7 年）",
+                  "security": "用于调查欺诈与滥用的安全日志（2 年）",
+                  "gdpr": "同意记录与数据处理活动记录（3 年）",
+                  "disputes": "与法律争议相关的数据，保留至争议解决"
+                }
+              }
+            },
+            "legitimate": {
+              "title": "3. 🎯 合法利益",
+              "description": "在不侵犯你的隐私权前提下，为合法业务目的而保留的数据",
+              "examples": {
+                "title": "示例：",
+                "items": {
+                  "analytics": "用于改进服务的匿名化使用数据（90 天）",
+                  "security": "为保护所有用户的安全监测（1 年）",
+                  "research": "产品开发与研究（仅使用匿名数据）",
+                  "communications": "营销同意与沟通偏好"
+                }
+              }
+            }
+          }
+        },
+        "categories": {
+          "title": "⏰ 按数据类别的详细保留期限",
+          "subtitle": "具体时长",
+          "description": "以下列出我们对不同类型数据的具体保留期限：",
+          "account": {
+            "title": "👤 账户与资料信息",
+            "headings": {
+              "basicProfile": "基本资料",
+              "preferences": "偏好",
+              "subscription": "订阅",
+              "authentication": "认证"
+            },
+            "items": {
+              "basic": {
+                "data": "用户名、年龄、头像、资料设置",
+                "period": "账户激活期间 + 删除后 30 天",
+                "basis": "合同必要性",
+                "deletion": "账户删除后 30 天自动删除"
+              },
+              "preferences": {
+                "data": "语言偏好、应用设置、通知偏好",
+                "period": "账户激活期间",
+                "basis": "合同必要性与合法利益",
+                "deletion": "账户删除后立即删除"
+              },
+              "subscription": {
+                "data": "高级订阅信息、付款历史",
+                "period": "订阅期间 + 7 年",
+                "basis": "法律合规（财务记录）",
+                "deletion": "在保留期结束后自动删除"
+              },
+              "authentication": {
+                "data": "登录凭证、安全令牌",
+                "period": "账户激活期间 + 30 天",
+                "basis": "合同必要性与安全",
+                "deletion": "账户删除后立即失效"
+              }
+            },
+            "note": "💡 账户删除在 30 天宽限期后不可恢复。此期间内你可以登录恢复账户。"
+          },
+          "content": {
+            "title": "💬 聊天与内容数据",
+            "headings": {
+              "chatHistory": "聊天记录",
+              "privateMemories": "私人回忆",
+              "sharedMemories": "已分享回忆",
+              "aiComments": "AI 评论",
+              "userFeedback": "用户反馈"
+            },
+            "items": {
+              "chatHistory": {
+                "data": "与 AI 的对话与消息历史",
+                "period": "设备本地存储：无限制 / 服务器缓存：30 天",
+                "basis": "合同必要性",
+                "deletion": "服务器数据 30 天后删除；本地数据由用户控制"
+              },
+              "privateMemories": {
+                "data": "个人日记与私人回忆",
+                "period": "用户可随时删除",
+                "basis": "合同必要性",
+                "deletion": "由用户删除或账户删除时立即删除"
+              },
+              "sharedMemories": {
+                "data": "公开分享的回忆与帖子",
+                "period": "分享期间 + 删除后 1 年",
+                "basis": "合法利益（内容审核）",
+                "deletion": "为审核目的保留 1 年，然后永久删除"
+              },
+              "aiComments": {
+                "data": "AI 生成的评论与回复",
+                "period": "与相关回忆/聊天相同",
+                "basis": "合同必要性",
+                "deletion": "与相关内容一同删除"
+              },
+              "userFeedback": {
+                "data": "对 AI 回复的评分与反馈",
+                "period": "2 年（90 天后匿名化）",
+                "basis": "合法利益（服务改进）",
+                "deletion": "90 天后匿名化，2 年后完全删除"
+              }
+            },
+            "note": "💡 大多数聊天数据为保护隐私存储在你的设备本地。仅使用最少的服务器缓存以提升性能。"
+          },
+          "technical": {
+            "title": "🔧 技术与系统数据",
+            "headings": {
+              "usageLogs": "使用日志",
+              "errorReports": "错误报告",
+              "securityLogs": "安全日志",
+              "deviceInfo": "设备信息",
+              "notifications": "通知"
+            },
+            "items": {
+              "usageLogs": {
+                "data": "应用使用模式、功能使用、会话数据",
+                "period": "90 天（30 天后匿名化）",
+                "basis": "合法利益（服务改进）",
+                "deletion": "30 天后移除个人标识，90 天后完全删除"
+              },
+              "errorReports": {
+                "data": "崩溃报告、错误日志、性能数据",
+                "period": "1 年（立即匿名化）",
+                "basis": "合法利益（技术改进）",
+                "deletion": "不包含个人数据；技术数据 1 年后删除"
+              },
+              "securityLogs": {
+                "data": "登录尝试、安全事件、欺诈检测",
+                "period": "2 年",
+                "basis": "合法利益与法律合规",
+                "deletion": "2 年后自动删除"
+              },
+              "deviceInfo": {
+                "data": "设备类型、操作系统版本、应用版本",
+                "period": "账户激活期间 + 30 天",
+                "basis": "合同必要性（兼容性）",
+                "deletion": "账户删除时删除"
+              },
+              "notifications": {
+                "data": "推送通知令牌、投递日志",
+                "period": "账户激活期间",
+                "basis": "合同必要性",
+                "deletion": "账户删除或选择退出时立即失效"
+              }
+            },
+            "note": "💡 技术数据主要用于提升应用性能与安全。尽快移除个人标识。"
+          },
+          "communications": {
+            "title": "📧 通讯与支持",
+            "headings": {
+              "supportTickets": "支持工单",
+              "marketingConsent": "营销同意",
+              "contactForms": "联系表单"
+            },
+            "items": {
+              "supportTickets": {
+                "data": "客服对话与工单",
+                "period": "问题解决后 3 年",
+                "basis": "合法利益（客户服务）",
+                "deletion": "3 年后自动删除"
+              },
+              "marketingConsent": {
+                "data": "电子邮件营销同意与偏好",
+                "period": "直至撤回同意 + 1 年",
+                "basis": "同意与法律合规",
+                "deletion": "撤回后立即删除，并保留 1 年审计记录"
+              },
+              "contactForms": {
+                "data": "联系表单提交与咨询",
+                "period": "2 年",
+                "basis": "合法利益（业务沟通）",
+                "deletion": "2 年后自动删除"
+              }
+            }
+          }
+        },
+        "automaticDeletion": {
+          "title": "🤖 自动数据删除",
+          "subtitle": "自动化流程",
+          "description": "我们实施了自动化系统以确保按照保留计划删除数据：",
+          "processes": {
+            "daily": {
+              "title": "每日清理（每 24 小时）",
+              "items": {
+                "expired": "过期的会话令牌与临时数据",
+                "cache": "过期缓存数据与临时文件",
+                "logs": "超过保留期的日志轮转"
+              }
+            },
+            "weekly": {
+              "title": "每周清理（每周日）",
+              "items": {
+                "accounts": "超过宽限期的已标记删除账户",
+                "anonymization": "对 30 天前的使用数据进行匿名化",
+                "backups": "超过保留期的备份文件清理"
+              }
+            },
+            "monthly": {
+              "title": "每月清理（每月 1 日）",
+              "items": {
+                "technical": "超出保留期的技术日志与错误报告",
+                "analytics": "超过 90 天保留期的分析数据",
+                "audit": "全面的保留合规审计"
+              }
+            },
+            "annual": {
+              "title": "年度审查（1 月 1 日）",
+              "items": {
+                "policies": "审查并更新保留期限",
+                "compliance": "全面的合规审计与文档",
+                "systems": "更新自动删除系统"
+              }
+            }
+          },
+          "monitoring": {
+            "title": "监控与验证：",
+            "items": {
+              "alerts": "任何保留政策违规的自动警报",
+              "reports": "每月保留合规报告",
+              "audits": "定期审计删除流程",
+              "verification": "验证已删除的数据不可恢复"
+            }
+          }
+        },
+        "accountStatus": {
+          "title": "🔄 按账户状态的数据保留",
+          "subtitle": "不同情形",
+          "active": {
+            "title": "🟢 活跃账户",
+            "description": "适用于正在使用且状态良好的账户：",
+            "items": {
+              "normalStorage": "所有数据按标准保留期限存储",
+              "userControl": "用户可随时通过应用删除数据",
+              "backups": "为数据恢复而维护定期加密备份",
+              "security": "应用完整的安全措施与监控",
+              "updates": "用户可更新与修改数据",
+              "export": "用户可随时导出数据"
+            }
+          },
+          "inactive": {
+            "title": "🟡 不活跃账户",
+            "description": "适用于长时间未使用的账户：",
+            "items": {
+              "warning": "不活跃 12 个月后发送邮件提醒",
+              "finalNotice": "不活跃 18 个月后发送最终通知",
+              "deletion": "不活跃 24 个月后账户标记删除",
+              "gracePeriod": "永久删除前的 30 天最终宽限期",
+              "dataMinimization": "不活跃期间可能删除非必要数据"
+            },
+            "note": "💡 你可以随时登录重新激活账户，计时将重置。"
+          },
+          "deleted": {
+            "title": "🔴 已删除账户",
+            "description": "当你请求删除账户时：",
+            "items": {
+              "gracePeriod": "30 天宽限期（期间可恢复账户）",
+              "immediateActions": "登录凭证立即失效",
+              "dataReview": "审查个人数据的法律保留要求",
+              "permanentDeletion": "宽限期后，所有个人数据被永久删除",
+              "legalException": "仅保留法律要求的数据（尽可能匿名化）",
+              "noRecovery": "宽限期后删除不可逆",
+              "confirmation": "删除完成后发送邮件确认"
+            }
+          },
+          "suspended": {
+            "title": "🚫 已暂停账户",
+            "description": "适用于因违反条款而暂停的账户：",
+            "items": {
+              "retention": "暂停期间为调查而保留数据",
+              "appeal": "上诉过程中保留数据（最长 90 天）",
+              "deletion": "若暂停变为永久，按正常删除流程处理",
+              "reinstatement": "恢复后恢复正常保留策略"
+            }
+          }
+        },
+        "userRights": {
+          "title": "👥 你在数据保留方面的权利",
+          "subtitle": "你可以做什么",
+          "description": "关于我们保留数据的时长，你拥有多项权利：",
+          "access": {
+            "title": "🔍 访问权",
+            "description": "你可以请求关于我们拥有哪些数据以及计划保留多长时间的信息",
+            "items": {
+              "request": "通过应用或电子邮件提交数据访问请求",
+              "response": "我们将在 30 天内提供完整报告",
+              "format": "以结构化、机器可读格式提供数据",
+              "frequency": "每年可免费请求一次"
+            }
+          },
+          "deletion": {
+            "title": "🗑️ 删除权（被遗忘权）",
+            "description": "在某些情况下，你可以请求删除你的个人数据",
+            "items": {
+              "immediate": "通过应用设置删除账户（立即处理）",
+              "selective": "请求删除特定数据类别",
+              "legal": "若法律要求保留，可能会被拒绝",
+              "verification": "删除请求需要进行身份验证"
+            }
+          },
+          "portability": {
+            "title": "📦 数据可携带权",
+            "description": "你可以请求以可携带的格式获取你的数据",
+            "items": {
+              "export": "可直接从应用下载你的数据",
+              "format": "数据以 JSON 或 CSV 格式提供",
+              "scope": "包含我们持有的所有关于你的个人数据",
+              "transfer": "可用于转移至其他服务"
+            }
+          },
+          "objection": {
+            "title": "✋ 反对权",
+            "description": "你可以反对某些类型的数据处理与保留",
+            "items": {
+              "marketing": "立即退出营销数据保留",
+              "analytics": "反对收集与保留分析数据",
+              "profiling": "反对自动化决策与画像",
+              "legitimate": "对基于合法利益的保留提出异议"
+            }
+          }
+        },
+        "specialCircumstances": {
+          "title": "⚖️ 特殊情况",
+          "subtitle": "延长保留",
+          "description": "在某些情况下，我们可能需要超出正常期限保留数据：",
+          "legal": {
+            "title": "🏛️ 法律程序",
+            "description": "若涉及法律程序，数据可能保留更长时间",
+            "items": {
+              "litigation": "在诉讼或调查期间保留数据",
+              "subpoena": "受传票或法院命令时延长保留",
+              "investigation": "欺诈或安全调查可能需要延长保留",
+              "notification": "若你的数据处于法律保全状态，我们会通知你"
+            }
+          },
+          "security": {
+            "title": "🔒 安全事件",
+            "description": "与安全相关的数据可能为事件响应而保留",
+            "items": {
+              "breaches": "为调查泄露与预防而保留安全日志",
+              "forensics": "数字取证可能需要临时延长保留",
+              "patterns": "匿名化数据用于识别攻击模式",
+              "reporting": "为监管报告要求而保留数据"
+            }
+          },
+          "financial": {
+            "title": "💰 财务义务",
+            "description": "财务数据受较长保留期限制",
+            "items": {
+              "tax": "税务目的保留财务记录 7 年",
+              "audit": "为财务审计保留付款数据",
+              "disputes": "账单争议可能延长保留",
+              "refunds": "退款资格期可能影响保留"
+            }
+          }
+        },
+        "dataLocations": {
+          "title": "🌍 数据存储位置与保留",
+          "subtitle": "你的数据存储在哪里",
+          "description": "根据存储位置与适用法律，数据保留期限可能不同：",
+          "primary": {
+            "title": "主要存储（欧盟/EEA）",
+            "description": "主要数据存储于欧洲经济区",
+            "items": {
+              "location": "主要服务器位于德国与荷兰",
+              "law": "受 GDPR 与欧盟隐私法约束",
+              "retention": "按本政策所列的标准保留期限",
+              "protection": "完全的 GDPR 保护与权利"
+            }
+          },
+          "backups": {
+            "title": "备份存储",
+            "description": "用于灾难恢复的加密备份",
+            "items": {
+              "locations": "位于欧盟与瑞士的安全设施",
+              "retention": "备份最多保留 1 年",
+              "encryption": "端到端加密并采用独立密钥管理",
+              "deletion": "备份删除遵循主数据删除"
+            }
+          },
+          "cache": {
+            "title": "缓存与 CDN",
+            "description": "为性能而进行的临时缓存",
+            "items": {
+              "duration": "缓存数据最长保留 30 天",
+              "locations": "在多个地区的 CDN 节点",
+              "anonymization": "缓存内容不含个人标识",
+              "automatic": "自动到期与删除"
+            }
+          }
+        },
+        "compliance": {
+          "title": "📜 法规遵循",
+          "subtitle": "满足法律要求",
+          "description": "我们的保留实践符合多项国际隐私法规：",
+          "gdpr": {
+            "title": "🇪🇺 GDPR（通用数据保护条例）",
+            "items": {
+              "lawfulness": "所有保留基于合法的处理依据",
+              "minimization": "严格遵循数据最小化原则",
+              "rights": "全面落实数据主体权利",
+              "accountability": "记录所有保留决策"
+            }
+          },
+          "ccpa": {
+            "title": "🇺🇸 CCPA（加州消费者隐私法案）",
+            "items": {
+              "disclosure": "向加州居民清晰披露保留期限",
+              "deletion": "在 45 天内履行删除权",
+              "categories": "详细分类个人信息",
+              "business": "对每一保留期限明确业务目的"
+            }
+          },
+          "other": {
+            "title": "🌐 其他法规",
+            "items": {
+              "pipeda": "针对加拿大用户的 PIPEDA 合规",
+              "lgpd": "针对巴西用户的 LGPD 合规",
+              "pdpa": "针对新加坡用户的 PDPA 合规",
+              "local": "遵守适用的当地隐私法"
+            }
+          }
+        },
+        "contact": {
+          "title": "📞 联系与请求",
+          "subtitle": "如何联系我们",
+          "description": "如对数据保留有任何问题或请求：",
+          "deletion": {
+            "title": "🗑️ 数据删除请求",
+            "methods": {
+              "app": "首选：应用设置 → 账户 → 删除账户",
+              "email": "电子邮件：deletion@aeonova.com",
+              "form": "在线表单：aeonova.com/delete-account"
+            },
+            "requirements": {
+              "verification": "出于安全需要进行身份验证",
+              "confirmation": "向注册邮箱发送确认",
+              "timeline": "在 7 个工作日内处理"
+            }
+          },
+          "questions": {
+            "title": "❓ 数据保留问题",
+            "contacts": {
+              "general": "一般问题：retention@aeonova.com",
+              "dpo": "数据保护官：dpo@aeonova.com",
+              "support": "技术支持：support@aeonova.com",
+              "legal": "法律事务：legal@aeonova.com"
+            },
+            "response": {
+              "standard": "标准咨询：5 个工作日",
+              "complex": "复杂事项：15 个工作日",
+              "urgent": "紧急请求：2 个工作日"
+            }
+          },
+          "appeals": {
+            "title": "⚖️ 申诉与投诉",
+            "process": {
+              "internal": "内部申诉：appeals@aeonova.com",
+              "external": "欧盟居民：联系你所在国家/地区的数据保护机构",
+              "timeline": "申诉回复在 30 天内",
+              "escalation": "未解决事项可进行升级处理"
+            }
+          }
+        }
+      }
+    }
+  }
+}

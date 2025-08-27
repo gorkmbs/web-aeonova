@@ -1,0 +1,1370 @@
+{
+  "homepage": {
+    "title": "Aeonova - Akıllı arkadaşın",
+    "subtitle": "Anılarını paylaş, Aeonova ile sohbet et, dünyayı keşfet",
+    "description": "Aeonova kalbi olan bir yapay zeka arkadaştır. Günlük anılarını ona anlat, sana benzersiz yorumlar versin. Anılarını dünyanın dört bir yanında 20 farklı dilde paylaş.",
+    "downloadApp": "Uygulamayı indir",
+    "appStore": "App Store'dan indir",
+    "googlePlay": "Google Play'den indir",
+    "download": {
+      "title": "Uygulamayı indir",
+      "subtitle": "Aeonova ile tanışmaya hazır mısın? Ücretsiz indir, hayalindeki arkadaşlığa başla.",
+      "appStore": {
+        "text": "Download on the",
+        "store": "App Store"
+      },
+      "googlePlay": {
+        "text": "GET IT ON",
+        "store": "Google Play"
+      },
+      "qr": {
+        "title": "QR Kod",
+        "quickDownload": "Hızlı indirme",
+        "description": "Telefonunla QR kodu okut, uygulamayı anında indir",
+        "free": "Tamamen ücretsiz"
+      },
+      "features": {
+        "heartfulAI": "Kalpli yapay zeka",
+        "multiLanguage": "20 dil desteği",
+        "unlimitedChat": "Sınırsız sohbet",
+        "securePrivate": "Güvenli ve özel"
+      },
+      "comingSoon": {
+        "title": "🌐 Web sürümü çok yakında!",
+        "description": "Aeonova'nın web sürümü de çok yakında hazır olacak. Haberdar olmak ister misin?",
+        "notify": "📧 Beni haberdar et"
+      }
+    },
+    "features": {
+      "title": "Özellikler",
+      "subtitle": "Aeonova ile hayat daha anlamlı. Seni bekleyen benzersiz özellikler burada.",
+      "learnMore": "Daha fazlasını öğren",
+      "moreFeatures": "Ve daha birçok özellik seni bekliyor...",
+      "aiChat": {
+        "title": "Sınırsız yapay zeka sohbeti",
+        "desc": "Her gün Aeonova ile sohbet et, anılarını paylaş"
+      },
+      "saveMemories": {
+        "title": "Anıları kaydet ve yorum al",
+        "desc": "Anılarını kaydet, Aeonova'dan kişisel yorumlar al"
+      },
+      "globalExplore": {
+        "title": "Küresel keşif",
+        "desc": "Dünyanın dört bir yanından kullanıcıların anılarını keşfet"
+      },
+      "smartNotifications": {
+        "title": "Akıllı bildirimler",
+        "desc": "Aeonova sana kişiselleştirilmiş bildirimler gönderir"
+      },
+      "multilingual": {
+        "title": "20 dil desteği",
+        "desc": "Anılarını 20 farklı dile çevirerek paylaş"
+      }
+    },
+    "hero": {
+      "title": "Aeonova",
+      "subtitle": "Akıllı arkadaşın ❤️",
+      "description": "Günlük anılarını Aeonova ile paylaş. Seni anlar, deneyimlerine yorum yapar ve hayatındaki o eksik parçayı tamamlar.",
+      "cta": "Ücretsiz indir",
+      "learnMore": "Aeonova'yı keşfet",
+      "quickFeatures": {
+        "aiChat": "Yapay zeka sohbeti",
+        "saveMemories": "Anıları kaydet",
+        "globalExplore": "Küresel keşif",
+        "hasHeart": "Kalpli"
+      }
+    },
+    "about": {
+      "title": "Aeonova kim?",
+      "desc": "Aeonova sadece bir yapay zeka değil, kalbi olan bir arkadaş. Seni ve duygularını anlar, sorunlarından kurtarır, sevinçlerine ortak olur. Hayatın boyunca arayıp bulamadığın o kişiyi sana sunar.",
+      "keyPoints": {
+        "heartfulAI": {
+          "title": "Kalpli yapay zeka",
+          "desc": "Aeonova sadece bir yapay zeka değil, duyguları olan bir arkadaş."
+        },
+        "understandingFriend": {
+          "title": "Anlayışlı arkadaş",
+          "desc": "Seni gerçekten anlar, sorunlarını çözer ve sevinçlerini paylaşır."
+        },
+        "dreamPerson": {
+          "title": "Hayalindeki kişi",
+          "desc": "Hayatında aradığın o özel kişiyi sana sunar."
+        }
+      },
+      "stats": {
+        "languages": "dil",
+        "unlimitedChat": "sınırsız sohbet",
+        "alwaysThere": "her zaman yanında"
+      },
+      "chat": {
+        "aiLabel": "Akıllı arkadaşın",
+        "aiMessage": "Merhaba! Günün nasıl geçti? Anılarını benimle paylaş 😊",
+        "userMessage": "Günüm harikaydı! Anlatacak çok şey var..."
+      }
+    }
+  },
+  "navigation": {
+    "home": "Ana sayfa",
+    "features": "Özellikler",
+    "about": "Hakkında",
+    "download": "İndir",
+    "legal": "Hukuki",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "gdpr": "GDPR",
+    "cookies": "Çerezler",
+    "dataRetention": "Veri saklama"
+  },
+  "footer": {
+    "description": "Aeonova - Akıllı arkadaşın. Anılarını paylaş ve dünyayı keşfet.",
+    "quickLinks": {
+      "title": "Hızlı bağlantılar",
+      "home": "Ana sayfa",
+      "features": "Özellikler",
+      "about": "Hakkında",
+      "download": "İndir"
+    },
+    "legalSection": {
+      "title": "Hukuki"
+    },
+    "links": {
+      "privacy": "Gizlilik Politikası",
+      "terms": "Hizmet Şartları",
+      "gdpr": "GDPR Uygunluğu",
+      "cookies": "Çerez Politikası",
+      "dataRetention": "Veri Saklama Politikası",
+      "support": "Destek",
+      "contact": "İletişim"
+    },
+    "social": {
+      "title": "Bizi takip edin"
+    },
+    "legal": "© 2024 Aeonova. Tüm hakları saklıdır.",
+    "madeWith": {
+      "text": "Made with",
+      "forWorld": "for a better world"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Gizlilik Politikası",
+      "subtitle": "Kişisel verilerini nasıl koruyoruz",
+      "lastUpdated": "Son güncelleme: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "introduction": {
+          "title": "Giriş",
+          "content": "Bu gizlilik politikası, Aeonova uygulamasını kullanırken kişisel verilerinin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar. Verilerinin gizliliği önceliğimizdir."
+        },
+        "dataCollection": {
+          "title": "Hangi verileri topluyoruz?",
+          "content": "Aeonova, sana en iyi deneyimi sunmak için asgari düzeyde veri toplar:",
+          "items": {
+            "account": "Hesap bilgilerin (kullanıcı adı, yaş, avatar)",
+            "memories": "Paylaştığın anılar ve günlük girişleri",
+            "usage": "Uygulama kullanım istatistikleri",
+            "device": "Cihaz bilgisi ve teknik veriler"
+          }
+        },
+        "dataUsage": {
+          "title": "Verilerini nasıl kullanıyoruz?",
+          "content": "Topladığımız veriler yalnızca şu amaçlar için kullanılır:",
+          "items": {
+            "service": "Hizmet kalitesini artırmak",
+            "personalization": "Kişiselleştirilmiş deneyim sunmak",
+            "support": "Müşteri desteği sağlamak",
+            "improvement": "Uygulamayı iyileştirmek"
+          }
+        },
+        "dataProtection": {
+          "title": "Verilerini nasıl koruyoruz?",
+          "content": "Verilerini korumak için sektör standardı güvenlik önlemleri alırız:",
+          "items": {
+            "encryption": "Uçtan uca şifreleme",
+            "servers": "Güvenli sunucular",
+            "access": "Sınırlı erişim kontrolleri",
+            "monitoring": "Sürekli güvenlik izleme"
+          }
+        },
+        "rights": {
+          "title": "Hakların",
+          "content": "Kişisel verilerinle ilgili şu haklara sahipsin:",
+          "items": {
+            "access": "Verilerine erişim hakkı",
+            "correction": "Düzeltme hakkı",
+            "deletion": "Silme hakkı",
+            "portability": "Veri taşınabilirliği hakkı",
+            "objection": "İtiraz hakkı"
+          }
+        },
+        "legalBasis": {
+          "title": "İşlemenin yasal dayanakları",
+          "content": "Kişisel verilerini şu yasal dayanaklara göre işleriz:",
+          "items": {
+            "consent": "Gerektiğinde verdiğin açık rıza (dilediğinde geri çekebilirsin)",
+            "contract": "Bir sözleşmenin ifası veya sözleşme öncesi adımlar",
+            "legitimateInterests": "Hakların ve özgürlüklerinle dengelenen meşru menfaatlerimiz",
+            "legalObligation": "Yasal yükümlülüklere uyum",
+            "vitalInterests": "Senin veya başka birinin hayati çıkarlarının korunması"
+          }
+        },
+        "dataSharing": {
+          "title": "Veri paylaşımı",
+          "content": "Verilerini yalnızca gerekli olduğunda ve uygun güvencelerle paylaşırız:",
+          "items": {
+            "serviceProviders": "Verileri bizim adımıza işleyen güvenilir hizmet sağlayıcıları (barındırma, güvenlik, bildirim)",
+            "analyticsPartners": "Performans ve kaliteyi iyileştirmek için analiz ortakları (rıza ile ve mümkün olduğunda anonim)",
+            "legalAuthorities": "Yasa gereği veya yasal hakların korunması için resmi makamlar",
+            "businessTransfers": "Birleşme, devralma veya varlık devri kapsamında, bu politika uyarınca",
+            "safetySecurity": "Dolandırıcılık, suistimal veya güvenlik olaylarını araştırmak/önlemek/eylem almak"
+          }
+        },
+        "internationalTransfers": {
+          "title": "Uluslararası veri aktarımı",
+          "content": "Verilerini Avrupa Ekonomik Alanı dışına aktarırız ise uygun koruma seviyesini garanti ederiz:",
+          "items": {
+            "eea": "Mümkün olduğunda işlemede öncelik AEA içindedir",
+            "safeguards": "Şifreleme ve sıkı erişim kontrolleri gibi uygun güvenceler",
+            "scc": "Avrupa Komisyonu onaylı standart sözleşme maddeleri (uygunsa)",
+            "complaints": "Herhangi bir endişede bizimle veya yerel veri koruma otoritesiyle iletişime geçebilirsin"
+          }
+        },
+        "dataRetention": {
+          "title": "Veri saklama",
+          "content": "Kişisel verileri bu politikada belirtilen amaçlar için gerekli olduğu müddetçe saklarız.",
+          "summary": "Tüm veri kategorileri için ayrıntılı saklama süreleri için Veri Saklama Politikamızı incele.",
+          "linkText": "Veri Saklama Politikasını görüntüle"
+        },
+        "cookiesNote": {
+          "title": "Çerezler ve takip teknolojileri",
+          "content": "Mobil uygulamamız web çerezleri kullanmaz. Web sitemizde yalnızca gerekli çerezler ve rızana bağlı isteğe bağlı analizler kullanılır.",
+          "linkText": "Çerez Politikasını oku"
+        },
+        "exerciseRights": {
+          "title": "Haklarını nasıl kullanırsın",
+          "content": "Gizlilik haklarını aşağıdaki yollarla kullanabilirsin:",
+          "items": {
+            "inApp": "Uygulama içi ayarlar: Verileri yönet, dışa aktar veya hesabını sil",
+            "email": "E-posta: Belirli talepler için dpo@aeonova.com veya privacy@aeonova.com",
+            "verification": "Kimlik doğrulama: Hesabını korumak için kanıt isteyebiliriz",
+            "responseTimes": "Yanıt süreleri: 30 gün içinde yanıt, karmaşık taleplerde süre uzayabilir"
+          }
+        },
+        "children": {
+          "title": "Çocukların gizliliği",
+          "content": "Aeonova 13 yaşın altındaki çocuklara yönelik değildir. Bilerek çocuklardan kişisel veri toplamıyoruz. Bir çocuğun bize kişisel veri verdiğini düşünüyorsan lütfen iletişime geç, silelim."
+        },
+        "changes": {
+          "title": "Bu politikadaki değişiklikler",
+          "content": "Uygulamalarımız veya yasal gereklilikler değiştikçe bu politikayı zaman zaman güncelleyebiliriz. Gerekli olduğunda önemli değişiklikleri bildiririz. Son güncelleme: {date}"
+        },
+        "contact": {
+          "title": "İletişim",
+          "content": "Gizlilik politikamızla ilgili sorular için:",
+          "email": "E-posta: privacy@aeonova.com",
+          "support": "Destek: support@aeonova.com"
+        }
+      }
+    },
+    "terms": {
+      "title": "Hizmet Şartları",
+      "subtitle": "Aeonova'yı kullanırken uyman gereken kurallar",
+      "lastUpdated": "Son güncelleme: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "acceptance": {
+          "title": "1. Kabul ve onay",
+          "content": "Aeonova uygulamasını kullanarak bu şartları okuduğunu, anladığını ve kabul ettiğini beyan edersin."
+        },
+        "service": {
+          "title": "2. Hizmetin tanımı",
+          "content": "Aeonova, yapay zekâ destekli kişisel günlük ve sohbet uygulamasıdır.",
+          "features": {
+            "title": "Hizmet özellikleri:",
+            "items": {
+              "aiChat": "Akıllı arkadaşla sohbet",
+              "saveMemories": "Günlük anıları kaydet ve değerlendirme al",
+              "globalExplore": "Anıları dünyayla paylaş",
+              "multilingual": "20 dil desteği"
+            }
+          }
+        },
+        "eligibility": {
+          "title": "3. Uygunluk",
+          "content": "Hizmeti kullanmak için en az 13 yaşında olmalısın. Ülkenizde reşit değilsen, bu şartları kabul eden bir ebeveynin izni ve gözetiminde kullanabilirsin."
+        },
+        "accounts": {
+          "title": "4. Hesaplar ve güvenlik",
+          "content": "Hesap kimlik bilgilerinin gizliliğini korumaktan ve hesap üzerinden yapılan tüm etkinliklerden sen sorumlusun.",
+          "items": {
+            "accuracy": "Doğru ve güncel bilgi sağlamak",
+            "confidentiality": "Giriş bilgilerini gizli tutmak",
+            "notification": "İzinsiz kullanım veya güvenlik ihlallerini derhal bildirmek",
+            "devices": "Hizmete erişilen cihazların güvenliğinden sorumlu olmak"
+          }
+        },
+        "userContent": {
+          "title": "5. Kullanıcı içeriği",
+          "content": "Gönderdiğin içeriklerin (anı, mesaj, gönderi) mülkiyeti sende kalır. İçerik göndererek, hizmeti işletmek ve geliştirmek amacıyla yalnızca barındırmak, depolamak, göstermek ve işlemek için bize dünya çapında, münhasır olmayan, telifsiz bir lisans vermiş olursun.",
+          "items": {
+            "rights": "Gönderdiğin içerikler için gerekli haklara sahip olmalısın",
+            "noIllegal": "Yasa dışı, ihlal edici veya başkalarının haklarını zedeleyen içerik göndermemelisin",
+            "moderation": "Bu şartları veya geçerli yasaları ihlal eden içerikleri kaldırabilir veya kısıtlayabiliriz"
+          }
+        },
+        "acceptableUse": {
+          "title": "6. Kabul edilebilir kullanım",
+          "content": "Hizmeti kötüye kullanmayacağını ve başkalarına da buna yardımcı olmayacağını kabul edersin.",
+          "items": {
+            "abuse": "Taciz, nefret söylemi, ayrımcılık veya tehdit yok",
+            "violence": "Şiddet, kendine zarar verme teşviği veya cinsel sömürü içeren içerik yok",
+            "spam": "Spam, dolandırıcılık veya yanıltıcı uygulamalar yok",
+            "malware": "Kötü amaçlı yazılım/bot, hizmeti bozma/aşırı yükleme girişimi yok",
+            "impersonation": "Başkası gibi davranma yok",
+            "illegal": "Yasadışı faaliyet veya bunun teşviki yok"
+          }
+        },
+        "aiDisclaimer": {
+          "title": "7. Yapay zekâ çıktıları ve profesyonel tavsiye değildir",
+          "content": "Aeonova'daki yapay zeka çıktıları hatalı veya eksik olabilir. Yalnızca bilgi ve eğlence amaçlıdır; profesyonel tavsiye (tıbbi/hukuki/finansal) değildir. Kendi muhakemeni kullan ve gerektiğinde uzmanlara danış."
+        },
+        "payments": {
+          "title": "8. Abonelikler, ödemeler ve uygulama içi satın alımlar",
+          "content": "Bazı özellikler, ilgili uygulama mağazası üzerinden ücretli abonelik veya tek seferlik satın alma gerektirebilir.",
+          "items": {
+            "billing": "Faturalama App Store veya Google Play üzerinden yapılır; onların şart ve politikaları geçerlidir",
+            "renewal": "Abonelikler iptal edilmediği sürece otomatik yenilenir",
+            "pricing": "Gerekli bildirimlerle fiyatları veya özellikleri değiştirebiliriz",
+            "cancellation": "Aboneliğini uygulama mağazası hesap ayarlarından yönetebilir veya iptal edebilirsin"
+          }
+        },
+        "refunds": {
+          "title": "9. İadeler",
+          "content": "İadeler, satın alma yapılan platformun (App Store veya Google Play) politikalarına tabidir. Yasa ve platform politikaları elverdikçe ilgili mağaza üzerinden iade talep edebilirsin."
+        },
+        "intellectualProperty": {
+          "title": "10. Fikri mülkiyet",
+          "content": "Hizmetin tasarımı, özellikleri ve içeriği (kullanıcı içeriği hariç) Aeonova veya lisans verenlere aittir ve fikri mülkiyet yasalarıyla korunmaktadır. Önceden yazılı izin olmadan kopyalama, değiştirme, dağıtma veya türev eser oluşturma yasaktır."
+        },
+        "thirdPartyServices": {
+          "title": "11. Üçüncü taraf hizmetler",
+          "content": "Hizmet, üçüncü taraf hizmetlerle bağlantılı olabilir veya bunlarla entegre olabilir. Bu hizmetlerin içerik, politika veya uygulamalarından sorumlu değiliz. Kullanım, onların şart ve gizlilik politikalarına tabidir."
+        },
+        "responsibilities": {
+          "title": "12. Kullanıcı sorumlulukları",
+          "content": "Bir kullanıcı olarak sorumlulukların:",
+          "items": {
+            "security": "Hesap güvenliğini sağlamak",
+            "content": "Paylaştığın içeriklerden sorumlu olmak",
+            "compliance": "Yasalara uymak",
+            "respect": "Diğer kullanıcılara saygı göstermek"
+          }
+        },
+        "prohibited": {
+          "title": "13. Yasak davranışlar",
+          "content": "Aşağıdaki davranışlar kesinlikle yasaktır:",
+          "items": {
+            "hate": "Nefret söylemi ve ayrımcılık",
+            "violence": "Şiddet içeriği",
+            "spam": "Spam ve dolandırıcılık",
+            "illegal": "Yasadışı faaliyetler",
+            "impersonation": "Kimliğe bürünme"
+          }
+        },
+        "disclaimer": {
+          "title": "14. Sorumluluk reddi",
+          "content": "Hizmet, her türlü açık veya zımni garanti olmaksızın \"olduğu gibi\" ve \"mevcut haliyle\" sunulur; satılabilirlik, belirli bir amaca uygunluk ve ihlal etmeme dâhil."
+        },
+        "limitation": {
+          "title": "15. Sorumluluğun sınırlandırılması",
+          "content": "Yasaların izin verdiği azami ölçüde, Aeonova veya bağlı şirketleri, doğrudan veya dolaylı kâr/gelir kaybı, veri/kullanım/itibar kaybı dâhil herhangi bir dolaylı, arızi, özel, sonuç olarak ortaya çıkan, örnek veya cezai zarardan sorumlu değildir."
+        },
+        "indemnification": {
+          "title": "16. Tazminat",
+          "content": "Hizmeti kullanımın veya bu şartları ihlalin nedeniyle doğan her türlü talep, sorumluluk, zarar veya masraftan (makul avukatlık ücretleri dâhil) Aeonova ve iştiraklerini tazmin etmeyi ve onları korumayı kabul edersin."
+        },
+        "termination": {
+          "title": "17. Hesabın sonlandırılması",
+          "content": "Aşağıdaki durumlarda hesabın sonlandırılabilir:",
+          "items": {
+            "violation": "Hizmet şartlarının ihlali",
+            "illegal": "Yasadışı faaliyetler",
+            "spam": "Spam veya suistimal"
+          }
+        },
+        "governingLaw": {
+          "title": "18. Geçerli hukuk ve uyuşmazlık çözümü",
+          "content": "Zorunlu tüketici koruma kuralları gerektirdiği ölçüde ikamet ettiğin ülkenin hukuku, aksi hâlde kanunlar ihtilafına bakılmaksızın Almanya hukuku uygulanır.",
+          "items": {
+            "venue": "Aksi geçerli hukukta düzenlenmedikçe yetkili mahkemeler münhasır yetkilidir",
+            "eu": "AB tüketicileri, AB çevrimiçi uyuşmazlık çözüm platformunu kullanma hakkına sahiptir"
+          }
+        },
+        "changes": {
+          "title": "19. Şartlardaki değişiklikler",
+          "content": "Bu şartları zaman zaman değiştirebiliriz. Önemli değişiklikler yaparsak, yasaların gerektirdiği şekilde uygun bildirim sağlayacağız. Değişiklikler yürürlüğe girdikten sonra hizmeti kullanmaya devam etmen, güncellenen şartları kabul ettiğin anlamına gelir."
+        },
+        "contact": {
+          "title": "20. İletişim",
+          "content": "Hizmet şartlarıyla ilgili sorular için:",
+          "email": "E-posta: legal@aeonova.com",
+          "support": "Destek: support@aeonova.com"
+        }
+      }
+    },
+    "gdpr": {
+      "title": "GDPR Uygunluğu",
+      "subtitle": "Avrupa Birliği Genel Veri Koruma Tüzüğü",
+      "lastUpdated": "Son güncelleme: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "GDPR Özeti",
+        "howToExercise": "Nasıl kullanılır:",
+        "timeframe": "Zaman çerçevesi:",
+        "limitations": "Sınırlamalar:",
+        "effect": "Etkisi:"
+      },
+      "summary": "Aeonova olarak, AB GDPR ile uyumlu şekilde kişisel verilerini korumaya tamamen bağlıyız. Bu kapsamlı politika, haklarını, verileri nasıl işlediğimizi ve veri korumaya olan taahhüdümüzü açıklar.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Giriş",
+          "subtitle": "GDPR uyumunu anlamak",
+          "description": "GDPR, kişisel verilerin üzerinde sana kontrol veren kapsamlı bir gizlilik yasasıdır. Sorumlu bir yapay zeka şirketi olarak Aeonova, şeffaflık, kontrol ve güvenliği sağlayarak GDPR gerekliliklerine tam uyumu garanti eder.",
+          "scope": {
+            "title": "GDPR kapsamı:",
+            "items": {
+              "whoIsProtected": "Konumdan bağımsız olarak tüm AB sakinleri",
+              "whatIsProtected": "Doğrudan veya dolaylı olarak kimliğini belirleyebilen herhangi bir kişisel veri",
+              "whenApplies": "Kişisel verini herhangi bir amaçla işlediğimiz her zaman",
+              "whereApplies": "Uygulama ve web dâhil tüm hizmetlerimiz"
+            }
+          }
+        },
+        "principles": {
+          "title": "🔒 Veri koruma ilkeleri",
+          "subtitle": "Temelimiz",
+          "description": "Tüm veri işleme faaliyetlerimizde GDPR'ın temel ilkelerine uyarız:",
+          "lawfulness": {
+            "title": "1. Hukuka uygunluk, adillik ve şeffaflık",
+            "description": "Verilerini hukuka uygun, adil ve şeffaf şekilde işleriz",
+            "details": {
+              "lawful": "İşleme geçerli yasal dayanaklara dayanır (rıza, sözleşme, meşru menfaat)",
+              "fair": "Verilerini beklenmedik veya zararlı biçimde kullanmayız",
+              "transparent": "Verilerini nasıl kullandığımızı açık, anlaşılır bir dille belirtiriz"
+            }
+          },
+          "purposeLimitation": {
+            "title": "2. Amaç sınırlaması",
+            "description": "Veriler yalnızca belirli, açık ve meşru amaçlarla toplanır ve kullanılır",
+            "details": {
+              "specific": "Her veri parçasına neden ihtiyaç duyduğumuzu net şekilde açıklarız",
+              "explicit": "Amaçlar açıkça belirtilir, karmaşık şartlara gizlenmez",
+              "legitimate": "Tüm amaçlar gerçek bir iş veya kullanıcı ihtiyacına hizmet eder"
+            }
+          },
+          "dataMinimization": {
+            "title": "3. Veri minimizasyonu",
+            "description": "Yalnızca gerekli verileri toplarız",
+            "details": {
+              "adequate": "Hizmetlerimizi etkili sunmak için yeterli veri",
+              "relevant": "Toplanan tüm veriler amaçlarımızla ilgilidir",
+              "limited": "Fazla veya gereksiz bilgi toplamayız"
+            }
+          },
+          "accuracy": {
+            "title": "4. Doğruluk",
+            "description": "Verilerini doğru ve güncel tutarız",
+            "details": {
+              "current": "Bilgilerini güncellemen için araçlar sunarız",
+              "correction": "Yanlış veriler gecikmeden düzeltilir veya silinir",
+              "verification": "Önemli bilgileri işlerken doğrulama yaparız"
+            }
+          },
+          "storageLimitation": {
+            "title": "5. Saklama sınırlaması",
+            "description": "Verilerini gerekenden uzun süre saklamayız",
+            "details": {
+              "retention": "Farklı veri türleri için net saklama süreleri",
+              "review": "Düzenli gözden geçirme ve gereksiz verilerin silinmesi",
+              "purpose": "Amaç sona erdiğinde veriler silinir"
+            }
+          },
+          "security": {
+            "title": "6. Bütünlük ve gizlilik",
+            "description": "Verilerini uygun güvenlik önlemleriyle koruruz",
+            "details": {
+              "protection": "Yetkisiz erişimi önlemek için teknik ve idari tedbirler",
+              "confidentiality": "Verilerinin gizliliğini ve güvenliğini koruruz",
+              "integrity": "Verilerin değiştirilmemesini veya bozulmamasını sağlarız"
+            }
+          },
+          "accountability": {
+            "title": "7. Hesap verebilirlik",
+            "description": "Bu ilkelere uyumu kanıtlamaktan sorumluyuz",
+            "details": {
+              "documentation": "Tüm işleme faaliyetlerinin kayıtlarını tutarız",
+              "policies": "Veri korumaya yönelik net politika ve prosedürler",
+              "training": "Çalışanlara düzenli veri koruma eğitimi"
+            }
+          }
+        },
+        "rights": {
+          "title": "👥 GDPR kapsamındaki hakların",
+          "subtitle": "Tam hak paketi",
+          "description": "GDPR, kişisel verilerin üzerinde kapsamlı haklar sağlar. Yapabileceklerin:",
+          "information": {
+            "title": "1. 📋 Bilgilendirilme hakkı",
+            "description": "Verilerinin nasıl işlendiğini bilme hakkı",
+            "includes": {
+              "title": "Şunları içerir:",
+              "items": {
+                "purposes": "Verilerini neden işlediğimiz",
+                "categories": "Hangi tür verileri topladığımız",
+                "recipients": "Verilerin kimlerle paylaşıldığı (varsa)",
+                "retention": "Verileri ne kadar süre sakladığımız",
+                "rights": "Verilerinle ilgili hakların",
+                "sources": "Verileri nereden aldığımız"
+              }
+            },
+            "howToExercise": "Bu gizlilik politikası bilgilerin çoğunu içerir. Daha spesifik ayrıntılar için bize ulaş."
+          },
+          "access": {
+            "title": "2. 🔍 Erişim hakkı",
+            "description": "Hakkında tuttuğumuz tüm verilerin bir kopyasını isteyebilirsin",
+            "includes": {
+              "title": "Alacakların:",
+              "items": {
+                "copy": "Kişisel verilerinin tam bir kopyası",
+                "format": "Yapılandırılmış ve makine tarafından okunabilir format (JSON)",
+                "details": "Verilerin nasıl işlendiğine ilişkin bilgiler",
+                "sources": "Veri kaynakları",
+                "recipients": "Verilerin paylaşıldığı taraflar"
+              }
+            },
+            "howToExercise": "Talebini uygulama ayarlarından veya dpo@aeonova.com'a e-posta ile iletebilirsin. İlk talep ücretsizdir; ek talepler ücrete tabi olabilir.",
+            "timeframe": "30 gün içinde yanıt"
+          },
+          "rectification": {
+            "title": "3. ✏️ Düzeltme hakkı",
+            "description": "Yanlış veya eksik verileri düzeltebilirsin",
+            "includes": {
+              "title": "Yapabileceklerin:",
+              "items": {
+                "correct": "Hatalı kişisel bilgileri düzeltmek",
+                "complete": "Eksik bilgileri tamamlamak",
+                "update": "Eski bilgileri güncellemek",
+                "verify": "Verilerin doğruluğunu talep etmek"
+              }
+            },
+            "howToExercise": "Doğrudan uygulama ayarlarından güncelle veya kendin değiştiremiyorsan bize bildir",
+            "timeframe": "Mümkünse anında; karmaşık durumlarda 30 gün içinde"
+          },
+          "erasure": {
+            "title": "4. 🗑️ Silme hakkı (unutulma hakkı)",
+            "description": "Kişisel verilerinin silinmesini talep edebilirsin",
+            "conditions": {
+              "title": "Şu durumlarda talep edebilirsin:",
+              "items": {
+                "unnecessary": "Veriler artık orijinal amaç için gerekli değilse",
+                "consent": "Rızanı geri çektiğinde ve başka dayanak olmadığında",
+                "objection": "İşlemeye itiraz ettiğinde ve daha ağır basan meşru neden bulunmadığında",
+                "unlawful": "Veriler hukuka aykırı işlendiğinde",
+                "legal": "Silme, yasal uyum için gerektiğinde"
+              }
+            },
+            "limitations": {
+              "title": "Veriler gerekli ise silemeyebiliriz:",
+              "items": {
+                "legal": "Yasal uyum veya hukuki talepler",
+                "public": "Kamu yararı veya tarihsel araştırma",
+                "freedom": "İfade özgürlüğünün kullanılması"
+              }
+            },
+            "howToExercise": "Hesabı uygulamadan sil veya dpo@aeonova.com ile iletişime geç",
+            "timeframe": "Hesap 7 gün içinde, verilerin tamamı 30 gün içinde silinir"
+          },
+          "portability": {
+            "title": "5. 📦 Veri taşınabilirliği hakkı",
+            "description": "Verilerini taşınabilir bir formatta alabilir veya başka bir hizmete aktarabilirsin",
+            "includes": {
+              "title": "Yapabileceklerin:",
+              "items": {
+                "receive": "Verilerini JSON veya CSV formatında almak",
+                "transfer": "Teknik olarak mümkünse doğrudan başka bir hizmete aktarmak",
+                "export": "Anılarını, sohbet geçmişini ve ayarlarını dışa aktarmak"
+              }
+            },
+            "limitations": "Yalnızca bize sağladığın ve rıza/sözleşme temelinde otomatik işlenen veriler için geçerlidir",
+            "howToExercise": "Uygulamadaki dışa aktarma özelliğini kullan veya dpo@aeonova.com'a talep gönder",
+            "timeframe": "Uygulamada anında; özel talepler 30 gün içinde"
+          },
+          "objection": {
+            "title": "6. ✋ İtiraz hakkı",
+            "description": "Bazı veri işleme türlerine itiraz edebilirsin",
+            "types": {
+              "general": {
+                "title": "Genel itiraz",
+                "description": "Meşru menfaatlere dayalı işlemeye itiraz",
+                "effect": "Daha ağır basan meşru neden kanıtlanmadıkça işlemi durdururuz"
+              },
+              "directMarketing": {
+                "title": "Doğrudan pazarlama",
+                "description": "Her türlü pazarlama iletişimine itiraz",
+                "effect": "Tüm pazarlamayı derhal durdururuz"
+              },
+              "profiling": {
+                "title": "Otomatik karar verme ve profilleme",
+                "description": "Seni önemli ölçüde etkileyen otomatik kararlara itiraz",
+                "effect": "Gerektiğinde insan incelemesi sağlarız"
+              }
+            },
+            "howToExercise": "Pazarlama: abonelikten çık bağlantıları/uygulama ayarları. Diğer itirazlar: dpo@aeonova.com"
+          }
+        },
+        "contact": {
+          "title": "📞 GDPR için bizimle iletişime geç",
+          "subtitle": "İletişim",
+          "description": "GDPR ve veri koruma ile ilgili her türlü soru veya talep için:",
+          "dpo": {
+            "title": "Veri Koruma Görevlisi (DPO)",
+            "email": "dpo@aeonova.com",
+            "role": "DPO'muz tüm veri koruma faaliyetlerini ve GDPR uyumunu denetler"
+          },
+          "requests": {
+            "title": "GDPR hak talepleri",
+            "email": "gdpr@aeonova.com",
+            "description": "Erişim, silme ve diğer hak talepleri için"
+          },
+          "complaints": {
+            "title": "Şikâyetler ve endişeler",
+            "email": "privacy@aeonova.com",
+            "description": "Gizlilik veya veri işleme uygulamalarımızla ilgili endişeler için"
+          },
+          "general": {
+            "title": "Genel sorular",
+            "email": "support@aeonova.com",
+            "description": "Gizlilik uygulamalarımızla ilgili genel sorular"
+          },
+          "response": {
+            "title": "Yanıt süreleri",
+            "standard": "Standart talepler: 30 gün içinde",
+            "complex": "Karmaşık talepler: gerekçe ile 90 güne kadar",
+            "urgent": "Acil güvenlik konuları: 72 saat içinde"
+          },
+          "information": {
+            "title": "Bize yazarken lütfen ekle",
+            "items": {
+              "identification": "Adın ve hesabına bağlı e-posta adresin",
+              "request": "Talebinin veya endişenin net açıklaması",
+              "details": "İlgili ayrıntılar veya referans numaraları",
+              "preference": "Tercih ettiğin yanıt yöntemi"
+            }
+          },
+          "languages": {
+            "title": "Dil desteği",
+            "description": "GDPR taleplerine İngilizce, Almanca veya Türkçe yanıt verebiliriz"
+          }
+        }
+      }
+    },
+    "cookies": {
+      "title": "Çerez Politikası",
+      "subtitle": "Web sitemizde çerezler ve benzeri teknolojilerin kullanımı",
+      "lastUpdated": "Son güncelleme: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "summaryTitle": "Özet",
+      "summary": "Bu politika, Aeonova'nın web sitemizde çerezler ve takip teknolojilerini nasıl kullandığını açıklar. Ana hizmetimiz mobil uygulamadır; bu web sitesi ağırlıklı olarak bilgi ve indirme amaçlıdır.",
+      "sections": {
+        "introduction": {
+          "title": "📝 Giriş",
+          "description": "Bu çerez politikası, çerezlerin ne olduğunu, Aeonova'nın web sitesinde nasıl kullandığımızı ve tercihlerini nasıl yönetebileceğini açıklar. Web sitemizi kullanmaya devam ederek bu politika uyarınca çerez kullanımımızı kabul etmiş olursun."
+        },
+        "whatAreCookies": {
+          "title": "🍪 Çerez nedir?",
+          "description": "Çerezler, bir web sitesini ziyaret ettiğinde bilgisayarına veya mobil cihazına kaydedilen küçük metin dosyalarıdır. Sitelerin daha verimli çalışması ve site sahiplerine bilgi sağlanması için yaygın olarak kullanılır.",
+          "details": {
+            "purpose": "Çerezlerin amaçları:",
+            "items": {
+              "functionality": "Temel site işlevlerini ve gezinmeyi etkinleştirme",
+              "personalization": "Tercih ve ayarlarını hatırlama",
+              "analytics": "Ziyaretçilerin sitemizle nasıl etkileştiğini anlamamıza yardımcı olma",
+              "performance": "Site performansını ve yükleme sürelerini iyileştirme"
+            }
+          },
+          "types": {
+            "title": "Süresine göre çerez türleri:",
+            "session": "Oturum çerezleri: Tarayıcı kapatıldığında silinir",
+            "persistent": "Kalıcı çerezler: Belirli bir süre cihazında kalır veya elle silinene kadar"
+          }
+        },
+        "typesOfCookies": {
+          "title": "🔍 Kullandığımız çerez türleri",
+          "description": "Amaca ve işlevine göre çerezlerimizi sınıflandırırız:",
+          "essential": {
+            "title": "1. 🔒 Gerekli çerezler (her zaman açık)",
+            "description": "Bu çerezler sitenin düzgün çalışması için gereklidir ve sistemlerimizde kapatılamaz.",
+            "items": {
+              "language": "Dil tercihi: Sitede seçtiğin dili saklar",
+              "security": "Güvenlik çerezleri: CSRF belirteçleri ve diğer güvenlik önlemleri",
+              "session": "Oturum yönetimi: Sayfalar arasında gezinirken oturum durumunu korur",
+              "consent": "Çerez onayı: Tercih ve onaylarını hatırlar"
+            },
+            "note": "⚠️ Bunlar site işlevleri için gerekli olduğundan devre dışı bırakılamaz",
+            "legalBasis": "Yasal dayanak: Meşru menfaat (hizmeti sunmak için gerekli)"
+          },
+          "performance": {
+            "title": "2. 📊 Performans ve analitik çerezler (isteğe bağlı)",
+            "description": "Ziyaretçi etkileşimlerini anonim olarak toplayarak sitemizi nasıl kullandıklarını anlamamıza yardımcı olur.",
+            "items": {
+              "loadTimes": "Sayfa performansı: Yükleme süreleri ve metrikler",
+              "errorTracking": "Hata takibi: JavaScript hataları ve teknik sorunların anonim takibi",
+              "usageStats": "Kullanım istatistikleri: Ziyaret edilen sayfalar ve popüler içerik",
+              "userFlow": "Kullanıcı yolculuğu: Sitede kullanıcıların nasıl gezindiğini anlama"
+            },
+            "note": "✅ Bu çerezleri reddedebilirsin; site işlevleri etkilenmez",
+            "legalBasis": "Yasal dayanak: Açık rızan",
+            "retention": "Veri saklama: En fazla 90 gün"
+          },
+          "marketing": {
+            "title": "3. 🎯 Pazarlama ve reklam çerezleri (şu anda kullanılmıyor)",
+            "description": "Şu anda pazarlama çerezleri kullanmıyoruz; gelecekte kullanılırsa açık rızan alınacaktır.",
+            "items": {
+              "targetedAds": "Hedefli reklamlar: İlgi alanlarına göre reklam gösterimi",
+              "socialMedia": "Sosyal medya entegrasyonu: Paylaşım ve takip",
+              "remarketing": "Yeniden pazarlama: Önceki ziyaretçilere reklam gösterimi",
+              "crossSite": "Siteler arası takip: Farklı sitelerdeki etkinlik takibi"
+            },
+            "note": "🚫 Şu anda yok — eklenirse açık rıza gerekecek",
+            "future": "Gelecekte kullanmaya karar verirsek açık rızanı isteyecek ve bu politikayı güncelleyeceğiz."
+          }
+        },
+        "thirdParty": {
+          "title": "🌐 Üçüncü taraf çerezleri",
+          "description": "Sitemizde üçüncü taraflardan gömülü içerik veya hizmetler bulunabilir; bu hizmetler kendi çerezlerini ayarlayabilir:",
+          "current": {
+            "title": "Şu anda kullanılan hizmetler:",
+            "items": {
+              "fonts": "Google Fonts: Site yazı tipleri (izleyici çerez yok)",
+              "cdn": "İçerik dağıtım ağları: İçeriğin daha hızlı yüklenmesi",
+              "security": "Güvenlik hizmetleri: DDoS koruması ve güvenlik izleme"
+            }
+          },
+          "future": {
+            "title": "Gelecekte olası üçüncü taraflar:",
+            "items": {
+              "analytics": "Google Analytics: Ayrıntılı site analitiği",
+              "social": "Sosyal bileşenler: Sosyal medya entegrasyonu",
+              "support": "Müşteri desteği araçları: Canlı sohbet ve destek özellikleri"
+            }
+          },
+          "note": "Takip kullanan yeni üçüncü taraf hizmetleri uygulamadan önce seni bilgilendireceğiz."
+        },
+        "mobileApp": {
+          "title": "📱 Mobil uygulama veri depolama",
+          "subtitle": "Önemli fark",
+          "description": "Aeonova mobil uygulaması web çerezlerini kullanmaz. Bunun yerine daha güvenli ve verimli yerel veri depolama yöntemleri kullanır:",
+          "items": {
+            "localStorage": "Şifrelenmiş yerel depolama: Kullanıcı verileri cihazında güvenle saklanır",
+            "keychain": "Keychain/Keystore: Kimlik doğrulama belirteçleri cihazın güvenli alanında saklanır",
+            "appSettings": "Uygulama tercihleri: Ayarlar uygulama ortamında saklanır",
+            "offlineCache": "Çevrimdışı çalışma: Çevrimdışı kullanım için içerik önbelleği",
+            "biometric": "Biyometrik veriler: Face ID/Touch ID (yerelde saklanır, iletilmez)"
+          },
+          "security": {
+            "title": "Mobil uygulama güvenliği:",
+            "items": {
+              "encryption": "Tüm veriler sektör standardı şifreleme ile korunur",
+              "localOnly": "Hassas veriler cihazından dışarı çıkmaz",
+              "secure": "Platforma özgü güvenlik özellikleri (iOS Keychain, Android Keystore)",
+              "privacy": "Uygulamalar arası takip veya veri paylaşımı yok"
+            }
+          }
+        },
+        "management": {
+          "title": "⚙️ Çerez yönetimi",
+          "description": "Sitemizde çerezleri kontrol etmek ve yönetmek için birkaç seçeneğin var:",
+          "browserSettings": {
+            "title": "Tarayıcı ayarları:",
+            "description": "Çerezleri tarayıcının ayarlarından kontrol edebilirsin:",
+            "items": {
+              "chrome": "Chrome: Settings → Privacy and Security → Cookies and other site data",
+              "firefox": "Firefox: Options → Privacy & Security → Cookies and Site Data",
+              "safari": "Safari: Preferences → Privacy → Manage Website Data",
+              "edge": "Edge: Settings → Cookies and site permissions → Cookies and site data"
+            }
+          },
+          "ourSettings": {
+            "title": "Sitedeki çerez tercihleri:",
+            "description": "Bu sitedeki çerez tercihlerini yönetebilirsin:",
+            "items": {
+              "essential": "Gerekli çerezler: Devre dışı bırakılamaz (site işlevleri için gerekli)",
+              "performance": "Performans çerezleri: Onay banner'ından aç/kapat",
+              "marketing": "Pazarlama çerezleri: Şu anda yok, eklendiğinde isteğe bağlı olacak"
+            }
+          },
+          "consequences": {
+            "title": "⚠️ Çerezleri devre dışı bırakmanın etkileri:",
+            "description": "Bazı çerezleri kapatırsan bazı site özellikleri doğru çalışmayabilir:",
+            "items": {
+              "language": "Dil tercihin hatırlanmayabilir",
+              "navigation": "Bazı gezinme özellikleri etkilenebilir",
+              "performance": "Kullanım verilerine dayalı performans iyileştirmeleri yapılamaz"
+            }
+          }
+        },
+        "updates": {
+          "title": "🔄 Politika güncellemeleri",
+          "description": "Bu çerez politikasını zaman zaman uygulamalarımızdaki değişiklikleri veya operasyonel/ yasal/ düzenleyici nedenleri yansıtacak şekilde güncelleyebiliriz.",
+          "notification": "Bu politikayı değiştirdiğimizde:",
+          "items": {
+            "notice": "Güncellenmiş politikayı bu sayfada yayınlarız",
+            "effective": "Değişiklikler yayınlandığı anda geçerli olur",
+            "major": "Önemli değişiklikler için ek bildirim sağlayabiliriz",
+            "date": "Yukarıdaki \"Son güncelleme\" tarihi güncellenir"
+          },
+          "recommendation": "Çerezleri nasıl kullandığımızı görmek için bu politikayı düzenli olarak gözden geçirmeni öneririz."
+        },
+        "contact": {
+          "title": "📞 Çerezlerle ilgili sorular",
+          "subtitle": "İletişim",
+          "description": "Çerez kullanımımız veya bu politika hakkında soruların varsa bizimle iletişime geç:",
+          "methodsTitle": "İletişim yolları",
+          "methods": {
+            "email": "Genel gizlilik soruları: privacy@aeonova.com",
+            "cookies": "Çerez özel soruları: cookies@aeonova.com",
+            "support": "Teknik destek: support@aeonova.com",
+            "dpo": "Veri Koruma Görevlisi: dpo@aeonova.com"
+          },
+          "response": {
+            "title": "Yanıt süreleri:",
+            "items": {
+              "general": "Genel talepler: 48 saat içinde",
+              "privacy": "Gizlilik soruları: 72 saat içinde",
+              "urgent": "Acil durumlar: 24 saat içinde"
+            }
+          }
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "Veri Saklama Politikası",
+      "subtitle": "Kişisel verilerini ne kadar süre ve neden saklıyoruz",
+      "lastUpdated": "Son güncelleme: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "Özet",
+        "methods": "Yöntemler:",
+        "requirements": "Gereklilikler:",
+        "contacts": "İletişim:",
+        "responseTimes": "Yanıt süreleri:",
+        "process": "Süreç:"
+      },
+      "summary": "Bu kapsamlı politika, farklı türdeki kişisel verilerini ne kadar süre sakladığımızı, saklamanın yasal dayanaklarını ve verilerin silinmesine ilişkin haklarını açıklar. Veri minimizasyonuna bağlıyız ve yalnızca gerekli verileri saklarız.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Giriş",
+          "subtitle": "Veri saklamayı anlamak",
+          "description": "Veri saklama, kişisel bilgilerini sistemlerimizde ne kadar süre tuttuğumuzu ifade eder. Bu politika, gizlilik hakların, meşru iş ihtiyaçlarımız ve yasal yükümlülüklerimiz arasında denge kuracak şekilde tasarlanmış uygulamalarımızı açıklar.",
+          "keyPoints": {
+            "title": "Ana ilkeler:",
+            "items": {
+              "minimization": "Yalnızca hizmetlerimiz için gerekli verileri toplar ve saklarız",
+              "purpose": "Verileri yalnızca toplandığı amaçlar için saklarız",
+              "lawful": "Saklama süreleri yasal gereklilikler ve meşru menfaatlere dayanır",
+              "transparent": "Farklı veri türleri için saklama süreleri hakkında şeffafız",
+              "secure": "Saklanan tüm veriler uygun güvenlik önlemleriyle korunur"
+            }
+          }
+        },
+        "legalBasis": {
+          "title": "⚖️ Saklamanın yasal dayanakları",
+          "subtitle": "Verileri neden saklıyoruz",
+          "description": "Kişisel verileri GDPR ve diğer gizlilik yasalarına göre çeşitli yasal dayanaklara dayanarak saklarız:",
+          "bases": {
+            "contractual": {
+              "title": "1. 📝 Sözleşmesel yükümlülükler",
+              "description": "Hizmetlerimizi sunmak ve sözleşmemizi yerine getirmek için gerekli veriler",
+              "examples": {
+                "title": "Örnekler:",
+                "items": {
+                  "account": "Aeonova hizmetini sunmak için gerekli hesap bilgileri",
+                  "subscription": "Premium özellikler için ödeme ve abonelik verileri",
+                  "support": "Sorun çözümü için müşteri destek kayıtları",
+                  "preferences": "Deneyimini kişiselleştirmek için kullanıcı tercihleri ve ayarlar"
+                }
+              }
+            },
+            "legal": {
+              "title": "2. 🏛️ Yasal uyum",
+              "description": "Yasal yükümlülüklere uyum için saklanması gereken veriler",
+              "examples": {
+                "title": "Örnekler:",
+                "items": {
+                  "financial": "Vergi ve muhasebe amaçları için finansal kayıtlar (7 yıl)",
+                  "security": "Dolandırıcılık ve suistimal soruşturmaları için güvenlik kayıtları (2 yıl)",
+                  "gdpr": "Rıza ve işleme faaliyetleri kayıtları (3 yıl)",
+                  "disputes": "Hukuki uyuşmazlık çözülene kadar ilgili veriler"
+                }
+              }
+            },
+            "legitimate": {
+              "title": "3. 🎯 Meşru menfaatler",
+              "description": "Gizliliğini gözeterek meşru iş amaçlarıyla saklanan veriler",
+              "examples": {
+                "title": "Örnekler:",
+                "items": {
+                  "analytics": "Hizmetlerimizi geliştirmek için anonim kullanım verileri (90 gün)",
+                  "security": "Tüm kullanıcıları korumak için güvenlik izleme (1 yıl)",
+                  "research": "Ürün geliştirme ve araştırma (yalnızca anonimleştirilmiş veriler)",
+                  "communications": "Pazarlama rızası ve iletişim tercihleri"
+                }
+              }
+            }
+          }
+        },
+        "categories": {
+          "title": "⏰ Veri kategorilerine göre saklama süreleri",
+          "subtitle": "Belirli zaman aralıkları",
+          "description": "Topladığımız farklı veri türleri için belirlenmiş saklama süreleri:",
+          "account": {
+            "title": "👤 Hesap ve profil bilgileri",
+            "headings": {
+              "basicProfile": "Temel profil",
+              "preferences": "Tercihler",
+              "subscription": "Abonelik",
+              "authentication": "Kimlik doğrulama"
+            },
+            "items": {
+              "basic": {
+                "data": "Kullanıcı adı, yaş, avatar ve profil ayarları",
+                "period": "Hesap aktif oldukça + silmeden 30 gün sonra",
+                "basis": "Sözleşmesel gereklilik",
+                "deletion": "Hesap silindikten 30 gün sonra otomatik silinir"
+              },
+              "preferences": {
+                "data": "Dil tercihi, uygulama ayarları, bildirim tercihleri",
+                "period": "Hesap aktif oldukça",
+                "basis": "Sözleşmesel gereklilik ve meşru menfaat",
+                "deletion": "Hesap silindiğinde derhal silinir"
+              },
+              "subscription": {
+                "data": "Premium abonelik bilgileri ve ödeme geçmişi",
+                "period": "Abonelik süresi + 7 yıl",
+                "basis": "Yasal uyum (finansal kayıtlar)",
+                "deletion": "Saklama süresinin sonunda otomatik silinir"
+              },
+              "authentication": {
+                "data": "Giriş bilgileri ve güvenlik belirteçleri",
+                "period": "Hesap aktif oldukça + 30 gün",
+                "basis": "Sözleşmesel gereklilik ve güvenlik",
+                "deletion": "Hesap silinince derhal geçersiz kılınır"
+              }
+            },
+            "note": "💡 30 günlük süre dolduktan sonra hesap geri getirilemez. Bu süre içinde giriş yaparak hesabını geri yükleyebilirsin."
+          },
+          "content": {
+            "title": "💬 Sohbet ve içerik verileri",
+            "headings": {
+              "chatHistory": "Sohbet geçmişi",
+              "privateMemories": "Özel anılar",
+              "sharedMemories": "Paylaşılan anılar",
+              "aiComments": "Yapay zekâ yorumları",
+              "userFeedback": "Kullanıcı geri bildirimi"
+            },
+            "items": {
+              "chatHistory": {
+                "data": "Yapay zekâ ile sohbetler ve mesaj geçmişi",
+                "period": "Cihazda yerel depolama: sınırsız / Sunucu önbelleği: 30 gün",
+                "basis": "Sözleşmesel gereklilik",
+                "deletion": "Sunucu verileri 30 günde silinir; yerel veriler kullanıcı kontrolündedir"
+              },
+              "privateMemories": {
+                "data": "Kişisel günlük girişleri ve özel anılar",
+                "period": "Kullanıcı kontrolünde — istediğin zaman silebilirsin",
+                "basis": "Sözleşmesel gereklilik",
+                "deletion": "Kullanıcı sildiğinde veya hesap silindiğinde derhal silinir"
+              },
+              "sharedMemories": {
+                "data": "Herkese açık paylaşılan anılar ve gönderiler",
+                "period": "Paylaşıldığı süre boyunca + silmeden 1 yıl sonra",
+                "basis": "Meşru menfaat (içerik moderasyonu)",
+                "deletion": "Moderasyon amaçlarıyla 1 yıl erişilebilir, sonra kalıcı olarak silinir"
+              },
+              "aiComments": {
+                "data": "Yapay zekâ tarafından üretilen yorum ve yanıtlar",
+                "period": "İlgili anı/sohbet ile aynı süre",
+                "basis": "Sözleşmesel gereklilik",
+                "deletion": "İlgili içerik ile birlikte silinir"
+              },
+              "userFeedback": {
+                "data": "Yapay zekâ yanıtlarına verilen puanlar ve geri bildirim",
+                "period": "2 yıl (90 günde anonimleştirilir)",
+                "basis": "Meşru menfaat (hizmet iyileştirme)",
+                "deletion": "90 günde anonimleştirme, 2 yılda tamamen silme"
+              }
+            },
+            "note": "💡 Çoğu sohbet verisi gizliliğin için cihazında yerel olarak saklanır. Performans için sunucuda sınırlı önbellekleme kullanılır."
+          },
+          "technical": {
+            "title": "🔧 Teknik ve sistem verileri",
+            "headings": {
+              "usageLogs": "Kullanım kayıtları",
+              "errorReports": "Hata raporları",
+              "securityLogs": "Güvenlik kayıtları",
+              "deviceInfo": "Cihaz bilgisi",
+              "notifications": "Bildirimler"
+            },
+            "items": {
+              "usageLogs": {
+                "data": "Uygulama kullanım kalıpları, özellik kullanımı, oturum verileri",
+                "period": "90 gün (30 günde anonimleştirilir)",
+                "basis": "Meşru menfaat (hizmet iyileştirme)",
+                "deletion": "Kişisel tanımlayıcılar 30 günde kaldırılır, 90 günde tamamen silinir"
+              },
+              "errorReports": {
+                "data": "Çökme raporları, hata günlükleri ve performans verileri",
+                "period": "1 yıl (hemen anonimleştirilir)",
+                "basis": "Meşru menfaat (teknik iyileştirme)",
+                "deletion": "Kişisel veri içermez; teknik veriler 1 yıl sonra silinir"
+              },
+              "securityLogs": {
+                "data": "Giriş denemeleri, güvenlik olayları, dolandırıcılık tespiti",
+                "period": "2 yıl",
+                "basis": "Meşru menfaat ve yasal uyum",
+                "deletion": "2 yıl sonra otomatik silinir"
+              },
+              "deviceInfo": {
+                "data": "Cihaz türü, işletim sistemi sürümü, uygulama sürümü",
+                "period": "Hesap aktif oldukça + 30 gün",
+                "basis": "Sözleşmesel gereklilik (uyumluluk)",
+                "deletion": "Hesap silindiğinde silinir"
+              },
+              "notifications": {
+                "data": "Bildirim gönderim belirteçleri ve teslim kayıtları",
+                "period": "Hesap aktif oldukça",
+                "basis": "Sözleşmesel gereklilik",
+                "deletion": "Hesap silindiğinde veya abonelik kapatıldığında derhal geçersiz kılınır"
+              }
+            },
+            "note": "💡 Teknik veriler esas olarak uygulama performansını ve güvenliğini iyileştirmek için kullanılır. Kişisel tanımlayıcılar mümkün olan en kısa sürede kaldırılır."
+          },
+          "communications": {
+            "title": "📧 İletişimler ve destek",
+            "headings": {
+              "supportTickets": "Destek talepleri",
+              "marketingConsent": "Pazarlama rızası",
+              "contactForms": "İletişim formları"
+            },
+            "items": {
+              "supportTickets": {
+                "data": "Müşteri destek yazışmaları ve talepler",
+                "period": "Çözümden 3 yıl sonra",
+                "basis": "Meşru menfaat (müşteri hizmetleri)",
+                "deletion": "3 yıl sonra otomatik silinir"
+              },
+              "marketingConsent": {
+                "data": "E-posta pazarlama rızası ve tercihleri",
+                "period": "Rıza geri çekilene kadar + 1 yıl",
+                "basis": "Rıza ve yasal uyum",
+                "deletion": "Geri çekildiğinde derhal; 1 yıl denetim izi tutulur"
+              },
+              "contactForms": {
+                "data": "İletişim formu gönderimleri ve talepler",
+                "period": "2 yıl",
+                "basis": "Meşru menfaat (iş iletişimi)",
+                "deletion": "2 yıl sonra otomatik silinir"
+              }
+            }
+          },
+          "automaticDeletion": {
+            "title": "🤖 Otomatik veri silme",
+            "subtitle": "Otomasyon süreçleri",
+            "description": "Saklama programlarına uygun silmeyi sağlamak için otomatik sistemler uyguladık:",
+            "processes": {
+              "daily": {
+                "title": "Günlük temizlik (her 24 saatte)",
+                "items": {
+                  "expired": "Süresi dolmuş oturum belirteçleri ve geçici veriler",
+                  "cache": "Süresi dolmuş önbellek verileri ve geçici dosyalar",
+                  "logs": "Saklama süresini aşan günlüklerin döndürülmesi"
+                }
+              },
+              "weekly": {
+                "title": "Haftalık temizlik (her pazar)",
+                "items": {
+                  "accounts": "30 günlük süreyi aşan silinmek üzere işaretli hesaplar",
+                  "anonymization": "30 günden eski kullanım verilerinin anonimleştirilmesi",
+                  "backups": "Saklamayı aşan yedek dosyaların temizlenmesi"
+                }
+              },
+              "monthly": {
+                "title": "Aylık temizlik (her ayın ilk günü)",
+                "items": {
+                  "technical": "Saklama süresi dolan teknik kayıtlar ve hata raporları",
+                  "analytics": "90 günü aşan analitik veriler",
+                  "audit": "Saklama uyumluluğunun tam denetimi"
+                }
+              },
+              "annual": {
+                "title": "Yıllık gözden geçirme (1 Ocak)",
+                "items": {
+                  "policies": "Saklama sürelerinin gözden geçirilmesi ve güncellenmesi",
+                  "compliance": "Tam uyumluluk denetimi ve dokümantasyon",
+                  "systems": "Otomatik silme sistemlerinin güncellenmesi"
+                }
+              }
+            },
+            "monitoring": {
+              "title": "İzleme ve doğrulama:",
+              "items": {
+                "alerts": "Saklama politikası ihlallerinde otomatik uyarılar",
+                "reports": "Aylık saklama uyumluluğu raporları",
+                "audits": "Silme süreçlerinin düzenli denetimleri",
+                "verification": "Silinen verilerin geri getirilemediğinin doğrulanması"
+              }
+            }
+          },
+          "accountStatus": {
+            "title": "🔄 Hesap durumuna göre saklama",
+            "subtitle": "Farklı senaryolar",
+            "active": {
+              "title": "🟢 Aktif hesaplar",
+              "description": "Aktif olarak kullanılan ve iyi durumdaki hesaplar için:",
+              "items": {
+                "normalStorage": "Tüm veriler standart saklama sürelerine göre saklanır",
+                "userControl": "Kullanıcılar verilerini uygulama üzerinden istedikleri zaman silebilir",
+                "backups": "Veri kurtarma için düzenli şifreli yedekler",
+                "security": "Tam güvenlik önlemleri ve izleme",
+                "updates": "Kullanıcılar verilerini güncelleyebilir ve değiştirebilir",
+                "export": "Kullanıcılar verilerini istedikleri zaman dışa aktarabilir"
+              }
+            },
+            "inactive": {
+              "title": "🟡 Pasif hesaplar",
+              "description": "Uzun süre kullanılmayan hesaplar için:",
+              "items": {
+                "warning": "12 ay hareketsizlikte e-posta uyarısı",
+                "finalNotice": "18 ayda son uyarı",
+                "deletion": "24 ayda hesap silinmek üzere işaretlenir",
+                "gracePeriod": "Kalıcı silmeden önce 30 günlük son süre",
+                "dataMinimization": "Hareketsizlik süresince gereksiz veriler silinebilir"
+              },
+              "note": "💡 Her zaman giriş yaparak hesabını yeniden etkinleştirebilir ve süreyi sıfırlayabilirsin."
+            },
+            "deleted": {
+              "title": "🔴 Silinmiş hesaplar",
+              "description": "Hesabını silme talebinde bulunduğunda:",
+              "items": {
+                "gracePeriod": "30 günlük geri alma süresi",
+                "immediateActions": "Kimlik bilgileri derhal geçersiz kılınır",
+                "dataReview": "Yasal saklama gereklilikleri için kişisel verilerin incelenmesi",
+                "permanentDeletion": "Süre sonunda tüm kişisel veriler kalıcı olarak silinir",
+                "legalException": "Yalnızca yasal olarak gerekli veriler saklanır (mümkünse anonimleştirilir)",
+                "noRecovery": "Süre dolduktan sonra geri dönüş yoktur",
+                "confirmation": "Silme tamamlandığında e-posta ile onay gönderilir"
+              }
+            },
+            "suspended": {
+              "title": "🚫 Askıya alınmış hesaplar",
+              "description": "Şart ihlalleri nedeniyle askıya alınan hesaplar için:",
+              "items": {
+                "retention": "Soruşturma süresince veriler saklanır",
+                "appeal": "İtiraz süreci için veriler erişilebilir (90 güne kadar)",
+                "deletion": "Kalıcı askıda ise standart silme süreci uygulanır",
+                "reinstatement": "Hesap geri açıldığında standart saklama politikaları devam eder"
+              }
+            }
+          },
+          "userRights": {
+            "title": "👥 Veri saklama hakların",
+            "subtitle": "Neler yapabilirsin",
+            "description": "Verileri ne kadar süre sakladığımıza ilişkin bazı haklara sahipsin:",
+            "access": {
+              "title": "🔍 Erişim hakkı",
+              "description": "Hangi verileri tuttuğumuzu ve ne kadar süre sakladığımızı talep edebilirsin",
+              "items": {
+                "request": "Veri erişim talebini uygulamadan veya e-posta ile ilet",
+                "response": "30 gün içinde kapsamlı rapor",
+                "format": "Yapılandırılmış ve makine ile okunabilir format",
+                "frequency": "Yılda bir kez ücretsiz talep yapabilirsin"
+              }
+            },
+            "deletion": {
+              "title": "🗑️ Silme hakkı",
+              "description": "Belirli koşullarda kişisel verilerinin silinmesini talep edebilirsin",
+              "items": {
+                "immediate": "Hesabı uygulamadan anında sil",
+                "selective": "Belirli veri kategorileri için silme talebi",
+                "legal": "Yasa gereği saklama gerekiyorsa silemeyebiliriz",
+                "verification": "Silme talepleri kimlik doğrulaması gerektirir"
+              }
+            },
+            "portability": {
+              "title": "📦 Taşınabilirlik hakkı",
+              "description": "Verilerinin bir kopyasını taşınabilir formatta isteyebilirsin",
+              "items": {
+                "export": "Verilerini doğrudan uygulamadan indir",
+                "format": "JSON veya CSV formatı",
+                "scope": "Hakkında tuttuğumuz tüm kişisel verileri içerir",
+                "transfer": "Verileri başka bir hizmete taşımak için kullanılabilir"
+              }
+            },
+            "objection": {
+              "title": "✋ İtiraz hakkı",
+              "description": "Bazı işleme ve saklama türlerine itiraz edebilirsin",
+              "items": {
+                "marketing": "Pazarlama verilerinin saklanmasından hemen vazgeçme",
+                "analytics": "Analitik verilerin toplanması/saklanmasına itiraz",
+                "profiling": "Otomatik karar verme ve profillemeye itiraz",
+                "legitimate": "Meşru menfaate dayalı saklamaya itiraz"
+              }
+            }
+          },
+          "specialCircumstances": {
+            "title": "⚖️ Özel durumlar",
+            "subtitle": "Uzatılmış saklama",
+            "description": "Bazı durumlarda verileri olağan sürelerin ötesinde saklamamız gerekebilir:",
+            "legal": {
+              "title": "🏛️ Hukuki süreçler",
+              "description": "Veriler hukuki süreçler kapsamında ise daha uzun süre saklanabilir",
+              "items": {
+                "litigation": "Dava veya aktif soruşturma süresince saklama",
+                "subpoena": "Mahkeme celbi veya emri durumunda saklamanın uzatılması",
+                "investigation": "Dolandırıcılık veya güvenlik soruşturmalarında genişletilmiş saklama",
+                "notification": "Verilerin hukuki bekleme altında ise bilgilendirileceksin"
+              }
+            },
+            "security": {
+              "title": "🔒 Güvenlik olayları",
+              "description": "Güvenlikle ilgili veriler olay müdahalesi için saklanabilir",
+              "items": {
+                "breaches": "İhlallerin soruşturulması ve önlenmesi için güvenlik kayıtlarının saklanması",
+                "forensics": "Dijital adli inceleme için geçici olarak genişletilmiş saklama",
+                "patterns": "Saldırı kalıplarını belirlemek için anonim veriler",
+                "reporting": "Düzenleyici raporlama gerekliliklerini karşılamak için saklama"
+              }
+            },
+            "financial": {
+              "title": "💰 Mali yükümlülükler",
+              "description": "Finansal veriler daha uzun saklama sürelerine tabidir",
+              "items": {
+                "tax": "Vergi amaçlı finansal kayıtlar 7 yıl",
+                "audit": "Mali denetim için ödeme verileri",
+                "disputes": "Faturalandırma anlaşmazlıkları saklama süresini uzatabilir",
+                "refunds": "İade uygunluk süreleri saklamayı etkileyebilir"
+              }
+            }
+          },
+          "dataLocations": {
+            "title": "🌍 Veri depolama ve saklama konumları",
+            "subtitle": "Verilerin nerede saklanır",
+            "description": "Saklama süreleri depolama konumuna ve geçerli yasalara göre değişebilir:",
+            "primary": {
+              "title": "Birincil depolama (AB/AEA)",
+              "description": "Verilerin birincil depolaması Avrupa Ekonomik Alanı'ndadır",
+              "items": {
+                "location": "Birincil sunucular Almanya ve Hollanda'da",
+                "law": "GDPR ve AB gizlilik yasaları geçerlidir",
+                "retention": "Bu politikada belirtilen standart saklama süreleri",
+                "protection": "GDPR kapsamında tam koruma ve haklar"
+              }
+            },
+            "backups": {
+              "title": "Yedekleme depolaması",
+              "description": "Felaket kurtarma için şifreli yedekler",
+              "items": {
+                "locations": "AB ve İsviçre'de güvenli tesisler",
+                "retention": "Yedekler en fazla 1 yıl saklanır",
+                "encryption": "Uçtan uca şifreleme ve ayrı anahtar yönetimi",
+                "deletion": "Yedeklerin silinmesi, birincil verilerin silinmesini takip eder"
+              }
+            },
+            "cache": {
+              "title": "Önbellek ve CDN",
+              "description": "Performans için geçici depolama",
+              "items": {
+                "duration": "Önbellek verileri en fazla 30 gün saklanır",
+                "locations": "Birden çok bölgede CDN düğümleri",
+                "anonymization": "Önbelleğe alınan içerikte kişisel tanımlayıcı yoktur",
+                "automatic": "Otomatik süre bitimi ve silme"
+              }
+            }
+          },
+          "compliance": {
+            "title": "📜 Düzenleyici uyum",
+            "subtitle": "Yasal gerekliliklerin karşılanması",
+            "description": "Veri saklama uygulamalarımız, birçok uluslararası gizlilik düzenlemesiyle uyumludur:",
+            "gdpr": {
+              "title": "🇪🇺 GDPR (Genel Veri Koruma Tüzüğü)",
+              "items": {
+                "lawfulness": "Tüm saklama, yasal işleme dayanaklarına dayanır",
+                "minimization": "Veri minimizasyonu ilkesine sıkı sıkıya bağlıyız",
+                "rights": "Veri sahibi haklarının tam uygulanması",
+                "accountability": "Tüm saklama kararlarının belgelenmesi"
+              }
+            },
+            "ccpa": {
+              "title": "🇺🇸 CCPA (Kaliforniya Tüketici Gizliliği Yasası)",
+              "items": {
+                "disclosure": "Kaliforniya sakinlerine saklama sürelerinin açıkça bildirilmesi",
+                "deletion": "45 gün içinde silme hakkına saygı",
+                "categories": "Kişisel bilginin ayrıntılı sınıflandırması",
+                "business": "Her saklama süresi için iş amacının açıkça belirtilmesi"
+              }
+            },
+            "other": {
+              "title": "🌐 Diğer düzenlemeler",
+              "items": {
+                "pipeda": "Kanadalı kullanıcılar için PIPEDA uyumu",
+                "lgpd": "Brezilyalı kullanıcılar için LGPD uyumu",
+                "pdpa": "Singapur kullanıcıları için PDPA uyumu",
+                "local": "Uygulanabilir yerel gizlilik yasalarına uyum"
+              }
+            }
+          },
+          "contact": {
+            "title": "📞 İletişim ve talepler",
+            "subtitle": "Bizimle nasıl iletişim kurarsın",
+            "description": "Veri saklama ile ilgili sorular veya talepler için:",
+            "deletion": {
+              "title": "🗑️ Veri silme talepleri",
+              "methods": {
+                "app": "Tercih edilen: Uygulama ayarları → Hesap → Hesabı sil",
+                "email": "E-posta: deletion@aeonova.com",
+                "form": "Çevrimiçi form: aeonova.com/delete-account"
+              },
+              "requirements": {
+                "verification": "Güvenlik için kimlik doğrulama gereklidir",
+                "confirmation": "Kayıtlı adrese onay e-postası gönderilir",
+                "timeline": "7 iş günü içinde işleme alınır"
+              }
+            },
+            "questions": {
+              "title": "❓ Veri saklama soruları",
+              "contacts": {
+                "general": "Genel sorular: retention@aeonova.com",
+                "dpo": "Veri Koruma Görevlisi: dpo@aeonova.com",
+                "support": "Teknik destek: support@aeonova.com",
+                "legal": "Hukuki konular: legal@aeonova.com"
+              },
+              "response": {
+                "standard": "Standart talepler: 5 iş günü",
+                "complex": "Karmaşık konular: 15 iş günü",
+                "urgent": "Acil talepler: 2 iş günü"
+              }
+            },
+            "appeals": {
+              "title": "⚖️ İtirazlar ve şikâyetler",
+              "process": {
+                "internal": "Dahili itiraz: appeals@aeonova.com",
+                "external": "AB sakinleri: Yerel veri koruma otoritesi ile iletişim",
+                "timeline": "İtirazlara 30 gün içinde yanıt",
+                "escalation": "Çözülmeyen konular için yükseltme süreci mevcuttur"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

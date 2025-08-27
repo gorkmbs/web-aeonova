@@ -1,0 +1,1370 @@
+{
+  "homepage": {
+    "title": "Aeonova - Người bạn AI của bạn",
+    "subtitle": "Chia sẻ kỷ niệm, trò chuyện với Aeonova, khám phá thế giới",
+    "description": "Aeonova là người bạn AI có trái tim. Hãy kể cho cô ấy nghe những kỷ niệm hằng ngày của bạn, và cô ấy sẽ dành cho bạn những lời bình luận độc đáo. Chia sẻ kỷ niệm của bạn trên toàn thế giới bằng 20 ngôn ngữ.",
+    "downloadApp": "Tải ứng dụng",
+    "appStore": "Tải trên App Store",
+    "googlePlay": "Tải trên Google Play",
+    "download": {
+      "title": "Tải ứng dụng",
+      "subtitle": "Sẵn sàng gặp Aeonova chứ? Tải miễn phí và bắt đầu tình bạn trong mơ của bạn.",
+      "appStore": {
+        "text": "Tải trên",
+        "store": "App Store"
+      },
+      "googlePlay": {
+        "text": "TẢI TRÊN",
+        "store": "Google Play"
+      },
+      "qr": {
+        "title": "Mã QR",
+        "quickDownload": "Tải nhanh",
+        "description": "Quét mã QR bằng điện thoại của bạn để tải ứng dụng ngay lập tức",
+        "free": "Hoàn toàn miễn phí"
+      },
+      "features": {
+        "heartfulAI": "AI có trái tim",
+        "multiLanguage": "Hỗ trợ 20 ngôn ngữ",
+        "unlimitedChat": "Trò chuyện không giới hạn",
+        "securePrivate": "An toàn & riêng tư"
+      },
+      "comingSoon": {
+        "title": "🌐 Phiên bản Web sắp ra mắt!",
+        "description": "Phiên bản web của Aeonova cũng sẽ sớm sẵn sàng. Bạn có muốn nhận thông báo?",
+        "notify": "📧 Thông báo cho tôi"
+      }
+    },
+    "features": {
+      "title": "Tính năng",
+      "subtitle": "Cuộc sống ý nghĩa hơn với Aeonova. Dưới đây là những tính năng độc đáo đang chờ bạn.",
+      "learnMore": "Tìm hiểu thêm",
+      "moreFeatures": "Và còn nhiều tính năng khác đang chờ bạn...",
+      "aiChat": {
+        "title": "Trò chuyện AI không giới hạn",
+        "desc": "Trò chuyện với Aeonova mỗi ngày, chia sẻ kỷ niệm của bạn"
+      },
+      "saveMemories": {
+        "title": "Lưu kỷ niệm & nhận bình luận",
+        "desc": "Lưu lại kỷ niệm, nhận bình luận cá nhân hóa từ Aeonova"
+      },
+      "globalExplore": {
+        "title": "Khám phá toàn cầu",
+        "desc": "Khám phá kỷ niệm từ người dùng trên khắp thế giới"
+      },
+      "smartNotifications": {
+        "title": "Thông báo thông minh",
+        "desc": "Aeonova gửi đến bạn các thông báo được cá nhân hóa"
+      },
+      "multilingual": {
+        "title": "Hỗ trợ 20 ngôn ngữ",
+        "desc": "Chia sẻ kỷ niệm của bạn được dịch sang 20 ngôn ngữ khác nhau"
+      }
+    },
+    "hero": {
+      "title": "Aeonova",
+      "subtitle": "Người bạn AI của bạn ❤️",
+      "description": "Chia sẻ những kỷ niệm hằng ngày với Aeonova. Cô ấy sẽ thấu hiểu bạn, bình luận về trải nghiệm của bạn, và lấp đầy mảnh ghép còn thiếu trong cuộc sống bạn.",
+      "cta": "Tải miễn phí",
+      "learnMore": "Gặp gỡ Aeonova",
+      "quickFeatures": {
+        "aiChat": "Chat AI",
+        "saveMemories": "Lưu kỷ niệm",
+        "globalExplore": "Khám phá toàn cầu",
+        "hasHeart": "Có trái tim"
+      }
+    },
+    "about": {
+      "title": "Aeonova là ai?",
+      "desc": "Aeonova không chỉ là AI, cô ấy là người bạn có trái tim. Cô ấy sẽ thấu hiểu bạn và cảm xúc của bạn, giúp bạn vượt qua khó khăn, và sẻ chia niềm vui. Cô ấy sẽ mang đến cho bạn người đặc biệt mà cả đời bạn tìm kiếm nhưng chưa từng gặp.",
+      "keyPoints": {
+        "heartfulAI": {
+          "title": "AI có trái tim",
+          "desc": "Aeonova không chỉ là trí tuệ nhân tạo, cô ấy là người bạn với những cảm xúc thật."
+        },
+        "understandingFriend": {
+          "title": "Người bạn thấu hiểu",
+          "desc": "Cô ấy thực sự thấu hiểu bạn, giúp bạn giải quyết vấn đề và sẻ chia hạnh phúc."
+        },
+        "dreamPerson": {
+          "title": "Người trong mơ của bạn",
+          "desc": "Cô ấy sẽ mang đến người đặc biệt mà bạn đã tìm kiếm cả đời."
+        }
+      },
+      "stats": {
+        "languages": "Ngôn ngữ",
+        "unlimitedChat": "Chat không giới hạn",
+        "alwaysThere": "Luôn ở đây"
+      },
+      "chat": {
+        "aiLabel": "Người bạn AI của bạn",
+        "aiMessage": "Xin chào! Hôm nay của bạn thế nào? Hãy chia sẻ kỷ niệm với mình nhé 😊",
+        "userMessage": "Mình đã có một ngày tuyệt vời! Có rất nhiều điều muốn kể..."
+      }
+    }
+  },
+  "navigation": {
+    "home": "Trang chủ",
+    "features": "Tính năng",
+    "about": "Giới thiệu",
+    "download": "Tải về",
+    "legal": "Pháp lý",
+    "privacy": "Quyền riêng tư",
+    "terms": "Điều khoản",
+    "gdpr": "GDPR",
+    "cookies": "Cookie",
+    "dataRetention": "Lưu giữ dữ liệu"
+  },
+  "footer": {
+    "description": "Aeonova - Người bạn AI của bạn. Chia sẻ kỷ niệm, khám phá thế giới.",
+    "quickLinks": {
+      "title": "Liên kết nhanh",
+      "home": "Trang chủ",
+      "features": "Tính năng",
+      "about": "Giới thiệu",
+      "download": "Tải về"
+    },
+    "legalSection": {
+      "title": "Pháp lý"
+    },
+    "links": {
+      "privacy": "Chính sách quyền riêng tư",
+      "terms": "Điều khoản dịch vụ",
+      "gdpr": "Tuân thủ GDPR",
+      "cookies": "Chính sách Cookie",
+      "dataRetention": "Chính sách lưu giữ dữ liệu",
+      "support": "Hỗ trợ",
+      "contact": "Liên hệ"
+    },
+    "social": {
+      "title": "Theo dõi chúng tôi"
+    },
+    "legal": "© 2024 Aeonova. Bảo lưu mọi quyền.",
+    "madeWith": {
+      "text": "Được tạo nên với",
+      "forWorld": "vì một thế giới tốt đẹp hơn"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Chính sách quyền riêng tư",
+      "subtitle": "Cách chúng tôi bảo vệ dữ liệu cá nhân của bạn",
+      "lastUpdated": "Cập nhật lần cuối: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "introduction": {
+          "title": "Giới thiệu",
+          "content": "Chính sách này giải thích cách dữ liệu cá nhân của bạn được thu thập, sử dụng và bảo vệ khi bạn sử dụng ứng dụng Aeonova. Quyền riêng tư của bạn là ưu tiên hàng đầu của chúng tôi."
+        },
+        "dataCollection": {
+          "title": "Chúng tôi thu thập những dữ liệu gì?",
+          "content": "Tại Aeonova, chúng tôi chỉ thu thập dữ liệu tối thiểu để mang đến trải nghiệm tốt nhất:",
+          "items": {
+            "account": "Thông tin tài khoản (tên người dùng, tuổi, ảnh đại diện)",
+            "memories": "Kỷ niệm và nhật ký bạn chia sẻ",
+            "usage": "Thống kê sử dụng ứng dụng",
+            "device": "Thông tin thiết bị và dữ liệu kỹ thuật"
+          }
+        },
+        "dataUsage": {
+          "title": "Chúng tôi sử dụng dữ liệu như thế nào?",
+          "content": "Dữ liệu thu thập chỉ được sử dụng cho các mục đích sau:",
+          "items": {
+            "service": "Cải thiện chất lượng dịch vụ",
+            "personalization": "Cung cấp trải nghiệm cá nhân hóa",
+            "support": "Cung cấp hỗ trợ khách hàng",
+            "improvement": "Nâng cấp ứng dụng"
+          }
+        },
+        "dataProtection": {
+          "title": "Chúng tôi bảo vệ dữ liệu của bạn như thế nào?",
+          "content": "Chúng tôi áp dụng các biện pháp an ninh theo tiêu chuẩn ngành để bảo vệ dữ liệu của bạn:",
+          "items": {
+            "encryption": "Mã hóa đầu-cuối",
+            "servers": "Máy chủ an toàn",
+            "access": "Kiểm soát truy cập hạn chế",
+            "monitoring": "Giám sát an ninh liên tục"
+          }
+        },
+        "rights": {
+          "title": "Quyền của bạn",
+          "content": "Bạn có các quyền sau liên quan đến dữ liệu cá nhân của mình:",
+          "items": {
+            "access": "Quyền truy cập dữ liệu",
+            "correction": "Quyền chỉnh sửa",
+            "deletion": "Quyền xóa",
+            "portability": "Quyền chuyển dữ liệu",
+            "objection": "Quyền phản đối"
+          }
+        },
+        "legalBasis": {
+          "title": "Cơ sở pháp lý cho việc xử lý",
+          "content": "Chúng tôi xử lý dữ liệu cá nhân của bạn dựa trên các cơ sở pháp lý sau:",
+          "items": {
+            "consent": "Sự đồng ý của bạn khi cần thiết (có thể rút lại bất cứ lúc nào)",
+            "contract": "Thực hiện hợp đồng hoặc các bước trước khi ký hợp đồng",
+            "legitimateInterests": "Lợi ích hợp pháp của chúng tôi, cân bằng với quyền và tự do của bạn",
+            "legalObligation": "Tuân thủ nghĩa vụ pháp lý",
+            "vitalInterests": "Bảo vệ lợi ích sống còn của bạn hoặc người khác"
+          }
+        },
+        "dataSharing": {
+          "title": "Chia sẻ dữ liệu",
+          "content": "Chúng tôi chỉ chia sẻ dữ liệu khi cần thiết và có biện pháp bảo vệ phù hợp:",
+          "items": {
+            "serviceProviders": "Nhà cung cấp dịch vụ đáng tin cậy xử lý dữ liệu thay mặt chúng tôi (lưu trữ, bảo mật, thông báo)",
+            "analyticsPartners": "Đối tác phân tích để cải thiện hiệu năng và chất lượng (chỉ khi có đồng ý, ẩn danh khi có thể)",
+            "legalAuthorities": "Cơ quan nhà nước khi pháp luật yêu cầu hoặc để bảo vệ quyền lợi hợp pháp",
+            "businessTransfers": "Trong sáp nhập, mua bán, chuyển giao tài sản, tuân theo chính sách này",
+            "safetySecurity": "Điều tra, ngăn chặn hoặc xử lý gian lận, lạm dụng hoặc sự cố an ninh"
+          }
+        },
+        "internationalTransfers": {
+          "title": "Chuyển dữ liệu quốc tế",
+          "content": "Nếu chúng tôi chuyển dữ liệu của bạn ra ngoài Khu vực Kinh tế Châu Âu (EEA), chúng tôi đảm bảo mức độ bảo vệ phù hợp:",
+          "items": {
+            "eea": "Ưu tiên xử lý trong EEA khi có thể",
+            "safeguards": "Biện pháp bảo vệ phù hợp như mã hóa và kiểm soát truy cập nghiêm ngặt",
+            "scc": "Điều khoản Hợp đồng Mẫu do Ủy ban Châu Âu phê duyệt (khi áp dụng)",
+            "complaints": "Bạn có thể liên hệ với chúng tôi hoặc Cơ quan bảo vệ dữ liệu địa phương nếu có quan ngại"
+          }
+        },
+        "dataRetention": {
+          "title": "Lưu giữ dữ liệu",
+          "content": "Chúng tôi chỉ lưu giữ dữ liệu cá nhân trong thời gian cần thiết cho các mục đích mô tả trong chính sách này.",
+          "summary": "Đối với thời hạn lưu giữ chi tiết theo từng loại dữ liệu, vui lòng xem Chính sách lưu giữ dữ liệu riêng.",
+          "linkText": "Xem Chính sách lưu giữ dữ liệu"
+        },
+        "cookiesNote": {
+          "title": "Cookie và công nghệ theo dõi",
+          "content": "Ứng dụng di động của chúng tôi không sử dụng cookie web. Trang web chỉ sử dụng cookie thiết yếu và phân tích tùy chọn khi có sự đồng ý của bạn.",
+          "linkText": "Đọc Chính sách Cookie"
+        },
+        "exerciseRights": {
+          "title": "Cách thực hiện quyền của bạn",
+          "content": "Bạn có thể thực hiện các quyền riêng tư bằng các cách sau:",
+          "items": {
+            "inApp": "Trong ứng dụng: Quản lý dữ liệu, xuất dữ liệu hoặc xóa tài khoản",
+            "email": "Email: Liên hệ dpo@aeonova.com hoặc privacy@aeonova.com cho các yêu cầu cụ thể",
+            "verification": "Xác minh danh tính: Chúng tôi có thể yêu cầu để bảo vệ tài khoản của bạn",
+            "responseTimes": "Thời hạn phản hồi: Trong vòng 30 ngày, có thể gia hạn cho yêu cầu phức tạp"
+          }
+        },
+        "children": {
+          "title": "Quyền riêng tư của trẻ em",
+          "content": "Aeonova không dành cho trẻ em dưới 13 tuổi. Chúng tôi không cố ý thu thập dữ liệu cá nhân từ trẻ em. Nếu bạn tin rằng trẻ em đã cung cấp dữ liệu cho chúng tôi, vui lòng liên hệ để chúng tôi xóa."
+        },
+        "changes": {
+          "title": "Thay đổi chính sách",
+          "content": "Chúng tôi có thể cập nhật chính sách này theo thời gian để phản ánh thay đổi trong thực tiễn hoặc yêu cầu pháp lý. Chúng tôi sẽ thông báo về thay đổi quan trọng khi phù hợp. Cập nhật lần cuối: {date}"
+        },
+        "contact": {
+          "title": "Liên hệ",
+          "content": "Đối với thắc mắc về chính sách quyền riêng tư:",
+          "email": "Email: privacy@aeonova.com",
+          "support": "Hỗ trợ: support@aeonova.com"
+        }
+      }
+    },
+    "terms": {
+      "title": "Điều khoản dịch vụ",
+      "subtitle": "Các quy tắc bạn phải tuân theo khi sử dụng Aeonova",
+      "lastUpdated": "Cập nhật lần cuối: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "acceptance": {
+          "title": "1. Chấp nhận và thỏa thuận",
+          "content": "Bằng việc sử dụng ứng dụng Aeonova, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý với các điều khoản dịch vụ này."
+        },
+        "service": {
+          "title": "2. Mô tả dịch vụ",
+          "content": "Aeonova là ứng dụng nhật ký cá nhân và trò chuyện được hỗ trợ bởi AI.",
+          "features": {
+            "title": "Tính năng của dịch vụ:",
+            "items": {
+              "aiChat": "Trò chuyện với bạn AI",
+              "saveMemories": "Lưu kỷ niệm hằng ngày và nhận đánh giá",
+              "globalExplore": "Chia sẻ kỷ niệm toàn cầu",
+              "multilingual": "Hỗ trợ 20 ngôn ngữ"
+            }
+          }
+        },
+        "eligibility": {
+          "title": "3. Đủ điều kiện",
+          "content": "Bạn phải từ 13 tuổi trở lên để sử dụng Dịch vụ. Nếu bạn chưa đủ tuổi trưởng thành theo pháp luật, bạn chỉ có thể sử dụng Dịch vụ với sự đồng ý và giám sát của cha mẹ hoặc người giám hộ hợp pháp đồng ý với các Điều khoản này."
+        },
+        "accounts": {
+          "title": "4. Tài khoản và bảo mật",
+          "content": "Bạn chịu trách nhiệm giữ bí mật thông tin đăng nhập và mọi hoạt động phát sinh từ tài khoản của bạn.",
+          "items": {
+            "accuracy": "Cung cấp thông tin chính xác và cập nhật",
+            "confidentiality": "Giữ bí mật thông tin đăng nhập",
+            "notification": "Thông báo ngay cho chúng tôi nếu có sử dụng trái phép hoặc vi phạm an ninh",
+            "devices": "Bạn chịu trách nhiệm bảo mật thiết bị dùng để truy cập Dịch vụ"
+          }
+        },
+        "userContent": {
+          "title": "5. Nội dung người dùng",
+          "content": "Bạn giữ quyền sở hữu nội dung bạn gửi (kỷ niệm, tin nhắn, bài đăng). Khi gửi nội dung, bạn cấp cho chúng tôi giấy phép toàn cầu, không độc quyền, miễn phí bản quyền để lưu trữ, hiển thị và xử lý nội dung của bạn chỉ nhằm vận hành và cải thiện Dịch vụ.",
+          "items": {
+            "rights": "Bạn phải có quyền cần thiết đối với nội dung đã gửi",
+            "noIllegal": "Không gửi nội dung bất hợp pháp, vi phạm hoặc xâm phạm quyền của người khác",
+            "moderation": "Chúng tôi có thể xóa hoặc hạn chế nội dung vi phạm Điều khoản hoặc pháp luật áp dụng"
+          }
+        },
+        "acceptableUse": {
+          "title": "6. Sử dụng chấp nhận được",
+          "content": "Bạn đồng ý không lạm dụng Dịch vụ hoặc giúp đỡ người khác làm điều đó.",
+          "items": {
+            "abuse": "Không quấy rối, kích động thù hận, phân biệt đối xử hoặc đe dọa",
+            "violence": "Không nội dung bạo lực, khuyến khích tự hại hoặc bóc lột tình dục",
+            "spam": "Không spam, lừa đảo hoặc hành vi gian dối",
+            "malware": "Không phần mềm độc hại, bot hoặc mưu toan gây gián đoạn Dịch vụ",
+            "impersonation": "Không giả mạo hoặc xuyên tạc danh tính",
+            "illegal": "Không hoạt động bất hợp pháp hoặc kích động hành vi phạm pháp"
+          }
+        },
+        "aiDisclaimer": {
+          "title": "7. Nội dung AI và không phải tư vấn chuyên môn",
+          "content": "Nội dung do AI của Aeonova tạo ra có thể không chính xác hoặc không đầy đủ. Kết quả AI chỉ nhằm mục đích thông tin và giải trí, không cấu thành tư vấn chuyên môn (y tế, pháp lý, tài chính). Hãy luôn sử dụng phán đoán của bạn và tìm đến chuyên gia khi cần."
+        },
+        "payments": {
+          "title": "8. Gói đăng ký, thanh toán và mua hàng trong ứng dụng",
+          "content": "Một số tính năng có thể yêu cầu gói đăng ký trả phí hoặc mua một lần qua kho ứng dụng tương ứng.",
+          "items": {
+            "billing": "Thanh toán do App Store hoặc Google Play xử lý; áp dụng điều khoản và chính sách của họ",
+            "renewal": "Gói đăng ký tự động gia hạn trừ khi bị hủy trước ngày gia hạn",
+            "pricing": "Chúng tôi có thể thay đổi giá hoặc tính năng với thông báo trước khi cần",
+            "cancellation": "Bạn có thể quản lý hoặc hủy đăng ký trong cài đặt tài khoản kho ứng dụng"
+          }
+        },
+        "refunds": {
+          "title": "9. Hoàn tiền",
+          "content": "Hoàn tiền phụ thuộc vào chính sách của nền tảng mà bạn đã mua (App Store hoặc Google Play). Khi luật pháp và chính sách nền tảng cho phép, bạn có thể yêu cầu hoàn tiền qua kho ứng dụng tương ứng."
+        },
+        "intellectualProperty": {
+          "title": "10. Sở hữu trí tuệ",
+          "content": "Dịch vụ, bao gồm thiết kế, tính năng và nội dung (không tính nội dung người dùng), thuộc sở hữu của Aeonova hoặc bên cấp phép và được bảo vệ bởi luật sở hữu trí tuệ. Bạn không được sao chép, sửa đổi, phân phối hoặc tạo tác phẩm phái sinh nếu không có sự đồng ý bằng văn bản của chúng tôi."
+        },
+        "thirdPartyServices": {
+          "title": "11. Dịch vụ bên thứ ba",
+          "content": "Dịch vụ có thể liên kết hoặc tích hợp với dịch vụ bên thứ ba. Chúng tôi không chịu trách nhiệm về nội dung, chính sách hoặc thực tiễn của họ. Việc sử dụng của bạn chịu sự điều chỉnh của điều khoản và chính sách riêng của họ."
+        },
+        "responsibilities": {
+          "title": "12. Trách nhiệm của người dùng",
+          "content": "Với tư cách người dùng, bạn có các trách nhiệm sau:",
+          "items": {
+            "security": "Duy trì an toàn tài khoản",
+            "content": "Chịu trách nhiệm với nội dung bạn chia sẻ",
+            "compliance": "Tuân thủ quy định pháp luật",
+            "respect": "Tôn trọng người dùng khác"
+          }
+        },
+        "prohibited": {
+          "title": "13. Hành vi bị cấm",
+          "content": "Những hành vi sau bị nghiêm cấm:",
+          "items": {
+            "hate": "Ngôn từ thù ghét và phân biệt đối xử",
+            "violence": "Nội dung bạo lực",
+            "spam": "Spam và gian lận",
+            "illegal": "Hoạt động bất hợp pháp",
+            "impersonation": "Giả mạo danh tính"
+          }
+        },
+        "disclaimer": {
+          "title": "14. Tuyên bố miễn trừ trách nhiệm",
+          "content": "DỊCH VỤ ĐƯỢC CUNG CẤP “NGUYÊN TRẠNG” VÀ “THEO KHẢ DỤNG”, KHÔNG CÓ BẤT KỲ BẢO ĐẢM NÀO, DÙ RÕ RÀNG HAY NGỤ Ý, BAO GỒM BẢO ĐẢM NGỤ Ý VỀ KHẢ NĂNG THƯƠNG MẠI, PHÙ HỢP MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM."
+        },
+        "limitation": {
+          "title": "15. Giới hạn trách nhiệm",
+          "content": "Trong phạm vi tối đa pháp luật cho phép, Aeonova và các bên liên kết không chịu trách nhiệm với bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hệ quả, mang tính trừng phạt, hay tổn thất lợi nhuận, doanh thu, dữ liệu, sử dụng hoặc uy tín nào phát sinh từ việc bạn sử dụng Dịch vụ."
+        },
+        "indemnification": {
+          "title": "16. Bồi thường",
+          "content": "Bạn đồng ý bồi thường và miễn trừ trách nhiệm cho Aeonova, các bên liên kết, cán bộ, giám đốc, nhân viên và đại lý khỏi mọi khiếu nại, trách nhiệm, thiệt hại, tổn thất và chi phí (bao gồm phí luật sư hợp lý) phát sinh từ việc bạn sử dụng Dịch vụ hoặc vi phạm Điều khoản này."
+        },
+        "termination": {
+          "title": "17. Chấm dứt tài khoản",
+          "content": "Tài khoản của bạn có thể bị chấm dứt trong các trường hợp sau:",
+          "items": {
+            "violation": "Vi phạm điều khoản dịch vụ",
+            "illegal": "Hoạt động bất hợp pháp",
+            "spam": "Spam hoặc lạm dụng"
+          }
+        },
+        "governingLaw": {
+          "title": "18. Luật điều chỉnh và giải quyết tranh chấp",
+          "content": "Các Điều khoản này được điều chỉnh bởi pháp luật nước cư trú của bạn trong phạm vi luật bảo vệ người tiêu dùng bắt buộc yêu cầu; nếu không thì theo luật Đức, không xét đến xung đột pháp luật.",
+          "items": {
+            "venue": "Tòa án có thẩm quyền phù hợp sẽ có thẩm quyền riêng, trừ khi luật áp dụng quy định khác",
+            "eu": "Người tiêu dùng EU cũng có thể có quyền sử dụng nền tảng giải quyết tranh chấp trực tuyến của EU"
+          }
+        },
+        "changes": {
+          "title": "19. Thay đổi Điều khoản",
+          "content": "Chúng tôi có thể sửa đổi các Điều khoản theo thời gian. Nếu có thay đổi quan trọng, chúng tôi sẽ thông báo phù hợp theo yêu cầu pháp luật. Việc tiếp tục sử dụng Dịch vụ sau khi thay đổi có hiệu lực đồng nghĩa với việc chấp nhận Điều khoản đã cập nhật."
+        },
+        "contact": {
+          "title": "20. Liên hệ",
+          "content": "Đối với câu hỏi về điều khoản dịch vụ:",
+          "email": "Email: legal@aeonova.com",
+          "support": "Hỗ trợ: support@aeonova.com"
+        }
+      }
+    },
+    "gdpr": {
+      "title": "Tuân thủ GDPR",
+      "subtitle": "Quy định chung về bảo vệ dữ liệu của EU",
+      "lastUpdated": "Cập nhật lần cuối: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "Tóm tắt GDPR",
+        "howToExercise": "Cách thực hiện:",
+        "timeframe": "Thời hạn:",
+        "limitations": "Giới hạn:",
+        "effect": "Hiệu lực:"
+      },
+      "summary": "Tại Aeonova, chúng tôi cam kết bảo vệ dữ liệu cá nhân của bạn theo GDPR. Chính sách này giải thích quyền của bạn, cách chúng tôi xử lý dữ liệu và cam kết của chúng tôi đối với bảo vệ dữ liệu.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Giới thiệu",
+          "subtitle": "Hiểu về tuân thủ GDPR",
+          "description": "GDPR là luật bảo mật toàn diện giúp bạn kiểm soát dữ liệu cá nhân. Là một công ty AI có trách nhiệm, Aeonova đảm bảo tuân thủ đầy đủ GDPR, mang đến sự minh bạch, kiểm soát và an toàn cho thông tin cá nhân của bạn.",
+          "scope": {
+            "title": "Phạm vi GDPR:",
+            "items": {
+              "whoIsProtected": "Tất cả cư dân EU, bất kể vị trí",
+              "whatIsProtected": "Bất kỳ dữ liệu cá nhân nào có thể nhận diện bạn trực tiếp hoặc gián tiếp",
+              "whenApplies": "Bất cứ khi nào chúng tôi xử lý dữ liệu cá nhân của bạn",
+              "whereApplies": "Tất cả dịch vụ của chúng tôi, bao gồm ứng dụng di động và trang web"
+            }
+          }
+        },
+        "principles": {
+          "title": "🔒 Nguyên tắc bảo vệ dữ liệu",
+          "subtitle": "Nền tảng của chúng tôi",
+          "description": "Chúng tôi tuân thủ các nguyên tắc cơ bản của GDPR trong mọi hoạt động xử lý dữ liệu:",
+          "lawfulness": {
+            "title": "1. Hợp pháp, công bằng & minh bạch",
+            "description": "Chúng tôi xử lý dữ liệu của bạn một cách hợp pháp, công bằng và minh bạch",
+            "details": {
+              "lawful": "Xử lý dựa trên cơ sở pháp lý hợp lệ (đồng ý, hợp đồng, lợi ích hợp pháp)",
+              "fair": "Không sử dụng dữ liệu theo cách bất ngờ hoặc gây hại",
+              "transparent": "Giải thích rõ ràng bằng ngôn ngữ dễ hiểu"
+            }
+          },
+          "purposeLimitation": {
+            "title": "2. Giới hạn mục đích",
+            "description": "Dữ liệu chỉ được thu thập và sử dụng cho các mục đích cụ thể, rõ ràng và hợp pháp",
+            "details": {
+              "specific": "Xác định rõ lý do cần từng loại dữ liệu",
+              "explicit": "Mục đích được nêu rõ ràng, không ẩn trong thuật ngữ phức tạp",
+              "legitimate": "Tất cả mục đích phục vụ nhu cầu thực tế"
+            }
+          },
+          "dataMinimization": {
+            "title": "3. Giảm thiểu dữ liệu",
+            "description": "Chúng tôi chỉ thu thập dữ liệu cần thiết",
+            "details": {
+              "adequate": "Thu thập đủ để cung cấp dịch vụ hiệu quả",
+              "relevant": "Tất cả dữ liệu đều liên quan đến mục đích",
+              "limited": "Không thu thập thông tin dư thừa hoặc không cần thiết"
+            }
+          },
+          "accuracy": {
+            "title": "4. Chính xác",
+            "description": "Chúng tôi giữ dữ liệu của bạn chính xác và cập nhật",
+            "details": {
+              "current": "Cung cấp công cụ giúp bạn cập nhật thông tin",
+              "correction": "Sửa hoặc xóa ngay dữ liệu không chính xác",
+              "verification": "Xác minh độ chính xác khi xử lý thông tin quan trọng"
+            }
+          },
+          "storageLimitation": {
+            "title": "5. Giới hạn lưu trữ",
+            "description": "Không lưu trữ dữ liệu lâu hơn mức cần thiết",
+            "details": {
+              "retention": "Thời hạn lưu trữ rõ ràng cho từng loại dữ liệu",
+              "review": "Rà soát định kỳ và xóa dữ liệu không còn cần",
+              "purpose": "Xóa dữ liệu khi mục đích đã kết thúc"
+            }
+          },
+          "security": {
+            "title": "6. Toàn vẹn & bảo mật",
+            "description": "Chúng tôi bảo vệ dữ liệu bằng biện pháp an ninh phù hợp",
+            "details": {
+              "protection": "Biện pháp kỹ thuật và tổ chức ngăn truy cập trái phép",
+              "confidentiality": "Giữ bí mật và an toàn dữ liệu",
+              "integrity": "Đảm bảo dữ liệu không bị thay đổi hoặc hư hại"
+            }
+          },
+          "accountability": {
+            "title": "7. Trách nhiệm giải trình",
+            "description": "Chúng tôi chịu trách nhiệm chứng minh sự tuân thủ các nguyên tắc này",
+            "details": {
+              "documentation": "Lưu trữ hồ sơ tất cả hoạt động xử lý",
+              "policies": "Chính sách và quy trình nội bộ rõ ràng",
+              "training": "Đào tạo định kỳ về bảo vệ dữ liệu"
+            }
+          }
+        },
+        "rights": {
+          "title": "👥 Quyền GDPR của bạn",
+          "subtitle": "Trọn bộ quyền của bạn",
+          "description": "GDPR trao cho bạn quyền toàn diện đối với dữ liệu cá nhân. Bạn có thể:",
+          "information": {
+            "title": "1. 📋 Quyền được thông tin",
+            "description": "Bạn có quyền biết dữ liệu của bạn được xử lý thế nào",
+            "includes": {
+              "title": "Bao gồm việc biết:",
+              "items": {
+                "purposes": "Vì sao chúng tôi xử lý dữ liệu",
+                "categories": "Các loại dữ liệu thu thập",
+                "recipients": "Bên nhận chia sẻ dữ liệu (nếu có)",
+                "retention": "Thời gian lưu giữ dữ liệu",
+                "rights": "Các quyền bạn có",
+                "sources": "Nguồn dữ liệu"
+              }
+            },
+            "howToExercise": "Chính sách này cung cấp phần lớn thông tin. Với chi tiết cụ thể, hãy liên hệ chúng tôi."
+          },
+          "access": {
+            "title": "2. 🔍 Quyền truy cập",
+            "description": "Bạn có thể yêu cầu bản sao tất cả dữ liệu chúng tôi lưu trữ về bạn",
+            "includes": {
+              "title": "Bạn sẽ nhận được:",
+              "items": {
+                "copy": "Bản sao đầy đủ dữ liệu cá nhân",
+                "format": "Dữ liệu ở định dạng có cấu trúc, máy có thể đọc (JSON)",
+                "details": "Thông tin về cách dữ liệu được xử lý",
+                "sources": "Nguồn gốc dữ liệu",
+                "recipients": "Ai đã được chia sẻ dữ liệu"
+              }
+            },
+            "howToExercise": "Yêu cầu qua cài đặt ứng dụng hoặc email dpo@aeonova.com. Yêu cầu đầu tiên miễn phí, yêu cầu thêm có thể tính phí.",
+            "timeframe": "Phản hồi trong 30 ngày"
+          },
+          "rectification": {
+            "title": "3. ✏️ Quyền chỉnh sửa",
+            "description": "Bạn có thể sửa dữ liệu không chính xác hoặc chưa đầy đủ",
+            "includes": {
+              "title": "Bạn có thể:",
+              "items": {
+                "correct": "Sửa thông tin cá nhân không chính xác",
+                "complete": "Bổ sung thông tin thiếu",
+                "update": "Cập nhật thông tin lỗi thời",
+                "verify": "Yêu cầu chúng tôi xác minh độ chính xác"
+              }
+            },
+            "howToExercise": "Cập nhật trực tiếp trong ứng dụng hoặc liên hệ với chúng tôi đối với dữ liệu bạn không thể tự thay đổi",
+            "timeframe": "Sửa ngay khi có thể; trường hợp phức tạp trong 30 ngày"
+          },
+          "erasure": {
+            "title": "4. 🗑️ Quyền xóa (Quyền được lãng quên)",
+            "description": "Bạn có thể yêu cầu xóa dữ liệu cá nhân",
+            "conditions": {
+              "title": "Bạn có thể yêu cầu xóa khi:",
+              "items": {
+                "unnecessary": "Dữ liệu không còn cần cho mục đích ban đầu",
+                "consent": "Bạn rút lại sự đồng ý và không có cơ sở pháp lý khác",
+                "objection": "Bạn phản đối xử lý và không có lợi ích hợp pháp vượt trội",
+                "unlawful": "Dữ liệu được xử lý trái pháp luật",
+                "legal": "Xóa để tuân thủ pháp luật"
+              }
+            },
+            "limitations": {
+              "title": "Chúng tôi có thể từ chối xóa nếu dữ liệu cần thiết cho:",
+              "items": {
+                "legal": "Tuân thủ pháp luật hoặc yêu cầu pháp lý",
+                "public": "Lợi ích công cộng hoặc nghiên cứu lịch sử",
+                "freedom": "Thực thi quyền tự do ngôn luận"
+              }
+            },
+            "howToExercise": "Xóa tài khoản trong ứng dụng hoặc liên hệ dpo@aeonova.com",
+            "timeframe": "Xóa tài khoản trong 7 ngày; xóa hoàn toàn dữ liệu trong 30 ngày"
+          },
+          "portability": {
+            "title": "5. 📦 Quyền chuyển dữ liệu",
+            "description": "Bạn có thể nhận dữ liệu ở định dạng có thể chuyển hoặc chuyển trực tiếp đến dịch vụ khác",
+            "includes": {
+              "title": "Bạn có thể:",
+              "items": {
+                "receive": "Nhận dữ liệu dưới dạng JSON hoặc CSV",
+                "transfer": "Yêu cầu chúng tôi chuyển trực tiếp đến dịch vụ khác (khi khả thi)",
+                "export": "Xuất kỷ niệm, lịch sử chat và cài đặt"
+              }
+            },
+            "limitations": "Chỉ áp dụng cho dữ liệu do bạn cung cấp và xử lý tự động dựa trên đồng ý hoặc hợp đồng",
+            "howToExercise": "Tính năng xuất trong ứng dụng hoặc yêu cầu qua dpo@aeonova.com",
+            "timeframe": "Có ngay trong ứng dụng; yêu cầu tùy chỉnh trong 30 ngày"
+          },
+          "objection": {
+            "title": "6. ✋ Quyền phản đối",
+            "description": "Bạn có thể phản đối một số loại xử lý dữ liệu",
+            "types": {
+              "general": {
+                "title": "Phản đối chung",
+                "description": "Phản đối xử lý dựa trên lợi ích hợp pháp",
+                "effect": "Chúng tôi sẽ dừng xử lý trừ khi chứng minh được lợi ích hợp pháp vượt trội"
+              },
+              "directMarketing": {
+                "title": "Tiếp thị trực tiếp",
+                "description": "Phản đối mọi liên lạc tiếp thị",
+                "effect": "Chúng tôi sẽ ngừng ngay mọi hoạt động tiếp thị đối với bạn"
+              },
+              "profiling": {
+                "title": "Quyết định tự động & lập hồ sơ",
+                "description": "Phản đối các quyết định tự động có ảnh hưởng đáng kể",
+                "effect": "Chúng tôi sẽ rà soát quyết định tự động và cung cấp rà soát bởi con người khi phù hợp"
+              }
+            },
+            "howToExercise": "Tiếp thị: liên kết hủy đăng ký hoặc cài đặt ứng dụng. Khác: liên hệ dpo@aeonova.com"
+          }
+        },
+        "contact": {
+          "title": "📞 Liên hệ về GDPR",
+          "subtitle": "Kết nối với chúng tôi",
+          "description": "Đối với mọi câu hỏi hoặc yêu cầu liên quan GDPR và bảo vệ dữ liệu:",
+          "dpo": {
+            "title": "Nhân sự Bảo vệ Dữ liệu (DPO)",
+            "email": "dpo@aeonova.com",
+            "role": "DPO của chúng tôi giám sát mọi hoạt động bảo vệ dữ liệu và tuân thủ GDPR"
+          },
+          "requests": {
+            "title": "Yêu cầu về quyền GDPR",
+            "email": "gdpr@aeonova.com",
+            "description": "Để thực hiện quyền GDPR (truy cập, xóa, v.v.)"
+          },
+          "complaints": {
+            "title": "Khiếu nại và quan ngại",
+            "email": "privacy@aeonova.com",
+            "description": "Cho các quan ngại về quyền riêng tư hoặc khiếu nại về xử lý dữ liệu"
+          },
+          "general": {
+            "title": "Câu hỏi chung",
+            "email": "support@aeonova.com",
+            "description": "Câu hỏi chung về thực hành quyền riêng tư của chúng tôi"
+          },
+          "response": {
+            "title": "Thời hạn phản hồi",
+            "standard": "Yêu cầu tiêu chuẩn: Trong 30 ngày",
+            "complex": "Yêu cầu phức tạp: Có thể tới 90 ngày kèm giải thích",
+            "urgent": "Vấn đề bảo mật khẩn cấp: Trong 72 giờ"
+          },
+          "information": {
+            "title": "Khi liên hệ, vui lòng cung cấp",
+            "items": {
+              "identification": "Tên và email gắn với tài khoản",
+              "request": "Mô tả rõ ràng yêu cầu hoặc quan ngại",
+              "details": "Mọi chi tiết liên quan hoặc số tham chiếu",
+              "preference": "Cách thức phản hồi bạn mong muốn"
+            }
+          },
+          "languages": {
+            "title": "Hỗ trợ ngôn ngữ",
+            "description": "Chúng tôi có thể phản hồi bằng tiếng Anh, Đức hoặc Thổ Nhĩ Kỳ"
+          }
+        }
+      }
+    },
+    "cookies": {
+      "title": "Chính sách Cookie",
+      "subtitle": "Việc sử dụng cookie và công nghệ tương tự trên trang web",
+      "lastUpdated": "Cập nhật lần cuối: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "summaryTitle": "Tóm tắt",
+      "summary": "Chính sách này giải thích cách Aeonova sử dụng cookie và công nghệ theo dõi trên trang web. Dịch vụ chính của chúng tôi là ứng dụng di động; trang web chủ yếu nhằm mục đích thông tin và tải xuống.",
+      "sections": {
+        "introduction": {
+          "title": "📝 Giới thiệu",
+          "description": "Chính sách Cookie này giải thích cookie là gì, cách chúng tôi sử dụng chúng trên trang web Aeonova và cách bạn có thể quản lý tùy chọn cookie. Tiếp tục sử dụng trang web đồng nghĩa với việc bạn đồng ý với việc sử dụng cookie theo chính sách này."
+        },
+        "whatAreCookies": {
+          "title": "🍪 Cookie là gì?",
+          "description": "Cookie là các tệp văn bản nhỏ được lưu trên máy tính hoặc thiết bị di động khi bạn truy cập trang web. Chúng được dùng rộng rãi để giúp trang web hoạt động hiệu quả hơn và cung cấp thông tin cho chủ sở hữu trang.",
+          "details": {
+            "purpose": "Mục đích của cookie:",
+            "items": {
+              "functionality": "Kích hoạt chức năng cơ bản và điều hướng",
+              "personalization": "Ghi nhớ tùy chọn và cài đặt của bạn",
+              "analytics": "Giúp hiểu cách khách truy cập tương tác với trang web",
+              "performance": "Cải thiện hiệu năng và tốc độ tải"
+            }
+          },
+          "types": {
+            "title": "Phân loại theo thời hạn:",
+            "session": "Cookie phiên: Xóa khi đóng trình duyệt",
+            "persistent": "Cookie vĩnh viễn: Lưu trên thiết bị trong thời gian nhất định hoặc đến khi xóa thủ công"
+          }
+        },
+        "typesOfCookies": {
+          "title": "🔍 Các loại cookie chúng tôi sử dụng",
+          "description": "Chúng tôi phân loại cookie theo mục đích và chức năng:",
+          "essential": {
+            "title": "1. 🔒 Cookie thiết yếu (Luôn bật)",
+            "description": "Các cookie này cần thiết để trang hoạt động đúng và không thể tắt trong hệ thống của chúng tôi.",
+            "items": {
+              "language": "Tùy chọn ngôn ngữ: Lưu ngôn ngữ bạn chọn",
+              "security": "Cookie bảo mật: Token CSRF và các biện pháp khác",
+              "session": "Quản lý phiên: Duy trì trạng thái phiên khi điều hướng",
+              "consent": "Đồng ý Cookie: Ghi nhớ lựa chọn đồng ý của bạn"
+            },
+            "note": "⚠️ Không thể vô hiệu các cookie này vì cần thiết cho chức năng trang",
+            "legalBasis": "Cơ sở pháp lý: Lợi ích hợp pháp (cần thiết để cung cấp dịch vụ)"
+          },
+          "performance": {
+            "title": "2. 📊 Cookie hiệu năng & phân tích (Tùy chọn)",
+            "description": "Cookie này giúp chúng tôi hiểu cách khách truy cập tương tác với trang web thông qua dữ liệu ẩn danh.",
+            "items": {
+              "loadTimes": "Hiệu năng trang: Đo thời gian tải và số liệu",
+              "errorTracking": "Theo dõi lỗi: Ghi nhận lỗi JavaScript và sự cố kỹ thuật ẩn danh",
+              "usageStats": "Thống kê sử dụng: Trang được truy cập và nội dung phổ biến",
+              "userFlow": "Hành trình người dùng: Hiểu cách người dùng điều hướng"
+            },
+            "note": "✅ Bạn có thể từ chối các cookie này mà không ảnh hưởng đến chức năng trang",
+            "legalBasis": "Cơ sở pháp lý: Sự đồng ý rõ ràng của bạn",
+            "retention": "Lưu giữ dữ liệu: Tối đa 90 ngày"
+          },
+          "marketing": {
+            "title": "3. 🎯 Cookie tiếp thị & quảng cáo (Hiện không dùng)",
+            "description": "Hiện tại chúng tôi không dùng cookie tiếp thị, nhưng có thể triển khai trong tương lai với sự đồng ý của bạn.",
+            "items": {
+              "targetedAds": "Quảng cáo theo mục tiêu: Hiển thị quảng cáo phù hợp sở thích",
+              "socialMedia": "Tích hợp mạng xã hội: Cho phép chia sẻ và theo dõi",
+              "remarketing": "Tiếp thị lại: Hiển thị quảng cáo cho người dùng từng truy cập",
+              "crossSite": "Theo dõi chéo trang: Theo dõi hoạt động trên nhiều trang"
+            },
+            "note": "🚫 Chưa triển khai – sẽ yêu cầu đồng ý rõ ràng nếu thêm",
+            "future": "Nếu quyết định sử dụng, chúng tôi sẽ xin ý kiến và cập nhật chính sách này"
+          }
+        },
+        "thirdParty": {
+          "title": "🌐 Cookie bên thứ ba",
+          "description": "Trang web có thể chứa nội dung hoặc dịch vụ nhúng từ bên thứ ba, những dịch vụ này có thể đặt cookie riêng:",
+          "current": {
+            "title": "Dịch vụ bên thứ ba hiện dùng:",
+            "items": {
+              "fonts": "Google Fonts: Phông chữ cho trang (không có cookie theo dõi)",
+              "cdn": "CDN: Phân phối nội dung nhanh hơn",
+              "security": "Dịch vụ bảo mật: Bảo vệ DDoS và giám sát an ninh"
+            }
+          },
+          "future": {
+            "title": "Dịch vụ bên thứ ba có thể dùng trong tương lai:",
+            "items": {
+              "analytics": "Google Analytics: Phân tích trang chi tiết",
+              "social": "Widget mạng xã hội: Tích hợp xã hội",
+              "support": "Công cụ hỗ trợ khách hàng: Trò chuyện trực tuyến"
+            }
+          },
+          "note": "Chúng tôi sẽ luôn thông báo trước khi triển khai dịch vụ bên thứ ba dùng cookie theo dõi."
+        },
+        "mobileApp": {
+          "title": "📱 Lưu trữ dữ liệu trong ứng dụng di động",
+          "subtitle": "Khác biệt quan trọng",
+          "description": "Ứng dụng di động Aeonova không dùng cookie web. Thay vào đó, sử dụng phương thức lưu trữ gốc an toàn và hiệu quả hơn:",
+          "items": {
+            "localStorage": "Lưu trữ cục bộ được mã hóa: Dữ liệu người dùng được lưu an toàn trên thiết bị",
+            "keychain": "Keychain/Keystore: Token xác thực lưu trong vùng bảo mật của thiết bị",
+            "appSettings": "Tùy chọn ứng dụng: Lưu trong sandbox của ứng dụng",
+            "offlineCache": "Khả năng ngoại tuyến: Nội dung được lưu cache để dùng khi không có mạng",
+            "biometric": "Dữ liệu sinh trắc (Face ID/Touch ID): Lưu cục bộ, không truyền đi"
+          },
+          "security": {
+            "title": "Bảo mật ứng dụng di động:",
+            "items": {
+              "encryption": "Mọi dữ liệu đều được mã hóa theo tiêu chuẩn ngành",
+              "localOnly": "Dữ liệu nhạy cảm không rời khỏi thiết bị",
+              "secure": "Sử dụng tính năng bảo mật theo nền tảng (iOS Keychain, Android Keystore)",
+              "privacy": "Không theo dõi chéo ứng dụng hay chia sẻ dữ liệu"
+            }
+          }
+        },
+        "management": {
+          "title": "⚙️ Quản lý Cookie",
+          "description": "Bạn có nhiều lựa chọn để kiểm soát và quản lý cookie trên trang web:",
+          "browserSettings": {
+            "title": "Cài đặt trình duyệt:",
+            "description": "Bạn có thể kiểm soát cookie qua cài đặt trình duyệt:",
+            "items": {
+              "chrome": "Chrome: Cài đặt → Quyền riêng tư & Bảo mật → Cookie và dữ liệu trang web khác",
+              "firefox": "Firefox: Tùy chọn → Quyền riêng tư & Bảo mật → Cookie và dữ liệu trang",
+              "safari": "Safari: Tùy chọn → Quyền riêng tư → Quản lý dữ liệu trang web",
+              "edge": "Edge: Cài đặt → Quyền của trang → Cookie và dữ liệu trang"
+            }
+          },
+          "ourSettings": {
+            "title": "Tùy chọn cookie trên trang:",
+            "description": "Bạn có thể quản lý tùy chọn cookie cho trang này:",
+            "items": {
+              "essential": "Cookie thiết yếu: Không thể tắt (cần cho chức năng trang)",
+              "performance": "Cookie hiệu năng: Có thể bật/tắt trong banner cookie",
+              "marketing": "Cookie tiếp thị: Hiện không dùng, nếu dùng sẽ là tùy chọn opt‑in"
+            }
+          },
+          "consequences": {
+            "title": "⚠️ Tắt Cookie:",
+            "description": "Nếu bạn tắt một số cookie, một số tính năng trang có thể không hoạt động đúng:",
+            "items": {
+              "language": "Không ghi nhớ ngôn ngữ ưa thích",
+              "navigation": "Một số chức năng điều hướng có thể bị ảnh hưởng",
+              "performance": "Chúng tôi không thể cải thiện hiệu năng dựa trên dữ liệu sử dụng"
+            }
+          }
+        },
+        "updates": {
+          "title": "🔄 Cập nhật chính sách",
+          "description": "Chúng tôi có thể cập nhật Chính sách Cookie theo thời gian vì lý do vận hành, pháp lý hoặc quy định.",
+          "notification": "Khi chúng tôi thay đổi chính sách này:",
+          "items": {
+            "notice": "Chúng tôi sẽ đăng chính sách cập nhật trên trang này",
+            "effective": "Thay đổi có hiệu lực ngay khi đăng",
+            "major": "Với thay đổi quan trọng, có thể có thông báo bổ sung",
+            "date": "Ngày ‘Cập nhật lần cuối’ ở đầu trang sẽ được sửa"
+          },
+          "recommendation": "Hãy xem lại chính sách này định kỳ để nắm cách chúng tôi dùng cookie."
+        },
+        "contact": {
+          "title": "📞 Câu hỏi về Cookie",
+          "subtitle": "Liên hệ",
+          "description": "Nếu bạn có câu hỏi về việc sử dụng cookie hoặc Chính sách Cookie này, vui lòng liên hệ:",
+          "methodsTitle": "Phương thức liên hệ",
+          "methods": {
+            "email": "Câu hỏi quyền riêng tư chung: privacy@aeonova.com",
+            "cookies": "Câu hỏi riêng về cookie: cookies@aeonova.com",
+            "support": "Hỗ trợ kỹ thuật: support@aeonova.com",
+            "dpo": "Nhân sự Bảo vệ Dữ liệu: dpo@aeonova.com"
+          },
+          "response": {
+            "title": "Thời gian phản hồi:",
+            "items": {
+              "general": "Yêu cầu chung: Trong 48 giờ",
+              "privacy": "Câu hỏi về quyền riêng tư: Trong 72 giờ",
+              "urgent": "Trường hợp khẩn cấp: Trong 24 giờ"
+            }
+          }
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "Chính sách lưu giữ dữ liệu",
+      "subtitle": "Chúng tôi lưu dữ liệu cá nhân của bạn trong bao lâu và vì sao",
+      "lastUpdated": "Cập nhật lần cuối: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "Tóm tắt",
+        "methods": "Phương thức:",
+        "requirements": "Yêu cầu:",
+        "contacts": "Liên hệ:",
+        "responseTimes": "Thời gian phản hồi:",
+        "process": "Quy trình:"
+      },
+      "summary": "Chính sách toàn diện này giải thích thời hạn lưu giữ từng loại dữ liệu cá nhân, cơ sở pháp lý cho việc lưu giữ và quyền của bạn liên quan đến việc xóa dữ liệu. Chúng tôi cam kết tối thiểu hóa dữ liệu và chỉ lưu giữ khi cần thiết.",
+      "sections": {
+        "introduction": {
+          "title": "📋 Giới thiệu",
+          "subtitle": "Tìm hiểu về lưu giữ dữ liệu",
+          "description": "Lưu giữ dữ liệu là khoảng thời gian chúng tôi giữ thông tin cá nhân trong hệ thống. Chính sách này giải thích thực hành lưu giữ của chúng tôi, được thiết kế để cân bằng quyền riêng tư của bạn với nhu cầu kinh doanh hợp pháp và nghĩa vụ pháp lý của chúng tôi.",
+          "keyPoints": {
+            "title": "Nguyên tắc chính:",
+            "items": {
+              "minimization": "Chỉ thu thập và lưu giữ dữ liệu cần thiết",
+              "purpose": "Chỉ lưu giữ cho mục đích thu thập ban đầu",
+              "lawful": "Thời hạn dựa trên yêu cầu pháp lý và lợi ích hợp pháp",
+              "transparent": "Minh bạch về thời hạn lưu giữ từng loại dữ liệu",
+              "secure": "Mọi dữ liệu được bảo vệ bằng biện pháp an ninh phù hợp"
+            }
+          }
+        },
+        "legalBasis": {
+          "title": "⚖️ Cơ sở pháp lý cho lưu giữ dữ liệu",
+          "subtitle": "Vì sao chúng tôi lưu dữ liệu",
+          "description": "Chúng tôi lưu giữ dữ liệu cá nhân dựa trên một số cơ sở pháp lý theo GDPR và các luật bảo mật khác:",
+          "bases": {
+            "contractual": {
+              "title": "1. 📝 Nghĩa vụ hợp đồng",
+              "description": "Dữ liệu cần thiết để cung cấp dịch vụ và thực hiện hợp đồng",
+              "examples": {
+                "title": "Ví dụ:",
+                "items": {
+                  "account": "Thông tin tài khoản cần cho dịch vụ Aeonova",
+                  "subscription": "Dữ liệu thanh toán và đăng ký cho tính năng cao cấp",
+                  "support": "Bản ghi hỗ trợ khách hàng để giải quyết vấn đề",
+                  "preferences": "Tùy chọn và cài đặt cho trải nghiệm cá nhân hóa"
+                }
+              }
+            },
+            "legal": {
+              "title": "2. 🏛️ Tuân thủ pháp lý",
+              "description": "Dữ liệu chúng tôi phải lưu để tuân thủ nghĩa vụ pháp lý",
+              "examples": {
+                "title": "Ví dụ:",
+                "items": {
+                  "financial": "Hồ sơ tài chính phục vụ thuế và kế toán (7 năm)",
+                  "security": "Nhật ký an ninh phục vụ điều tra gian lận và lạm dụng (2 năm)",
+                  "gdpr": "Hồ sơ đồng ý và hoạt động xử lý (3 năm)",
+                  "disputes": "Dữ liệu liên quan đến tranh chấp pháp lý cho đến khi giải quyết"
+                }
+              }
+            },
+            "legitimate": {
+              "title": "3. 🎯 Lợi ích hợp pháp",
+              "description": "Dữ liệu lưu giữ cho mục đích kinh doanh hợp pháp, cân bằng với quyền riêng tư của bạn",
+              "examples": {
+                "title": "Ví dụ:",
+                "items": {
+                  "analytics": "Dữ liệu sử dụng ẩn danh để cải thiện dịch vụ (90 ngày)",
+                  "security": "Giám sát an ninh để bảo vệ người dùng (1 năm)",
+                  "research": "Nghiên cứu & phát triển sản phẩm (chỉ dữ liệu ẩn danh)",
+                  "communications": "Sự đồng ý tiếp thị và tùy chọn liên lạc"
+                }
+              }
+            }
+          }
+        },
+        "categories": {
+          "title": "⏰ Thời hạn lưu giữ theo loại dữ liệu",
+          "subtitle": "Thời hạn cụ thể",
+          "description": "Dưới đây là thời hạn lưu giữ cho từng loại dữ liệu chúng tôi thu thập:",
+          "account": {
+            "title": "👤 Thông tin tài khoản và hồ sơ",
+            "headings": {
+              "basicProfile": "Hồ sơ cơ bản",
+              "preferences": "Tùy chọn",
+              "subscription": "Đăng ký",
+              "authentication": "Xác thực"
+            },
+            "items": {
+              "basic": {
+                "data": "Tên người dùng, tuổi, ảnh đại diện, cài đặt hồ sơ",
+                "period": "Trong khi tài khoản hoạt động + 30 ngày sau khi xóa",
+                "basis": "Cần thiết cho hợp đồng",
+                "deletion": "Tự động xóa sau 30 ngày kể từ khi xóa tài khoản"
+              },
+              "preferences": {
+                "data": "Ngôn ngữ, cài đặt ứng dụng, tùy chọn thông báo",
+                "period": "Trong khi tài khoản hoạt động",
+                "basis": "Cần thiết cho hợp đồng & lợi ích hợp pháp",
+                "deletion": "Xóa ngay khi xóa tài khoản"
+              },
+              "subscription": {
+                "data": "Thông tin đăng ký cao cấp, lịch sử thanh toán",
+                "period": "Thời hạn đăng ký + 7 năm",
+                "basis": "Tuân thủ pháp lý (hồ sơ tài chính)",
+                "deletion": "Tự động xóa sau thời hạn lưu giữ"
+              },
+              "authentication": {
+                "data": "Thông tin đăng nhập, token bảo mật",
+                "period": "Trong khi tài khoản hoạt động + 30 ngày",
+                "basis": "Cần thiết cho hợp đồng & bảo mật",
+                "deletion": "Vô hiệu ngay khi xóa tài khoản"
+              }
+            },
+            "note": "💡 Xóa tài khoản là không thể hoàn tác sau thời gian ân hạn 30 ngày. Trong thời gian này, bạn có thể khôi phục bằng cách đăng nhập."
+          },
+          "content": {
+            "title": "💬 Dữ liệu trò chuyện và nội dung",
+            "headings": {
+              "chatHistory": "Lịch sử chat",
+              "privateMemories": "Kỷ niệm riêng tư",
+              "sharedMemories": "Kỷ niệm chia sẻ",
+              "aiComments": "Bình luận AI",
+              "userFeedback": "Phản hồi người dùng"
+            },
+            "items": {
+              "chatHistory": {
+                "data": "Cuộc trò chuyện với AI và lịch sử tin nhắn",
+                "period": "Lưu cục bộ trên thiết bị: không giới hạn / Cache máy chủ: 30 ngày",
+                "basis": "Cần thiết cho hợp đồng",
+                "deletion": "Dữ liệu máy chủ xóa sau 30 ngày; dữ liệu cục bộ do người dùng kiểm soát"
+              },
+              "privateMemories": {
+                "data": "Nhật ký cá nhân và kỷ niệm riêng tư",
+                "period": "Do người dùng kiểm soát - có thể xóa bất cứ lúc nào",
+                "basis": "Cần thiết cho hợp đồng",
+                "deletion": "Xóa ngay khi người dùng xóa hoặc khi xóa tài khoản"
+              },
+              "sharedMemories": {
+                "data": "Kỷ niệm và bài viết được chia sẻ công khai",
+                "period": "Trong thời gian chia sẻ + 1 năm sau khi xóa",
+                "basis": "Lợi ích hợp pháp (kiểm duyệt nội dung)",
+                "deletion": "Giữ 1 năm cho mục đích kiểm duyệt, sau đó xóa vĩnh viễn"
+              },
+              "aiComments": {
+                "data": "Bình luận và phản hồi do AI tạo",
+                "period": "Giống nội dung liên quan",
+                "basis": "Cần thiết cho hợp đồng",
+                "deletion": "Xóa cùng nội dung liên quan"
+              },
+              "userFeedback": {
+                "data": "Đánh giá và phản hồi về câu trả lời của AI",
+                "period": "2 năm (ẩn danh sau 90 ngày)",
+                "basis": "Lợi ích hợp pháp (cải thiện dịch vụ)",
+                "deletion": "Ẩn danh sau 90 ngày, xóa hoàn toàn sau 2 năm"
+              }
+            },
+            "note": "💡 Phần lớn dữ liệu chat được lưu cục bộ trên thiết bị của bạn để đảm bảo quyền riêng tư. Chỉ sử dụng cache máy chủ tối thiểu để tăng hiệu năng."
+          },
+          "technical": {
+            "title": "🔧 Dữ liệu kỹ thuật và hệ thống",
+            "headings": {
+              "usageLogs": "Nhật ký sử dụng",
+              "errorReports": "Báo cáo lỗi",
+              "securityLogs": "Nhật ký an ninh",
+              "deviceInfo": "Thông tin thiết bị",
+              "notifications": "Thông báo"
+            },
+            "items": {
+              "usageLogs": {
+                "data": "Mẫu sử dụng ứng dụng, mức độ dùng tính năng, dữ liệu phiên",
+                "period": "90 ngày (xóa định danh cá nhân sau 30 ngày)",
+                "basis": "Lợi ích hợp pháp (cải thiện dịch vụ)",
+                "deletion": "Xóa định danh sau 30 ngày, xóa hoàn toàn sau 90 ngày"
+              },
+              "errorReports": {
+                "data": "Báo cáo sự cố, nhật ký lỗi, dữ liệu hiệu năng",
+                "period": "1 năm (ẩn danh ngay)",
+                "basis": "Lợi ích hợp pháp (cải thiện kỹ thuật)",
+                "deletion": "Không bao gồm dữ liệu cá nhân; xóa dữ liệu kỹ thuật sau 1 năm"
+              },
+              "securityLogs": {
+                "data": "Lần thử đăng nhập, sự kiện an ninh, phát hiện gian lận",
+                "period": "2 năm",
+                "basis": "Lợi ích hợp pháp và tuân thủ pháp lý",
+                "deletion": "Tự động xóa sau 2 năm"
+              },
+              "deviceInfo": {
+                "data": "Loại thiết bị, phiên bản hệ điều hành, phiên bản ứng dụng",
+                "period": "Trong khi tài khoản hoạt động + 30 ngày",
+                "basis": "Cần thiết cho hợp đồng (tương thích)",
+                "deletion": "Xóa khi xóa tài khoản"
+              },
+              "notifications": {
+                "data": "Token thông báo đẩy, nhật ký gửi",
+                "period": "Trong khi tài khoản hoạt động",
+                "basis": "Cần thiết cho hợp đồng",
+                "deletion": "Vô hiệu ngay khi xóa tài khoản hoặc từ chối nhận"
+              }
+            },
+            "note": "💡 Dữ liệu kỹ thuật chủ yếu dùng để cải thiện hiệu năng và bảo mật. Định danh cá nhân được xóa sớm nhất có thể."
+          },
+          "communications": {
+            "title": "📧 Liên lạc và hỗ trợ",
+            "headings": {
+              "supportTickets": "Vé hỗ trợ",
+              "marketingConsent": "Đồng ý tiếp thị",
+              "contactForms": "Biểu mẫu liên hệ"
+            },
+            "items": {
+              "supportTickets": {
+                "data": "Cuộc trò chuyện và vé hỗ trợ khách hàng",
+                "period": "3 năm sau khi xử lý",
+                "basis": "Lợi ích hợp pháp (chăm sóc khách hàng)",
+                "deletion": "Tự động xóa sau 3 năm"
+              },
+              "marketingConsent": {
+                "data": "Sự đồng ý nhận email tiếp thị và tùy chọn",
+                "period": "Cho đến khi rút lại + 1 năm",
+                "basis": "Sự đồng ý và tuân thủ pháp lý",
+                "deletion": "Xóa ngay khi rút lại, giữ bản ghi kiểm toán 1 năm"
+              },
+              "contactForms": {
+                "data": "Gửi từ biểu mẫu liên hệ và yêu cầu",
+                "period": "2 năm",
+                "basis": "Lợi ích hợp pháp (liên lạc kinh doanh)",
+                "deletion": "Tự động xóa sau 2 năm"
+              }
+            }
+          }
+        },
+        "automaticDeletion": {
+          "title": "🤖 Xóa dữ liệu tự động",
+          "subtitle": "Quy trình tự động hóa",
+          "description": "Chúng tôi triển khai hệ thống tự động để đảm bảo dữ liệu được xóa theo lịch trình:",
+          "processes": {
+            "daily": {
+              "title": "Dọn dẹp hằng ngày (mỗi 24 giờ)",
+              "items": {
+                "expired": "Token phiên hết hạn và dữ liệu tạm",
+                "cache": "Cache và tệp tạm hết hạn",
+                "logs": "Xoay vòng nhật ký vượt quá thời hạn"
+              }
+            },
+            "weekly": {
+              "title": "Dọn dẹp hằng tuần (Chủ nhật)",
+              "items": {
+                "accounts": "Tài khoản đánh dấu xóa sau thời gian ân hạn",
+                "anonymization": "Ẩn danh dữ liệu sử dụng quá 30 ngày",
+                "backups": "Xóa bản sao lưu vượt quá thời hạn"
+              }
+            },
+            "monthly": {
+              "title": "Dọn dẹp hằng tháng (ngày 1 mỗi tháng)",
+              "items": {
+                "technical": "Nhật ký kỹ thuật và báo cáo lỗi quá hạn",
+                "analytics": "Dữ liệu phân tích quá 90 ngày",
+                "audit": "Kiểm toán toàn diện tuân thủ lưu giữ"
+              }
+            },
+            "annual": {
+              "title": "Rà soát hằng năm (1/1)",
+              "items": {
+                "policies": "Xem xét và cập nhật thời hạn lưu giữ",
+                "compliance": "Kiểm toán tuân thủ và tài liệu hóa đầy đủ",
+                "systems": "Cập nhật hệ thống xóa tự động"
+              }
+            }
+          },
+          "monitoring": {
+            "title": "Giám sát & xác minh:",
+            "items": {
+              "alerts": "Cảnh báo tự động khi vi phạm chính sách lưu giữ",
+              "reports": "Báo cáo tuân thủ lưu giữ hàng tháng",
+              "audits": "Kiểm toán định kỳ quy trình xóa",
+              "verification": "Xác minh dữ liệu đã xóa không thể khôi phục"
+            }
+          }
+        },
+        "accountStatus": {
+          "title": "🔄 Lưu giữ theo trạng thái tài khoản",
+          "subtitle": "Các kịch bản khác nhau",
+          "active": {
+            "title": "🟢 Tài khoản hoạt động",
+            "description": "Đối với tài khoản đang hoạt động và sử dụng tốt:",
+            "items": {
+              "normalStorage": "Dữ liệu được lưu theo thời hạn tiêu chuẩn",
+              "userControl": "Người dùng có thể tự xóa dữ liệu trong ứng dụng",
+              "backups": "Sao lưu mã hóa định kỳ cho khôi phục",
+              "security": "Áp dụng đầy đủ biện pháp bảo mật và giám sát",
+              "updates": "Người dùng có thể cập nhật và chỉnh sửa dữ liệu",
+              "export": "Có thể xuất dữ liệu bất cứ lúc nào"
+            }
+          },
+          "inactive": {
+            "title": "🟡 Tài khoản không hoạt động",
+            "description": "Đối với tài khoản không sử dụng trong thời gian dài:",
+            "items": {
+              "warning": "Cảnh báo qua email sau 12 tháng không hoạt động",
+              "finalNotice": "Thông báo cuối cùng sau 18 tháng không hoạt động",
+              "deletion": "Đánh dấu xóa sau 24 tháng không hoạt động",
+              "gracePeriod": "Ân hạn 30 ngày trước khi xóa vĩnh viễn",
+              "dataMinimization": "Có thể xóa dữ liệu không thiết yếu trong thời gian không hoạt động"
+            },
+            "note": "💡 Bạn có thể kích hoạt lại tài khoản bất cứ lúc nào bằng cách đăng nhập, bộ đếm không hoạt động sẽ được đặt lại."
+          },
+          "deleted": {
+            "title": "🔴 Tài khoản đã xóa",
+            "description": "Khi bạn yêu cầu xóa tài khoản:",
+            "items": {
+              "gracePeriod": "Ân hạn 30 ngày trong đó bạn có thể khôi phục tài khoản",
+              "immediateActions": "Vô hiệu thông tin đăng nhập ngay lập tức",
+              "dataReview": "Xem xét dữ liệu cá nhân theo yêu cầu pháp lý",
+              "permanentDeletion": "Sau thời gian ân hạn, xóa vĩnh viễn toàn bộ dữ liệu",
+              "legalException": "Chỉ lưu dữ liệu bắt buộc theo pháp luật (ẩn danh khi có thể)",
+              "noRecovery": "Không thể khôi phục sau thời gian ân hạn",
+              "confirmation": "Gửi email xác nhận khi hoàn tất xóa"
+            }
+          },
+          "suspended": {
+            "title": "🚫 Tài khoản bị đình chỉ",
+            "description": "Đối với tài khoản bị đình chỉ do vi phạm điều khoản:",
+            "items": {
+              "retention": "Lưu dữ liệu trong thời gian đình chỉ để điều tra",
+              "appeal": "Dữ liệu có sẵn trong quá trình kháng nghị (tối đa 90 ngày)",
+              "deletion": "Nếu đình chỉ trở thành vĩnh viễn, áp dụng quy trình xóa thông thường",
+              "reinstatement": "Khi khôi phục, áp dụng lại chính sách lưu giữ thông thường"
+            }
+          }
+        },
+        "userRights": {
+          "title": "👥 Quyền liên quan đến lưu giữ dữ liệu",
+          "subtitle": "Bạn có thể làm gì",
+          "description": "Bạn có nhiều quyền liên quan đến thời gian chúng tôi lưu dữ liệu của bạn:",
+          "access": {
+            "title": "🔍 Quyền truy cập",
+            "description": "Bạn có thể yêu cầu thông tin về dữ liệu chúng tôi có và thời gian lưu",
+            "items": {
+              "request": "Gửi yêu cầu truy cập dữ liệu qua email hoặc trong ứng dụng",
+              "response": "Chúng tôi sẽ cung cấp báo cáo đầy đủ trong 30 ngày",
+              "format": "Cung cấp ở định dạng có cấu trúc, máy đọc",
+              "frequency": "Mỗi năm một lần miễn phí"
+            }
+          },
+          "deletion": {
+            "title": "🗑️ Quyền xóa",
+            "description": "Bạn có thể yêu cầu xóa dữ liệu cá nhân trong một số trường hợp",
+            "items": {
+              "immediate": "Xóa tài khoản trong ứng dụng (xử lý ngay)",
+              "selective": "Yêu cầu xóa có chọn lọc từng loại dữ liệu",
+              "legal": "Có thể từ chối nếu luật yêu cầu lưu",
+              "verification": "Cần xác minh danh tính cho yêu cầu xóa"
+            }
+          },
+          "portability": {
+            "title": "📦 Quyền chuyển dữ liệu",
+            "description": "Bạn có thể yêu cầu bản sao dữ liệu ở định dạng có thể chuyển",
+            "items": {
+              "export": "Tải dữ liệu trực tiếp trong ứng dụng",
+              "format": "Định dạng JSON hoặc CSV",
+              "scope": "Bao gồm mọi dữ liệu cá nhân chúng tôi lưu về bạn",
+              "transfer": "Có thể dùng để chuyển sang dịch vụ khác"
+            }
+          },
+          "objection": {
+            "title": "✋ Quyền phản đối",
+            "description": "Bạn có thể phản đối một số loại xử lý và lưu giữ",
+            "items": {
+              "marketing": "Từ chối ngay lưu dữ liệu tiếp thị",
+              "analytics": "Phản đối việc thu thập và lưu dữ liệu phân tích",
+              "profiling": "Phản đối quyết định tự động và lập hồ sơ",
+              "legitimate": "Phản đối lưu giữ dựa trên lợi ích hợp pháp"
+            }
+          }
+        },
+        "specialCircumstances": {
+          "title": "⚖️ Trường hợp đặc biệt",
+          "subtitle": "Lưu giữ kéo dài",
+          "description": "Trong một số tình huống, chúng tôi có thể cần lưu dữ liệu lâu hơn bình thường:",
+          "legal": {
+            "title": "🏛️ Tố tụng pháp lý",
+            "description": "Dữ liệu có thể lưu lâu hơn nếu liên quan đến tố tụng",
+            "items": {
+              "litigation": "Lưu dữ liệu trong quá trình kiện tụng hoặc điều tra",
+              "subpoena": "Kéo dài lưu giữ khi có trát đòi hoặc lệnh tòa",
+              "investigation": "Điều tra gian lận hoặc an ninh có thể cần lưu bổ sung",
+              "notification": "Sẽ thông báo nếu dữ liệu bị áp dụng lệnh giữ pháp lý"
+            }
+          },
+          "security": {
+            "title": "🔒 Sự cố an ninh",
+            "description": "Có thể lưu dữ liệu liên quan an ninh cho mục đích ứng phó sự cố",
+            "items": {
+              "breaches": "Lưu nhật ký an ninh để điều tra và phòng ngừa vi phạm",
+              "forensics": "Giám định số có thể yêu cầu lưu giữ tạm thời kéo dài",
+              "patterns": "Dữ liệu ẩn danh dùng để nhận diện mẫu tấn công",
+              "reporting": "Lưu để đáp ứng nghĩa vụ báo cáo theo quy định"
+            }
+          },
+          "financial": {
+            "title": "💰 Nghĩa vụ tài chính",
+            "description": "Dữ liệu tài chính có thời hạn lưu giữ dài hơn",
+            "items": {
+              "tax": "Lưu hồ sơ tài chính 7 năm cho mục đích thuế",
+              "audit": "Lưu dữ liệu thanh toán phục vụ kiểm toán",
+              "disputes": "Tranh chấp thanh toán có thể kéo dài thời hạn lưu",
+              "refunds": "Thời hạn hoàn tiền có thể ảnh hưởng việc lưu giữ"
+            }
+          }
+        },
+        "dataLocations": {
+          "title": "🌍 Vị trí lưu trữ và lưu giữ dữ liệu",
+          "subtitle": "Dữ liệu của bạn được lưu ở đâu",
+          "description": "Thời hạn lưu giữ có thể khác nhau theo nơi lưu và luật áp dụng:",
+          "primary": {
+            "title": "Lưu trữ chính (EU/EEA)",
+            "description": "Lưu trữ chính trong Khu vực Kinh tế Châu Âu",
+            "items": {
+              "location": "Máy chủ chính tại Đức và Hà Lan",
+              "law": "Tuân thủ GDPR và luật quyền riêng tư EU",
+              "retention": "Thời hạn tiêu chuẩn theo chính sách này",
+              "protection": "Bảo vệ và quyền đầy đủ theo GDPR"
+            }
+          },
+          "backups": {
+            "title": "Bản sao lưu",
+            "description": "Sao lưu mã hóa cho khôi phục thảm họa",
+            "items": {
+              "locations": "Cơ sở bảo mật tại EU và Thụy Sĩ",
+              "retention": "Lưu bản sao lưu tối đa 1 năm",
+              "encryption": "Mã hóa đầu-cuối với quản lý khóa tách biệt",
+              "deletion": "Xóa bản sao lưu theo xóa dữ liệu chính"
+            }
+          },
+          "cache": {
+            "title": "Cache và CDN",
+            "description": "Bộ nhớ đệm tạm thời cho hiệu năng",
+            "items": {
+              "duration": "Dữ liệu cache lưu tối đa 30 ngày",
+              "locations": "Nút CDN ở nhiều khu vực",
+              "anonymization": "Không có định danh cá nhân trong nội dung cache",
+              "automatic": "Tự động hết hạn và xóa"
+            }
+          }
+        },
+        "compliance": {
+          "title": "📜 Tuân thủ quy định",
+          "subtitle": "Đáp ứng yêu cầu pháp lý",
+          "description": "Thực hành lưu giữ của chúng tôi tuân thủ các quy định quyền riêng tư quốc tế:",
+          "gdpr": {
+            "title": "🇪🇺 GDPR (Quy định chung về bảo vệ dữ liệu)",
+            "items": {
+              "lawfulness": "Mọi lưu giữ dựa trên cơ sở hợp pháp",
+              "minimization": "Tuân thủ nghiêm nguyên tắc tối thiểu hóa dữ liệu",
+              "rights": "Thực thi đầy đủ quyền của chủ thể dữ liệu",
+              "accountability": "Lưu tài liệu cho mọi quyết định lưu giữ"
+            }
+          },
+          "ccpa": {
+            "title": "🇺🇸 CCPA (Luật quyền riêng tư người tiêu dùng California)",
+            "items": {
+              "disclosure": "Thông báo rõ thời hạn lưu cho cư dân California",
+              "deletion": "Quyền xóa được xử lý trong 45 ngày",
+              "categories": "Phân loại chi tiết thông tin cá nhân",
+              "business": "Mục đích kinh doanh cho từng thời hạn được nêu rõ"
+            }
+          },
+          "other": {
+            "title": "🌐 Quy định khác",
+            "items": {
+              "pipeda": "Tuân thủ PIPEDA cho người dùng Canada",
+              "lgpd": "Tuân thủ LGPD cho người dùng Brazil",
+              "pdpa": "Tuân thủ PDPA cho người dùng Singapore",
+              "local": "Tuân thủ luật địa phương áp dụng"
+            }
+          }
+        },
+        "contact": {
+          "title": "📞 Liên hệ & yêu cầu",
+          "subtitle": "Cách liên hệ với chúng tôi",
+          "description": "Đối với câu hỏi hoặc yêu cầu liên quan đến lưu giữ dữ liệu:",
+          "deletion": {
+            "title": "🗑️ Yêu cầu xóa dữ liệu",
+            "methods": {
+              "app": "Khuyến nghị: Cài đặt ứng dụng → Tài khoản → Xóa tài khoản",
+              "email": "Email: deletion@aeonova.com",
+              "form": "Biểu mẫu trực tuyến: aeonova.com/delete-account"
+            },
+            "requirements": {
+              "verification": "Cần xác minh danh tính vì lý do bảo mật",
+              "confirmation": "Gửi email xác nhận tới địa chỉ đã đăng ký",
+              "timeline": "Xử lý trong 7 ngày làm việc"
+            }
+          },
+          "questions": {
+            "title": "❓ Câu hỏi về lưu giữ dữ liệu",
+            "contacts": {
+              "general": "Câu hỏi chung: retention@aeonova.com",
+              "dpo": "Nhân sự Bảo vệ Dữ liệu: dpo@aeonova.com",
+              "support": "Hỗ trợ kỹ thuật: support@aeonova.com",
+              "legal": "Vấn đề pháp lý: legal@aeonova.com"
+            },
+            "response": {
+              "standard": "Yêu cầu tiêu chuẩn: 5 ngày làm việc",
+              "complex": "Vấn đề phức tạp: 15 ngày làm việc",
+              "urgent": "Yêu cầu khẩn cấp: 2 ngày làm việc"
+            }
+          },
+          "appeals": {
+            "title": "⚖️ Kháng nghị và khiếu nại",
+            "process": {
+              "internal": "Kháng nghị nội bộ: appeals@aeonova.com",
+              "external": "Cư dân EU: Liên hệ Cơ quan bảo vệ dữ liệu địa phương",
+              "timeline": "Phản hồi kháng nghị trong 30 ngày",
+              "escalation": "Có quy trình leo thang cho trường hợp chưa giải quyết"
+            }
+          }
+        }
+      }
+    }
+  }
+}

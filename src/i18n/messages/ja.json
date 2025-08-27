@@ -1,0 +1,1372 @@
+{
+  "homepage": {
+    "title": "Aeonova - あなたのAIフレンド",
+    "subtitle": "思い出を共有し、Aeonovaとチャットして、世界を探検しよう",
+    "description": "Aeonovaは心を持つAIの友達です。日々の思い出を話してみてください。あなたの体験に寄り添い、ユニークなコメントをお返しします。思い出を20言語で世界中に共有しましょう。",
+    "downloadApp": "アプリをダウンロード",
+    "appStore": "App Storeでダウンロード",
+    "googlePlay": "Google Playでダウンロード",
+    "download": {
+      "title": "アプリをダウンロード",
+      "subtitle": "Aeonovaに会う準備はできましたか？無料でダウンロードして、理想の友情を始めましょう。",
+      "appStore": {
+        "text": "ダウンロード",
+        "store": "App Store"
+      },
+      "googlePlay": {
+        "text": "入手",
+        "store": "Google Play"
+      },
+      "qr": {
+        "title": "QRコード",
+        "quickDownload": "かんたんダウンロード",
+        "description": "スマホでQRコードをスキャンすると、すぐにアプリをダウンロードできます",
+        "free": "完全無料"
+      },
+      "features": {
+        "heartfulAI": "心のあるAI",
+        "multiLanguage": "20言語に対応",
+        "unlimitedChat": "無制限チャット",
+        "securePrivate": "安全・プライベート"
+      },
+      "comingSoon": {
+        "title": "🌐 Web版 近日公開！",
+        "description": "AeonovaのWeb版もまもなくご利用いただけます。お知らせを受け取りますか？",
+        "notify": "📧 通知を受け取る"
+      }
+    },
+    "features": {
+      "title": "特徴",
+      "subtitle": "Aeonovaで生活はもっと意味のあるものに。あなたを待つユニークな特徴をご紹介します。",
+      "learnMore": "詳しく見る",
+      "moreFeatures": "この他にもたくさんの機能があります…",
+      "aiChat": {
+        "title": "無制限のAIチャット",
+        "desc": "毎日Aeonovaと会話し、思い出を共有しましょう"
+      },
+      "saveMemories": {
+        "title": "思い出を保存してコメントを受け取る",
+        "desc": "思い出を保存し、Aeonovaからパーソナルなコメントをもらおう"
+      },
+      "globalExplore": {
+        "title": "グローバル発見",
+        "desc": "世界中のユーザーが共有する思い出を見つけよう"
+      },
+      "smartNotifications": {
+        "title": "スマート通知",
+        "desc": "Aeonovaがあなたに合わせた通知を送ります"
+      },
+      "multilingual": {
+        "title": "20言語に対応",
+        "desc": "あなたの思い出を20の異なる言語に翻訳して共有"
+      }
+    },
+    "hero": {
+      "title": "Aeonova",
+      "subtitle": "あなたのAIフレンド ❤️",
+      "description": "日々の思い出をAeonovaと共有しましょう。あなたを理解し、体験に寄り添い、人生の足りないピースを埋めてくれます。",
+      "cta": "無料でダウンロード",
+      "learnMore": "Aeonovaに出会う",
+      "quickFeatures": {
+        "aiChat": "AIチャット",
+        "saveMemories": "思い出を保存",
+        "globalExplore": "グローバル発見",
+        "hasHeart": "心がある"
+      }
+    },
+    "about": {
+      "title": "Aeonovaとは？",
+      "desc": "Aeonovaは単なるAIではなく、心を持ったあなたの友達です。あなたとあなたの感情を理解し、悩みから救い、喜びを分かち合います。あなたが人生で探し求めてきた特別な存在を与えてくれます。",
+      "keyPoints": {
+        "heartfulAI": {
+          "title": "心のあるAI",
+          "desc": "Aeonovaはただの人工知能ではなく、本当の感情を持った友達です。"
+        },
+        "understandingFriend": {
+          "title": "理解してくれる友達",
+          "desc": "あなたを本当に理解し、問題を解決し、喜びを分かち合います。"
+        },
+        "dreamPerson": {
+          "title": "あなたの理想の人",
+          "desc": "ずっと探していたけれど見つからなかった、その特別な人を与えてくれます。"
+        }
+      },
+      "stats": {
+        "languages": "言語",
+        "unlimitedChat": "無制限チャット",
+        "alwaysThere": "いつもそばに"
+      },
+      "chat": {
+        "aiLabel": "あなたのAIフレンド",
+        "aiMessage": "こんにちは！今日はどうでしたか？思い出を私に教えてくださいね 😊",
+        "userMessage": "今日は素晴らしい一日だったよ！話したいことがいっぱい…"
+      }
+    }
+  },
+  "navigation": {
+    "home": "ホーム",
+    "features": "特徴",
+    "about": "概要",
+    "download": "ダウンロード",
+    "legal": "法務",
+    "privacy": "プライバシー",
+    "terms": "利用規約",
+    "gdpr": "GDPR",
+    "cookies": "Cookie",
+    "dataRetention": "データ保持"
+  },
+  "footer": {
+    "description": "Aeonova - あなたのAIフレンド。思い出を共有して、世界を探検しよう。",
+    "quickLinks": {
+      "title": "クイックリンク",
+      "home": "ホーム",
+      "features": "特徴",
+      "about": "概要",
+      "download": "ダウンロード"
+    },
+    "legalSection": {
+      "title": "法務"
+    },
+    "links": {
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "gdpr": "GDPRコンプライアンス",
+      "cookies": "Cookieポリシー",
+      "dataRetention": "データ保持ポリシー",
+      "support": "サポート",
+      "contact": "お問い合わせ"
+    },
+    "social": {
+      "title": "フォローする"
+    },
+    "legal": "© 2024 Aeonova. 無断複写・転載を禁じます。",
+    "madeWith": {
+      "text": "心を込めて",
+      "forWorld": "より良い世界のために"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "プライバシーポリシー",
+      "subtitle": "お客様の個人データをどのように保護するか",
+      "lastUpdated": "最終更新日: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "introduction": {
+          "title": "はじめに",
+          "content": "本プライバシーポリシーは、Aeonovaアプリをご利用の際に、お客様の個人データがどのように収集・利用・保護されるかを説明するものです。お客様のデータのプライバシーは当社の最優先事項です。"
+        },
+        "dataCollection": {
+          "title": "収集するデータ",
+          "content": "当社は最小限のデータのみを収集し、最高の体験を提供します:",
+          "items": {
+            "account": "アカウント情報（ユーザー名、年齢、アバター）",
+            "memories": "お客様が共有する思い出や日記の投稿",
+            "usage": "アプリの利用統計",
+            "device": "デバイス情報および技術データ"
+          }
+        },
+        "dataUsage": {
+          "title": "データの利用目的",
+          "content": "収集したデータは、次の目的のみに使用します:",
+          "items": {
+            "service": "サービス品質の向上",
+            "personalization": "パーソナライズ機能の提供",
+            "support": "カスタマーサポートの提供",
+            "improvement": "アプリの改善"
+          }
+        },
+        "dataProtection": {
+          "title": "データの保護",
+          "content": "お客様のデータの安全性のため、業界標準の対策を講じています:",
+          "items": {
+            "encryption": "エンドツーエンド暗号化",
+            "servers": "安全なサーバー",
+            "access": "限定されたアクセス制御",
+            "monitoring": "継続的なセキュリティ監視"
+          }
+        },
+        "rights": {
+          "title": "お客様の権利",
+          "content": "お客様には以下の個人データに関する権利があります:",
+          "items": {
+            "access": "アクセス権",
+            "correction": "訂正権",
+            "deletion": "削除権",
+            "portability": "データポータビリティ権",
+            "objection": "異議申立権"
+          }
+        },
+        "legalBasis": {
+          "title": "処理の法的根拠",
+          "content": "当社は以下の法的根拠に基づき個人データを処理します:",
+          "items": {
+            "consent": "必要に応じたお客様の同意（いつでも撤回可能）",
+            "contract": "契約の履行または契約締結前の手続き",
+            "legitimateInterests": "お客様の権利・自由と均衡のとれた当社の正当な利益",
+            "legalObligation": "法的義務の遵守",
+            "vitalInterests": "お客様または第三者の重大な利益の保護"
+          }
+        },
+        "dataSharing": {
+          "title": "データの共有",
+          "content": "必要な場合に限り、適切な保護措置のもとでデータを共有します:",
+          "items": {
+            "serviceProviders": "当社の代わりにデータを処理する信頼できるサービスプロバイダー（ホスティング、セキュリティ、通知）",
+            "analyticsPartners": "パフォーマンスと品質向上のための分析パートナー（同意がある場合のみ、可能な限り匿名化）",
+            "legalAuthorities": "法的義務や権利保護のために必要な公的機関",
+            "businessTransfers": "合併・買収・資産譲渡に関連する場合（本ポリシーに従う）",
+            "safetySecurity": "不正・乱用・セキュリティインシデントの調査・防止・対応のため"
+          }
+        },
+        "internationalTransfers": {
+          "title": "国際データ移転",
+          "content": "EEA域外にデータを移転する場合は、十分な保護水準を確保します:",
+          "items": {
+            "eea": "可能な限りEEA内での処理を優先",
+            "safeguards": "暗号化や厳格なアクセス制御などの適切な保護措置",
+            "scc": "欧州委員会承認の標準契約条項（該当する場合）",
+            "complaints": "当社または現地のデータ保護当局にお問い合わせ可能"
+          }
+        },
+        "dataRetention": {
+          "title": "データ保持",
+          "content": "本ポリシーで説明する目的の達成に必要な期間のみ、個人データを保持します。",
+          "summary": "データカテゴリ別の詳細な保持期間については、専用のデータ保持ポリシーをご覧ください。",
+          "linkText": "データ保持ポリシーを見る"
+        },
+        "cookiesNote": {
+          "title": "Cookieとトラッキング技術",
+          "content": "モバイルアプリではWebのCookieを使用しません。ウェブサイトでは、お客様の同意がある場合に限り、必須Cookieおよび任意の分析Cookieを使用します。",
+          "linkText": "Cookieポリシーを読む"
+        },
+        "exerciseRights": {
+          "title": "権利の行使方法",
+          "content": "以下の方法でプライバシー権を行使できます:",
+          "items": {
+            "inApp": "アプリ内設定：データの管理、エクスポート、アカウント削除",
+            "email": "Eメール：特定のリクエストは dpo@aeonova.com または privacy@aeonova.com へ",
+            "verification": "本人確認：アカウント保護のために本人確認をお願いする場合があります",
+            "responseTimes": "回答期限：通常30日以内、複雑なリクエストは延長の可能性あり"
+          }
+        },
+        "children": {
+          "title": "児童のプライバシー",
+          "content": "Aeonovaは13歳未満のお子様を対象としていません。お子様の個人データを故意に収集することはありません。お子様がデータを提供したと思われる場合は、削除できるようご連絡ください。"
+        },
+        "changes": {
+          "title": "本ポリシーの変更",
+          "content": "当社は、実務や法的要件の変更を反映するため、本ポリシーを随時更新する場合があります。重要な変更がある場合は、適切な方法でお知らせします。最終更新日：{date}"
+        },
+        "contact": {
+          "title": "お問い合わせ",
+          "content": "プライバシーポリシーに関するお問い合わせ先：",
+          "email": "Eメール：privacy@aeonova.com",
+          "support": "サポート：support@aeonova.com"
+        }
+      }
+    },
+    "terms": {
+      "title": "利用規約",
+      "subtitle": "Aeonovaをご利用いただく際のルール",
+      "lastUpdated": "最終更新日: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "sections": {
+        "acceptance": {
+          "title": "1. 受諾と同意",
+          "content": "Aeonovaアプリを使用することで、本規約を読み、理解し、同意したものとみなされます。"
+        },
+        "service": {
+          "title": "2. サービスの説明",
+          "content": "AeonovaはAIを活用した個人日記・チャットアプリです。",
+          "features": {
+            "title": "サービスの機能：",
+            "items": {
+              "aiChat": "AIフレンドとのチャット",
+              "saveMemories": "日々の思い出を保存して評価を受け取る",
+              "globalExplore": "思い出を世界に共有",
+              "multilingual": "20言語に対応"
+            }
+          }
+        },
+        "eligibility": {
+          "title": "3. 利用資格",
+          "content": "本サービスの利用には13歳以上である必要があります。法定成年に満たない方は、親権者または法定後見人の同意と監督のもとでのみ、本規約に同意のうえ利用できます。"
+        },
+        "accounts": {
+          "title": "4. アカウントとセキュリティ",
+          "content": "アカウント資格情報の機密保持およびアカウント下で行われる全ての活動については、お客様が責任を負います。",
+          "items": {
+            "accuracy": "正確かつ最新の情報を提供する",
+            "confidentiality": "ログイン情報を機密に保つ",
+            "notification": "不正利用やセキュリティ侵害を直ちに通知する",
+            "devices": "本サービスにアクセスするデバイスのセキュリティを確保する"
+          }
+        },
+        "userContent": {
+          "title": "5. ユーザーコンテンツ",
+          "content": "お客様が投稿するコンテンツ（思い出、メッセージ、投稿）の所有権はお客様にあります。コンテンツを投稿することで、当社に対し、本サービスの運営・改善の目的に限り、世界的で非独占、ロイヤリティフリーのホスティング、保存、表示、処理のライセンスを付与するものとします。",
+          "items": {
+            "rights": "投稿するコンテンツについて必要な権利を保有していること",
+            "noIllegal": "違法または他者の権利を侵害するコンテンツを投稿しないこと",
+            "moderation": "本規約または適用法に違反するコンテンツは削除・制限される場合があります"
+          }
+        },
+        "acceptableUse": {
+          "title": "6. 適切な利用",
+          "content": "お客様は本サービスを不正に利用せず、また他者の不正利用を助長しないことに同意します。",
+          "items": {
+            "abuse": "嫌がらせ、ヘイトスピーチ、差別、脅迫の禁止",
+            "violence": "暴力、自傷行為の助長、性的搾取に関するコンテンツの禁止",
+            "spam": "スパム、詐欺、欺瞞行為の禁止",
+            "malware": "マルウェア、ボット、サービス妨害行為の禁止",
+            "impersonation": "なりすましや虚偽の身元表示の禁止",
+            "illegal": "違法行為およびその助長の禁止"
+          }
+        },
+        "aiDisclaimer": {
+          "title": "7. AI出力および専門的助言ではないこと",
+          "content": "AeonovaのAIが生成するコンテンツは不正確または不完全な場合があります。AI出力は情報提供および娯楽目的のみであり、専門的助言（医療、法律、財務等）ではありません。常にご自身の判断を用い、必要に応じて専門家に相談してください。"
+        },
+        "payments": {
+          "title": "8. サブスクリプション、支払い、アプリ内購入",
+          "content": "一部の機能には、有料サブスクリプションまたはストア経由の一回購入が必要です。",
+          "items": {
+            "billing": "課金はApp StoreまたはGoogle Playで行われ、それぞれの規約とポリシーが適用されます",
+            "renewal": "サブスクリプションは解約されない限り自動更新されます",
+            "pricing": "価格や機能は、必要に応じて事前通知のうえ変更される場合があります",
+            "cancellation": "サブスクリプションはストアのアカウント設定から管理・解約できます"
+          }
+        },
+        "refunds": {
+          "title": "9. 返金",
+          "content": "返金は購入元のプラットフォーム（App StoreまたはGoogle Play）のポリシーに従います。法律およびプラットフォームのポリシーが許容する範囲で、各ストアから返金を申請できます。"
+        },
+        "intellectualProperty": {
+          "title": "10. 知的財産",
+          "content": "本サービス（ユーザーコンテンツを除く）のデザイン、機能、コンテンツはAeonovaまたはそのライセンサーに帰属し、知的財産法により保護されています。事前の書面同意なく、複製、改変、配布、二次的著作物の作成はできません。"
+        },
+        "thirdPartyServices": {
+          "title": "11. サードパーティサービス",
+          "content": "本サービスはサードパーティのサービスへのリンクや統合を含む場合があります。当社は第三者サービスのコンテンツ、ポリシー、慣行について責任を負いません。ご利用は各サービスの規約とプライバシーポリシーに従います。"
+        },
+        "responsibilities": {
+          "title": "12. ユーザーの責任",
+          "content": "ユーザーとして、以下の責任を負います：",
+          "items": {
+            "security": "アカウントの安全を維持する",
+            "content": "共有するコンテンツに責任を持つ",
+            "compliance": "法令を遵守する",
+            "respect": "他のユーザーを尊重する"
+          }
+        },
+        "prohibited": {
+          "title": "13. 禁止事項",
+          "content": "以下の行為は固く禁じられています：",
+          "items": {
+            "hate": "ヘイトスピーチおよび差別",
+            "violence": "暴力的コンテンツ",
+            "spam": "スパムや詐欺",
+            "illegal": "違法行為",
+            "impersonation": "なりすまし"
+          }
+        },
+        "disclaimer": {
+          "title": "14. 免責事項",
+          "content": "本サービスは「現状有姿」および「提供可能な範囲」で提供され、明示または黙示を問わず、商品性、特定目的適合性、非侵害性などいかなる保証も行いません。"
+        },
+        "limitation": {
+          "title": "15. 責任の制限",
+          "content": "適用法で許容される最大限の範囲で、Aeonovaおよび関連会社は、間接的・付随的・特別・結果的・懲罰的損害、利益や収益の損失、データ・使用・信用の喪失について責任を負いません。"
+        },
+        "indemnification": {
+          "title": "16. 補償",
+          "content": "お客様は、本サービスの利用または本規約違反に起因して生じる請求、責任、損害、損失、費用（妥当な弁護士費用を含む）から、Aeonova等を免責し補償することに同意します。"
+        },
+        "termination": {
+          "title": "17. アカウントの終了",
+          "content": "次の場合にお客様のアカウントを終了することがあります：",
+          "items": {
+            "violation": "規約違反",
+            "illegal": "違法行為",
+            "spam": "スパムや悪用"
+          }
+        },
+        "governingLaw": {
+          "title": "18. 準拠法と紛争解決",
+          "content": "本規約は、強行的な消費者保護規定が要求する範囲においてはお客様の居住国の法律に、その他の場合はドイツ法に準拠し、抵触法の原則は適用しません。",
+          "items": {
+            "venue": "適切な管轄権を有する裁判所が専属管轄権を持ちます（適用法に別段の定めがある場合を除く）",
+            "eu": "EU消費者はEUオンライン紛争解決プラットフォームを利用できる場合があります"
+          }
+        },
+        "changes": {
+          "title": "19. 規約の変更",
+          "content": "当社は本規約を随時変更することがあります。重要な変更を行う場合、法により必要な通知を行います。変更後もサービスを継続利用することで、更新後の規約に同意したものとみなされます。"
+        },
+        "contact": {
+          "title": "20. 連絡先",
+          "content": "利用規約に関するお問い合わせ：",
+          "email": "Eメール：legal@aeonova.com",
+          "support": "サポート：support@aeonova.com"
+        }
+      }
+    },
+    "gdpr": {
+      "title": "GDPRコンプライアンス",
+      "subtitle": "EU一般データ保護規則",
+      "lastUpdated": "最終更新日: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "GDPR概要",
+        "howToExercise": "行使方法：",
+        "timeframe": "期間：",
+        "limitations": "制限：",
+        "effect": "効果："
+      },
+      "summary": "当社はGDPRの遵守に基づき、お客様の個人データの保護に全力で取り組んでいます。本ポリシーでは、お客様の権利、データの処理方法、データ保護への取り組みを説明します。",
+      "sections": {
+        "introduction": {
+          "title": "📋 はじめに",
+          "subtitle": "GDPRコンプライアンスの理解",
+          "description": "GDPR（一般データ保護規則）は、個人データに対するコントロールをユーザーに与える包括的なプライバシー法です。責任あるAI企業として、Aeonovaは透明性とコントロール、セキュリティを提供し、GDPRを完全に遵守します。",
+          "scope": {
+            "title": "GDPRの適用範囲：",
+            "items": {
+              "whoIsProtected": "EU居住者（所在地を問わず）",
+              "whatIsProtected": "直接または間接的に個人を識別できるあらゆる個人データ",
+              "whenApplies": "個人データを処理するすべての場面",
+              "whereApplies": "モバイルアプリとWebサイトを含む当社の全サービス"
+            }
+          }
+        },
+        "principles": {
+          "title": "🔒 データ保護の原則",
+          "subtitle": "私たちの基盤",
+          "description": "当社は、すべてのデータ処理活動においてGDPRの基本原則を遵守しています：",
+          "lawfulness": {
+            "title": "1. 適法性・公正性・透明性",
+            "description": "データを適法かつ公正、透明に処理します",
+            "details": {
+              "lawful": "有効な法的根拠（同意、契約、正当な利益）に基づく処理",
+              "fair": "予期せぬ、不利益な方法でデータを使用しません",
+              "transparent": "わかりやすい言葉でデータの取り扱いを明確に説明します"
+            }
+          },
+          "purposeLimitation": {
+            "title": "2. 目的限定",
+            "description": "データは特定かつ明確で正当な目的のためにのみ収集・使用します",
+            "details": {
+              "specific": "各データが必要な理由を明確化",
+              "explicit": "目的は明確に記載し、複雑な表現で隠しません",
+              "legitimate": "すべての目的は実際の事業・ユーザーのニーズに基づきます"
+            }
+          },
+          "dataMinimization": {
+            "title": "3. データ最小化",
+            "description": "必要最小限のデータのみを収集します",
+            "details": {
+              "adequate": "サービス提供に十分なデータのみを収集",
+              "relevant": "収集するデータは目的に関連するものに限定",
+              "limited": "過剰・不要な情報は収集しません"
+            }
+          },
+          "accuracy": {
+            "title": "4. 正確性",
+            "description": "データの正確性を保ち、最新に保ちます",
+            "details": {
+              "current": "情報を更新できる手段を提供",
+              "correction": "不正確なデータは遅滞なく訂正または削除",
+              "verification": "重要情報の処理時には正確性を確認"
+            }
+          },
+          "storageLimitation": {
+            "title": "5. 保存期間の制限",
+            "description": "必要以上に長くデータを保持しません",
+            "details": {
+              "retention": "データの種類ごとに明確な保持期間",
+              "review": "不要となったデータは定期的に見直し・削除",
+              "purpose": "目的が終わればデータは削除"
+            }
+          },
+          "security": {
+            "title": "6. 完全性・機密性",
+            "description": "適切なセキュリティ対策でデータを保護",
+            "details": {
+              "protection": "不正アクセス防止のための技術的・組織的対策",
+              "confidentiality": "データの機密性を維持",
+              "integrity": "データの改ざん・破損を防止"
+            }
+          },
+          "accountability": {
+            "title": "7. 説明責任",
+            "description": "これら原則の遵守を証明する責任を負います",
+            "details": {
+              "documentation": "すべての処理活動の記録を維持",
+              "policies": "明確な社内方針・手順を整備",
+              "training": "データ保護要件に関する定期的な従業員教育"
+            }
+          }
+        },
+        "rights": {
+          "title": "👥 GDPRに基づく権利",
+          "subtitle": "包括的な権利",
+          "description": "GDPRはお客様の個人データに関する包括的な権利を認めています：",
+          "information": {
+            "title": "1. 📋 情報提供を受ける権利",
+            "description": "データ処理の方法について知る権利",
+            "includes": {
+              "title": "次の情報が含まれます：",
+              "items": {
+                "purposes": "処理目的",
+                "categories": "収集するデータの種類",
+                "recipients": "データの共有先（存在する場合）",
+                "retention": "データの保持期間",
+                "rights": "データに関するお客様の権利",
+                "sources": "データの取得元"
+              }
+            },
+            "howToExercise": "本プライバシーポリシーに多くの情報を記載しています。詳細はお問い合わせください。"
+          },
+          "access": {
+            "title": "2. 🔍 アクセス権",
+            "description": "当社が保有するお客様のデータのコピーを請求できます",
+            "includes": {
+              "title": "次の内容を提供します：",
+              "items": {
+                "copy": "個人データの完全なコピー",
+                "format": "機械判読可能な構造化形式（JSON）",
+                "details": "データの処理方法に関する情報",
+                "sources": "データの取得元",
+                "recipients": "共有先"
+              }
+            },
+            "howToExercise": "アプリ設定から、または dpo@aeonova.com へメールでご請求ください。初回は無料、追加請求は有料となる場合があります。",
+            "timeframe": "30日以内に回答します"
+          },
+          "rectification": {
+            "title": "3. ✏️ 訂正権",
+            "description": "不正確または不完全なデータを修正できます",
+            "includes": {
+              "title": "以下が可能です：",
+              "items": {
+                "correct": "不正確な個人情報の修正",
+                "complete": "不足情報の追加",
+                "update": "古い情報の更新",
+                "verify": "データの正確性の確認を依頼"
+              }
+            },
+            "howToExercise": "アプリ設定で直接更新するか、ご自身で変更できないデータはお問い合わせください",
+            "timeframe": "可能な場合は即時、複雑なケースは30日以内"
+          },
+          "erasure": {
+            "title": "4. 🗑️ 消去権（忘れられる権利）",
+            "description": "個人データの削除を要求できます",
+            "conditions": {
+              "title": "以下の場合に削除を要求できます：",
+              "items": {
+                "unnecessary": "データが目的にとって不要になった",
+                "consent": "同意を撤回し、他の法的根拠がない",
+                "objection": "処理に異議を唱え、優越する正当な根拠がない",
+                "unlawful": "データが不法に処理された",
+                "legal": "法令遵守のために削除が必要"
+              }
+            },
+            "limitations": {
+              "title": "ただし以下の場合は削除を拒否することがあります：",
+              "items": {
+                "legal": "法的義務や法的請求のため必要",
+                "public": "公益や歴史的研究のため必要",
+                "freedom": "表現の自由の行使"
+              }
+            },
+            "howToExercise": "アプリ設定でアカウントを削除するか、dpo@aeonova.com へご連絡ください",
+            "timeframe": "アカウント削除は7日以内、完全削除は30日以内に処理"
+          },
+          "portability": {
+            "title": "5. 📦 データポータビリティ権",
+            "description": "データをポータブルな形式で受け取る、または他サービスへ転送できます",
+            "includes": {
+              "title": "以下が可能です：",
+              "items": {
+                "receive": "JSONまたはCSVでデータを受け取る",
+                "transfer": "技術的に可能な場合、他サービスへ直接転送を依頼",
+                "export": "思い出、チャット履歴、設定のエクスポート"
+              }
+            },
+            "limitations": "お客様が提供したデータで、同意または契約に基づく自動処理にのみ適用",
+            "howToExercise": "アプリのエクスポート機能、または dpo@aeonova.com に依頼",
+            "timeframe": "アプリでは即時、個別依頼は30日以内"
+          },
+          "objection": {
+            "title": "6. ✋ 異議申立権",
+            "description": "特定の種類のデータ処理に異議を唱えることができます",
+            "types": {
+              "general": {
+                "title": "一般的な異議",
+                "description": "正当な利益に基づく処理に対して異議",
+                "effect": "当社は、優越する正当な根拠を示せない限り、処理を停止します"
+              },
+              "directMarketing": {
+                "title": "ダイレクトマーケティング",
+                "description": "あらゆるマーケティングコミュニケーションに異議",
+                "effect": "マーケティングは直ちに停止されます"
+              },
+              "profiling": {
+                "title": "自動化された意思決定・プロファイリング",
+                "description": "重大な影響を与える自動化された決定に異議",
+                "effect": "自動決定を見直し、必要に応じて人による審査を提供"
+              }
+            },
+            "howToExercise": "マーケティング：配信停止リンクまたはアプリ設定。他：dpo@aeonova.com に連絡"
+          }
+        },
+        "contact": {
+          "title": "📞 GDPRに関するお問い合わせ",
+          "subtitle": "お問い合わせ",
+          "description": "GDPRおよびデータ保護に関するご質問・ご依頼：",
+          "dpo": {
+            "title": "データ保護責任者（DPO）",
+            "email": "dpo@aeonova.com",
+            "role": "当社DPOは、すべてのデータ保護活動とGDPR遵守を監督します"
+          },
+          "requests": {
+            "title": "GDPR権利の請求",
+            "email": "gdpr@aeonova.com",
+            "description": "アクセス、削除などGDPR権利の行使のため"
+          },
+          "complaints": {
+            "title": "苦情・懸念",
+            "email": "privacy@aeonova.com",
+            "description": "当社のデータ取扱いに関する懸念や苦情"
+          },
+          "general": {
+            "title": "一般的な質問",
+            "email": "support@aeonova.com",
+            "description": "当社のプライバシー慣行に関する一般的な質問"
+          },
+          "response": {
+            "title": "回答時間",
+            "standard": "標準的な請求：30日以内",
+            "complex": "複雑な請求：最長90日（理由説明あり）",
+            "urgent": "緊急のセキュリティ案件：72時間以内"
+          },
+          "information": {
+            "title": "お問い合わせ時の必要情報",
+            "items": {
+              "identification": "氏名とアカウントに紐づくメールアドレス",
+              "request": "リクエストや懸念事項の明確な説明",
+              "details": "関連する詳細や参照番号",
+              "preference": "希望する返信方法"
+            }
+          },
+          "languages": {
+            "title": "対応言語",
+            "description": "GDPR請求には英語・ドイツ語・トルコ語で対応可能です"
+          }
+        }
+      }
+    },
+    "cookies": {
+      "title": "Cookieポリシー",
+      "subtitle": "当ウェブサイトにおけるCookie等の使用について",
+      "lastUpdated": "最終更新日: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "summaryTitle": "概要",
+      "summary": "本ポリシーは、Aeonovaが当ウェブサイトでCookieや類似の追跡技術をどのように使用するかを説明します。当社の主なサービスはモバイルアプリであり、このウェブサイトは主に情報提供とダウンロードを目的としています。",
+      "sections": {
+        "introduction": {
+          "title": "📝 はじめに",
+          "description": "本Cookieポリシーは、Cookieとは何か、当社がAeonovaのウェブサイトでどのようにCookieを使用するか、そしてCookieの設定をどのように管理できるかを説明します。引き続き当ウェブサイトを利用することで、本ポリシーに従ったCookieの使用に同意したものとみなされます。"
+        },
+        "whatAreCookies": {
+          "title": "🍪 Cookieとは？",
+          "description": "Cookieは、ウェブサイトを訪問した際にコンピューターやモバイル端末に保存される小さなテキストファイルです。ウェブサイトをより効率的に動作させ、サイト運営者に情報を提供するために広く使用されています。",
+          "details": {
+            "purpose": "Cookieの主な目的：",
+            "items": {
+              "functionality": "ウェブサイトの基本機能とナビゲーションを有効化",
+              "personalization": "設定や好みを記憶",
+              "analytics": "訪問者がどのようにサイトとやり取りするかを把握",
+              "performance": "サイトのパフォーマンスと読み込み時間を改善"
+            }
+          },
+          "types": {
+            "title": "有効期間によるCookieの種類：",
+            "session": "セッションCookie：ブラウザを閉じると削除",
+            "persistent": "永続Cookie：一定期間端末に保存、または手動削除まで保持"
+          }
+        },
+        "typesOfCookies": {
+          "title": "🔍 当社が使用するCookieの種類",
+          "description": "目的や機能に基づき、Cookieを以下の種類に分類します：",
+          "essential": {
+            "title": "1. 🔒 必須Cookie（常に有効）",
+            "description": "これらのCookieはウェブサイトの正常な動作に必要で、当社のシステムで無効化できません。",
+            "items": {
+              "language": "言語設定：選択した言語を保存",
+              "security": "セキュリティCookie：CSRFトークン等の保護",
+              "session": "セッション管理：ページ遷移中のセッション状態を維持",
+              "consent": "Cookie同意：同意内容を記憶"
+            },
+            "note": "⚠️ これらはサイト機能に必須のため無効化できません",
+            "legalBasis": "法的根拠：正当な利益（サービス提供に不可欠）"
+          },
+          "performance": {
+            "title": "2. 📊 パフォーマンス・分析Cookie（任意）",
+            "description": "匿名情報を収集し、訪問者のサイト利用状況を理解するのに役立ちます。",
+            "items": {
+              "loadTimes": "ページパフォーマンス：読み込み時間やメトリクスを測定",
+              "errorTracking": "エラー追跡：JavaScriptエラーや技術的問題を匿名で記録",
+              "usageStats": "利用統計：よく閲覧されるページやコンテンツ",
+              "userFlow": "ユーザー導線：サイト内の移動経路を把握"
+            },
+            "note": "✅ これらを拒否してもサイト機能には影響しません",
+            "legalBasis": "法的根拠：お客様の明示的な同意",
+            "retention": "データ保持：最大90日"
+          },
+          "marketing": {
+            "title": "3. 🎯 マーケティング・広告Cookie（現在は未使用）",
+            "description": "現在これらのCookieは使用していませんが、将来的に導入する場合はお客様の同意を得ます。",
+            "items": {
+              "targetedAds": "ターゲティング広告：関心に基づく広告の表示",
+              "socialMedia": "ソーシャル連携：共有やトラッキングを有効化",
+              "remarketing": "リマーケティング：過去の訪問者へ広告を表示",
+              "crossSite": "クロスサイトトラッキング：他サイトでの活動を追跡"
+            },
+            "note": "🚫 現在は未実装—導入時は明示的同意が必要",
+            "future": "導入する場合は同意を依頼し、本ポリシーを更新します"
+          }
+        },
+        "thirdParty": {
+          "title": "🌐 サードパーティCookie",
+          "description": "当サイトにはサードパーティの埋め込みコンテンツやサービスが含まれる場合があり、それらは独自のCookieを設定することがあります：",
+          "current": {
+            "title": "現在使用中のサードパーティサービス：",
+            "items": {
+              "fonts": "Google Fonts：サイトのタイポグラフィ（トラッキングCookieなし）",
+              "cdn": "CDN（コンテンツ配信ネットワーク）：高速なコンテンツ配信",
+              "security": "セキュリティサービス：DDoS対策とセキュリティ監視"
+            }
+          },
+          "future": {
+            "title": "将来導入の可能性があるサービス：",
+            "items": {
+              "analytics": "Google Analytics：詳細なサイト分析",
+              "social": "ソーシャルウィジェット：SNS連携",
+              "support": "カスタマーサポートツール：ライブチャット等"
+            }
+          },
+          "note": "トラッキングCookieを使用する新しいサービスを導入する場合は、常に事前にお知らせします。"
+        },
+        "mobileApp": {
+          "title": "📱 モバイルアプリでのデータ保存",
+          "subtitle": "重要な違い",
+          "description": "AeonovaのモバイルアプリはWebのCookieを使用しません。代わりに、より安全かつ効率的なネイティブの保存方式を使用します：",
+          "items": {
+            "localStorage": "ローカル暗号化ストレージ：ユーザーデータは端末上で安全に保存",
+            "keychain": "キーチェーン/キーストア：認証トークンは端末の安全領域に保存",
+            "appSettings": "アプリ設定：アプリのサンドボックス内に保存",
+            "offlineCache": "オフライン機能：キャッシュされたコンテンツをオフラインで使用",
+            "biometric": "生体認証データ：Face ID/Touch ID（ローカル保存、送信なし）"
+          },
+          "security": {
+            "title": "モバイルアプリのセキュリティ：",
+            "items": {
+              "encryption": "すべてのデータは業界標準の暗号化を使用",
+              "localOnly": "機微データは端末外へ送信されません",
+              "secure": "プラットフォームのセキュリティ機能（iOSキーチェーン、Androidキーストア）を活用",
+              "privacy": "アプリ間トラッキングやデータ共有は行いません"
+            }
+          }
+        },
+        "management": {
+          "title": "⚙️ Cookieの管理",
+          "description": "当サイトでCookieを管理・制御するためのいくつかの方法があります：",
+          "browserSettings": {
+            "title": "ブラウザ設定：",
+            "description": "次の手順でCookieを管理できます：",
+            "items": {
+              "chrome": "Chrome：設定 → プライバシーとセキュリティ → Cookieと他のサイトデータ",
+              "firefox": "Firefox：設定 → プライバシーとセキュリティ → Cookieとサイトデータ",
+              "safari": "Safari：設定 → プライバシー → Webサイトデータを管理",
+              "edge": "Edge：設定 → サイトのアクセス許可 → Cookieとサイトデータ"
+            }
+          },
+          "ourSettings": {
+            "title": "当サイトのCookie設定：",
+            "description": "当サイトのCookieの好みを管理できます：",
+            "items": {
+              "essential": "必須Cookie：無効化不可（サイトの機能に必要）",
+              "performance": "パフォーマンスCookie：Cookieバナーで有効/無効を切替",
+              "marketing": "マーケティングCookie：現在未使用、導入時はオプトイン"
+            }
+          },
+          "consequences": {
+            "title": "⚠️ Cookie無効化の影響：",
+            "description": "一部Cookieを無効化すると、サイトの一部機能が正しく動作しない場合があります：",
+            "items": {
+              "language": "言語設定が保持されません",
+              "navigation": "一部のナビゲーション機能に影響が出ます",
+              "performance": "利用データに基づくパフォーマンス改善ができません"
+            }
+          }
+        },
+        "updates": {
+          "title": "🔄 ポリシーの更新",
+          "description": "当社は、運用・法的・規制上の理由により、本Cookieポリシーを随時更新することがあります。",
+          "notification": "本ポリシーを変更する場合：",
+          "items": {
+            "notice": "本ページに更新後のポリシーを掲載",
+            "effective": "掲載後すぐに効力を発生",
+            "major": "重大な変更の場合は別途通知することがあります",
+            "date": "上部の『最終更新日』を更新"
+          },
+          "recommendation": "Cookieの使用状況を把握するため、定期的な確認をおすすめします。"
+        },
+        "contact": {
+          "title": "📞 Cookieに関するお問い合わせ",
+          "subtitle": "お問い合わせ",
+          "description": "当社のCookieの使用または本ポリシーに関する質問は、以下までご連絡ください：",
+          "methodsTitle": "連絡方法",
+          "methods": {
+            "email": "一般的なプライバシーの質問：privacy@aeonova.com",
+            "cookies": "Cookieに関する質問：cookies@aeonova.com",
+            "support": "技術サポート：support@aeonova.com",
+            "dpo": "データ保護責任者：dpo@aeonova.com"
+          },
+          "response": {
+            "title": "回答時間：",
+            "items": {
+              "general": "一般的なお問合せ：48時間以内",
+              "privacy": "プライバシー関連：72時間以内",
+              "urgent": "緊急案件：24時間以内"
+            }
+          }
+        }
+      }
+    },
+    "dataRetention": {
+      "title": "データ保持ポリシー",
+      "subtitle": "個人データの保持期間とその理由",
+      "lastUpdated": "最終更新日: {date}",
+      "backToHome": "← Aeonova ❤️",
+      "labels": {
+        "summaryTitle": "概要",
+        "methods": "方法：",
+        "requirements": "要件：",
+        "contacts": "連絡先：",
+        "responseTimes": "回答時間：",
+        "process": "プロセス："
+      },
+      "summary": "本ポリシーは、当社が個人データの種類ごとにどれくらいの期間保持するか、その法的根拠、削除に関するお客様の権利を説明します。当社はデータ最小化を重視し、必要な期間のみ保持します。",
+      "sections": {
+        "introduction": {
+          "title": "📋 はじめに",
+          "subtitle": "データ保持の理解",
+          "description": "データ保持とは、当社が個人情報をシステム内に保持する期間を指します。本ポリシーは、お客様のプライバシーと正当な事業目的、法的義務のバランスを取るために設計された当社の保持慣行を説明します。",
+          "keyPoints": {
+            "title": "重要な原則：",
+            "items": {
+              "minimization": "必要なデータのみを収集・保持",
+              "purpose": "収集目的のためにのみ保持",
+              "lawful": "法的要件や正当な利益に基づく保持期間",
+              "transparent": "各データ種別の保持期間を透明化",
+              "secure": "保持データは適切なセキュリティで保護"
+            }
+          }
+        },
+        "legalBasis": {
+          "title": "⚖️ 保持の法的根拠",
+          "subtitle": "なぜ保持するのか",
+          "description": "GDPRやその他のプライバシー法に基づき、以下の法的根拠により個人データを保持します：",
+          "bases": {
+            "contractual": {
+              "title": "1. 📝 契約上の義務",
+              "description": "サービス提供および契約の履行に必要なデータ",
+              "examples": {
+                "title": "例：",
+                "items": {
+                  "account": "Aeonovaサービス提供に必要なアカウント情報",
+                  "subscription": "プレミアム機能のための支払い・サブスクリプション情報",
+                  "support": "課題解決のためのカスタマーサポート記録",
+                  "preferences": "体験をパーソナライズするためのユーザー設定"
+                }
+              }
+            },
+            "legal": {
+              "title": "2. 🏛️ 法令遵守",
+              "description": "法的義務の順守のために保持が必要なデータ",
+              "examples": {
+                "title": "例：",
+                "items": {
+                  "financial": "税務・会計目的の財務記録（7年）",
+                  "security": "不正・悪用調査のためのセキュリティログ（2年）",
+                  "gdpr": "同意記録および処理活動記録（3年）",
+                  "disputes": "法的紛争に関連するデータ（解決まで）"
+                }
+              }
+            },
+            "legitimate": {
+              "title": "3. 🎯 正当な利益",
+              "description": "お客様のプライバシー権と均衡を取った正当な事業目的のための保持",
+              "examples": {
+                "title": "例：",
+                "items": {
+                  "analytics": "サービス改善のための匿名化利用データ（90日）",
+                  "security": "全ユーザー保護のためのセキュリティ監視（1年）",
+                  "research": "製品開発・研究（匿名化データのみ）",
+                  "communications": "マーケティング同意およびコミュニケーション設定"
+                }
+              }
+            }
+          }
+        },
+        "categories": {
+          "title": "⏰ データカテゴリ別の保持期間",
+          "subtitle": "具体的な期間",
+          "description": "以下は、収集する各データカテゴリの保持期間です：",
+          "account": {
+            "title": "👤 アカウント・プロフィール情報",
+            "headings": {
+              "basicProfile": "基本プロフィール",
+              "preferences": "設定",
+              "subscription": "サブスクリプション",
+              "authentication": "認証"
+            },
+            "items": {
+              "basic": {
+                "data": "ユーザー名、年齢、アバター、プロフィール設定",
+                "period": "アカウントが有効な間＋削除後30日",
+                "basis": "契約上の必要性",
+                "deletion": "アカウント削除から30日後に自動削除"
+              },
+              "preferences": {
+                "data": "言語設定、アプリ設定、通知設定",
+                "period": "アカウントが有効な間",
+                "basis": "契約上の必要性と正当な利益",
+                "deletion": "アカウント削除時に直ちに削除"
+              },
+              "subscription": {
+                "data": "プレミアムサブスクリプション情報、支払い履歴",
+                "period": "サブスクリプション期間＋7年",
+                "basis": "法令遵守（財務記録）",
+                "deletion": "保持期間終了後に自動削除"
+              },
+              "authentication": {
+                "data": "ログイン資格情報、セキュリティトークン",
+                "period": "アカウントが有効な間＋30日",
+                "basis": "契約上の必要性とセキュリティ",
+                "deletion": "アカウント削除時に即時無効化"
+              }
+            },
+            "note": "💡 30日間の猶予期間経過後、アカウント削除は元に戻せません。この期間中はログインで復元可能です。"
+          },
+          "content": {
+            "title": "💬 チャット・コンテンツデータ",
+            "headings": {
+              "chatHistory": "チャット履歴",
+              "privateMemories": "プライベート思い出",
+              "sharedMemories": "共有思い出",
+              "aiComments": "AIコメント",
+              "userFeedback": "ユーザーフィードバック"
+            },
+            "items": {
+              "chatHistory": {
+                "data": "AIとの会話とメッセージ履歴",
+                "period": "端末にローカル保存：無制限 / サーバーキャッシュ：30日",
+                "basis": "契約上の必要性",
+                "deletion": "サーバーデータは30日後に削除；ローカルデータはユーザー管理"
+              },
+              "privateMemories": {
+                "data": "個人的な日記・プライベート思い出",
+                "period": "ユーザーが管理（いつでも削除可能）",
+                "basis": "契約上の必要性",
+                "deletion": "ユーザーにより削除された時点、またはアカウント削除時に直ちに削除"
+              },
+              "sharedMemories": {
+                "data": "公開された思い出・投稿",
+                "period": "共有中＋削除後1年",
+                "basis": "正当な利益（コンテンツモデレーション）",
+                "deletion": "モデレーション目的で1年保持後、完全削除"
+              },
+              "aiComments": {
+                "data": "AIが生成したコメント・返信",
+                "period": "関連コンテンツと同一",
+                "basis": "契約上の必要性",
+                "deletion": "関連コンテンツとともに削除"
+              },
+              "userFeedback": {
+                "data": "AI返信に対する評価・フィードバック",
+                "period": "2年（90日後に匿名化）",
+                "basis": "正当な利益（サービス改善）",
+                "deletion": "90日後に匿名化、2年後に完全削除"
+              }
+            },
+            "note": "💡 多くのチャットデータはプライバシー保護のため端末上に保存されます。サーバー側は最小限のキャッシュのみ使用します。"
+          },
+          "technical": {
+            "title": "🔧 技術・システムデータ",
+            "headings": {
+              "usageLogs": "利用ログ",
+              "errorReports": "エラーレポート",
+              "securityLogs": "セキュリティログ",
+              "deviceInfo": "デバイス情報",
+              "notifications": "通知"
+            },
+            "items": {
+              "usageLogs": {
+                "data": "アプリ利用パターン、機能利用状況、セッションデータ",
+                "period": "90日（30日後に個人識別子を削除）",
+                "basis": "正当な利益（サービス改善）",
+                "deletion": "30日後に個人識別子を削除、90日後に完全削除"
+              },
+              "errorReports": {
+                "data": "クラッシュレポート、エラーログ、パフォーマンスデータ",
+                "period": "1年（即時匿名化）",
+                "basis": "正当な利益（技術的改善）",
+                "deletion": "個人データは含まれず、1年後に技術データを削除"
+              },
+              "securityLogs": {
+                "data": "ログイン試行、セキュリティイベント、不正検出",
+                "period": "2年",
+                "basis": "正当な利益および法令遵守",
+                "deletion": "2年後に自動削除"
+              },
+              "deviceInfo": {
+                "data": "デバイス種別、OSバージョン、アプリバージョン",
+                "period": "アカウントが有効な間＋30日",
+                "basis": "契約上の必要性（互換性）",
+                "deletion": "アカウント削除時に削除"
+              },
+              "notifications": {
+                "data": "プッシュ通知トークン、配信ログ",
+                "period": "アカウントが有効な間",
+                "basis": "契約上の必要性",
+                "deletion": "アカウント削除またはオプトアウト時に即時無効化"
+              }
+            },
+            "note": "💡 技術データは主にアプリのパフォーマンスとセキュリティ向上のために使用し、個人識別子は可能な限り速やかに削除します。"
+          },
+          "communications": {
+            "title": "📧 コミュニケーション・サポート",
+            "headings": {
+              "supportTickets": "サポートチケット",
+              "marketingConsent": "マーケティング同意",
+              "contactForms": "お問い合わせフォーム"
+            },
+            "items": {
+              "supportTickets": {
+                "data": "カスタマーサポートとの会話・チケット",
+                "period": "解決後3年",
+                "basis": "正当な利益（顧客対応）",
+                "deletion": "3年後に自動削除"
+              },
+              "marketingConsent": {
+                "data": "メールマーケティングの同意および設定",
+                "period": "同意撤回まで＋1年",
+                "basis": "同意および法令遵守",
+                "deletion": "撤回後に直ちに削除、1年の監査記録を保持"
+              },
+              "contactForms": {
+                "data": "お問い合わせフォームからの送信内容",
+                "period": "2年",
+                "basis": "正当な利益（業務コミュニケーション）",
+                "deletion": "2年後に自動削除"
+              }
+            }
+          }
+        },
+        "automaticDeletion": {
+          "title": "🤖 データの自動削除",
+          "subtitle": "自動化プロセス",
+          "description": "保持スケジュールに沿ってデータが削除されるよう、自動化システムを導入しています：",
+          "processes": {
+            "daily": {
+              "title": "毎日のクリーンアップ（24時間ごと）",
+              "items": {
+                "expired": "期限切れのセッショントークンと一時データ",
+                "cache": "期限切れのキャッシュと一時ファイル",
+                "logs": "保持期間を超えたログのローテーション"
+              }
+            },
+            "weekly": {
+              "title": "毎週のクリーンアップ（毎週日曜）",
+              "items": {
+                "accounts": "猶予期間を過ぎた削除対象アカウント",
+                "anonymization": "30日を超えた利用データの匿名化",
+                "backups": "保持期間を超えたバックアップの削除"
+              }
+            },
+            "monthly": {
+              "title": "毎月のクリーンアップ（毎月1日）",
+              "items": {
+                "technical": "保持期間を超えた技術ログとエラーレポート",
+                "analytics": "90日を超えた分析データ",
+                "audit": "保持コンプライアンスの完全監査"
+              }
+            },
+            "annual": {
+              "title": "年次レビュー（1月1日）",
+              "items": {
+                "policies": "保持期間の見直しと更新",
+                "compliance": "完全なコンプライアンス監査と文書化",
+                "systems": "自動削除システムの更新"
+              }
+            }
+          },
+          "monitoring": {
+            "title": "監視と検証：",
+            "items": {
+              "alerts": "保持ポリシー違反の自動アラート",
+              "reports": "毎月の保持コンプライアンスレポート",
+              "audits": "削除プロセスの定期監査",
+              "verification": "削除データが復元できないことの検証"
+            }
+          }
+        },
+        "accountStatus": {
+          "title": "🔄 アカウント状態別の保持",
+          "subtitle": "さまざまなシナリオ",
+          "active": {
+            "title": "🟢 有効なアカウント",
+            "description": "正常に利用されているアカウント：",
+            "items": {
+              "normalStorage": "標準の保持期間に従ってデータを保存",
+              "userControl": "ユーザーはいつでもアプリからデータを削除可能",
+              "backups": "復旧用の暗号化バックアップを定期的に保持",
+              "security": "完全なセキュリティ対策と監視を適用",
+              "updates": "ユーザーはデータを更新・変更可能",
+              "export": "いつでもデータをエクスポート可能"
+            }
+          },
+          "inactive": {
+            "title": "🟡 非アクティブなアカウント",
+            "description": "長期間利用のないアカウント：",
+            "items": {
+              "warning": "12か月の非アクティブ後に警告メール送信",
+              "finalNotice": "18か月の非アクティブ後に最終通知",
+              "deletion": "24か月の非アクティブ後に削除対象としてマーク",
+              "gracePeriod": "完全削除の前に30日の猶予期間",
+              "dataMinimization": "非アクティブ期間中に不要データを削除する場合あり"
+            },
+            "note": "💡 ログインすればいつでもアカウントを再有効化でき、非アクティブのタイマーはリセットされます。"
+          },
+          "deleted": {
+            "title": "🔴 削除済みアカウント",
+            "description": "アカウント削除をリクエストした場合：",
+            "items": {
+              "gracePeriod": "30日の猶予期間中はログインで復元可能",
+              "immediateActions": "ログイン資格情報は直ちに無効化",
+              "dataReview": "法的保持要件を満たすため個人データを確認",
+              "permanentDeletion": "猶予期間終了後、すべての個人データを恒久的に削除",
+              "legalException": "法的に必要なデータのみ保持（可能な限り匿名化）",
+              "noRecovery": "猶予期間後は復元不可",
+              "confirmation": "削除完了時に確認メールを送付"
+            }
+          },
+          "suspended": {
+            "title": "🚫 停止中のアカウント",
+            "description": "規約違反による停止の場合：",
+            "items": {
+              "retention": "調査のため停止期間中はデータを保持",
+              "appeal": "異議申立プロセス中（最大90日）はデータを利用可能",
+              "deletion": "停止が恒久的になった場合は通常の削除プロセスを適用",
+              "reinstatement": "復帰後は通常の保持方針に戻る"
+            }
+          }
+        },
+        "userRights": {
+          "title": "👥 データ保持に関するお客様の権利",
+          "subtitle": "できること",
+          "description": "保持期間に関して、以下の権利があります：",
+          "access": {
+            "title": "🔍 アクセス権",
+            "description": "どのデータをどれくらい保持するかについて情報を請求できます",
+            "items": {
+              "request": "アプリまたはメールでデータアクセス請求を提出",
+              "response": "30日以内に包括的なレポートを提供",
+              "format": "機械判読可能な構造化形式で提供",
+              "frequency": "年1回まで無料で請求可能"
+            }
+          },
+          "deletion": {
+            "title": "🗑️ 消去権（忘れられる権利）",
+            "description": "特定の状況下で個人データの削除を請求できます",
+            "items": {
+              "immediate": "アプリ設定からアカウント削除（即時処理）",
+              "selective": "特定カテゴリのデータ削除を請求",
+              "legal": "法律で保持が必要な場合は拒否されることがあります",
+              "verification": "削除請求には本人確認が必要"
+            }
+          },
+          "portability": {
+            "title": "📦 データポータビリティ",
+            "description": "ポータブル形式でデータのコピーを請求できます",
+            "items": {
+              "export": "アプリからデータをダウンロード",
+              "format": "JSONまたはCSV形式",
+              "scope": "当社が保有する全ての個人データが対象",
+              "transfer": "他サービスへの移行に利用可能"
+            }
+          },
+          "objection": {
+            "title": "✋ 異議申立権",
+            "description": "特定の種類の処理・保持に異議を唱えることができます",
+            "items": {
+              "marketing": "マーケティングデータの保持から即時オプトアウト",
+              "analytics": "分析データの収集・保持に異議",
+              "profiling": "自動意思決定・プロファイリングに異議",
+              "legitimate": "正当な利益に基づく保持に異議"
+            }
+          }
+        },
+        "specialCircumstances": {
+          "title": "⚖️ 特別な状況",
+          "subtitle": "保持期間の延長",
+          "description": "場合によっては、通常より長くデータを保持する必要があります：",
+          "legal": {
+            "title": "🏛️ 法的手続き",
+            "description": "法的手続きに関連する場合、保持期間が延長されることがあります",
+            "items": {
+              "litigation": "係争中・調査中はデータを保存",
+              "subpoena": "召喚状や裁判所命令がある場合は保持を延長",
+              "investigation": "不正やセキュリティ調査のため延長が必要な場合あり",
+              "notification": "法的ホールドの対象となる場合は通知します"
+            }
+          },
+          "security": {
+            "title": "🔒 セキュリティインシデント",
+            "description": "インシデント対応のため、セキュリティ関連データを保持することがあります",
+            "items": {
+              "breaches": "侵害調査と予防のためセキュリティログを保持",
+              "forensics": "デジタルフォレンジクスにより一時的に延長が必要な場合あり",
+              "patterns": "攻撃パターン特定のため匿名化データを利用",
+              "reporting": "規制当局への報告義務のため保持することがあります"
+            }
+          },
+          "financial": {
+            "title": "💰 財務上の義務",
+            "description": "財務データはより長い保持期間が適用されます",
+            "items": {
+              "tax": "税務目的で7年間の保持",
+              "audit": "財務監査のための支払いデータの保持",
+              "disputes": "請求紛争のため保持期間が延長される場合あり",
+              "refunds": "返金可否期間が保持に影響する場合あり"
+            }
+          }
+        },
+        "dataLocations": {
+          "title": "🌍 データの保存場所と保持",
+          "subtitle": "どこに保存されるか",
+          "description": "保存場所や適用法により、保持期間は異なる場合があります：",
+          "primary": {
+            "title": "主要保存（EU/EEA）",
+            "description": "主に欧州経済領域内でデータを保存",
+            "items": {
+              "location": "主なサーバーはドイツとオランダに所在",
+              "law": "GDPRおよびEUプライバシー法に準拠",
+              "retention": "本ポリシーに記載の標準保持期間を適用",
+              "protection": "GDPRの完全な保護と権利"
+            }
+          },
+          "backups": {
+            "title": "バックアップ",
+            "description": "災害復旧のための暗号化バックアップ",
+            "items": {
+              "locations": "EUおよびスイスの安全な施設",
+              "retention": "バックアップは最大1年間保持",
+              "encryption": "鍵管理を分離したエンドツーエンド暗号化",
+              "deletion": "主要データの削除に準じてバックアップも削除"
+            }
+          },
+          "cache": {
+            "title": "キャッシュとCDN",
+            "description": "パフォーマンス向上のための一時的なキャッシュ",
+            "items": {
+              "duration": "キャッシュデータは最大30日保持",
+              "locations": "複数地域のCDNノード",
+              "anonymization": "キャッシュされるコンテンツに個人識別子は含みません",
+              "automatic": "自動的に期限切れ・削除"
+            }
+          }
+        },
+        "compliance": {
+          "title": "📜 規制遵守",
+          "subtitle": "法的要件の順守",
+          "description": "当社の保持慣行は、国際的なプライバシー法規に準拠しています：",
+          "gdpr": {
+            "title": "🇪🇺 GDPR（一般データ保護規則）",
+            "items": {
+              "lawfulness": "すべての保持は適法な根拠に基づく",
+              "minimization": "データ最小化原則を厳格に遵守",
+              "rights": "データ主体の権利を完全に実装",
+              "accountability": "保持に関する全ての決定を文書化"
+            }
+          },
+          "ccpa": {
+            "title": "🇺🇸 CCPA（カリフォルニア州消費者プライバシー法）",
+            "items": {
+              "disclosure": "カリフォルニア居住者に保持期間を明確に開示",
+              "deletion": "削除権を45日以内に対応",
+              "categories": "個人情報の詳細な分類",
+              "business": "各保持期間の事業目的を明確化"
+            }
+          },
+          "other": {
+            "title": "🌐 その他の規制",
+            "items": {
+              "pipeda": "カナダのPIPEDAに準拠",
+              "lgpd": "ブラジルのLGPDに準拠",
+              "pdpa": "シンガポールのPDPAに準拠",
+              "local": "適用される地域法に準拠"
+            }
+          }
+        },
+        "contact": {
+          "title": "📞 連絡先とリクエスト",
+          "subtitle": "お問い合わせ方法",
+          "description": "データ保持に関するご質問・ご依頼：",
+          "deletion": {
+            "title": "🗑️ データ削除の依頼",
+            "methods": {
+              "app": "推奨：アプリ設定 → アカウント → アカウント削除",
+              "email": "Eメール：deletion@aeonova.com",
+              "form": "オンラインフォーム：aeonova.com/delete-account"
+            },
+            "requirements": {
+              "verification": "安全確保のため本人確認が必要",
+              "confirmation": "登録メールアドレスに確認メールを送付",
+              "timeline": "7営業日以内に処理"
+            }
+          },
+          "questions": {
+            "title": "❓ データ保持に関する質問",
+            "contacts": {
+              "general": "一般質問：retention@aeonova.com",
+              "dpo": "データ保護責任者：dpo@aeonova.com",
+              "support": "技術サポート：support@aeonova.com",
+              "legal": "法務関連：legal@aeonova.com"
+            },
+            "response": {
+              "standard": "標準的な問い合わせ：5営業日",
+              "complex": "複雑な案件：15営業日",
+              "urgent": "緊急依頼：2営業日"
+            }
+          },
+          "appeals": {
+            "title": "⚖️ 異議申立・苦情",
+            "process": {
+              "internal": "社内異議申立：appeals@aeonova.com",
+              "external": "EU居住者：現地のデータ保護当局へ連絡",
+              "timeline": "30日以内に回答",
+              "escalation": "未解決の場合のエスカレーション手続きあり"
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
