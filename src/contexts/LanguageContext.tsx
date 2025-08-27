@@ -47,10 +47,18 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    // Check localStorage for saved language
+    // Initialize language from URL ?lang=, else from localStorage
     if (typeof window !== "undefined") {
-      const savedLanguage = localStorage.getItem("language") as Language;
-      if (savedLanguage) {
+      const url = new URL(window.location.href);
+      const urlLang = url.searchParams.get("lang") as Language | null;
+      const savedLanguage = localStorage.getItem("language") as Language | null;
+
+      if (urlLang) {
+        setLanguage(urlLang);
+        try {
+          localStorage.setItem("language", urlLang);
+        } catch {}
+      } else if (savedLanguage) {
         setLanguage(savedLanguage);
       }
     }
