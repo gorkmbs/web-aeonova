@@ -66,18 +66,25 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     // Load messages for current language
+    let isActive = true;
     const loadMessages = async () => {
       setIsLoading(true);
       try {
         const response = await import(`../i18n/messages/${language}.json`);
-        setMessages(response.default);
+        if (isActive) {
+          setMessages(response.default);
+        }
       } catch (error) {
         console.error("Error loading language file:", error);
         // Fallback to English
         const fallback = await import(`../i18n/messages/en.json`);
-        setMessages(fallback.default);
+        if (isActive) {
+          setMessages(fallback.default);
+        }
       }
-      setIsLoading(false);
+      if (isActive) {
+        setIsLoading(false);
+      }
     };
 
     loadMessages();
@@ -86,6 +93,10 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     if (typeof window !== "undefined") {
       localStorage.setItem("language", language);
     }
+
+    return () => {
+      isActive = false;
+    };
   }, [language]);
 
   const t = (key: string): string => {

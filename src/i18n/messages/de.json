@@ -1075,8 +1075,9 @@
                 "deletion": "Automatische Löschung nach 2 Jahren"
               }
             }
-          },
-          "automaticDeletion": {
+          }
+        },
+        "automaticDeletion": {
             "title": "🤖 Automatisierte Datenlöschung",
             "subtitle": "Automatisierte Prozesse",
             "description": "Wir haben Systeme implementiert, um die Löschung gemäß unseren Speicherplänen sicherzustellen:",
@@ -1363,7 +1364,6 @@
               }
             }
           }
-        }
       }
     }
   }

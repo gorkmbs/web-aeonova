@@ -1075,8 +1075,9 @@
                 "deletion": "2 yıl sonra otomatik silinir"
               }
             }
-          },
-          "automaticDeletion": {
+          }
+        },
+        "automaticDeletion": {
             "title": "🤖 Otomatik veri silme",
             "subtitle": "Otomasyon süreçleri",
             "description": "Saklama programlarına uygun silmeyi sağlamak için otomatik sistemler uyguladık:",
@@ -1363,7 +1364,6 @@
               }
             }
           }
-        }
       }
     }
   }
